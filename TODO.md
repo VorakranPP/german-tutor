@@ -2,31 +2,31 @@
 
 ## 🔄 In Progress
 
-- [ ] Set ANTHROPIC_API_KEY and run `translate_vocab.py`
-- [ ] Verify `vocab_translated.json` quality (sample check)
+- [ ] Filter คำศัพท์ by type (noun / verb / other)
 
 ## 📦 Data Pipeline
 
 - [x] Download Goethe B1 Wortliste (`sorted.txt`)
 - [x] Parse txt → JSON (`vocab_raw.json`)
-- [ ] Translate + pronunciation → (`vocab_translated.json`)
+- [x] Translate to Thai → `vocab_translated.json` (2,833/2,833 คำ)
+- [x] Generate B1 example sentences + Thai translation (2,833/2,833 คำ)
 - [ ] Manual QA — spot check 50 random words
-- [ ] Commit final `vocab_translated.json` to repo
+- [x] Commit `vocab_translated.json` to repo
 
 ## 🎨 Frontend — React App
 
 ### Setup
-- [ ] `npm create vite@latest src -- --template react`
-- [ ] Install Zustand, Tailwind CSS
-- [ ] Setup basic routing (React Router)
-- [ ] App shell with 5 tabs: Vocabulary, Grammar, Reading, Speaking, Diary
+- [x] `npm create vite@latest src -- --template react`
+- [x] Install Zustand, Tailwind CSS v4, React Router
+- [x] App shell with 5 tabs: คำศัพท์, ไวยากรณ์, อ่าน, ฝึกพูด, ไดอารี่
+- [x] Dev server รันได้ (Vite 5, Node 20.12.1)
 
 ### Vocabulary Tab
-- [ ] Load vocab JSON
-- [ ] Flashcard component (flip animation)
-- [ ] Spaced repetition logic (level 1–5)
+- [x] Load vocab JSON
+- [x] Flashcard component (flip animation)
+- [x] Spaced repetition logic (level 1–5, persist localStorage)
 - [ ] Filter by type (noun/verb/other)
-- [ ] Progress bar
+- [x] Progress bar
 
 ### Grammar Tab
 - [ ] Topic list (Cases, Tenses, Konjunktiv II, Passive...)

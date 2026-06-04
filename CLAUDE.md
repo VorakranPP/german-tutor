@@ -28,10 +28,11 @@ Vocabulary flashcards, grammar drills, reading, speaking practice, and daily dia
     "type": "noun",
     "plural": "-en",
     "th": "อพาร์ตเมนต์",
-    "pronunciation": "วอ-นุง",
-    "example": ""
+    "example": "Meine Wohnung ist sehr schön.",
+    "example_th": "อพาร์ตเมนต์ของฉันสวยมาก"
   }
   ```
+  Note: verbs have `conjugation` instead of `plural`. `pronunciation` field unused (removed from pipeline).
 
 ## Claude API Usage
 

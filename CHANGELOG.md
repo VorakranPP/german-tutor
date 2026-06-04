@@ -1,9 +1,43 @@
 # CHANGELOG
 
-## [Unreleased]
+## [0.4.0] — 2026-06-04
 
-### In Progress
-- Thai translation + pronunciation for all 2,833 vocab entries
+### Added
+- `src/src/pages/VocabPage.jsx` — Vocabulary Tab with full flashcard UI
+  - Progress bar แสดง x/2833 คำ + จำได้แล้วกี่คำ
+  - Flip card แสดงคำแปลไทย + ตัวอย่างประโยค B1 + คำแปลประโยค
+  - ปุ่ม ✅ รู้แล้ว / ❌ ไม่รู้ พร้อม feedback
+  - หน้าสรุปเมื่อครบรอบ + ปุ่มเริ่มรอบใหม่
+- `src/src/components/Flashcard.jsx` — Flashcard component แสดง type badge, plural/conjugation
+- `src/src/stores/vocabStore.js` — Zustand store สำหรับ spaced repetition
+  - Levels 1–5 per word, persist ผ่าน localStorage
+  - คำ level ต่ำ (ยังไม่รู้) ขึ้นก่อนในคิว
+
+### Fixed
+- Downgraded Vite 8 → 5 เพื่อรองรับ Node.js 20.12.1 (Vite 8 ต้องการ Node 20.19+)
+
+---
+
+## [0.3.0] — 2026-06-04
+
+### Added
+- `scripts/generate_examples.py` — batch generates B1 example sentences + Thai translation via Claude Haiku
+- `vocab_translated.json` now includes `example` (German sentence) and `example_th` (Thai translation) for all 2,833 words
+- React app scaffolded with Vite + React Router + Zustand + Tailwind CSS v4
+- App shell with 5-tab bottom navigation: คำศัพท์, ไวยากรณ์, อ่าน, ฝึกพูด, ไดอารี่
+- Placeholder pages for all 5 tabs
+
+### Fixed
+- `translate_vocab.py`: changed model from `claude-opus-4-6` → `claude-haiku-4-5-20251001` (20x cheaper)
+- `translate_vocab.py`: increased `max_tokens` 1024 → 2048, reduced batch size 50 → 30 to prevent truncation
+- Added resume logic + retry (3 attempts) to both translate and generate_examples scripts
+
+---
+
+## [0.2.0] — 2026-06-04
+
+### Added
+- Thai translation complete: 2,833/2,833 words via `translate_vocab.py`
 
 ---
 
