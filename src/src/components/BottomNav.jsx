@@ -1,11 +1,11 @@
 import { NavLink } from 'react-router-dom'
 
 const tabs = [
-  { to: '/',        icon: '📚', label: 'คำศัพท์' },
-  { to: '/grammar', icon: '✏️', label: 'ไวยากรณ์' },
-  { to: '/reading', icon: '📖', label: 'อ่าน' },
-  { to: '/speaking',icon: '🎤', label: 'ฝึกพูด' },
-  { to: '/diary',   icon: '📝', label: 'ไดอารี่' },
+  { to: '/',        icon: '📚', label: 'Vokabeln' },
+  { to: '/grammar', icon: '✏️', label: 'Grammatik' },
+  { to: '/reading', icon: '📖', label: 'Lesen' },
+  { to: '/speaking',icon: '🎤', label: 'Sprechen' },
+  { to: '/diary',   icon: '📝', label: 'Tagebuch' },
 ]
 
 export default function BottomNav() {
