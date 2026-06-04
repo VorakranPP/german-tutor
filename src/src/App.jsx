@@ -9,13 +9,19 @@ import DiaryPage from './pages/DiaryPage'
 export default function App() {
   return (
     <BrowserRouter>
-      <div className="min-h-screen bg-gray-50 pb-16">
-        <header className="bg-white border-b border-gray-200 px-4 py-3">
+      <div className="min-h-screen pb-16 relative" style={{
+        backgroundImage: 'url(/bg-ge.png)',
+        backgroundSize: '70%',
+        backgroundPosition: 'center 75%',
+        backgroundRepeat: 'no-repeat',
+      }}>
+        <div className="absolute inset-0 bg-white/80 pointer-events-none" />
+        <header className="relative z-10 bg-white/80 backdrop-blur-sm border-b border-gray-200 px-4 py-3">
           <h1 className="text-lg font-bold text-gray-800">🇩🇪 DeutschMeister</h1>
           <p className="text-xs text-gray-400">เตรียมสอบ Goethe B1</p>
         </header>
 
-        <main>
+        <main className="relative z-10">
           <Routes>
             <Route path="/"         element={<VocabPage />} />
             <Route path="/grammar"  element={<GrammarPage />} />

@@ -1,6 +1,19 @@
 import { useState } from 'react'
 
 const TYPE_LABEL = { noun: 'คำนาม', verb: 'กริยา', other: 'อื่นๆ' }
+
+function getFullPlural(de, plural) {
+  if (!plural || plural === '') return null
+  // ดึง base word ออกจาก article
+  let base = de
+  for (const art of ['der ', 'die ', 'das ']) {
+    if (de.toLowerCase().startsWith(art)) { base = de.slice(art.length); break }
+  }
+  if (plural === '-') return `die ${base}`
+  // ตัด - นำหน้าออก แล้วต่อท้าย base
+  const suffix = plural.replace(/^-/, '')
+  return `die ${base}${suffix}`
+}
 const TYPE_COLOR = { noun: 'bg-blue-100 text-blue-700', verb: 'bg-green-100 text-green-700', other: 'bg-gray-100 text-gray-600' }
 
 export default function Flashcard({ word, onCorrect, onWrong }) {
@@ -17,7 +30,7 @@ export default function Flashcard({ word, onCorrect, onWrong }) {
   }
 
   const extra = word.type === 'noun'
-    ? word.plural ? `พหูพจน์: ${word.plural}` : ''
+    ? word.plural ? `พหูพจน์: ${getFullPlural(word.de, word.plural)}` : ''
     : word.conjugation ?? ''
 
   return (

@@ -8,7 +8,7 @@
 
 ## Features
 
-- **คำศัพท์** — Flashcard + Spaced repetition (2,833 คำจาก Goethe B1 Wortliste) พร้อมตัวอย่างประโยค B1 และคำแปลไทย
+- **คำศัพท์** — Flashcard + Spaced repetition (2,833 คำ) + filter CEFR A1/A2/B1 + noun/verb/other พร้อมตัวอย่างประโยค B1
 - **ไวยากรณ์** — กฎภาษาเยอรมันอธิบายเป็นภาษาไทย + แบบฝึกหัด *(เร็วๆ นี้)*
 - **อ่าน** — บทอ่านระดับ B1 สร้างด้วย Claude + คำถามทดสอบความเข้าใจ *(เร็วๆ นี้)*
 - **ฝึกพูด** — พิมพ์ภาษาเยอรมัน Claude แก้ไข grammar *(เร็วๆ นี้)*
@@ -58,11 +58,13 @@ python3 scripts/generate_examples.py
 german-tutor/
 ├── data/
 │   ├── vocab_raw.json          # คำศัพท์ดิบ (ไม่มีคำแปล)
-│   └── vocab_translated.json   # คำศัพท์ครบ (th + example + example_th)
+│   └── vocab_translated.json   # คำศัพท์ครบ (th + example + example_th + cerf)
 ├── scripts/
 │   ├── parse_vocab.py          # แปลง sorted.txt → JSON
 │   ├── translate_vocab.py      # แปลเป็นไทยด้วย Claude Haiku
-│   └── generate_examples.py    # สร้างประโยคตัวอย่าง B1
+│   ├── generate_examples.py    # สร้างประโยคตัวอย่าง B1
+│   ├── fix_examples.py         # regenerate ประโยคที่ไม่มีคำเป้าหมาย
+│   └── fix_cjk_and_levels.py   # แก้ CJK + เพิ่ม CEFR level
 ├── src/                        # React app (Vite)
 │   └── src/
 │       ├── components/         # Flashcard, BottomNav

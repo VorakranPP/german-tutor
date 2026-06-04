@@ -1,13 +1,26 @@
 import { create } from 'zustand'
 import { persist } from 'zustand/middleware'
 
-// สุ่มเรียงคำโดยให้ level ต่ำ (ยังไม่รู้) ขึ้นก่อน
+// จัดกลุ่มตาม level แล้วสุ่มภายในกลุ่ม — level ต่ำขึ้นก่อน แต่ไม่เรียงตาม ID
 function buildQueue(words, levels) {
-  return [...words].sort((a, b) => {
-    const la = levels[a.id] ?? 1
-    const lb = levels[b.id] ?? 1
-    return la - lb
-  })
+  const groups = {}
+  for (const w of words) {
+    const lv = levels[w.id] ?? 1
+    if (!groups[lv]) groups[lv] = []
+    groups[lv].push(w)
+  }
+  const result = []
+  for (let lv = 1; lv <= 5; lv++) {
+    if (!groups[lv]) continue
+    // Fisher-Yates shuffle ภายใน level เดียวกัน
+    const g = [...groups[lv]]
+    for (let i = g.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [g[i], g[j]] = [g[j], g[i]]
+    }
+    result.push(...g)
+  }
+  return result
 }
 
 export const useVocabStore = create(

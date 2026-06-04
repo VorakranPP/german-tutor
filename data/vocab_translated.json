@@ -19,228 +19,228 @@
     "de": "ein-",
     "type": "other",
     "th": "หนึ่ง",
-    "example": "Sie hat einen großen Traum.",
+    "example": "Ich habe einen Plan für das Projekt.",
     "id": "0003",
-    "example_th": "เธอมีความฝันใหญ่"
+    "example_th": "ฉันมีแผนหนึ่งสำหรับโครงการ"
   },
   {
     "de": "haben",
     "conjugation": "haben, hat, hatte, hat gehabt",
     "type": "verb",
     "th": "มี",
-    "example": "Das wird eine interessante Erfahrung.",
+    "example": "Er hat viele Bücher in seinem Zimmer.",
     "id": "0004",
-    "example_th": "นั่นจะเป็นประสบการณ์ที่น่าสนใจ"
+    "example_th": "เขามีหนังสือจำนวนมากในห้องของเขา"
   },
   {
     "de": "werden",
     "conjugation": "werden, wird, wurde, ist geworden",
     "type": "verb",
     "th": "กลาย/จะ",
-    "example": "Das Buch ist von meinem Lehrer.",
+    "example": "Das Wetter wird morgen besser werden.",
     "id": "0005",
-    "example_th": "หนังสือเล่มนี้มาจากครูของฉัน"
+    "example_th": "สภาพอากาศจะดีขึ้นในวันพรุ่งนี้"
   },
   {
     "de": "von",
     "type": "other",
     "th": "จาก",
-    "example": "Ich kann nicht zum Meeting kommen.",
+    "example": "Das Buch ist von meinem Lieblingsautor.",
     "id": "0006",
-    "example_th": "ฉันไม่สามารถมาในการประชุมได้"
+    "example_th": "หนังสือเล่มนี้เขียนโดยผู้เขียนที่ฉันชอบ"
   },
   {
     "de": "nicht",
     "type": "other",
     "th": "ไม่",
-    "example": "Es ist sehr wichtig für dich.",
+    "example": "Ich kann nicht zum Konzert gehen.",
     "id": "0007",
-    "example_th": "มันสำคัญมากสำหรับเธอ"
+    "example_th": "ฉันไม่สามารถไปคอนเสิร์ตได้"
   },
   {
     "de": "es",
     "type": "other",
     "th": "มัน",
-    "example": "Wir arbeiten mit großer Sorgfalt.",
+    "example": "Es ist sehr kalt heute.",
     "id": "0008",
-    "example_th": "เราทำงานด้วยความระมัดระวังอย่างมาก"
+    "example_th": "มันหนาวมากในวันนี้"
   },
   {
     "de": "mit",
     "type": "other",
     "th": "กับ",
-    "example": "Der Tisch steht auf dem Balkon.",
+    "example": "Ich fahre mit meinen Freunden zum See.",
     "id": "0009",
-    "example_th": "โต๊ะวางอยู่บนระเบียง"
+    "example_th": "ฉันไปทะเลสาบกับเพื่อน ๆ ของฉัน"
   },
   {
     "de": "auf",
     "type": "other",
     "th": "บน",
-    "example": "Dieses Geschenk ist für meine Mutter.",
+    "example": "Der Vogel sitzt auf dem Baum.",
     "id": "0010",
-    "example_th": "ของขวัญนี้เป็นสำหรับแม่ของฉัน"
+    "example_th": "นกนั่งอยู่บนต้นไม้"
   },
   {
     "de": "für",
     "type": "other",
     "th": "สำหรับ",
-    "example": "Ich bin müde, aber ich arbeite auch noch weiter.",
+    "example": "Dieses Geschenk ist für dich.",
     "id": "0011",
-    "example_th": "ฉันเหนื่อย แต่ฉันยังคงทำงานต่อไป"
+    "example_th": "ของขวัญนี้สำหรับคุณ"
   },
   {
     "de": "auch",
     "type": "other",
     "th": "ด้วย",
-    "example": "Am Montag gehen wir ins Kino.",
+    "example": "Ich mag Pizza und auch Pasta.",
     "id": "0012",
-    "example_th": "ในวันจันทร์เราไปโรงหนังสือ"
+    "example_th": "ฉันชอบพิซซ่าและพาสต้าด้วย"
   },
   {
     "de": "an",
     "type": "other",
     "th": "ที่",
-    "example": "Ich denke, dass du recht hast.",
+    "example": "Der Film beginnt an diesem Freitag.",
     "id": "0013",
-    "example_th": "ฉันคิดว่าคุณพูดถูก"
+    "example_th": "หนังสิ้นสุดในวันศุกร์นี้"
   },
   {
     "de": "dass",
     "type": "other",
     "th": "ว่า",
-    "example": "Wir fahren zum Meer und bleiben dort.",
+    "example": "Er sagte, dass er morgen kommt.",
     "id": "0014",
-    "example_th": "เราขับรถไปทะเล และอยู่ที่นั่น"
+    "example_th": "เขากล่าวว่าเขาจะมาในวันพรุ่งนี้"
   },
   {
     "de": "zu",
     "type": "other",
     "th": "ถึง",
-    "example": "Sie singt wie ein Vogel.",
+    "example": "Ich muss zu der Arztpraxis gehen.",
     "id": "0015",
-    "example_th": "เธอร้องเพลงเหมือนนก"
+    "example_th": "ฉันต้องไปคลินิกแพทย์"
   },
   {
     "de": "als",
     "type": "other",
     "th": "เหมือน",
-    "example": "So kannst du das Problem lösen.",
+    "example": "Sie arbeitet als Lehrerin in einer Schule.",
     "id": "0016",
-    "example_th": "ด้วยวิธีนี้คุณสามารถแก้ไขปัญหาได้"
+    "example_th": "เธอทำงานเป็นครูในโรงเรียน"
   },
   {
     "de": "können, kann, konnte, hat gekonnt (hat können als Modalverb)",
     "type": "other",
     "th": "สามารถ/ได้",
-    "example": "Bei diesem Wetter bleibe ich zu Hause.",
+    "example": "Kannst du mir helfen, den Koffer zu tragen?",
     "id": "0017",
-    "example_th": "ในสภาพอากาศเช่นนี้ฉันอยู่บ้าน"
+    "example_th": "คุณสามารถช่วยฉันแบกกระเป๋าได้ไหม"
   },
   {
     "de": "dies-",
     "type": "other",
     "th": "นี้",
-    "example": "Das ist eine sehr schöne Stadt.",
+    "example": "Dieser Film ist wirklich interessant.",
     "id": "0018",
-    "example_th": "นี่คือเมืองที่สวยงามมาก"
+    "example_th": "หนังสิ้นนี้ตรงจริงน่าสนใจ"
   },
   {
     "de": "wie",
     "type": "other",
     "th": "อย่างไร",
-    "example": "Das Essen schmeckt gut, aber das Getränk nicht.",
+    "example": "Wie viel kostet das Ticket?",
     "id": "0019",
-    "example_th": "อาหารมีรสชาติดี แต่เครื่องดื่มไม่"
+    "example_th": "ตั๋วราคาเท่าไหร่"
   },
   {
     "de": "so",
     "type": "other",
     "th": "เพื่อให้/ดังนั้น",
-    "example": "Man sagt, dass Deutsch schwierig ist.",
+    "example": "Ich studiere hart, so dass ich gute Noten bekomme.",
     "id": "0020",
-    "example_th": "คนบอกว่าภาษาเยอรมันนั้นยาก"
+    "example_th": "ฉันเรียนหนักเพื่อให้ได้เกรดดี"
   },
   {
     "de": "bei",
     "type": "other",
     "th": "ที่/ในการ",
-    "example": "Ich bin noch nicht fertig mit meinen Hausaufgaben.",
+    "example": "Bei der Besprechung habe ich viel gelernt.",
     "id": "0021",
-    "example_th": "ฉันยังไม่เสร็จการบ้าน"
+    "example_th": "ในการประชุมฉันเรียนรู้มากมาย"
   },
   {
     "de": "sein",
     "conjugation": "sein, ist, war, ist gewesen",
     "type": "verb",
     "th": "เป็น",
-    "example": "Nach dem Unterricht gehen wir nachhause.",
+    "example": "Sein Traum ist es, Arzt zu werden.",
     "id": "0022",
-    "example_th": "หลังเลิกเรียนเรากลับบ้าน"
+    "example_th": "ความฝันของเขาคือการเป็นแพทย์"
   },
   {
     "de": "aber",
     "type": "other",
     "th": "แต่",
-    "example": "Willst du Tee oder Kaffee?",
+    "example": "Ich möchte nach Berlin fahren, aber ich habe keine Zeit.",
     "id": "0023",
-    "example_th": "คุณต้องการชาหรือกาแฟ"
+    "example_th": "ฉันอยากจะไปเบอร์ลิน แต่ฉันไม่มีเวลา"
   },
   {
     "de": "man",
     "type": "other",
     "th": "คน/ใคร",
-    "example": "Alle Schüler müssen diesen Test machen.",
+    "example": "Man kann nicht alles verstehen, wenn man nicht aufpasst.",
     "id": "0024",
-    "example_th": "นักเรียนทั้งหมดต้องสอบแบบทดสอบนี้"
+    "example_th": "คนๆ หนึ่งไม่สามารถเข้าใจทุกอย่างได้ถ้าเขาไม่ระวัง"
   },
   {
     "de": "noch",
     "type": "other",
     "th": "ยัง",
-    "example": "Sie kommt aus Deutschland und spricht Deutsch.",
+    "example": "Ich arbeite noch immer an diesem Projekt.",
     "id": "0025",
-    "example_th": "เธอมาจากเยอรมนี และพูดภาษาเยอรมัน"
+    "example_th": "ฉันยังคงทำงานในโครงการนี้อยู่"
   },
   {
     "de": "nach",
     "type": "other",
     "th": "หลัง/ตามหลัง",
-    "example": "Was möchtest du zum Frühstück essen?",
+    "example": "Nach dem Unterricht gehen wir ins Kino.",
     "id": "0026",
-    "example_th": "คุณต้องการกินอะไรในการเช้า"
+    "example_th": "หลังจากเรียน เราไปดูหนัง"
   },
   {
     "de": "oder",
     "type": "other",
     "th": "หรือ",
-    "example": "Diese Jacke ist alt, aber sie ist noch gut.",
+    "example": "Möchtest du Kaffee oder Tee trinken?",
     "id": "0027",
-    "example_th": "แจ็คเก็ตนี้เก่า แต่ยังใช้ได้ดี"
+    "example_th": "คุณต้องการดื่มกาแฟหรือชา"
   },
   {
     "de": "all-",
     "type": "other",
     "th": "ทั้งหมด",
-    "example": "Ich lerne Deutsch und auch Englisch.",
+    "example": "Alle Studenten müssen ihre Hausaufgaben machen.",
     "id": "0028",
-    "example_th": "ฉันเรียนภาษาเยอรมัน และภาษาอังกฤษด้วย"
+    "example_th": "นักเรียนทั้งหมดต้องทำการบ้าน"
   },
   {
     "de": "aus",
     "type": "other",
     "th": "ออกจาก",
-    "example": "Wie heißt dein bester Freund?",
+    "example": "Mein Freund kommt aus München.",
     "id": "0029",
-    "example_th": "เพื่อนที่ดีที่สุดของคุณชื่ออะไร"
+    "example_th": "เพื่อนของฉันมาจากมิวนิก"
   },
   {
     "de": "was",
     "type": "other",
     "th": "อะไร",
-    "example": "Wir können zusammen ins Restaurant gehen.",
+    "example": "Was ist dein Lieblingsfach in der Schule?",
     "id": "0030",
-    "example_th": "เราสามารถไปร้านอาหารด้วยกันได้"
+    "example_th": "วิชาโปรดของคุณในโรงเรียนคืออะไร"
   },
   {
     "de": "nur",
@@ -255,9 +255,9 @@
     "conjugation": "sagen, sagt, sagte, hat gesagt",
     "type": "verb",
     "th": "พูด/บอก",
-    "example": "Er sagte mir die Wahrheit.",
+    "example": "Der Lehrer sagt, dass wir fleißig lernen sollen.",
     "id": "0032",
-    "example_th": "เขาบอกความจริงให้ฉันฟัง"
+    "example_th": "ครูบอกว่าเราควรเรียนอย่างขยัน"
   },
   {
     "de": "dann",
@@ -279,9 +279,9 @@
     "de": "müssen, muss, musste, hat gemusst (hat müssen als Modalverb)",
     "type": "other",
     "th": "ต้อง/จำเป็น",
-    "example": "Wir mussten lange warten.",
+    "example": "Du musst deine Zähne jeden Tag putzen.",
     "id": "0035",
-    "example_th": "เราต้องรอนานมาก"
+    "example_th": "คุณต้องแปรงฟันทุกวัน"
   },
   {
     "de": "um",
@@ -328,9 +328,9 @@
     "conjugation": "geben, gibt, gab, hat gegeben",
     "type": "verb",
     "th": "ให้",
-    "example": "Gib mir bitte dein Buch.",
+    "example": "Ich gebe dir ein Geschenk zum Geburtstag.",
     "id": "0041",
-    "example_th": "โปรดให้หนังสือของเธอมาให้ฉัน"
+    "example_th": "ฉันให้เธอของขวัญสำหรับวันเกิด"
   },
   {
     "de": "vor",
@@ -360,9 +360,9 @@
     "de": "wollen, will, wollte, hat gewollt (hat wollen als Modalverb)",
     "type": "other",
     "th": "ต้องการ/จะ",
-    "example": "Ich will einen Kaffee trinken.",
+    "example": "Sie will eine erfolgreiche Karriere haben.",
     "id": "0045",
-    "example_th": "ฉันต้องการดื่มกาแฟ"
+    "example_th": "เธออยากจะมีอาชีพที่ประสบความสำเร็จ"
   },
   {
     "de": "machen",
@@ -492,9 +492,9 @@
     "conjugation": "wissen, weiß, wusste, hat gewusst",
     "type": "verb",
     "th": "รู้",
-    "example": "Ich weiß, dass er morgen kommt.",
+    "example": "Ich weiß nicht, wo mein Schlüssel ist.",
     "id": "0061",
-    "example_th": "ฉันรู้ว่าเขาจะมาพรุ่งนี้"
+    "example_th": "ฉันไม่รู้ว่ากุญแจของฉันอยู่ที่ไหน"
   },
   {
     "de": "sehen",
@@ -576,159 +576,159 @@
     "plural": "-en",
     "type": "noun",
     "th": "มนุษย์/คน",
-    "example": "Ich gehe ins Kino, denn ich möchte einen Film sehen.",
+    "example": "Der Mensch braucht Wasser, um zu leben.",
     "id": "0071",
-    "example_th": "ฉันไปโรงภาพยนตร์เพราะฉันอยากดูหนัง"
+    "example_th": "มนุษย์ต้องการน้ำเพื่อที่จะมีชีวิต"
   },
   {
     "de": "denn",
     "type": "other",
     "th": "เพราะว่า",
-    "example": "Zum Beispiel ist Katzen ein beliebtes Haustier.",
+    "example": "Ich bin müde, denn ich habe die ganze Nacht nicht geschlafen.",
     "id": "0072",
-    "example_th": "ตัวอย่างเช่น แมวเป็นสัตว์เลี้ยงที่ได้รับความนิยม"
+    "example_th": "ฉันเหนื่อยเพราะว่าฉันไม่ได้นอนตลอดคืน"
   },
   {
     "de": "das Beispiel",
     "plural": "-e",
     "type": "noun",
     "th": "ตัวอย่าง",
-    "example": "Mit der Zeit werde ich besser Deutsch sprechen.",
+    "example": "Zum Beispiel können wir ins Museum gehen.",
     "id": "0073",
-    "example_th": "เมื่อเวลาผ่านไป ฉันจะพูดภาษาเยอรมันได้ดีขึ้น"
+    "example_th": "ตัวอย่างเช่น เราสามารถไปพิพิธภัณฑ์ได้"
   },
   {
     "de": "die Zeit",
     "plural": "",
     "type": "noun",
     "th": "เวลา",
-    "example": "Wir sind lange Freunde.",
+    "example": "Die Zeit vergeht sehr schnell im Urlaub.",
     "id": "0074",
-    "example_th": "เราเป็นเพื่อนกันมานานแล้ว"
+    "example_th": "เวลาผ่านไปอย่างรวดเร็วในช่วงวันหยุด"
   },
   {
     "de": "lang",
     "type": "other",
     "th": "ยาว/นาน",
-    "example": "Sie lebte in einem kleinen Dorf.",
+    "example": "Ich habe lange in diesem Haus gelebt.",
     "id": "0075",
-    "example_th": "เธออาศัยอยู่ในหมู่บ้านเล็กๆ"
+    "example_th": "ฉันอยู่ในบ้านนี้มาเป็นเวลานาน"
   },
   {
     "de": "leben",
     "conjugation": "leben, lebt, lebte, hat gelebt",
     "type": "verb",
     "th": "มีชีวิต/อยู่",
-    "example": "Die Frau trägt einen roten Mantel.",
+    "example": "Sie leben jetzt in einem neuen Apartment in der Stadt.",
     "id": "0076",
-    "example_th": "ผู้หญิงสวมเสื้อโค้ตสีแดง"
+    "example_th": "พวกเขาอยู่ในอพาร์ตเมนต์ใหม่ในเมืองตอนนี้"
   },
   {
     "de": "die Frau",
     "plural": "-en",
     "type": "noun",
     "th": "ผู้หญิง",
-    "example": "Hast du etwas Interessantes gelernt?",
+    "example": "Die Frau arbeitet als Ärztin in dem großen Krankenhaus.",
     "id": "0077",
-    "example_th": "คุณเรียนรู้สิ่งที่น่าสนใจไหม?"
+    "example_th": "ผู้หญิงคนนั้นทำงานเป็นแพทย์ในโรงพยาบาลขนาดใหญ่"
   },
   {
     "de": "etwas",
     "type": "other",
     "th": "สิ่งหนึ่ง/บางอย่าง",
-    "example": "Ich selbst habe das Problem gelöst.",
+    "example": "Ich möchte dir etwas Wichtiges erzählen.",
     "id": "0078",
-    "example_th": "ตัวฉันเองที่แก้ปัญหานี้"
+    "example_th": "ฉันอยากจะบอกคุณบางสิ่งที่สำคัญ"
   },
   {
     "de": "selbst",
     "type": "other",
     "th": "ตัวเอง",
-    "example": "Es gibt wenig Leute, die das verstehen.",
+    "example": "Er selbst hat das Projekt abgeschlossen.",
     "id": "0079",
-    "example_th": "มีคนไม่กี่คนที่เข้าใจสิ่งนี้"
+    "example_th": "เขาเองเป็นคนจบโครงการนั้น"
   },
   {
     "de": "wenig/wenige",
     "type": "other",
     "th": "น้อย/ไม่กี่",
-    "example": "Ich kann keine gute Lösung finden.",
+    "example": "Es gibt nur wenige Plätze im Restaurant.",
     "id": "0080",
-    "example_th": "ฉันหาวิธีแก้ไขที่ดีไม่ได้"
+    "example_th": "มีที่นั่งเพียงไม่กี่ที่ในร้านอาหาร"
   },
   {
     "de": "finden",
     "conjugation": "finden, findet, fand, hat gefunden",
     "type": "verb",
     "th": "หา",
-    "example": "Wir kämpfen gegen die Ungerechtigkeit.",
+    "example": "Wo kann ich einen guten Arzt finden?",
     "id": "0081",
-    "example_th": "เราสู้ต่อต้านความไม่ยุติธรรม"
+    "example_th": "ฉันจะหาแพทย์ที่ดีได้ที่ไหน"
   },
   {
     "de": "gegen",
     "type": "other",
     "th": "ต่อต้าน/เทียบกับ",
-    "example": "Der Park liegt zwischen dem Bahnhof und der Kirche.",
+    "example": "Sein Team spielte gegen den Meister.",
     "id": "0082",
-    "example_th": "สวนสาธารณะตั้งอยู่ระหว่างสถานีรถไฟและโบสถ์"
+    "example_th": "ทีมของเขาแข่งขันกับแชมป์"
   },
   {
     "de": "zwischen",
     "type": "other",
     "th": "ระหว่าง",
-    "example": "Das Bett liegt in der Ecke des Zimmers.",
+    "example": "Das Dorf liegt zwischen zwei Flüssen.",
     "id": "0083",
-    "example_th": "เตียงนอนวางตัวอยู่มุมของห้อง"
+    "example_th": "หมู่บ้านอยู่ระหว่างแม่น้ำสองสาย"
   },
   {
     "de": "liegen, liegt, lag, hat/ist gelegen",
     "type": "other",
     "th": "นอน/วางตัว/อยู่/นอนอยู่",
-    "example": "Wo ist die Toilette?",
+    "example": "Das alte Buch lag auf dem Tisch.",
     "id": "0084",
-    "example_th": "ห้องน้ำอยู่ที่ไหน?"
+    "example_th": "หนังสือเก่าวางอยู่บนโต๊ะ"
   },
   {
     "de": "wo",
     "type": "other",
     "th": "ที่ไหน",
-    "example": "Es gibt nichts zu essen im Kühlschrank.",
+    "example": "Wo wohnst du?",
     "id": "0085",
-    "example_th": "ไม่มีอะไรให้กินในตู้เย็น"
+    "example_th": "คุณอาศัยอยู่ที่ไหน"
   },
   {
     "de": "nichts",
     "type": "other",
     "th": "ไม่มีอะไร",
-    "example": "Die kleine Katze spielt mit einem Ball.",
+    "example": "Ich habe nichts dagegen.",
     "id": "0086",
-    "example_th": "แมวตัวเล็กเล่นกับลูกบอล"
+    "example_th": "ฉันไม่มีอะไรคัดค้าน"
   },
   {
     "de": "klein",
     "type": "other",
     "th": "เล็ก",
-    "example": "Ich bleibe noch zwei Wochen hier.",
+    "example": "Das kleine Kind spielte im Park.",
     "id": "0087",
-    "example_th": "ฉันจะอยู่ที่นี่อีกสองสัปดาห์"
+    "example_th": "เด็กเล็กคนนั้นเล่นในสวนสาธารณะ"
   },
   {
     "de": "bleiben",
     "conjugation": "bleiben, bleibt, blieb, ist geblieben",
     "type": "verb",
     "th": "อยู่/คงอยู่",
-    "example": "Nun müssen wir das Projekt beenden.",
+    "example": "Sie blieb die ganze Zeit zu Hause.",
     "id": "0088",
-    "example_th": "ตอนนี้เราต้องจบโครงการนี้"
+    "example_th": "เธออยู่บ้านตลอดเวลา"
   },
   {
     "de": "nun",
     "type": "other",
     "th": "ตอนนี้/ในขณะนี้",
-    "example": "Das ist nicht schwierig, sondern sehr leicht.",
+    "example": "Nun müssen wir eine Entscheidung treffen.",
     "id": "0089",
-    "example_th": "นี่ไม่ใช่เรื่องยาก แต่ว่าง่ายมาก"
+    "example_th": "ตอนนี้เราต้องตัดสินใจ"
   },
   {
     "de": "sondern",
@@ -776,9 +776,9 @@
     "conjugation": "tun, tut, tat, hat getan",
     "type": "verb",
     "th": "ทำ",
-    "example": "Was tust du gerade?",
+    "example": "Was tust du am Wochenende?",
     "id": "0095",
-    "example_th": "เธอกำลังทำอะไรอยู่?"
+    "example_th": "คุณทำอะไรในวันหยุดสุดสัปดาห์"
   },
   {
     "de": "einmal",
@@ -850,136 +850,136 @@
     "de": "erst-",
     "type": "other",
     "th": "ครั้งแรก (คำนำหน้า)",
-    "example": "Das Kind spielt im Garten.",
+    "example": "Das war mein erstes Mal in Deutschland.",
     "id": "0104",
-    "example_th": "เด็กเล่นในสวน"
+    "example_th": "นั่นเป็นครั้งแรกที่ฉันไปเยอรมนี"
   },
   {
     "de": "das Kind",
     "plural": "-er",
     "type": "noun",
     "th": "เด็ก",
-    "example": "Welches Land möchtest du besuchen?",
+    "example": "Das Kind fragte seine Mutter viele Fragen.",
     "id": "0105",
-    "example_th": "เธออยากจะไปเยี่ยมประเทศไหน?"
+    "example_th": "เด็กถามแม่ของตัวเองคำถามมากมาย"
   },
   {
     "de": "das Land",
     "plural": "-̈er",
     "type": "noun",
     "th": "ประเทศ",
-    "example": "Ich stelle die Vase auf den Tisch.",
+    "example": "Dieses Land hat eine lange Geschichte.",
     "id": "0106",
-    "example_th": "ฉันวางแจกันไว้บนโต๊ะ"
+    "example_th": "ประเทศนี้มีประวัติศาสตร์ยาวนาน"
   },
   {
     "de": "stellen",
     "conjugation": "stellen, stellt, stellte, hat gestellt",
     "type": "verb",
     "th": "วาง",
-    "example": "Der Lehrer zeigt uns ein Bild.",
+    "example": "Stellen Sie die Vase auf den Schrank!",
     "id": "0107",
-    "example_th": "ครูแสดงรูปภาพให้เราดู"
+    "example_th": "วางแจกันบนตู้สูง"
   },
   {
     "de": "zeigen",
     "conjugation": "zeigen, zeigt, zeigte, hat gezeigt",
     "type": "verb",
     "th": "แสดง",
-    "example": "Natürlich komme ich zur Party!",
+    "example": "Der Lehrer zeigte den Schülern die neue Methode.",
     "id": "0108",
-    "example_th": "แน่นอนว่าฉันจะไปปาร์ตี้!"
+    "example_th": "ครูแสดงวิธีการใหม่ให้นักเรียน"
   },
   {
     "de": "natürlich",
     "type": "other",
     "th": "แน่นอน",
-    "example": "Das alte Haus ist noch sehr schön.",
+    "example": "Natürlich komme ich zu deinem Geburtstag.",
     "id": "0109",
-    "example_th": "บ้านเก่านั้นยังคงสวยงามมาก"
+    "example_th": "แน่นอนว่าฉันจะมาวันเกิดของคุณ"
   },
   {
     "de": "alt",
     "type": "other",
     "th": "เก่า",
-    "example": "Dort gibt es ein sehr gutes Restaurant.",
+    "example": "Diese alt Kirche ist sehr berühmt.",
     "id": "0110",
-    "example_th": "ที่นั่นมีร้านอาหารที่ดีมาก"
+    "example_th": "โบสถ์เก่านี้มีชื่อเสียงมากคะ"
   },
   {
     "de": "dort",
     "type": "other",
     "th": "ที่นั่น",
-    "example": "Diese beiden Bücher sind gleich.",
+    "example": "Das Restaurant liegt dort in der Nähe des Parks.",
     "id": "0111",
-    "example_th": "หนังสือสองเล่มนี้เหมือนกัน"
+    "example_th": "ร้านอาหารนั้นตั้งอยู่ที่นั่นใกล้กับสวนสาธารณะ"
   },
   {
     "de": "gleich",
     "type": "other",
     "th": "เท่ากัน",
-    "example": "Nimm bitte ein Glas Wasser.",
+    "example": "Die Preise sind gleich in beiden Geschäften.",
     "id": "0112",
-    "example_th": "โปรดเอาแก้วน้ำมาหนึ่งแก้ว"
+    "example_th": "ราคาเท่ากันในทั้งสองร้าน"
   },
   {
     "de": "nehmen",
     "conjugation": "nehmen, nimmt, nahm, hat genommen",
     "type": "verb",
     "th": "เอา",
-    "example": "Darfst du heute Abend ausgehen?",
+    "example": "Ich nehme immer den Bus zur Arbeit.",
     "id": "0113",
-    "example_th": "เธอได้รับอนุญาตให้ออกไปคืนนี้ไหม?"
+    "example_th": "ฉันเอารถบัสไปทำงานทุกครั้ง"
   },
   {
     "de": "dürfen, darf, durfte, hat gedurft (hat dürfen als Modalverb)",
     "type": "other",
     "th": "ได้รับอนุญาต",
-    "example": "Diese Information ist sehr wichtig.",
+    "example": "Du darfst hier nicht rauchen.",
     "id": "0114",
-    "example_th": "ข้อมูลนี้สำคัญมาก"
+    "example_th": "คุณไม่ได้รับอนุญาตให้สูบบุหรี่ที่นี่"
   },
   {
     "de": "wichtig",
     "type": "other",
     "th": "สำคัญ",
-    "example": "Vielleicht komme ich morgen zu dir.",
+    "example": "Es ist wichtig, dass du pünktlich kommst.",
     "id": "0115",
-    "example_th": "บางทีฉันอาจจะมาหาเธอพรุ่งนี้"
+    "example_th": "เป็นสิ่งสำคัญที่คุณต้องมาตรงเวลา"
   },
   {
     "de": "vielleicht",
     "type": "other",
     "th": "บางที",
-    "example": "Hörst du die Musik?",
+    "example": "Vielleicht gehen wir morgen ins Kino.",
     "id": "0116",
-    "example_th": "เธอได้ยินดนตรีไหม?"
+    "example_th": "บางทีเรากำลังจะไปโรงภาพยนตร์พรุ่งนี้"
   },
   {
     "de": "hören",
     "conjugation": "hören, hört, hörte, hat gehört",
     "type": "verb",
     "th": "ได้ยิน",
-    "example": "Mein Haus liegt in der Nähe des Parks.",
+    "example": "Ich höre Musik gerne am Abend.",
     "id": "0117",
-    "example_th": "บ้านของฉันอยู่ใกล้กับสวนสาธารณะ"
+    "example_th": "ฉันชอบฟังเพลงในตอนเย็น"
   },
   {
     "de": "das Haus",
     "plural": "-̈er",
     "type": "noun",
     "th": "บ้าน",
-    "example": "Nein, ich mag keinen Kaffee.",
+    "example": "Das Haus hat einen großen Garten.",
     "id": "0118",
-    "example_th": "ไม่ ฉันไม่ชอบกาแฟ"
+    "example_th": "บ้านนั้นมีสวนขนาดใหญ่"
   },
   {
     "de": "nein",
     "type": "other",
     "th": "ไม่",
-    "example": "Wer ist dein bester Freund?",
+    "example": "Nein, ich möchte keinen Kaffee trinken.",
     "id": "0119",
-    "example_th": "ใครคือเพื่อนที่ดีที่สุดของเธอ?"
+    "example_th": "ไม่ ฉันไม่อยากดื่มกาแฟ"
   },
   {
     "de": "wer",
@@ -1002,98 +1002,98 @@
     "conjugation": "fragen, fragt, fragte, hat gefragt",
     "type": "verb",
     "th": "ถาม",
-    "example": "Der Herr hält eine Rede vor der ganzen Welt.",
+    "example": "Warum fragst du mich immer dasselbe?",
     "id": "0122",
-    "example_th": "นายคนนี้ถือบรรยายต่อหน้าโลก"
+    "example_th": "ทำไมคุณถามฉันสิ่งเดียวกันอยู่เรื่อย"
   },
   {
     "de": "der Herr",
     "plural": "-en",
     "type": "noun",
     "th": "นาย",
-    "example": "Ich glaube, dass die Frage sehr wichtig ist.",
+    "example": "Der Herr Schmidt arbeitet bei unserer Firma.",
     "id": "0123",
-    "example_th": "ฉันเชื่อว่าคำถามนี้สำคัญมาก"
+    "example_th": "นายชมิดท์ทำงานที่บริษัทของเรา"
   },
   {
     "de": "halten",
     "conjugation": "halten, hält, hielt, hat gehalten",
     "type": "verb",
     "th": "ถือ",
-    "example": "Das gilt auch für andere Menschen in der Welt.",
+    "example": "Ich halte dieses Buch sehr gerne.",
     "id": "0124",
-    "example_th": "สิ่งนี้ถูกต้องสำหรับคนอื่น ๆ ในโลกด้วย"
+    "example_th": "ฉันชอบถือหนังสือเล่มนี้มาก"
   },
   {
     "de": "glauben",
     "conjugation": "glauben, glaubt, glaubte, hat geglaubt",
     "type": "verb",
     "th": "เชื่อ",
-    "example": "Er spricht gerade mit seinem Freund über etwas Wichtiges.",
+    "example": "Ich glaube, dass es morgen regnen wird.",
     "id": "0125",
-    "example_th": "เขาเพิ่งจะพูดคุยกับเพื่อนของเขาเกี่ยวกับสิ่งสำคัญ"
+    "example_th": "ฉันเชื่อว่าพรุ่งนี้จะมีฝนตก"
   },
   {
     "de": "die Frage",
     "plural": "-n",
     "type": "noun",
     "th": "คำถาม",
-    "example": "Die Folgen seiner Worte führen zu großen Veränderungen.",
+    "example": "Die Frage war sehr schwierig zu beantworten.",
     "id": "0126",
-    "example_th": "ผลจากคำพูดของเขานำไปสู่การเปลี่ยนแปลงครั้งใหญ่"
+    "example_th": "คำถามนั้นยากที่จะตอบ"
   },
   {
     "de": "gelten",
     "conjugation": "gelten, gilt, galt, hat gegolten",
     "type": "verb",
     "th": "ถูกต้อง",
-    "example": "Das bringt mich zu einer wichtigen Frage.",
+    "example": "Diese Regel gilt für alle Schüler.",
     "id": "0127",
-    "example_th": "นั่นนำฉันไปสู่คำถามที่สำคัญ"
+    "example_th": "กฎนี้ถูกต้องสำหรับนักเรียนทั้งหมด"
   },
   {
     "de": "gerade",
     "type": "other",
     "th": "เพิ่งจะ",
-    "example": "Ich halte diese Frage für sehr genau.",
+    "example": "Ich bin gerade aus dem Büro gekommen.",
     "id": "0128",
-    "example_th": "ฉันถือว่าคำถามนี้แม่นยำมาก"
+    "example_th": "ฉันเพิ่งจะมาจากออฟฟิศ"
   },
   {
     "de": "folgen",
     "conjugation": "folgen, folgt, folgte, ist gefolgt",
     "type": "verb",
     "th": "ตามมา",
-    "example": "Er mag es nicht, spät in die Schule zu kommen.",
+    "example": "Seine Argumente folgen einer logischen Struktur.",
     "id": "0129",
-    "example_th": "เขาไม่ชอบที่จะไปโรงเรียนสาย"
+    "example_th": "ข้อโต้แย้งของเขาตามมาด้วยโครงสร้างตรรกะ"
   },
   {
     "de": "sprechen",
     "conjugation": "sprechen, spricht, sprach, hat gesprochen",
     "type": "verb",
     "th": "พูด",
-    "example": "Das ist bereits am Ende des Monats möglich.",
+    "example": "Der Lehrer spricht sehr deutlich mit uns.",
     "id": "0130",
-    "example_th": "นั่นสามารถเป็นไปได้ในจุดสิ้นสุดของเดือนแล้ว"
+    "example_th": "ครูพูดกับเราอย่างชัดเจนมาก"
   },
   {
     "de": "führen",
     "conjugation": "führen, führt, führte, hat geführt",
     "type": "verb",
     "th": "นำ",
-    "example": "Während er spricht, schreibt sie die wichtigen Punkte auf.",
+    "example": "Dieser Weg führt zum Bahnhof.",
     "id": "0131",
-    "example_th": "ขณะที่เขาพูด เธอเขียนจุดสำคัญ"
+    "example_th": "เส้นทางนี้นำไปยังสถานีรถไฟ"
   },
   {
     "de": "bringen",
     "conjugation": "bringen, bringt, brachte, hat gebracht",
     "type": "verb",
     "th": "นำมา",
-    "example": "Dafür braucht man eine sehr starke Hand.",
+    "example": "Kannst du mir das Buch bringen?",
     "id": "0132",
-    "example_th": "เพื่อเหตุนี้ต้องการมือที่แข็งแรงมาก"
+    "example_th": "คุณช่วยนำหนังสือมาให้ฉันได้ไหม"
   },
   {
     "de": "die Welt",
@@ -1108,50 +1108,50 @@
     "de": "gar",
     "type": "other",
     "th": "แม้แต่",
-    "example": "Eigentlich folgen viele Menschen dieser Idee nicht.",
+    "example": "Das ist gar nicht so schwierig, wie du denkst.",
     "id": "0134",
-    "example_th": "อันที่จริง หลายคนไม่ตามมาทีดีของความคิดนี้"
+    "example_th": "มันไม่ยากเลยเท่าที่คุณคิด"
   },
   {
     "de": "eigen-",
     "type": "other",
     "th": "เป็นของตนเอง (คำนำหน้า)",
-    "example": "Er führt seine Hand gerade nach oben.",
+    "example": "Ich habe mein Eigenheim vor fünf Jahren gekauft.",
     "id": "0135",
-    "example_th": "เขานำมือของเขาเพิ่งจะขึ้นไป"
+    "example_th": "ฉันซื้อบ้านของตัวเองเมื่อห้าปีที่แล้ว"
   },
   {
     "de": "genau",
     "type": "other",
     "th": "แม่นยำ",
-    "example": "Das bringt eine sehr wichtige Frage mit sich.",
+    "example": "Kannst du mir genau erklären, was du meinst?",
     "id": "0136",
-    "example_th": "สิ่งนี้นำมาซึ่งคำถามที่สำคัญมาก"
+    "example_th": "คุณช่วยอธิบายอย่างแม่นยำว่าคุณหมายถึงอะไร"
   },
   {
     "de": "mögen",
     "conjugation": "mögen, mag, mochte, hat gemocht",
     "type": "verb",
     "th": "ชอบ",
-    "example": "Ich spreche über die Welt und ihre Probleme.",
+    "example": "Ich mag klassische Musik sehr gerne.",
     "id": "0137",
-    "example_th": "ฉันพูดถึงโลกและปัญหาของมัน"
+    "example_th": "ฉันชอบเพลงคลาสสิกมากเลย"
   },
   {
     "de": "spät",
     "type": "other",
     "th": "สาย",
-    "example": "Diese Regel gilt gar nicht für kleine Kinder.",
+    "example": "Wir kamen spät nach Hause, weil der Zug Verspätung hatte.",
     "id": "0138",
-    "example_th": "กฎนี้แม้แต่ไม่ถูกต้องสำหรับเด็กเล็ก"
+    "example_th": "เรากลับบ้านสายเพราะรถไฟล่าช้า"
   },
   {
     "de": "bereits",
     "type": "other",
     "th": "แล้ว",
-    "example": "Die Antwort ist genau das, was ich brauche.",
+    "example": "Ich habe bereits alle Hausaufgaben gemacht.",
     "id": "0139",
-    "example_th": "คำตอบนั้นแม่นยำคือสิ่งที่ฉันต้องการ"
+    "example_th": "ฉันทำการบ้านเสร็จแล้ว"
   },
   {
     "de": "möglich",
@@ -1189,9 +1189,9 @@
     "de": "richtig",
     "type": "other",
     "th": "ถูกต้อง",
-    "example": "Ich glaube eigentlich nicht an diese Theorie.",
+    "example": "Das ist die richtige Antwort auf deine Frage.",
     "id": "0144",
-    "example_th": "ฉันอันที่จริงไม่เชื่อในทฤษฎีนี้"
+    "example_th": "นั่นคือคำตอบที่ถูกต้องสำหรับคำถามของคุณ"
   },
   {
     "de": "stark",
@@ -1206,44 +1206,44 @@
     "conjugation": "brauchen, braucht, brauchte, hat gebraucht",
     "type": "verb",
     "th": "ต้องการ",
-    "example": "Das folgt aus einer einfachen Logik heraus.",
+    "example": "Du brauchst nicht so viel Geld für dieses Projekt.",
     "id": "0146",
-    "example_th": "นั่นตามมาจากตรรกะง่าย ๆ"
+    "example_th": "คุณไม่ต้องใช้เงินมากขนาดนั้นสำหรับโครงการนี้"
   },
   {
     "de": "die Hand",
     "plural": "-̈e",
     "type": "noun",
     "th": "มือ",
-    "example": "Etwa fünfzig Menschen mögen diesen Plan.",
+    "example": "Sie hob die Hand, um eine Frage zu stellen.",
     "id": "0147",
-    "example_th": "ประมาณห้าสิบคนชอบแผนนี้"
+    "example_th": "เธอยกมือเพื่อถามคำถาม"
   },
   {
     "de": "etwa",
     "type": "other",
     "th": "ประมาณ",
-    "example": "Am Ende sprechen wir alle über dieselbe Welt.",
+    "example": "Das Buch hat etwa 300 Seiten.",
     "id": "0148",
-    "example_th": "ในจุดสิ้นสุด เราทุกคนพูดถึงโลกเดียวกัน"
+    "example_th": "หนังสือเล่มนี้มีประมาณ 300 หน้า"
   },
   {
     "de": "das Ende",
     "plural": "",
     "type": "noun",
     "th": "จุดสิ้นสุด",
-    "example": "Richtig ist, dass man Zeit und Kraft braucht.",
+    "example": "Am Ende des Films beginnt die Musik zu spielen.",
     "id": "0149",
-    "example_th": "ถูกต้องคือต้องการเวลาและแรง"
+    "example_th": "ในตอนจุดสิ้นสุดของภาพยนตร์ เพลงเริ่มเล่น"
   },
   {
     "de": "schreiben",
     "conjugation": "schreiben, schreibt, schrieb, hat geschrieben",
     "type": "verb",
     "th": "เขียน",
-    "example": "Die Hand, die du hältst, ist sehr warm.",
+    "example": "Ich schreibe einen Brief an meinen Freund.",
     "id": "0150",
-    "example_th": "มือที่คุณถือนั้นอบอุ่นมาก"
+    "example_th": "ฉันเขียนจดหมายถึงเพื่อนของฉัน"
   },
   {
     "de": "solch-",
@@ -1282,95 +1282,95 @@
     "de": "wirklich",
     "type": "other",
     "th": "จริงๆ",
-    "example": "Warum spielst du nicht mit uns?",
+    "example": "Das ist wirklich eine interessante Idee!",
     "id": "0155",
-    "example_th": "ทำไมคุณไม่เล่นกับเรา?"
+    "example_th": "นั่นเป็นความคิดที่น่าสนใจจริงๆ"
   },
   {
     "de": "nennen",
     "conjugation": "nennen, nennt, nannte, hat genannt",
     "type": "verb",
     "th": "เรียก",
-    "example": "Er zieht seine Jacke an.",
+    "example": "Wir nennen ihn immer den 'König des Fußballs'.",
     "id": "0156",
-    "example_th": "เขาดึงแจ็คเก็ตของเขาขึ้น"
+    "example_th": "เราเรียกเขาว่า 'พระราชาของฟุตบอล'"
   },
   {
     "de": "warum",
     "type": "other",
     "th": "ทำไม",
-    "example": "Dieses Wort bedeutet etwas ganz anderes.",
+    "example": "Warum hast du dich nicht zur Party gemeldet?",
     "id": "0157",
-    "example_th": "คำนี้มีความหมายต่างไปจากเดิมอย่างสิ้นเชิง"
+    "example_th": "ทำไมคุณถึงไม่รายงานตัวเข้าปาร์ตี้?"
   },
   {
     "de": "ziehen, zieht, zog, hat/ist gezogen",
     "type": "other",
     "th": "ดึง ดึง ดึง ดึงแล้ว",
-    "example": "Die erste Seite des Buches ist sehr interessant.",
+    "example": "Der Wind zieht die Wolken über den Himmel.",
     "id": "0158",
-    "example_th": "หน้าแรกของหนังสือนี้น่าสนใจมาก"
+    "example_th": "ลมดึงเมฆไปทั่วฟ้า"
   },
   {
     "de": "das Wort",
     "plural": "-̈er",
     "type": "noun",
     "th": "คำพูด",
-    "example": "Jeder Teil dieses Projekts ist wichtig.",
+    "example": "Dieses Wort ist schwer auszusprechen.",
     "id": "0159",
-    "example_th": "ทุกส่วนของโครงการนี้มีความสำคัญ"
+    "example_th": "คำนี้ออกเสียงยากมาก"
   },
   {
     "de": "das Wort",
     "plural": "-e",
     "type": "noun",
     "th": "คำพูด",
-    "example": "Die junge Frau arbeitet in einer großen Stadt.",
+    "example": "Das Wort 'Glück' bedeutet viel für mich.",
     "id": "0160",
-    "example_th": "หญิงสาวคนนี้ทำงานในเมืองใหญ่"
+    "example_th": "คำว่า 'ความสุข' มีความหมายมากสำหรับฉัน"
   },
   {
     "de": "eben",
     "type": "other",
     "th": "พอดี",
-    "example": "Wir sind fast fertig mit der Arbeit.",
+    "example": "Eben deshalb sollten wir vorsichtig sein.",
     "id": "0161",
-    "example_th": "เราเกือบจะเสร็จแล้วกับงาน"
+    "example_th": "พอดีเพราะเหตุนี้เราจึงควรระวัง"
   },
   {
     "de": "die Seite",
     "plural": "-n",
     "type": "noun",
     "th": "หน้า",
-    "example": "Der Zug fährt sehr schnell.",
+    "example": "Auf der nächsten Seite findest du mehr Informationen.",
     "id": "0162",
-    "example_th": "รถไฟขับไปอย่างรวดเร็ว"
+    "example_th": "บนหน้าถัดไป คุณจะพบข้อมูลเพิ่มเติม"
   },
   {
     "de": "das Teil",
     "plural": "-e",
     "type": "noun",
     "th": "ส่วน",
-    "example": "Diese Stadt ist wirklich sehr schön.",
+    "example": "Das Teil des Motors ist kaputt und muss repariert werden.",
     "id": "0163",
-    "example_th": "เมืองนี้สวยจริงๆ"
+    "example_th": "ส่วนของมอเตอร์เสีย และต้องซ่อมแซม"
   },
   {
     "de": "der Teil",
     "plural": "-e",
     "type": "noun",
     "th": "ส่วน",
-    "example": "Meine Kinder spielen gerne im Park.",
+    "example": "Der Teil meiner Familie lebt in München.",
     "id": "0164",
-    "example_th": "ลูกๆ ของฉันชอบเล่นในสวนสาธารณะ"
+    "example_th": "ส่วนหนึ่งของครอบครัวของฉันอาศัยอยู่ในมิวนิก"
   },
   {
     "de": "jung",
     "type": "other",
     "th": "หนุ่มสาว",
-    "example": "Das ist zwar schwierig, aber nicht unmöglich.",
+    "example": "Die jungen Menschen in dieser Stadt sind sehr engagiert.",
     "id": "0165",
-    "example_th": "มันก็จริงว่ายาก แต่ไม่เป็นไปไม่ได้"
+    "example_th": "คนหนุ่มสาวในเมืองนี้มีความมุ่งมั่นมาก"
   },
   {
     "de": "fast",
@@ -1384,115 +1384,115 @@
     "de": "schnell",
     "type": "other",
     "th": "เร็ว",
-    "example": "Dieses Problem verstehe ich nicht gut.",
+    "example": "Der Zug fährt sehr schnell über die Autobahn.",
     "id": "0167",
-    "example_th": "ฉันไม่เข้าใจปัญหานี้เท่าไร"
+    "example_th": "รถไฟขับเร็วมากบนทางด่วน"
   },
   {
     "de": "die Stadt",
     "plural": "-̈e",
     "type": "noun",
     "th": "เมือง",
-    "example": "Er bekommt jeden Monat sein Gehalt.",
+    "example": "Die Stadt Berlin hat viele interessante Museen.",
     "id": "0168",
-    "example_th": "เขาได้รับเงินเดือนของเขาทุกเดือน"
+    "example_th": "เมืองเบอร์ลินมีพิพิธภัณฑ์ที่น่าสนใจมากมาย"
   },
   {
     "de": "spielen",
     "conjugation": "spielen, spielt, spielte, hat gespielt",
     "type": "verb",
     "th": "เล่น",
-    "example": "Was meinst du denn damit?",
+    "example": "Kinder spielen gerne im Park.",
     "id": "0169",
-    "example_th": "คุณหมายถึงอะไรกันแน่?"
+    "example_th": "เด็กๆ ชอบเล่นในสวนสาธารณะ"
   },
   {
     "de": "zwar",
     "type": "other",
     "th": "มันก็จริง",
-    "example": "Meine Mutter fährt gerne Auto.",
+    "example": "Das Projekt ist zwar schwierig, aber wir schaffen es.",
     "id": "0170",
-    "example_th": "แม่ของฉันชอบขับรถ"
+    "example_th": "โครงการนั้นมันก็จริงว่ายาก แต่เราทำได้"
   },
   {
     "de": "die Arbeit",
     "plural": "-en",
     "type": "noun",
     "th": "งาน",
-    "example": "Ich kenne diese Person schon lange.",
+    "example": "Die Arbeit am Computer macht mir großen Spaß.",
     "id": "0171",
-    "example_th": "ฉันรู้จักคนนี้มานานแล้ว"
+    "example_th": "การทำงานบนคอมพิวเตอร์ทำให้ฉันสนุกมาก"
   },
   {
     "de": "das Problem",
     "plural": "-e",
     "type": "noun",
     "th": "ปัญหา",
-    "example": "Der Weg zur Schule ist nicht weit.",
+    "example": "Das Problem mit dem Projekt muss schnell gelöst werden.",
     "id": "0172",
-    "example_th": "ทางไปโรงเรียนไม่ไกล"
+    "example_th": "ปัญหาของโครงการต้องแก้ไขได้อย่างรวดเร็ว"
   },
   {
     "de": "(sich) verstehen",
     "conjugation": "(sich) verstehen, versteht, verstand, hat verstanden",
     "type": "verb",
     "th": "เข้าใจ",
-    "example": "Wir möchten weiter nach vorne gehen.",
+    "example": "Ich verstehe nicht, warum er so wütend ist.",
     "id": "0173",
-    "example_th": "เราต้องการจะไปต่อข้างหน้า"
+    "example_th": "ฉันไม่เข้าใจว่าทำไมเขาจึงโกรธ"
   },
   {
     "de": "bekommen",
     "conjugation": "bekommen, bekommt, bekam, hat bekommen",
     "type": "verb",
     "th": "ได้รับ",
-    "example": "Können Sie mir bei dieser Aufgabe helfen?",
+    "example": "Er bekommt jeden Monat ein Gehalt von seiner Arbeit.",
     "id": "0174",
-    "example_th": "คุณช่วยฉันได้ไหมในงานนี้?"
+    "example_th": "เขาได้รับเงินเดือนทุกเดือนจากการทำงาน"
   },
   {
     "de": "meinen",
     "conjugation": "meinen, meint, meinte, hat gemeint",
     "type": "verb",
     "th": "คิด",
-    "example": "Das Buch hat fast fünfhundert Seiten.",
+    "example": "Ich meine, dass wir einen anderen Weg versuchen sollten.",
     "id": "0175",
-    "example_th": "หนังสือนี้มีเกือบห้าร้อยหน้า"
+    "example_th": "ฉันคิดว่าเราควรลองวิธีอื่น"
   },
   {
     "de": "fahren, fährt, fuhr, ist/hat gefahren",
     "type": "other",
     "th": "ขับ ขับ ขับ ขับแล้ว",
-    "example": "Solche Leute nennt man ehrlich.",
+    "example": "Sie fährt jeden Tag mit dem Auto zur Arbeit.",
     "id": "0176",
-    "example_th": "เรียกคนเช่นนั้นว่าซื่อสัตย์"
+    "example_th": "เธอขับรถไปทำงานทุกวัน"
   },
   {
     "de": "kennen",
     "conjugation": "kennen, kennt, kannte, hat gekannt",
     "type": "verb",
     "th": "รู้จัก",
-    "example": "Eben bin ich aus dem Haus gegangen.",
+    "example": "Ich kenne diese Person schon seit zehn Jahren.",
     "id": "0177",
-    "example_th": "พอดีตอนนี้ฉันจึงออกจากบ้าน"
+    "example_th": "ฉันรู้จักคนนี้มาตั้งแต่สิบปีที่แล้ว"
   },
   {
     "de": "die Mutter",
     "plural": "-̈",
     "type": "noun",
     "th": "แม่",
-    "example": "Warum verstehen wir uns nicht?",
+    "example": "Meine Mutter arbeitet als Ärztin in einem großen Krankenhaus.",
     "id": "0178",
-    "example_th": "ทำไมเราถึงไม่เข้าใจกัน?"
+    "example_th": "แม่ของฉันทำงานเป็นแพทย์ในโรงพยาบาลขนาดใหญ่"
   },
   {
     "de": "der Weg",
     "plural": "-e",
     "type": "noun",
     "th": "ทาง",
-    "example": "Die junge Generation spielt viel Online-Spiele.",
+    "example": "Der Weg zur Schule ist nicht sehr lang.",
     "id": "0179",
-    "example_th": "รุ่นหนุ่มสาวเล่นเกมออนไลน์เยอะมาก"
+    "example_th": "ทางไปโรงเรียนไม่ยาวมาก"
   },
   {
     "de": "weiter/weiter-",
@@ -1515,9 +1515,9 @@
     "de": "oft/öfter",
     "type": "other",
     "th": "บ่อย/บ่อยขึ้น",
-    "example": "Ich gehe oft ins Kino.",
+    "example": "Wir gehen oft ins Kino am Wochenende.",
     "id": "0182",
-    "example_th": "ฉันไปโรงภาพยนตร์บ่อย"
+    "example_th": "เราไปโรงหนังบ่อยครั้งในวันสุดสัปดาห์"
   },
   {
     "de": "die Leute (Pl.)",
@@ -1557,9 +1557,9 @@
     "conjugation": "(sich) setzen, setzt, setzte, hat gesetzt",
     "type": "verb",
     "th": "นั่ง",
-    "example": "Bitte setzen Sie sich hin.",
+    "example": "Der Gast setzt sich auf den Stuhl im Wohnzimmer.",
     "id": "0187",
-    "example_th": "โปรดนั่งลง"
+    "example_th": "แขกนั่งลงบนเก้าอี้ในห้องนั่งเล่น"
   },
   {
     "de": "deshalb",
@@ -1732,9 +1732,9 @@
     "conjugation": "laufen, läuft, lief, ist gelaufen",
     "type": "verb",
     "th": "วิ่ง",
-    "example": "Der Athlet läuft schnell.",
+    "example": "Die Kinder laufen schnell zum Spielplatz.",
     "id": "0207",
-    "example_th": "นักกีฬาวิ่งเร็ว"
+    "example_th": "เด็กๆ วิ่งไปที่สวนสนุกอย่างรวดเร็ว"
   },
   {
     "de": "das Bild",
@@ -1775,249 +1775,249 @@
     "de": "schwer",
     "type": "other",
     "th": "หนัก ยาก",
-    "example": "Ich treffe meinen Freund jeden Freitag.",
+    "example": "Diese mathematische Aufgabe ist sehr schwer für mich.",
     "id": "0212",
-    "example_th": "ฉันพบเพื่อนของฉันทุกวันศุกร์"
+    "example_th": "งานคณิตศาสตร์นี้ยากมากสำหรับฉัน"
   },
   {
     "de": "treffen",
     "conjugation": "treffen, trifft, traf, hat getroffen",
     "type": "verb",
     "th": "พบ ชน",
-    "example": "Es gibt verschiedene Arten, dieses Problem zu lösen.",
+    "example": "Ich treffe meine Kollegin jeden Freitag im Café.",
     "id": "0213",
-    "example_th": "มีวิธีต่างๆ ในการแก้ปัญหานี้"
+    "example_th": "ฉันพบเพื่อนร่วมงานของฉันทุกวันศุกร์ในคาเฟ่"
   },
   {
     "de": "die Art",
     "plural": "-en",
     "type": "noun",
     "th": "ลักษณะ วิธี",
-    "example": "Das ist wohl die beste Lösung für uns.",
+    "example": "Die Art, wie er spricht, gefällt mir sehr gut.",
     "id": "0214",
-    "example_th": "นั่นอาจเป็นวิธีแก้ปัญหาที่ดีที่สุดสำหรับเรา"
+    "example_th": "วิธีที่เขาพูดนั้นทำให้ฉันชอบมากเลย"
   },
   {
     "de": "wohl",
     "type": "other",
     "th": "อาจ บางทีอาจ",
-    "example": "Er erzählt immer interessante Geschichten aus seiner Kindheit.",
+    "example": "Das Projekt wird wohl nächste Woche fertig sein.",
     "id": "0215",
-    "example_th": "เขามักจะเล่าเรื่องราวที่น่าสนใจจากวัยเด็กของเขา"
+    "example_th": "โครงการอาจจะเสร็จในสัปดาห์หน้า"
   },
   {
     "de": "die Geschichte",
     "plural": "-n",
     "type": "noun",
     "th": "เรื่องราว ประวัติศาสตร์",
-    "example": "Neue Ideen entstehen oft durch Zusammenarbeit.",
+    "example": "Mein Großvater erzählt gerne Geschichten aus seiner Jugend.",
     "id": "0216",
-    "example_th": "ความคิดใหม่มักเกิดขึ้นจากการทำงานร่วมกัน"
+    "example_th": "ปู่ของฉันชอบเล่าเรื่องราวจากวัยเยาว์ของเขา"
   },
   {
     "de": "erzählen",
     "conjugation": "erzählen, erzählt, erzählte, hat erzählt",
     "type": "verb",
     "th": "เล่าสู่ฟัง บรรยาย",
-    "example": "Ich bin mir sicher, dass er kommt.",
+    "example": "Wie ist diese Idee entstanden?",
     "id": "0217",
-    "example_th": "ฉันแน่ใจว่าเขาจะมา"
+    "example_th": "ความคิดนี้เกิดขึ้นมาได้อย่างไร"
   },
   {
     "de": "entstehen",
     "conjugation": "entstehen, entsteht, entstand, ist entstanden",
     "type": "verb",
     "th": "เกิดขึ้น สร้างสรรค์",
-    "example": "Neben dem Haus steht ein großer Baum.",
+    "example": "Ich bin mir sicher, dass wir die richtige Entscheidung treffen.",
     "id": "0218",
-    "example_th": "ข้างๆ บ้านมีต้นไม้ขนาดใหญ่"
+    "example_th": "ฉันมั่นใจว่าเราจะตัดสินใจที่ถูกต้อง"
   },
   {
     "de": "sicher",
     "type": "other",
     "th": "แน่นอน มั่นใจ",
-    "example": "Sie arbeitet allein in ihrem Büro.",
+    "example": "Neben dem Fenster steht ein großer Schreibtisch.",
     "id": "0219",
-    "example_th": "เธอทำงานคนเดียวในสำนักงานของเธอ"
+    "example_th": "ข้างหน้าต่างมีโต๊ะทำงานขนาดใหญ่"
   },
   {
     "de": "neben",
     "type": "other",
     "th": "ข้าง ถัดจาก",
-    "example": "Die Abbildung zeigt die Struktur des Atoms.",
+    "example": "Allein zu reisen ist manchmal schwierig.",
     "id": "0220",
-    "example_th": "ภาพแสดงโครงสร้างของอะตอม"
+    "example_th": "การเดินทางคนเดียวบางครั้งก็ลำบาก"
   },
   {
     "de": "allein",
     "type": "other",
     "th": "เดียวดาย คนเดียว",
-    "example": "Hinter den Kulissen arbeiten viele Menschen.",
+    "example": "Die Abbildung im Buch zeigt die historische Entwicklung.",
     "id": "0221",
-    "example_th": "เบื้องหลังของฉากมีคนจำนวนมากทำงาน"
+    "example_th": "ภาพในหนังสือแสดงการพัฒนาทางประวัติศาสตร์"
   },
   {
     "de": "die Abbildung",
     "plural": "-en",
     "type": "noun",
     "th": "ภาพ รูปภาพ",
-    "example": "Diese Musik gefällt mir besonders gut.",
+    "example": "Hinter der Tür versteckt sich eine Überraschung.",
     "id": "0222",
-    "example_th": "เพลงนี้ดีมากโดยเฉพาะ"
+    "example_th": "เบื้องหลังประตูมีสิ่งที่น่าประหลาดใจซ่อนอยู่"
   },
   {
     "de": "hinter/hinter-",
     "type": "other",
     "th": "ข้างหลัง เบื้องหลัง",
-    "example": "Er trägt einen eleganten Anzug zur Party.",
+    "example": "Besonders in den Sommermonaten ist das Wetter schön.",
     "id": "0223",
-    "example_th": "เขาสวมชุดสุดหรูไปงานปาร์ตี้"
+    "example_th": "โดยเฉพาะในช่วงเดือนฤดูร้อนอากาศจึงสวยงาม"
   },
   {
     "de": "besonders",
     "type": "other",
     "th": "โดยเฉพาะ อย่างยิ่ง",
-    "example": "Das ist kaum zu glauben!",
+    "example": "Die Frau trägt einen eleganten roten Mantel.",
     "id": "0224",
-    "example_th": "แทบจะเชื่อได้ยากเลย"
+    "example_th": "ผู้หญิงสวมเสื้อโค้ทแดงสง่างาม"
   },
   {
     "de": "tragen",
     "conjugation": "tragen, trägt, trug, hat getragen",
     "type": "verb",
     "th": "สวม แบก ถือ",
-    "example": "Mein bester Freund hilft mir immer.",
+    "example": "Kaum hatte er die Tür geöffnet, rannte die Katze hinaus.",
     "id": "0225",
-    "example_th": "เพื่อนที่ดีที่สุดของฉันช่วยเหลือฉันเสมอ"
+    "example_th": "เพิ่งเปิดประตูแค่นั้นแมวก็วิ่งออกไปแล้ว"
   },
   {
     "de": "kaum",
     "type": "other",
     "th": "แทบจะ ยากที่จะ",
-    "example": "Der Himmel scheint heute besonders blau.",
+    "example": "Mein Freund hat mir ein interessantes Buch empfohlen.",
     "id": "0226",
-    "example_th": "ท้องฟ้าดูสีน้ำเงินโดยเฉพาะวันนี้"
+    "example_th": "เพื่อนของฉันแนะนำหนังสือที่น่าสนใจให้ฉัน"
   },
   {
     "de": "der Freund",
     "plural": "-e",
     "type": "noun",
     "th": "เพื่อน",
-    "example": "Eine Stunde später kam er endlich an.",
+    "example": "Diese Lösung scheint am einfachsten zu sein.",
     "id": "0227",
-    "example_th": "หลังจากหนึ่งชั่วโมงเขาก็มาถึงในที่สุด"
+    "example_th": "วิธีแก้ไขนี้ดูเหมือนจะง่ายที่สุด"
   },
   {
     "de": "scheinen",
     "conjugation": "scheinen, scheint, schien, hat geschienen",
     "type": "verb",
     "th": "ดูเหมือน ปรากฏว่า",
-    "example": "Sie sieht sehr müde aus heute.",
+    "example": "Die Stunde der Wahrheit ist gekommen.",
     "id": "0228",
-    "example_th": "เธอดูเหนื่อยมากวันนี้"
+    "example_th": "ชั่วโมงแห่งความจริงได้มาถึงแล้ว"
   },
   {
     "de": "die Stunde",
     "plural": "-n",
     "type": "noun",
     "th": "ชั่วโมง",
-    "example": "Ich lerne gerne neue Sprachen.",
+    "example": "Der Himmel sieht heute sehr dunkel aus.",
     "id": "0229",
-    "example_th": "ฉันชอบเรียนภาษาใหม่ๆ"
+    "example_th": "ท้องฟ้าวันนี้มีลักษณะเข้มมืดมาก"
   },
   {
     "de": "aussehen",
     "conjugation": "aussehen, sieht aus, sah aus, hat ausgesehen",
     "type": "verb",
     "th": "ดูเหมือน มีลักษณะ",
-    "example": "Das ist überhaupt nicht fair!",
+    "example": "Ich gerne esse Pizza mit meiner Familie.",
     "id": "0230",
-    "example_th": "นั่นไม่ยุติธรรมเลยแล้ว"
+    "example_th": "ฉันชอบกินพิซซ่ากับครอบครัวของฉัน"
   },
   {
     "de": "gern/gerne",
     "type": "other",
     "th": "ชอบ ด้วยความยินดี",
-    "example": "Das wird bestimmt ein großer Erfolg.",
+    "example": "Er hat überhaupt keine Ahnung von Musik.",
     "id": "0231",
-    "example_th": "นั่นจะประสบความสำเร็จอย่างแน่นอน"
+    "example_th": "เขาไม่รู้เรื่องดนตรีเลยแม้แต่น้อย"
   },
   {
     "de": "überhaupt",
     "type": "other",
     "th": "เลย ทั้งนั้น",
-    "example": "Der Professor erklärt die Theorie sehr gut.",
+    "example": "Die beiden Probleme sind überhaupt nicht vergleichbar.",
     "id": "0232",
-    "example_th": "ศาสตราจารย์อธิบายทฤษฎีได้ดีมาก"
+    "example_th": "ปัญหาทั้งสองนั้นไม่สามารถเปรียบเทียบได้เลย"
   },
   {
     "de": "bestimmt",
     "type": "other",
     "th": "แน่นอน กำหนด",
-    "example": "Er schafft es, alle Ziele zu erreichen.",
+    "example": "Es ist bestimmt wichtig, dass du deine Hausaufgaben machst.",
     "id": "0233",
-    "example_th": "เขาสามารถบรรลุเป้าหมายทั้งหมด"
+    "example_th": "แน่นอนว่า การทำการบ้านของคุณเป็นสิ่งสำคัญ"
   },
   {
     "de": "der Professor",
     "plural": "-en die Professorin",
     "type": "noun",
     "th": "ศาสตราจารย์",
-    "example": "Damals war die Situation ganz anders.",
+    "example": "Der Professor hat uns eine interessante Frage gestellt.",
     "id": "0234",
-    "example_th": "ในสมัยนั้นสถานการณ์ต่างออกไปโดยสิ้นเชิง"
+    "example_th": "ศาสตราจารย์ได้ถามคำถามที่น่าสนใจให้เรา"
   },
   {
     "de": "schaffen",
     "conjugation": "schaffen, schafft, schaffte, hat geschafft",
     "type": "verb",
     "th": "สร้างสรรค์ สำเร็จ",
-    "example": "Ich erhalte jeden Monat einen Brief von ihr.",
+    "example": "Mit harter Arbeit können wir viel schaffen.",
     "id": "0235",
-    "example_th": "ฉันได้รับจดหมายจากเธอทุกเดือน"
+    "example_th": "ด้วยการทำงานหนัก เราสามารถสำเร็จมากมาย"
   },
   {
     "de": "damals",
     "type": "other",
     "th": "ในสมัยนั้น เมื่อก่อน",
-    "example": "Wir lernen Deutsch schon seit drei Jahren.",
+    "example": "Damals war das Leben ganz anders als heute.",
     "id": "0236",
-    "example_th": "เราเรียนภาษาเยอรมันมาแล้วสามปี"
+    "example_th": "ในสมัยนั้น ชีวิตแตกต่างจากวันนี้มาก"
   },
   {
     "de": "erhalten",
     "conjugation": "erhalten, erhält, erhielt, hat erhalten",
     "type": "verb",
     "th": "ได้รับ เก็บรักษา",
-    "example": "Am Sonntag bin ich endlich frei.",
+    "example": "Ich habe einen Brief von meinem Freund erhalten.",
     "id": "0237",
-    "example_th": "วันอาทิตย์ฉันว่างจากการทำงานในที่สุด"
+    "example_th": "ฉันได้รับจดหมายจากเพื่อนของฉัน"
   },
   {
     "de": "lernen",
     "conjugation": "lernen, lernt, lernte, hat gelernt",
     "type": "verb",
     "th": "เรียนรู้ ศึกษา",
-    "example": "Der Wert dieses Kunstwerks ist sehr hoch.",
+    "example": "Wir müssen viel lernen, um erfolgreich zu sein.",
     "id": "0238",
-    "example_th": "มูลค่าของงานศิลปะชิ้นนี้สูงมาก"
+    "example_th": "เราต้องเรียนรู้มากเพื่อประสบความสำเร็จ"
   },
   {
     "de": "frei",
     "type": "other",
     "th": "อิสระ ว่างเปล่า",
-    "example": "Das Buch erzählt die Geschichte eines Krieges.",
+    "example": "Am Wochenende habe ich endlich frei und kann mich ausruhen.",
     "id": "0239",
-    "example_th": "หนังสือเล่มนี้เล่าเรื่องราวของสงครามประวัติศาสตร์"
+    "example_th": "ในวันหยุดสุดสัปดาห์ ฉันว่างเปล่าและสามารถพักผ่อน"
   },
   {
     "de": "der Wert",
     "plural": "-e",
     "type": "noun",
     "th": "มูลค่า ค่า",
-    "example": "Viele neue Künstler entstehen in dieser Stadt.",
+    "example": "Der Wert dieser Arbeit ist größer, als du denkst.",
     "id": "0240",
-    "example_th": "ศิลปินใหม่จำนวนมากเกิดขึ้นในเมืองนี้"
+    "example_th": "มูลค่าของงานนี้มากกว่าที่คุณคิด"
   },
   {
     "de": "suchen",
@@ -2291,251 +2291,251 @@
     "plural": "-e",
     "type": "noun",
     "th": "ราคา",
-    "example": "Sonst hätte ich dir helfen können.",
+    "example": "Der Preis dieses Buches ist sehr günstig.",
     "id": "0272",
-    "example_th": "มิฉะนั้น ฉันก็จะสามารถช่วยคุณได้"
+    "example_th": "ราคาของหนังสือนี้ถูกมากเลย"
   },
   {
     "de": "sonst",
     "type": "other",
     "th": "นอกจากนี้/มิฉะนั้น",
-    "example": "Der Staat unterstützt die Entwicklung dieses Bereichs.",
+    "example": "Du musst dich beeilen, sonst kommst du zu spät.",
     "id": "0273",
-    "example_th": "รัฐสนับสนุนการพัฒนาในพื้นที่นี้"
+    "example_th": "คุณต้องรีบด้วน มิฉะนั้นคุณจะมาสาย"
   },
   {
     "de": "der Staat",
     "plural": "-en",
     "type": "noun",
     "th": "รัฐ",
-    "example": "Tatsächlich bin ich anderer Meinung.",
+    "example": "Der Staat sollte mehr für die Bildung ausgeben.",
     "id": "0274",
-    "example_th": "จริง ๆ แล้ว ฉันมีความเห็นที่แตกต่าง"
+    "example_th": "รัฐควรจ่ายเงินมากขึ้นสำหรับการศึกษา"
   },
   {
     "de": "helfen",
     "conjugation": "helfen, hilft, half, hat geholfen",
     "type": "verb",
     "th": "ช่วย",
-    "example": "An diesem Ort haben wir uns kennengelernt.",
+    "example": "Kannst du mir bei diesem Problem helfen?",
     "id": "0275",
-    "example_th": "ที่สถานที่นี้เราได้รู้จักกัน"
+    "example_th": "คุณช่วยฉันแก้ปัญหานี้ได้ไหม"
   },
   {
     "de": "der Bereich",
     "plural": "-e",
     "type": "noun",
     "th": "ขอบเขต/พื้นที่",
-    "example": "Er ist die einzige Person, die mir helfen kann.",
+    "example": "In diesem Bereich gibt es viele Möglichkeiten.",
     "id": "0276",
-    "example_th": "เขาเป็นบุคคลเพียงคนเดียวที่สามารถช่วยฉันได้"
+    "example_th": "ในขอบเขตนี้มีโอกาสมากมาย"
   },
   {
     "de": "tatsächlich",
     "type": "other",
     "th": "จริง ๆ",
-    "example": "Ihre Meinungen sind sehr unterschiedlich.",
+    "example": "Tatsächlich ist dieses Projekt schwieriger als erwartet.",
     "id": "0277",
-    "example_th": "ความเห็นของพวกเขาแตกต่างกันมาก"
+    "example_th": "จริง ๆ แล้ว โครงการนี้ยากกว่าที่คาดไว้"
   },
   {
     "de": "der Ort",
     "plural": "-e",
     "type": "noun",
     "th": "สถานที่",
-    "example": "Ich sehe ein glückliches Gesicht vor mir.",
+    "example": "Der Ort, wo wir uns treffen, ist sehr schön.",
     "id": "0278",
-    "example_th": "ฉันเห็นใบหน้าที่มีความสุขอยู่ตรงหน้า"
+    "example_th": "สถานที่ที่เราพบกันนั้นสวยมาก"
   },
   {
     "de": "einzig-",
     "type": "other",
     "th": "เพียง/เท่านั้น",
-    "example": "Die Entwicklung der Technologie ist beeindruckend.",
+    "example": "Das ist die einzige Lösung für dieses Problem.",
     "id": "0279",
-    "example_th": "การพัฒนาของเทคโนโลยีนั้นน่าประทับใจ"
+    "example_th": "นี่คือวิธีแก้ปัญหาเพียงวิธีเดียว"
   },
   {
     "de": "die Stelle",
     "plural": "-n",
     "type": "noun",
     "th": "ตำแหน่ง/สถานที่",
-    "example": "Meine Uhr zeigt bereits zehn Uhr.",
+    "example": "Er hat die beste Stelle in der Firma bekommen.",
     "id": "0280",
-    "example_th": "นาฬิกาของฉันแสดงเวลาสิบนาฬิกาแล้ว"
+    "example_th": "เขาได้ตำแหน่งที่ดีที่สุดในบริษัท"
   },
   {
     "de": "unterschiedlich",
     "type": "other",
     "th": "แตกต่าง",
-    "example": "Es gibt mehrere Gründe für diese Entscheidung.",
+    "example": "Die unterschiedlichen Kulturen bereichern unsere Gesellschaft.",
     "id": "0281",
-    "example_th": "มีเหตุผลหลายประการสำหรับการตัดสินใจนี้"
+    "example_th": "วัฒนธรรมที่แตกต่างกันทำให้สังคมของเราร่ำรวย"
   },
   {
     "de": "das Gesicht",
     "plural": "-er",
     "type": "noun",
     "th": "ใบหน้า",
-    "example": "Bitte schließ die Tür, wenn du gehst.",
+    "example": "Sein Gesicht zeigte, dass er nicht glücklich war.",
     "id": "0282",
-    "example_th": "โปรดปิดประตูเมื่อคุณไป"
+    "example_th": "ใบหน้าของเขาแสดงว่าเขาไม่มีความสุข"
   },
   {
     "de": "die Entwicklung",
     "plural": "-en",
     "type": "noun",
     "th": "การพัฒนา",
-    "example": "Schließlich haben wir unsere Ziele erreicht.",
+    "example": "Die Entwicklung der Technologie hat unser Leben verändert.",
     "id": "0283",
-    "example_th": "ในที่สุด เราก็บรรลุเป้าหมายของเรา"
+    "example_th": "การพัฒนาของเทคโนโลยีได้เปลี่ยนชีวิตของเรา"
   },
   {
     "de": "die Uhr",
     "plural": "-en",
     "type": "noun",
     "th": "นาฬิกา",
-    "example": "Leg dein Buch auf den Tisch.",
+    "example": "Die Uhr an der Wand zeigt bereits neun Uhr morgens.",
     "id": "0284",
-    "example_th": "วางหนังสือของคุณบนโต๊ะ"
+    "example_th": "นาฬิกาบนผนังแสดงเวลา 9 โมงเช้าแล้ว"
   },
   {
     "de": "mehrere",
     "type": "other",
     "th": "หลาย ๆ",
-    "example": "Er sprach direkt mit dem Chef.",
+    "example": "Mehrere Studenten haben die Prüfung bestanden.",
     "id": "0285",
-    "example_th": "เขาพูดโดยตรงกับหัวหน้า"
+    "example_th": "นักเรียนหลาย ๆ คนสอบผ่านแล้ว"
   },
   {
     "de": "schließen",
     "conjugation": "schließen, schließt, schloss, hat geschlossen",
     "type": "verb",
     "th": "ปิด",
-    "example": "Daher müssen wir schneller arbeiten.",
+    "example": "Bitte schließe die Tür, wenn du das Zimmer verlässt.",
     "id": "0286",
-    "example_th": "ดังนั้น เราต้องทำงานให้เร็วขึ้น"
+    "example_th": "โปรดปิดประตูเมื่อคุณออกจากห้อง"
   },
   {
     "de": "schließlich",
     "type": "other",
     "th": "ในที่สุด",
-    "example": "Das Fenster steht offen.",
+    "example": "Nach langen Diskussionen schließlich einigten sie sich auf einen Kompromiss.",
     "id": "0287",
-    "example_th": "หน้าต่างเปิดอยู่"
+    "example_th": "หลังจากอภิปรายยาวนาน ในที่สุดพวกเขาก็ตกลงหาข้อยุติได้"
   },
   {
     "de": "legen",
     "conjugation": "legen, legt, legte, hat gelegt",
     "type": "verb",
     "th": "วาง",
-    "example": "Ich erkannte ihn sofort.",
+    "example": "Ich lege meine Schlüssel immer auf den Tisch.",
     "id": "0288",
-    "example_th": "ฉันรู้จำเขาทันที"
+    "example_th": "ฉันมักจะวางกุญแจของฉันไว้บนโต๊ะ"
   },
   {
     "de": "direkt",
     "type": "other",
     "th": "โดยตรง",
-    "example": "Jede Person hat unterschiedliche Bedürfnisse.",
+    "example": "Er kommuniziert direkt mit dem Chef über seine Probleme.",
     "id": "0289",
-    "example_th": "แต่ละบุคคลมีความต้องการที่แตกต่างกัน"
+    "example_th": "เขาติดต่อสื่สารโดยตรงกับหัวหน้าเกี่ยวกับปัญหาของเขา"
   },
   {
     "de": "daher",
     "type": "other",
     "th": "ดังนั้น",
-    "example": "In diesem Moment verstand ich alles.",
+    "example": "Das Wetter ist schlecht, daher bleiben wir zu Hause.",
     "id": "0290",
-    "example_th": "ในช่วงเวลานั้น ฉันเข้าใจทุกอย่าง"
+    "example_th": "อากาศแย่ ดังนั้นเราจึงอยู่ที่บ้าน"
   },
   {
     "de": "offen",
     "type": "other",
     "th": "เปิด",
-    "example": "Die Schule hat lange Ferien im Sommer.",
+    "example": "Das Fenster bleibt offen, damit frische Luft hereinkommt.",
     "id": "0291",
-    "example_th": "โรงเรียนมีวันหยุดยาวในฤดูร้อน"
+    "example_th": "หน้าต่างยังคงเปิดอยู่เพื่อให้อากาศบริสุทธิ์เข้ามา"
   },
   {
     "de": "erkennen",
     "conjugation": "erkennen, erkennt, erkannte, hat erkannt",
     "type": "verb",
     "th": "รู้จำ/สำหรับ",
-    "example": "Sein Auto ist sehr alt geworden.",
+    "example": "Ich erkenne dich sofort an deiner Stimme.",
     "id": "0292",
-    "example_th": "รถยนต์ของเขาเก่าไปแล้ว"
+    "example_th": "ฉันรู้จำคุณทันทีจากเสียงของคุณ"
   },
   {
     "de": "die Person",
     "plural": "-en",
     "type": "noun",
     "th": "บุคคล",
-    "example": "Niemand hat die Wahrheit gewusst.",
+    "example": "Die Person, die du suchst, ist nicht hier.",
     "id": "0293",
-    "example_th": "ไม่มีใครรู้ความจริง"
+    "example_th": "บุคคลที่คุณกำลังหาไม่อยู่ที่นี่"
   },
   {
     "de": "der Moment",
     "plural": "-e",
     "type": "noun",
     "th": "ช่วงเวลา",
-    "example": "Die Gesellschaft verändert sich ständig.",
+    "example": "In dem Moment, als ich ankam, ging sie weg.",
     "id": "0294",
-    "example_th": "สังคมเปลี่ยนแปลงตลอดเวลา"
+    "example_th": "ในช่วงเวลาที่ฉันมาถึง เธอก็ไปแล้ว"
   },
   {
     "de": "die Schule",
     "plural": "-n",
     "type": "noun",
     "th": "โรงเรียน",
-    "example": "Ich warte schon lange auf deine Antwort.",
+    "example": "Die Schule hat lange Sommerferien.",
     "id": "0295",
-    "example_th": "ฉันรอคำตอบของคุณมาตั้งนาน"
+    "example_th": "โรงเรียนมีวันหยุดฤดูร้อนที่ยาวนาน"
   },
   {
     "de": "das Auto",
     "plural": "-s",
     "type": "noun",
     "th": "รถยนต์",
-    "example": "Stell dir vor, wie schön das wäre.",
+    "example": "Das Auto steht in der Garage.",
     "id": "0296",
-    "example_th": "จินตนาการว่ามันจะสวยงามแค่ไหน"
+    "example_th": "รถยนต์จอดอยู่ในโรงแม่ม"
   },
   {
     "de": "niemand",
     "type": "other",
     "th": "ไม่มีใคร",
-    "example": "Mehrere Studien zeigen diesen Trend.",
+    "example": "Niemand hat die Antwort auf diese Frage.",
     "id": "0297",
-    "example_th": "การศึกษาหลายชิ้นแสดงแนวโน้มนี้"
+    "example_th": "ไม่มีใครรู้คำตอบของคำถามนี้"
   },
   {
     "de": "die Gesellschaft",
     "plural": "-en",
     "type": "noun",
     "th": "สังคม",
-    "example": "Die einzige Lösung ist, offen zu kommunizieren.",
+    "example": "Die Gesellschaft verändert sich durch neue Technologien.",
     "id": "0298",
-    "example_th": "วิธีแก้ปัญหาเพียงวิธีเดียวคือการสื่อสารแบบเปิด"
+    "example_th": "สังคมเปลี่ยนแปลงผ่านเทคโนโลยีใหม่"
   },
   {
     "de": "warten",
     "conjugation": "warten, wartet, wartete, hat gewartet",
     "type": "verb",
     "th": "รอ",
-    "example": "Zwischen diesen beiden Orten liegen hundert Kilometer.",
+    "example": "Wir warten auf den Bus an der Haltestelle.",
     "id": "0299",
-    "example_th": "ระหว่างสถานที่ทั้งสองนี้มีระยะทางหนึ่งร้อยกิโลเมตร"
+    "example_th": "เรารอรถเมล์ที่ป้ายจอด"
   },
   {
     "de": "(sich) vorstellen",
     "conjugation": "(sich) vorstellen, stellt vor, stellte vor, hat vorgestellt",
     "type": "verb",
     "th": "นึก/จินตนาการ",
-    "example": "Der Baum ist während des Sturms gefallen.",
+    "example": "Stell dir vor, du könntest fliegen!",
     "id": "0300",
-    "example_th": "ต้นไม้ล้มลงระหว่างพายุ"
+    "example_th": "ลองจินตนาการดูสิว่าคุณหากได้บิน!"
   },
   {
     "de": "früh",
@@ -2549,9 +2549,9 @@
     "de": "treten, tritt, trat, hat/ist getreten",
     "type": "other",
     "th": "�踏, เหย踏, เดิน, ก้าว",
-    "example": "Er tritt vorsichtig auf die Straße.",
+    "example": "Er trat fest auf den Boden und schrie laut.",
     "id": "0302",
-    "example_th": "เขาเดินเหยียบถนนอย่างระมัดระวัง"
+    "example_th": "เขาเหย踏พื้นอย่างแข็งแรงและร้องลั่น"
   },
   {
     "de": "reden",
@@ -2585,9 +2585,9 @@
     "conjugation": "gewinnen, gewinnt, gewann, hat gewonnen",
     "type": "verb",
     "th": "ชนะ, วิชัย",
-    "example": "Unsere Mannschaft hat das Spiel gewonnen.",
+    "example": "Unser Team gewann das Fußballspiel mit 3:1.",
     "id": "0306",
-    "example_th": "ทีมของเราชนะเกมนั้น"
+    "example_th": "ทีมของเราชนะเกมฟุตบอล 3:1"
   },
   {
     "de": "zunächst",
@@ -2822,9 +2822,9 @@
     "conjugation": "darstellen, stellt dar, stellte dar, hat dargestellt",
     "type": "verb",
     "th": "แสดง/นำเสนอ",
-    "example": "Der Künstler stellt seine neuen Werke in der Galerie dar.",
+    "example": "Der Film stellt das Leben der Künstler dar.",
     "id": "0333",
-    "example_th": "ศิลปินนำเสนอผลงานใหม่ของเขาในแกลเลอรี่"
+    "example_th": "หนังแสดงนำเสนอชีวิตของศิลปิน"
   },
   {
     "de": "der Raum",
@@ -3227,9 +3227,9 @@
     "conjugation": "einsetzen, setzt ein, setzte ein, hat eingesetzt",
     "type": "verb",
     "th": "ใช้",
-    "example": "Der Arzt setzte alle seine Fähigkeiten ein.",
+    "example": "Der Lehrer setzte neue Methoden im Unterricht ein.",
     "id": "0380",
-    "example_th": "แพทย์ใช้ความสามารถทั้งหมดของเขา"
+    "example_th": "ครูใช้วิธีการใหม่ในการสอน"
   },
   {
     "de": "das Gefühl",
@@ -3287,9 +3287,9 @@
     "conjugation": "wachsen, wächst, wuchs, ist gewachsen",
     "type": "verb",
     "th": "เติบโต",
-    "example": "Die Pflanze wächst schnell in dieser Umgebung.",
+    "example": "Die Pflanze ist schnell gewachsen.",
     "id": "0387",
-    "example_th": "พืชเติบโตอย่างรวดเร็วในสภาพแวดล้อมนี้"
+    "example_th": "พืชเติบโตได้อย่างรวดเร็ว"
   },
   {
     "de": "bitte",
@@ -3381,9 +3381,9 @@
     "conjugation": "ausgehen, geht aus, ging aus, ist ausgegangen",
     "type": "verb",
     "th": "ออกแบบ",
-    "example": "Der Plan geht davon aus, dass wir genug Zeit haben.",
+    "example": "Das Projekt geht von einer neuen Idee aus.",
     "id": "0398",
-    "example_th": "แผนดำเนินการสมมติว่าเรามีเวลาเพียงพอ"
+    "example_th": "โครงการออกแบบจากแนวความคิดใหม่"
   },
   {
     "de": "die Bedeutung",
@@ -3468,9 +3468,9 @@
     "conjugation": "anfangen, fängt an, fing an, hat angefangen",
     "type": "verb",
     "th": "เริ่มต้น",
-    "example": "Der Film fängt um acht Uhr an.",
+    "example": "Ich fange morgen mit dem neuen Job an.",
     "id": "0408",
-    "example_th": "หนังเริ่มต้นเวลาแปดโมง"
+    "example_th": "ฉันเริ่มงานใหม่พรุ่งนี้"
   },
   {
     "de": "genug",
@@ -3485,9 +3485,9 @@
     "conjugation": "(sich) verändern, verändert, veränderte, hat verändert",
     "type": "verb",
     "th": "เปลี่ยนแปลง",
-    "example": "Die Welt verändert sich ständig und schnell.",
+    "example": "Die Situation hat sich in den letzten Wochen verändert.",
     "id": "0410",
-    "example_th": "โลกเปลี่ยนแปลงอย่างต่อเนื่องและรวดเร็ว"
+    "example_th": "สถานการณ์เปลี่ยนแปลงไปในสัปดาห์ที่แล้ว"
   },
   {
     "de": "die Wohnung",
@@ -3503,9 +3503,9 @@
     "conjugation": "gelingen, gelingt, gelang, ist gelungen",
     "type": "verb",
     "th": "สำเร็จ, สำเร็จลุล่วง",
-    "example": "Es ist mir gelungen, alle meine Ziele zu erreichen.",
+    "example": "Es gelang mir, das schwierige Problem zu lösen.",
     "id": "0412",
-    "example_th": "ฉันสำเร็จลุล่วงในการบรรลุเป้าหมายทั้งหมดของฉัน"
+    "example_th": "ฉันสำเร็จในการแก้ปัญหาที่ยากลำบาก"
   },
   {
     "de": "bald",
@@ -3537,18 +3537,18 @@
     "conjugation": "(sich etwas) kaufen, kauft, kaufte, hat gekauft",
     "type": "verb",
     "th": "ซื้อ (สำหรับตัวเอง)",
-    "example": "Ich kaufe mir einen neuen Laptop für die Schule.",
+    "example": "Sie kaufte sich ein neues Auto zum Geburtstag.",
     "id": "0416",
-    "example_th": "ฉันซื้อแล็ปท็อปใหม่สำหรับโรงเรียน"
+    "example_th": "เธอซื้อรถใหม่ให้ตัวเองในวันเกิด"
   },
   {
     "de": "ansehen",
     "conjugation": "ansehen, sieht an, sah an, hat angesehen",
     "type": "verb",
     "th": "มองดู, ดู",
-    "example": "Schaue diesen Dokumentarfilm an, er ist sehr informativ.",
+    "example": "Schauen Sie sich diesen Film an!",
     "id": "0417",
-    "example_th": "ดูสารคดีเรื่องนี้ มันให้ข้อมูลมากมาย"
+    "example_th": "ดูหนังเรื่องนี้ด้วย!"
   },
   {
     "de": "öffnen",
@@ -3720,9 +3720,9 @@
     "conjugation": "rufen, ruft, rief, hat gerufen",
     "type": "verb",
     "th": "เรียก, ร้องเรียก",
-    "example": "Er rief nach Hilfe, aber niemand hörte ihn.",
+    "example": "Der Polizist rief den Mann auf der Straße.",
     "id": "0437",
-    "example_th": "เขาร้องขออาหารแต่ไม่มีใครได้ยิน"
+    "example_th": "ตำรวจเรียกชายคนนั้นบนถนน"
   },
   {
     "de": "bieten",
@@ -3982,9 +3982,9 @@
     "conjugation": "aufnehmen, nimmt auf, nahm auf, hat aufgenommen",
     "type": "verb",
     "th": "รับเข้า, บันทึก",
-    "example": "Die Universität hat 500 neue Studenten aufgenommen.",
+    "example": "Die Universität nimmt nur die besten Schüler auf.",
     "id": "0467",
-    "example_th": "มหาวิทยาลัยรับนักศึกษาใหม่ 500 คน"
+    "example_th": "มหาวิทยาลัยรับเฉพาะนักเรียนที่ดีที่สุด"
   },
   {
     "de": "die Kosten (Pl.)",
@@ -4225,9 +4225,9 @@
     "conjugation": "gefallen, gefällt, gefiel, hat gefallen",
     "type": "verb",
     "th": "ชอบ, ถูกใจ",
-    "example": "Das Essen gefällt mir sehr gut.",
+    "example": "Das neue Restaurant gefällt mir sehr gut.",
     "id": "0495",
-    "example_th": "ฉันชอบอาหารนี้มากเลย"
+    "example_th": "ร้านอาหารใหม่ถูกใจฉันมาก"
   },
   {
     "de": "das Mädchen",
@@ -4391,27 +4391,27 @@
     "conjugation": "anbieten, bietet an, bot an, hat angeboten",
     "type": "verb",
     "th": "เสนอ",
-    "example": "Das Restaurant bietet viele vegetarische Gerichte an.",
+    "example": "Der Chef bot mir eine Beförderung an.",
     "id": "0514",
-    "example_th": "ร้านอาหารเสนอจานอาหารเจหลากหลายชนิด"
+    "example_th": "เจ้านายเสนอการเลื่อนตำแหน่งให้ฉัน"
   },
   {
     "de": "vorkommen",
     "conjugation": "vorkommen, kommt vor, kam vor, ist vorgekommen",
     "type": "verb",
     "th": "เกิดขึ้น ปรากฏ",
-    "example": "Solche Fehler kommen in diesem Bereich oft vor.",
+    "example": "Solche Fehler kommen häufig vor.",
     "id": "0515",
-    "example_th": "ข้อผิดพลาดเช่นนี้มักเกิดขึ้นในสาขานี้"
+    "example_th": "ข้อผิดพลาดแบบนี้เกิดขึ้นบ่อยครั้ง"
   },
   {
     "de": "(sich) wünschen",
     "conjugation": "(sich) wünschen, wünscht, wünschte, hat gewünscht",
     "type": "verb",
     "th": "ปรารถนา",
-    "example": "Ich wünsche mir einen längeren Urlaub.",
+    "example": "Ich wünsche mir mehr Freizeit.",
     "id": "0516",
-    "example_th": "ฉันปรารถนาวันหยุดที่ยาวนานขึ้น"
+    "example_th": "ฉันปรารถนาเวลาว่างมากขึ้น"
   },
   {
     "de": "interessieren",
@@ -4453,9 +4453,9 @@
     "de": "derselbe, dieselbe, dasselbe",
     "type": "other",
     "th": "เดียวกัน",
-    "example": "Das sind dieselben Schuhe, die ich gekauft habe.",
+    "example": "Wir machen derselben Fehler immer wieder.",
     "id": "0521",
-    "example_th": "นั่นคือรองเท้าเดียวกับที่ฉันซื้อ"
+    "example_th": "เราทำข้อผิดพลาดเดียวกันซ้ำแล้วซ้ำเล่า"
   },
   {
     "de": "wählen",
@@ -4547,9 +4547,9 @@
     "conjugation": "zunehmen, nimmt zu, nahm zu, hat zugenommen",
     "type": "verb",
     "th": "เพิ่มขึ้น",
-    "example": "Die Kosten für das Projekt nehmen ständig zu.",
+    "example": "Die Anzahl der Besucher nimmt jedes Jahr zu.",
     "id": "0532",
-    "example_th": "ต้นทุนของโครงการเพิ่มขึ้นอย่างต่อเนื่อง"
+    "example_th": "จำนวนผู้เข้าชมเพิ่มขึ้นทุกปี"
   },
   {
     "de": "stattfinden",
@@ -4565,18 +4565,18 @@
     "conjugation": "ankommen, kommt an, kam an, ist angekommen",
     "type": "verb",
     "th": "มาถึง",
-    "example": "Wann kommt der Zug in Berlin an?",
+    "example": "Wann kommt der Zug an?",
     "id": "0534",
-    "example_th": "รถไฟมาถึงเบอร์ลินเมื่อไร?"
+    "example_th": "รถไฟมาถึงเมื่อไร?"
   },
   {
     "de": "auftreten",
     "conjugation": "auftreten, tritt auf, trat auf, ist aufgetreten",
     "type": "verb",
     "th": "ปรากฏ เกิดขึ้น",
-    "example": "Neue Probleme treten immer wieder auf.",
+    "example": "Ein Problem ist aufgetreten, das wir schnell lösen müssen.",
     "id": "0535",
-    "example_th": "ปัญหาใหม่ปรากฏขึ้นซ้ำแล้วซ้ำเล่า"
+    "example_th": "มีปัญหาเกิดขึ้นที่เราต้องแก้อย่างรวดเร็ว"
   },
   {
     "de": "technisch",
@@ -4598,9 +4598,9 @@
     "de": "los/los-",
     "type": "other",
     "th": "หลุด เริ่มต้น",
-    "example": "Der Motor springt nicht los, obwohl ich ihn versucht habe zu starten.",
+    "example": "Das Auto ist losgegangen und wir fuhren davon.",
     "id": "0538",
-    "example_th": "มอเตอร์ไม่ติดแม้ว่าฉันจะพยายามสตาร์ตแล้ว"
+    "example_th": "รถเริ่มทำงานและเราขับไปได้"
   },
   {
     "de": "das Bett",
@@ -5001,9 +5001,9 @@
     "conjugation": "werfen, wirft, warf, hat geworfen",
     "type": "verb",
     "th": "ขว้าง, โยน",
-    "example": "Er warf den Ball über den Zaun.",
+    "example": "Er warf den Ball zu seinem Freund.",
     "id": "0584",
-    "example_th": "เขาโยนลูกบอลข้ามรั้ว"
+    "example_th": "เขาโยนลูกบอลให้เพื่อนของเขา"
   },
   {
     "de": "das Angebot",
@@ -5106,9 +5106,9 @@
     "conjugation": "angeben, gibt an, gab an, hat angegeben",
     "type": "verb",
     "th": "ระบุ, บอก",
-    "example": "Bitte geben Sie Ihre persönlichen Daten an.",
+    "example": "Der Kandidat musste seine Qualifikationen angeben, bevor er das Interview beginnen konnte.",
     "id": "0596",
-    "example_th": "โปรดระบุข้อมูลส่วนบุคคลของคุณ"
+    "example_th": "ผู้สมัครต้องระบุคุณวุฒิของเขาก่อนที่จะเริ่มการสัมภาษณ์"
   },
   {
     "de": "die Reise",
@@ -5442,131 +5442,131 @@
     "plural": "- die Künstlerin",
     "type": "noun",
     "th": "ศิลปิน",
-    "example": "Er ist sehr aktiv in seinem Beruf.",
+    "example": "Der Künstler hat sein neues Gemälde in der Galerie ausgestellt.",
     "id": "0635",
-    "example_th": "เขาใช้งานจริงในอาชีพของเขา"
+    "example_th": "ศิลปินได้แสดงภาพวาดใหม่ของเขาในแกลเลอรี่"
   },
   {
     "de": "aktiv",
     "type": "other",
     "th": "กระตือรือร้น, ใช้งาน",
-    "example": "Der Versuch war erfolgreich.",
+    "example": "Sie ist aktiv in mehreren Sportclubs und verbringt viel Zeit beim Training.",
     "id": "0636",
-    "example_th": "ความพยายามนั้นประสบความสำเร็จ"
+    "example_th": "เธอมีส่วนร่วมอย่างกระตือรือร้นในหลายชมรมกีฬาและใช้เวลามากในการฝึกซ้อม"
   },
   {
     "de": "der Versuch",
     "plural": "-e",
     "type": "noun",
     "th": "ความพยายาม, การทดลอง",
-    "example": "Ich muss die Rechnung heute bezahlen.",
+    "example": "Der Versuch, die Maschine zu reparieren, scheiterte leider nach zwei Stunden.",
     "id": "0637",
-    "example_th": "ฉันต้องจ่ายบิลวันนี้"
+    "example_th": "ความพยายามในการซ่อมแซมเครื่องจักรนั้นล้มเหลวหลังจากสองชั่วโมง"
   },
   {
     "de": "bezahlen",
     "conjugation": "bezahlen, bezahlt, bezahlte, hat bezahlt",
     "type": "verb",
     "th": "จ่ายเงิน",
-    "example": "Das hätte ich längst wissen sollen.",
+    "example": "Wir mussten für die Tickets insgesamt 150 Euro bezahlen.",
     "id": "0638",
-    "example_th": "ฉันควรรู้มานานแล้ว"
+    "example_th": "เราต้องจ่ายเงิน 150 ยูโรสำหรับตั๋วทั้งหมด"
   },
   {
     "de": "längst",
     "type": "other",
     "th": "นานแล้ว, ตั้งนานแล้ว",
-    "example": "Die Methode ist ganz neu.",
+    "example": "Das Problem hätte längst gelöst werden sollen, aber niemand kümmerte sich darum.",
     "id": "0639",
-    "example_th": "วิธีการนี้ใหม่มาก"
+    "example_th": "ปัญหานั้นควรจะแก้ไขตั้งนานแล้ว แต่ไม่มีใครสนใจ"
   },
   {
     "de": "die Methode",
     "plural": "-n",
     "type": "noun",
     "th": "วิธีการ",
-    "example": "Ordnung ist sehr wichtig für mich.",
+    "example": "Die neue Methode ist effizienter und spart dem Unternehmen viel Zeit.",
     "id": "0640",
-    "example_th": "ระเบียบสำคัญมากสำหรับฉัน"
+    "example_th": "วิธีการใหม่นั้นมีประสิทธิภาพมากขึ้นและประหยัดเวลาให้บริษัท"
   },
   {
     "de": "die Ordnung",
     "plural": "",
     "type": "noun",
     "th": "ลำดับที่, ระเบียบ",
-    "example": "Die Wahl war schwierig.",
+    "example": "Die Ordnung im Klassenzimmer ist wichtig für ein gutes Lernumfeld.",
     "id": "0641",
-    "example_th": "การเลือกนั้นยาก"
+    "example_th": "ระเบียบในห้องเรียนมีความสำคัญต่อสภาวะแวดล้อมที่ดีสำหรับการเรียน"
   },
   {
     "de": "die Wahl",
     "plural": "-en",
     "type": "noun",
     "th": "การเลือก",
-    "example": "Wir müssen unsere Ziele erfüllen.",
+    "example": "Die Wahl des richtigen Berufes ist eine wichtige Entscheidung für die Zukunft.",
     "id": "0642",
-    "example_th": "เราต้องบรรลุเป้าหมายของเรา"
+    "example_th": "การเลือกอาชีพที่ถูกต้องเป็นการตัดสินใจที่สำคัญสำหรับอนาคต"
   },
   {
     "de": "erfüllen",
     "conjugation": "erfüllen, erfüllt, erfüllte, hat erfüllt",
     "type": "verb",
     "th": "บรรลุ, สำเร็จ",
-    "example": "Diese Region ist sehr schön.",
+    "example": "Sie hat alle ihre Ziele erfüllt und ist stolz auf ihre Erfolge.",
     "id": "0643",
-    "example_th": "ภูมิภาคนี้สวยมาก"
+    "example_th": "เธอบรรลุเป้าหมายทั้งหมดของเธอและภูมิใจในความสำเร็จของเธอ"
   },
   {
     "de": "die Region",
     "plural": "-en",
     "type": "noun",
     "th": "ภูมิภาค, منطقة",
-    "example": "Bitte gib mir die Nummer der Bank.",
+    "example": "Die Region im Norden des Landes ist sehr bergig und weniger bevölkert.",
     "id": "0644",
-    "example_th": "โปรดให้หมายเลขธนาคารฉันหน่อย"
+    "example_th": "ภูมิภาคทางตอนเหนือของประเทศนั้นเป็นภูเขาสูงและมีประชากรน้อย"
   },
   {
     "de": "die Nummer",
     "plural": "-n",
     "type": "noun",
     "th": "หมายเลข",
-    "example": "Sie lächelt immer freundlich.",
+    "example": "Bitte geben Sie Ihre Kundennummer an, um schneller Hilfe zu bekommen.",
     "id": "0645",
-    "example_th": "เธอยิ้มอย่างเป็นมิตรเสมอ"
+    "example_th": "โปรดให้หมายเลขลูกค้าของคุณเพื่อให้ได้รับความช่วยเหลือเร็วขึ้น"
   },
   {
     "de": "lächeln",
     "conjugation": "lächeln, lächelt, lächelte, hat gelächelt",
     "type": "verb",
     "th": "ยิ้ม",
-    "example": "Das Problem ist genauso groß wie damals.",
+    "example": "Als sie die frohe Botschaft hörte, lächelte sie breit.",
     "id": "0646",
-    "example_th": "ปัญหานี้ใหญ่เท่ากับสมัยก่อน"
+    "example_th": "เมื่อเธอได้ยินข่าวที่ดีนั้น เธอก็ยิ้มอย่างกว้างขวาง"
   },
   {
     "de": "genauso",
     "type": "other",
     "th": "เหมือนกัน, อย่างเดียวกัน",
-    "example": "Ich bin überzeugt, dass er recht hat.",
+    "example": "Im Winter ist das Wetter genauso kalt wie im Vorjahr.",
     "id": "0647",
-    "example_th": "ฉันมั่นใจว่าเขาพูดถูก"
+    "example_th": "ในช่วงฤดูหนาว อากาศจะหนาวเหมือนกับปีที่แล้ว"
   },
   {
     "de": "(sich) überzeugen",
     "conjugation": "(sich) überzeugen, überzeugt, überzeugte, hat überzeugt",
     "type": "verb",
     "th": "มั่นใจ, ชักชวน",
-    "example": "Der Film war absolut interessant.",
+    "example": "Ich überzeugte meine Freunde, mit mir ins Kino zu gehen.",
     "id": "0648",
-    "example_th": "หนังนั้นน่าสนใจอย่างแน่นอน"
+    "example_th": "ฉันชักชวนเพื่อนของฉันให้ไปดูหนังกับฉัน"
   },
   {
     "de": "interessant",
     "type": "other",
     "th": "น่าสนใจ",
-    "example": "Das ist eine sehr menschliche Reaktion.",
+    "example": "Das Buch behandelt ein sehr interessantes Thema aus der Geschichte.",
     "id": "0649",
-    "example_th": "นั่นเป็นปฏิกิริยาที่เป็นมนุษย์มาก"
+    "example_th": "หนังสือเล่มนี้กล่าวถึงหัวข้อที่น่าสนใจมากจากประวัติศาสตร์"
   },
   {
     "de": "menschlich",
@@ -5581,59 +5581,59 @@
     "plural": "",
     "type": "noun",
     "th": "เสรีภาพ",
-    "example": "Ich interessiere mich speziell für Geschichte.",
+    "example": "Die Freiheit der Meinungsäußerung ist ein grundlegendes Menschenrecht.",
     "id": "0651",
-    "example_th": "ฉันสนใจโดยเฉพาะในประวัติศาสตร์"
+    "example_th": "เสรีภาพในการแสดงความคิดเห็นเป็นสิทธิมนุษยชนพื้นฐาน"
   },
   {
     "de": "speziell",
     "type": "other",
     "th": "โดยเฉพาะ",
-    "example": "Die Kritik war sehr negativ.",
+    "example": "Speziell für diesen Kurs brauchst du fortgeschrittene Kenntnisse in Mathematik.",
     "id": "0652",
-    "example_th": "การวิจารณ์นั้นเชิงลบมาก"
+    "example_th": "โดยเฉพาะสำหรับคอร์สนี้ คุณต้องมีความรู้ขั้นสูงในคณิตศาสตร์"
   },
   {
     "de": "negativ",
     "type": "other",
     "th": "ลบ/เชิงลบ",
-    "example": "Das zentrale Thema ist sehr aktuell.",
+    "example": "Die negative Reaktion des Publikums überraschte den Regisseur sehr.",
     "id": "0653",
-    "example_th": "หัวข้อศูนย์กลางนั้นทันสมัยมาก"
+    "example_th": "ปฏิกิริยาเชิงลบของผู้ชมทำให้ผู้กำกับภาพยนตร์ประหลาดใจมาก"
   },
   {
     "de": "zentral",
     "type": "other",
     "th": "กลาง/ศูนย์กลาง",
-    "example": "Wir besuchen die Ausstellung gestern.",
+    "example": "Das zentrale Thema des Romans ist die Suche nach Identität und Heimat.",
     "id": "0654",
-    "example_th": "เราไปเยี่ยมชมนิทรรศการเมื่อวาน"
+    "example_th": "หัวข้อศูนย์กลางของนวนิยายคือการค้นหาตัวตนและบ้านเกิด"
   },
   {
     "de": "besuchen",
     "conjugation": "besuchen, besucht, besuchte, hat besucht",
     "type": "verb",
     "th": "เยี่ยม/ไป",
-    "example": "Der Spieler war absolut genial.",
+    "example": "Ich werde meine Großmutter morgen besuchen.",
     "id": "0655",
-    "example_th": "ผู้เล่นนั้นเป็นอัจฉริยะโดยสิ้นเชิง"
+    "example_th": "ฉันจะไปเยี่ยมคุณยายของฉันในวันพรุ่งนี้"
   },
   {
     "de": "gestern",
     "type": "other",
     "th": "เมื่อวาน",
-    "example": "Der Vogel fliegt über die Region.",
+    "example": "Gestern bin ich ins Kino gegangen.",
     "id": "0656",
-    "example_th": "นกบินข้ามภูมิภาค"
+    "example_th": "เมื่อวานนี้ฉันไปดูหนังที่โรงภาพยนตร์"
   },
   {
     "de": "der Spieler",
     "plural": "- die Spielerin",
     "type": "noun",
     "th": "ผู้เล่น",
-    "example": "Mein Hund ist sehr aktiv.",
+    "example": "Der Spieler hat das Spiel gewonnen.",
     "id": "0657",
-    "example_th": "สุนัขของฉันกระตือรือร้นมาก"
+    "example_th": "ผู้เล่นนั้นชนะในเกม"
   },
   {
     "de": "absolut",
@@ -5657,9 +5657,9 @@
     "plural": "-e",
     "type": "noun",
     "th": "สุนัข",
-    "example": "Meine Nummer ist leicht zu merken.",
+    "example": "Mein Hund liebt es, im Park zu spielen.",
     "id": "0660",
-    "example_th": "หมายเลขของฉันจำง่าย"
+    "example_th": "สุนัขของฉันชอบเล่นในสวนสาธารณะ"
   },
   {
     "de": "antworten",
@@ -6066,9 +6066,9 @@
     "conjugation": "messen, misst, maß, hat gemessen",
     "type": "verb",
     "th": "วัด",
-    "example": "Der Lehrer misst die Leistung der Schüler regelmäßig.",
+    "example": "Der Arzt wird die Temperatur messen.",
     "id": "0707",
-    "example_th": "ครูวัดผลการเรียนของนักเรียนเป็นประจำ"
+    "example_th": "หมอจะวัดอุณหภูมิ"
   },
   {
     "de": "lieb",
@@ -6338,9 +6338,9 @@
     "conjugation": "(sich) trennen, trennt, trennte, hat getrennt",
     "type": "verb",
     "th": "แยก",
-    "example": "Die Familie trennt sich nach 20 Jahren.",
+    "example": "Die beiden Freunde trennen sich nach dem Streit.",
     "id": "0738",
-    "example_th": "ครอบครัวแยกตัวไปหลังจาก 20 ปี"
+    "example_th": "เพื่อนสองคนนั้นแยกออกจากกันหลังจากการโต้เถียง"
   },
   {
     "de": "benötigen",
@@ -6462,71 +6462,71 @@
     "plural": "-e",
     "type": "noun",
     "th": "การประกอบการ/โรงงาน",
-    "example": "Im Dorf leben viele freundliche Menschen.",
+    "example": "Der Betrieb produziert hochwertige Produkte.",
     "id": "0752",
-    "example_th": "ในหมู่บ้านมีคนที่เป็นมิตรจำนวนมาก"
+    "example_th": "โรงงานนั้นผลิตสินค้าที่มีคุณภาพสูง"
   },
   {
     "de": "das Dorf",
     "plural": "-̈er",
     "type": "noun",
     "th": "หมู่บ้าน",
-    "example": "Diese Methode eignet sich gut für Anfänger.",
+    "example": "Das Dorf liegt in den Bergen.",
     "id": "0753",
-    "example_th": "วิธีนี้เหมาะสมสำหรับผู้เริ่มต้น"
+    "example_th": "หมู่บ้านนั้นตั้งอยู่ในภูเขา"
   },
   {
     "de": "sich eignen",
     "conjugation": "sich eignen, eignet, eignete, hat geeignet",
     "type": "verb",
     "th": "เหมาะสม/เข้ากันได้",
-    "example": "Die erste Klasse hat bessere Noten bekommen.",
+    "example": "Dieses Buch eignet sich für Anfänger.",
     "id": "0754",
-    "example_th": "ชั้นแรกได้คะแนนที่ดีขึ้น"
+    "example_th": "หนังสือนี้เหมาะสำหรับผู้เริ่มต้น"
   },
   {
     "de": "die Klasse",
     "plural": "-n",
     "type": "noun",
     "th": "ชั้น/ระดับ/คลาส",
-    "example": "Der Chef erlaubt den Mitarbeitern eine Pause.",
+    "example": "Die Klasse ist sehr interessiert am Unterricht.",
     "id": "0755",
-    "example_th": "หัวหน้าอนุญาตให้พนักงานพักผ่อน"
+    "example_th": "ชั้นเรียนนั้นสนใจในบทเรียนมาก"
   },
   {
     "de": "erlauben",
     "conjugation": "erlauben, erlaubt, erlaubte, hat erlaubt",
     "type": "verb",
     "th": "อนุญาต",
-    "example": "Das Wasser treibt das Mühlrad an.",
+    "example": "Die Eltern erlauben ihren Kindern, draußen zu spielen.",
     "id": "0756",
-    "example_th": "น้ำขับเคลื่อนล้อโรงสี"
+    "example_th": "พ่อแม่อนุญาตให้ลูกๆเล่นข้างนอก"
   },
   {
     "de": "treiben",
     "conjugation": "treiben, treibt, trieb, hat getrieben",
     "type": "verb",
     "th": "ขับเคลื่อน/ทำให้เกิด",
-    "example": "Er ist gestern weggefahren.",
+    "example": "Der Hunger treibt ihn zum Arbeiten.",
     "id": "0757",
-    "example_th": "เขาออกเดินทางเมื่อวาน"
+    "example_th": "ความหิวขับเคลื่อนให้เขาทำงาน"
   },
   {
     "de": "weg/weg-",
     "type": "other",
     "th": "ไป/หาย/นำหน้าคำ (ไป-)",
-    "example": "Sie steht jeden Morgen um 6 Uhr auf.",
+    "example": "Er ist weggelaufen, ohne ein Wort zu sagen.",
     "id": "0758",
-    "example_th": "เธอลุกขึ้นทุกเช้าเวลา 6 โมง"
+    "example_th": "เขาวิ่งหนีไปโดยไม่พูดอะไร"
   },
   {
     "de": "aufstehen",
     "conjugation": "aufstehen, steht auf, stand auf, ist aufgestanden",
     "type": "verb",
     "th": "ลุกขึ้น",
-    "example": "Unterwegs habe ich einen alten Freund getroffen.",
+    "example": "Ich stehe jeden Morgen um 6 Uhr auf.",
     "id": "0759",
-    "example_th": "ในระหว่างทาง ฉันพบเจอเพื่อนเก่า"
+    "example_th": "ฉันลุกขึ้นเวลา 6 โมงทุกเช้า"
   },
   {
     "de": "unterwegs",
@@ -6541,167 +6541,167 @@
     "plural": "-̈e",
     "type": "noun",
     "th": "สัญญา",
-    "example": "Dieser Ausdruck wird oft in der Literatur verwendet.",
+    "example": "Der Vertrag zwischen den zwei Unternehmen ist gültig.",
     "id": "0761",
-    "example_th": "สำนวนนี้ใช้กันบ่อยในวรรณกรรม"
+    "example_th": "สัญญาระหว่างบริษัทสองแห่งมีผลบังคับใช้"
   },
   {
     "de": "der Ausdruck",
     "plural": "-̈e",
     "type": "noun",
     "th": "สำนวน/นิพจน์",
-    "example": "Das war eine tolle Party gestern Abend!",
+    "example": "Sein Ausdruck zeigt, dass er überrascht ist.",
     "id": "0762",
-    "example_th": "นั่นคืองานปาร์ตี้ที่ยอดเยี่ยมเมื่อคืนนี้!"
+    "example_th": "สำนวนของเขาแสดงให้เห็นว่าเขาประหลาดใจ"
   },
   {
     "de": "der Ausdruck",
     "plural": "-e",
     "type": "noun",
     "th": "สำนวน/นิพจน์",
-    "example": "Der Patient schwieg lange Zeit.",
+    "example": "Mit dem Ausdruck 'viel Glück' wünsche ich dir alles Gute.",
     "id": "0763",
-    "example_th": "ผู้ป่วยเงียบไปนานๆ"
+    "example_th": "ด้วยสำนวน 'ขอให้โชค' ฉันขอให้คุณสุขลาภทั้งหมด"
   },
   {
     "de": "toll",
     "type": "other",
     "th": "ยอดเยี่ยม/เจ๋ง",
-    "example": "Meine Schwester arbeitet als Lehrerin.",
+    "example": "Das ist eine tolle Idee für das Projekt!",
     "id": "0764",
-    "example_th": "น้องสาวของฉันทำงานเป็นครู"
+    "example_th": "นั่นเป็นไอเดียเจ๋งสำหรับโครงการ"
   },
   {
     "de": "schweigen",
     "conjugation": "schweigen, schweigt, schwieg, hat geschwiegen",
     "type": "verb",
     "th": "เงียบ",
-    "example": "Greife schnell zu dieser Gelegenheit!",
+    "example": "Er schweigt, obwohl ich ihn eine Frage gestellt habe.",
     "id": "0765",
-    "example_th": "จับโอกาสนี้ได้เร็ว!"
+    "example_th": "เขาเงียบอยู่ แม้ว่าฉันถามเขาคำถาม"
   },
   {
     "de": "die Schwester",
     "plural": "-n",
     "type": "noun",
     "th": "น้องสาว",
-    "example": "Das Risiko ist zu hoch für diese Investition.",
+    "example": "Meine Schwester studiert Medizin an der Universität.",
     "id": "0766",
-    "example_th": "ความเสี่ยงสูงเกินไปสำหรับการลงทุนนี้"
+    "example_th": "น้องสาวของฉันเรียนแพทยศาสตร์ที่มหาวิทยาลัย"
   },
   {
     "de": "der Chef",
     "plural": "-s die Chefin",
     "type": "noun",
     "th": "หัวหน้า/ผู้บริหาร",
-    "example": "Seine schwache Stimme war kaum zu hören.",
+    "example": "Der Chef hat eine wichtige Entscheidung für das Projekt getroffen.",
     "id": "0767",
-    "example_th": "เสียงอ่อนแอของเขาแทบไม่ได้ยิน"
+    "example_th": "หัวหน้างานได้ตัดสินใจสำคัญสำหรับโครงการนี้"
   },
   {
     "de": "greifen",
     "conjugation": "greifen, greift, griff, hat gegriffen",
     "type": "verb",
     "th": "จับ/ยึด",
-    "example": "Die Tabelle zeigt die Verkaufszahlen des letzten Jahres.",
+    "example": "Der Dieb versuchte, die Gelegenheit zu greifen und floh schnell.",
     "id": "0768",
-    "example_th": "ตารางแสดงตัวเลขการขายปีที่แล้ว"
+    "example_th": "ขโมยพยายามจับโอกาสและหนีไปอย่างรวดเร็ว"
   },
   {
     "de": "das Risiko",
     "plural": "Risiken",
     "type": "noun",
     "th": "ความเสี่ยง",
-    "example": "Der größte Vorteil dieser Lösung ist die Effizienz.",
+    "example": "Das Risiko bei diesem Investment ist sehr hoch und muss beachtet werden.",
     "id": "0769",
-    "example_th": "ประโยชน์ที่ยิ่งใหญ่ที่สุดของแนวทางแก้นี้คือประสิทธิภาพ"
+    "example_th": "ความเสี่ยงในการลงทุนนี้สูงมากและต้องให้ความสำคัญ"
   },
   {
     "de": "schwach",
     "type": "other",
     "th": "อ่อนแอ/ไม่แข็งแรง",
-    "example": "Der Gewinn des Unternehmens ist dieses Jahr gestiegen.",
+    "example": "Seine schwache Leistung in der Schule war für die Familie enttäuschend.",
     "id": "0770",
-    "example_th": "กำไรของบริษัทเพิ่มขึ้นในปีนี้"
+    "example_th": "ผลการเรียนของเขาที่อ่อนแอทำให้ครอบครัวผิดหวัง"
   },
   {
     "de": "die Tabelle",
     "plural": "-n",
     "type": "noun",
     "th": "ตาราง/ตารางข้อมูล",
-    "example": "Wir müssen diese wichtigen Punkte wiederholen.",
+    "example": "Die Tabelle zeigt die Verkaufszahlen der letzten zwölf Monate.",
     "id": "0771",
-    "example_th": "เราต้องทำซ้ำประเด็นสำคัญเหล่านี้"
+    "example_th": "ตารางแสดงตัวเลขการขายของ 12 เดือนที่ผ่านมา"
   },
   {
     "de": "der Vorteil",
     "plural": "-e",
     "type": "noun",
     "th": "ประโยชน์/สิ่งดี",
-    "example": "Nach der harten Arbeit brauchte sie Ruhe.",
+    "example": "Der Vorteil dieses neuen Systems liegt in seiner Benutzerfreundlichkeit.",
     "id": "0772",
-    "example_th": "หลังจากงานหนักเธอต้องการความสงบ"
+    "example_th": "ประโยชน์ของระบบใหม่นี้อยู่ที่ความง่ายในการใช้งาน"
   },
   {
     "de": "der Gewinn",
     "plural": "-e",
     "type": "noun",
     "th": "กำไร/ผลกำไร",
-    "example": "Die Darstellung des Künstlers war beeindruckend.",
+    "example": "Der Gewinn des Unternehmens ist dieses Jahr deutlich gestiegen.",
     "id": "0773",
-    "example_th": "การแสดงของศิลปินนั้นน่าประทับใจ"
+    "example_th": "กำไรของบริษัทเพิ่มขึ้นอย่างชัดเจนในปีนี้"
   },
   {
     "de": "wiederholen",
     "conjugation": "wiederholen, wiederholt, wiederholte, hat wiederholt",
     "type": "verb",
     "th": "ทำซ้ำ/ท่องจำ",
-    "example": "Im ruhigen Park kann man gut entspannen.",
+    "example": "Die Schüler mussten die Vokabeln jeden Tag wiederholen.",
     "id": "0774",
-    "example_th": "ในสวนสงบสามารถผ่อนคลายได้ดี"
+    "example_th": "นักเรียนต้องท่องศัพท์ใหม่ทุกวัน"
   },
   {
     "de": "die Ruhe",
     "plural": "",
     "type": "noun",
     "th": "ความสงบ/ความเงียบสงบ",
-    "example": "Sein Traum war es, um die Welt zu reisen.",
+    "example": "Nach dem stressigen Tag brauchte er die Ruhe im Park.",
     "id": "0775",
-    "example_th": "ความฝันของเขาคือการเดินทางไปทั่วโลก"
+    "example_th": "หลังจากวันที่เต็มไปด้วยความเครียด เขาต้องการความเงียบสงบในสวน"
   },
   {
     "de": "die Darstellung",
     "plural": "-en",
     "type": "noun",
     "th": "การแสดง/การนำเสนอ",
-    "example": "Das Traum-Haus meiner Familie hat einen großen Garten.",
+    "example": "Die Darstellung des Films war sehr kreativ und beeindruckend.",
     "id": "0776",
-    "example_th": "บ้านฝันของครอบครัวของฉันมีสวนขนาดใหญ่"
+    "example_th": "การนำเสนอของภาพยนตร์นี้สร้างสรรค์และน่าประทับใจ"
   },
   {
     "de": "ruhig",
     "type": "other",
     "th": "สงบ/เงียบสงบ",
-    "example": "Der Arzt wird den Patienten mit neuen Medikamenten behandeln.",
+    "example": "Er sprach ruhig mit seinen Kollegen über das Problem.",
     "id": "0777",
-    "example_th": "หมออักษรจะรักษาผู้ป่วยด้วยยาใหม่"
+    "example_th": "เขาพูดอย่างสงบกับเพื่อนร่วมงานเกี่ยวกับปัญหา"
   },
   {
     "de": "der Traum",
     "plural": "-̈e",
     "type": "noun",
     "th": "ความฝัน",
-    "example": "Wie behandelst du deine Gäste normalerweise?",
+    "example": "Sein Traum war es, einmal um die Welt zu reisen.",
     "id": "0778",
-    "example_th": "คุณจัดการแขกของคุณอย่างไรตามปกติ?"
+    "example_th": "ความฝันของเขาคือการเดินทางไปรอบโลก"
   },
   {
     "de": "Traum-",
     "type": "other",
     "th": "ฝัน- (นำหน้าคำ)",
-    "example": "Diese Angelegenheit muss sehr sorgfältig behandelt werden.",
+    "example": "Das Traum-Haus am See war endlich bezahlbar für die Familie.",
     "id": "0779",
-    "example_th": "เรื่องนี้ต้องจัดการอย่างระมัดระวังมาก"
+    "example_th": "บ้านฝันตามริมทะเลจึงมีราคาที่จ่ายได้ในที่สุด"
   },
   {
     "de": "behandeln",
@@ -6965,9 +6965,9 @@
     "conjugation": "herstellen, stellt her, stellte her, hat hergestellt",
     "type": "verb",
     "th": "ผลิต",
-    "example": "Die Fabrik stellt hochwertige Produkte her.",
+    "example": "Die Fabrik stellt hochwertige Möbel für den europäischen Markt her.",
     "id": "0809",
-    "example_th": "โรงงานผลิตผลิตภัณฑ์คุณภาพสูง"
+    "example_th": "โรงงานผลิตเฟอร์นิเจอร์คุณภาพสูงสำหรับตลาดยุโรป"
   },
   {
     "de": "ernst",
@@ -7163,9 +7163,9 @@
     "de": "her/her-",
     "type": "other",
     "th": "มาจาก/ลักษณะนำเข้า",
-    "example": "Die Familie stammt her aus dem Süden.",
+    "example": "Die Rohstoffe kommen aus verschiedenen Ländern her.",
     "id": "0832",
-    "example_th": "ครอบครัวมาจากภาคใต้"
+    "example_th": "วัตถุดิบมาจากประเทศต่างๆ"
   },
   {
     "de": "wechseln",
@@ -7181,9 +7181,9 @@
     "conjugation": "einstellen, stellt ein, stellte ein, hat eingestellt",
     "type": "verb",
     "th": "จ้าง",
-    "example": "Das Unternehmen stellt viele neue Mitarbeiter ein.",
+    "example": "Das Unternehmen will neue Mitarbeiter einstellen um zu wachsen.",
     "id": "0834",
-    "example_th": "บริษัทจ้างพนักงานใหม่จำนวนมาก"
+    "example_th": "บริษัทต้องการจ้างพนักงานใหม่เพื่อให้เติบโต"
   },
   {
     "de": "das Theater",
@@ -7243,18 +7243,18 @@
     "conjugation": "einfallen, fällt ein, fiel ein, ist eingefallen",
     "type": "verb",
     "th": "นึกขึ้น, ตกลงมา",
-    "example": "Mir ist plötzlich eine gute Idee eingefallen.",
+    "example": "Plötzlich fiel ihm die beste Idee für das Projekt ein.",
     "id": "0841",
-    "example_th": "ฉันนึกขึ้นได้ว่ามีความคิดดีๆ"
+    "example_th": "ทันใดนั้นเขาก็นึกเรื่องที่ดีที่สุดสำหรับโครงการ"
   },
   {
     "de": "(sich) verletzen",
     "conjugation": "(sich) verletzen, verletzt, verletzte, hat verletzt",
     "type": "verb",
     "th": "บาดเจ็บ",
-    "example": "Er hat sich beim Sport verletzt.",
+    "example": "Er verletzte sich beim Sport und musste zum Arzt gehen.",
     "id": "0842",
-    "example_th": "เขาบาดเจ็บขณะเล่นกีฬา"
+    "example_th": "เขาบาดเจ็บขณะเล่นกีฬาและต้องไปเห็นแพทย์"
   },
   {
     "de": "die Kontrolle",
@@ -7376,9 +7376,9 @@
     "conjugation": "ausreichen, reicht aus, reichte aus, hat ausgereicht",
     "type": "verb",
     "th": "เพียงพอ",
-    "example": "Dieses Geld reicht nicht aus.",
+    "example": "Das Geld, das er verdient hat, reicht aus für die Miete.",
     "id": "0856",
-    "example_th": "เงินนี้ไม่เพียงพอ"
+    "example_th": "เงินที่เขาหาได้เพียงพอสำหรับค่าเช่า"
   },
   {
     "de": "irgendein",
@@ -7498,9 +7498,9 @@
     "conjugation": "brechen, bricht, brach, hat gebrochen",
     "type": "verb",
     "th": "หัก, แตก",
-    "example": "Der Ast ist unter dem Schnee gebrochen.",
+    "example": "Während des Sturms brach der alte Baum in der Mitte.",
     "id": "0870",
-    "example_th": "กิ่งไม้หักลงมาเพราะหิมะ"
+    "example_th": "ระหว่างพายุ ต้นไม้เก่าแตกออกตรงกลาง"
   },
   {
     "de": "fassen",
@@ -7525,9 +7525,9 @@
     "conjugation": "anrufen, ruft an, rief an, hat angerufen",
     "type": "verb",
     "th": "โทรหา",
-    "example": "Ich rufe dich morgen an.",
+    "example": "Ich muss meinen Freund anrufen, um ihm von der Party zu erzählen.",
     "id": "0873",
-    "example_th": "ฉันจะโทรหาคุณพรุ่งนี้"
+    "example_th": "ฉันต้องโทรหาเพื่อนของฉันเพื่อบอกเขาเกี่ยวกับงานปาร์ตี้"
   },
   {
     "de": "entfernen",
@@ -7614,9 +7614,9 @@
     "conjugation": "auffallen, fällt auf, fiel auf, ist aufgefallen",
     "type": "verb",
     "th": "โดดเด่น, ดึงดูดความสนใจ",
-    "example": "Dein neues Kleid fällt mir sehr auf.",
+    "example": "Sein neues Design fällt sofort auf und gefällt allen Kollegen.",
     "id": "0883",
-    "example_th": "ชุดใหม่ของคุณดึงดูดความสนใจของฉันมาก"
+    "example_th": "ดีไซน์ใหม่ของเขาโดดเด่นและได้รับความชอบจากเพื่อนร่วมงาน"
   },
   {
     "de": "der Gegensatz",
@@ -7806,9 +7806,9 @@
     "conjugation": "(sich) verbessern, verbessert, verbesserte, hat verbessert",
     "type": "verb",
     "th": "ปรับปรุง, ดีขึ้น",
-    "example": "Seine Leistungen haben sich in diesem Jahr verbessert.",
+    "example": "Seine Deutschkenntnisse haben sich deutlich verbessert, seit er in Berlin lebt.",
     "id": "0905",
-    "example_th": "ผลการเรียนของเขาดีขึ้นในปีนี้"
+    "example_th": "ความสามารถภาษาเยอรมันของเขาปรับปรุงขึ้นอย่างมากนับตั้งแต่เขาอาศัยในเบอร์ลิน"
   },
   {
     "de": "heiß",
@@ -7885,9 +7885,9 @@
     "conjugation": "(sich) zwingen, zwingt, zwang, hat gezwungen",
     "type": "verb",
     "th": "บังคับตัวเอง, พยายาม",
-    "example": "Ich zwinge mich, jeden Morgen zu trainieren.",
+    "example": "Ich zwinge mich jeden Morgen, früh aufzustehen, obwohl es schwierig ist.",
     "id": "0914",
-    "example_th": "ฉันบังคับตัวเองให้ออกกำลังกายทุกเช้า"
+    "example_th": "ฉันบังคับตัวเองให้ตื่นแต่เช้าทุกวัน แม้ว่ามันจะยากก็ตาม"
   },
   {
     "de": "das Bier",
@@ -7903,9 +7903,9 @@
     "conjugation": "ansprechen, spricht an, sprach an, hat angesprochen",
     "type": "verb",
     "th": "พูดถึง, กล่าวถึง",
-    "example": "Der Lehrer spricht ein wichtiges Thema an.",
+    "example": "Der Lehrer spricht das Thema an, das viele Schüler interessiert.",
     "id": "0916",
-    "example_th": "ครูพูดถึงหัวข้อสำคัญ"
+    "example_th": "ครูพูดถึงหัวข้อที่สนใจนักเรียนจำนวนมาก"
   },
   {
     "de": "komplett",
@@ -7947,27 +7947,27 @@
     "conjugation": "ablehnen, lehnt ab, lehnte ab, hat abgelehnt",
     "type": "verb",
     "th": "ปฏิเสธ, ไม่ยอมรับ",
-    "example": "Der Chef lehnt meinen Vorschlag ab.",
+    "example": "Er lehnt das Angebot ab, weil der Lohn zu niedrig ist.",
     "id": "0921",
-    "example_th": "บอสปฏิเสธข้อเสนอของฉัน"
+    "example_th": "เขาปฏิเสธข้อเสนอเนื่องจากเงินเดือนต่ำเกินไป"
   },
   {
     "de": "(sich) stoßen",
     "conjugation": "(sich) stoßen, stößt, stieß, hat gestoßen",
     "type": "verb",
     "th": "ชน, ปะทะ",
-    "example": "Das Auto stößt gegen den Baum.",
+    "example": "Die beiden Autos stoßen zusammen an der Kreuzung.",
     "id": "0922",
-    "example_th": "รถชนกับต้นไม้"
+    "example_th": "รถสองคันชนกันที่จุดตัดถนน"
   },
   {
     "de": "umgehen",
     "conjugation": "umgehen, geht um, ging um, ist umgegangen",
     "type": "verb",
     "th": "จัดการ, หลีกเลี่ยง",
-    "example": "Wie geht man mit diesem Problem um?",
+    "example": "Um Probleme zu umgehen, muss man vorausschauend denken.",
     "id": "0923",
-    "example_th": "จะจัดการกับปัญหานี้อย่างไร"
+    "example_th": "เพื่อหลีกเลี่ยงปัญหา คุณต้องคิดล่วงหน้า"
   },
   {
     "de": "sich verlaufen, verläuft sich, verlief sich, hat sich verlaufen",
@@ -7989,9 +7989,9 @@
     "de": "abhängen, hängt ab, hing ab, hat abgehangen (von)",
     "type": "other",
     "th": "ขึ้นอยู่กับ, ถูกแขวน",
-    "example": "Das Ergebnis hängt von deiner Anstrengung ab.",
+    "example": "Der Erfolg hängt von deiner harten Arbeit ab.",
     "id": "0926",
-    "example_th": "ผลลัพธ์ขึ้นอยู่กับความพยายามของคุณ"
+    "example_th": "ความสำเร็จขึ้นอยู่กับความพยายามของคุณ"
   },
   {
     "de": "die Geschwindigkeit",
@@ -8042,9 +8042,9 @@
     "conjugation": "ausmachen, macht aus, machte aus, hat ausgemacht",
     "type": "verb",
     "th": "ปิด, ดับ",
-    "example": "Bitte machen Sie das Licht aus, bevor Sie gehen.",
+    "example": "Bitte mach den Fernseher aus, bevor du schlafen gehst.",
     "id": "0932",
-    "example_th": "โปรดปิดไฟก่อนที่คุณจะไป"
+    "example_th": "โปรดปิดทีวีก่อนที่คุณจะนอน"
   },
   {
     "de": "eintreten",
@@ -8095,18 +8095,18 @@
     "conjugation": "schieben, schiebt, schob, hat geschoben",
     "type": "verb",
     "th": "ผลัก, ดัน",
-    "example": "Er schob die Tür vorsichtig auf.",
+    "example": "Der Vater schiebt den Kinderwagen durch den Park.",
     "id": "0938",
-    "example_th": "เขาดันประตูอย่างระมัดระวัง"
+    "example_th": "พ่อผลักรถเข็นเด็กผ่านสวนสาธารณะ"
   },
   {
     "de": "abnehmen",
     "conjugation": "abnehmen, nimmt ab, nahm ab, hat abgenommen",
     "type": "verb",
     "th": "ลด, เบา",
-    "example": "Das Gewicht nimmt jeden Monat ab.",
+    "example": "Sein Gewicht nimmt ab, seitdem er regelmäßig trainiert.",
     "id": "0939",
-    "example_th": "น้ำหนักลดลงทุกเดือน"
+    "example_th": "น้ำหนักของเขาลดลงตั้งแต่เขาออกกำลังกายสม่ำเสมอ"
   },
   {
     "de": "zeichnen",
@@ -8602,9 +8602,9 @@
     "conjugation": "ankündigen, kündigt an, kündigte an, hat angekündigt",
     "type": "verb",
     "th": "ประกาศ",
-    "example": "Der Minister kündigte eine neue Politik an.",
+    "example": "Die Regierung kündigt neue Maßnahmen für die Umwelt an.",
     "id": "0996",
-    "example_th": "รัฐมนตรีประกาศนโยบายใหม่"
+    "example_th": "รัฐบาลประกาศมาตรการใหม่เพื่อสิ่งแวดล้อม"
   },
   {
     "de": "individuell",
@@ -8636,9 +8636,9 @@
     "conjugation": "ausschließen, schließt aus, schloss aus, hat ausgeschlossen",
     "type": "verb",
     "th": "ยกเว้น",
-    "example": "Außer Sonntag schließe ich keine Tage aus.",
+    "example": "Alle Kandidaten sind akzeptiert, ausschließlich der, der unehrlich war.",
     "id": "1000",
-    "example_th": "ฉันไม่ยกเว้นวันใดนอกจากวันอาทิตย์"
+    "example_th": "ผู้สมัครทั้งหมดได้รับการยอมรับ ยกเว้นคนที่ไม่สุจริต"
   },
   {
     "de": "sinnvoll",
@@ -8671,9 +8671,9 @@
     "conjugation": "gucken, guckt, guckte, hat geguckt",
     "type": "verb",
     "th": "มอง",
-    "example": "Schau mal, wie schön die Sonne untergeht.",
+    "example": "Die Kinder gucken neugierig aus dem Fenster.",
     "id": "1004",
-    "example_th": "มองสิ วิธีที่ดวงอาทิตย์ตกสวยงาม"
+    "example_th": "เด็ก ๆ มองออกจากหน้าต่างด้วยความอยากรู้"
   },
   {
     "de": "beeinflussen",
@@ -8724,9 +8724,9 @@
     "conjugation": "aufgeben, gibt auf, gab auf, hat aufgegeben",
     "type": "verb",
     "th": "ยอมแพ้",
-    "example": "Er gab seine Träume nicht auf.",
+    "example": "Er gibt nicht auf, obwohl die Aufgabe sehr schwer ist.",
     "id": "1010",
-    "example_th": "เขาไม่ยอมแพ้ต่อความฝันของเขา"
+    "example_th": "เขาไม่ยอมแพ้แม้ว่างานนั้นจะยากมากก็ตาม"
   },
   {
     "de": "stolz",
@@ -9040,18 +9040,18 @@
     "conjugation": "(sich) fürchten, fürchtet, fürchtete, hat gefürchtet",
     "type": "verb",
     "th": "กลัว",
-    "example": "Viele Menschen fürchten sich vor der Dunkelheit.",
+    "example": "Viele Menschen fürchten sich vor Veränderungen in ihrem Leben.",
     "id": "1046",
-    "example_th": "คนจำนวนมากกลัวความมืด"
+    "example_th": "หลายคนกลัวการเปลี่ยนแปลงในชีวิตของพวกเขา"
   },
   {
     "de": "(sich) vorbereiten",
     "conjugation": "(sich) vorbereiten, bereitet vor, bereitete vor, hat vorbereitet",
     "type": "verb",
     "th": "เตรียมตัว",
-    "example": "Wir bereiten uns gut auf die Prüfung vor.",
+    "example": "Wir bereiten uns gut auf die Prüfung vor, damit wir bestehen.",
     "id": "1047",
-    "example_th": "เราเตรียมตัวอย่างดีสำหรับการสอบ"
+    "example_th": "เราเตรียมตัวอย่างดีสำหรับการสอบเพื่อให้ผ่าน"
   },
   {
     "de": "die Aktivität",
@@ -9128,9 +9128,9 @@
     "conjugation": "(sich) anziehen, zieht an, zog an, hat angezogen",
     "type": "verb",
     "th": "แต่งตัว",
-    "example": "Ich ziehe mich schnell an und gehe zur Arbeit.",
+    "example": "Sie zieht sich schnell an, um nicht zu spät zur Arbeit zu kommen.",
     "id": "1056",
-    "example_th": "ฉันแต่งตัวอย่างรวดเร็วและไปทำงาน"
+    "example_th": "เธอแต่งตัวอย่างรวดเร็วเพื่อไม่ให้ไปทำงานสาย"
   },
   {
     "de": "der Experte",
@@ -9407,9 +9407,9 @@
     "conjugation": "einführen, führt ein, führte ein, hat eingeführt",
     "type": "verb",
     "th": "นำเข้า",
-    "example": "Das Land führt neue Technologien ein.",
+    "example": "Das Unternehmen führt neue Technologie ein, um produktiver zu werden.",
     "id": "1088",
-    "example_th": "ประเทศนั้นนำเข้าเทคโนโลยีใหม่"
+    "example_th": "บริษัทนำเข้าเทคโนโลยีใหม่เพื่อให้มีประสิทธิภาพมากขึ้น"
   },
   {
     "de": "der Wettbewerb",
@@ -9826,34 +9826,34 @@
     "de": "freundlich",
     "type": "other",
     "th": "เป็นมิตร",
-    "example": "Deine Aussprache ist perfekt in Deutsch.",
+    "example": "Die Kellnerin war sehr freundlich und hat uns einen guten Tisch gegeben.",
     "id": "1136",
-    "example_th": "การออกเสียงของคุณสมบูรณ์แบบในภาษาเยอรมัน"
+    "example_th": "พนักงานเสิร์ฟเป็นมิตรมากและให้โต๊ะที่ดีให้เรา"
   },
   {
     "de": "perfekt",
     "type": "other",
     "th": "สมบูรณ์แบบ",
-    "example": "Er ist ein reicher Mann mit vielen Häusern.",
+    "example": "Das Wetter war perfekt für unseren Ausflug zum See.",
     "id": "1137",
-    "example_th": "เขาเป็นชายรวยที่มีบ้านหลายหลัง"
+    "example_th": "อากาศเป็นสมบูรณ์แบบสำหรับการไปเที่ยวของเราไปยังทะเลสาบ"
   },
   {
     "de": "reich",
     "type": "other",
     "th": "รวย",
-    "example": "Mein Urlaub war sehr schön und entspannend.",
+    "example": "Sein reich gewordener Onkel hat ihm ein teures Auto geschenkt.",
     "id": "1138",
-    "example_th": "วันหยุดพักผ่อนของฉันสงดงามและผ่อนคลาย"
+    "example_th": "ลุงของเขาที่รวยขึ้นมาได้มอบรถแพงๆให้เขา"
   },
   {
     "de": "der Urlaub",
     "plural": "-e",
     "type": "noun",
     "th": "วันหยุดพักผ่อน",
-    "example": "Sie studiert ausländische Sprachen an der Universität.",
+    "example": "Während des Urlaubs haben wir viel Zeit am Strand verbracht.",
     "id": "1139",
-    "example_th": "เธอศึกษาภาษาต่างชาติที่มหาวิทยาลัย"
+    "example_th": "ระหว่างวันหยุดพักผ่อนเราใช้เวลามากมายที่ชายหาด"
   },
   {
     "de": "ausländisch",
@@ -9886,9 +9886,9 @@
     "conjugation": "(sich) verstecken, versteckt, versteckte, hat versteckt",
     "type": "verb",
     "th": "ซ่อน/ซ่อนตัว",
-    "example": "Der Hund versteckte sich unter dem Bett.",
+    "example": "Das Kind versteckte sich hinter dem Baum und wartete auf seine Freunde.",
     "id": "1143",
-    "example_th": "สุนัขซ่อนตัวอยู่ใต้เตียง"
+    "example_th": "เด็กซ่อนตัวอยู่หลังต้นไม้และรอเพื่อน"
   },
   {
     "de": "das Feuer",
@@ -9948,9 +9948,9 @@
     "conjugation": "anhaben, hat an, hatte an, hat angehabt",
     "type": "verb",
     "th": "สวมใส่/ใส่สิ่งของอยู่",
-    "example": "Sie hat einen warmen Pullover an.",
+    "example": "Er hatte einen blauen Anzug an, als er zur Konferenz kam.",
     "id": "1150",
-    "example_th": "เธอสวมใส่เสื้อกันหนาวอบอุ่นตัว"
+    "example_th": "เขาใส่สูท blue สีน้ำเงินเมื่อเขามาที่การประชุม"
   },
   {
     "de": "vermeiden",
@@ -10169,9 +10169,9 @@
     "conjugation": "ausfallen, fällt aus, fiel aus, ist ausgefallen",
     "type": "verb",
     "th": "ยกเลิก/ขัดข้อง",
-    "example": "Das Konzert fiel aus, weil der Sänger krank wurde.",
+    "example": "Der Unterricht fiel heute aus, weil der Lehrer krank ist.",
     "id": "1175",
-    "example_th": "คอนเสิร์ตถูกยกเลิกเพราะนักร้องเป็นไข้"
+    "example_th": "บทเรียนวันนี้ยกเลิกเพราะครูป่วย"
   },
   {
     "de": "einerseits",
@@ -10229,9 +10229,9 @@
     "de": "anwenden, wendet an, wandte an, hat angewandt/angewendet",
     "type": "other",
     "th": "ประยุกต์ใช้",
-    "example": "Der Arzt wendet neue Behandlungsmethoden an.",
+    "example": "Wir wenden diese neue Methode in unserem Projekt an.",
     "id": "1182",
-    "example_th": "แพทย์ประยุกต์ใช้วิธีการรักษาแบบใหม่"
+    "example_th": "เราประยุกต์ใช้วิธีใหม่นี้ในโครงการของเรา"
   },
   {
     "de": "wild",
@@ -10264,9 +10264,9 @@
     "conjugation": "brennen, brennt, brannte, hat gebrannt",
     "type": "verb",
     "th": "ไหม้/เผาไหม้",
-    "example": "Das Haus brannte und die Feuerwehr kam schnell.",
+    "example": "Das Haus brennt! Wir müssen schnell die Feuerwehr rufen.",
     "id": "1186",
-    "example_th": "บ้านไหม้และดับเพลิงมาถึงอย่างรวดเร็ว"
+    "example_th": "บ้านไหม้! เราต้องโทรหาดับเพลิงอย่างรวดเร็ว"
   },
   {
     "de": "freiwillig",
@@ -10424,237 +10424,237 @@
     "plural": "-e",
     "type": "noun",
     "th": "รองเท้า",
-    "example": "Mein Knie tut weh, nachdem ich Sport gemacht habe.",
+    "example": "Ich habe neue Schuhe gekauft, weil meine alten kaputt sind.",
     "id": "1204",
-    "example_th": "หัวเข่าของฉันปวดหลังจากที่ฉันออกกำลังกาย"
+    "example_th": "ฉันซื้อรองเท้าใหม่เพราะรองเท้าเก่าของฉันเสีย"
   },
   {
     "de": "das Knie",
     "plural": "-",
     "type": "noun",
     "th": "หัวเข่า",
-    "example": "Es ist unglaublich, wie schnell die Zeit vergeht.",
+    "example": "Sie verletzte sich am Knie und konnte nicht mehr Fußball spielen.",
     "id": "1205",
-    "example_th": "เป็นเรื่องน่าเหลือเชื่อว่าเวลาผ่านไปอย่างรวดเร็ว"
+    "example_th": "เธอได้รับบาดเจ็บที่หัวเข่าและไม่สามารถเล่นฟุตบอลได้อีก"
   },
   {
     "de": "unglaublich",
     "type": "other",
     "th": "น่าเหลือเชื่อ",
-    "example": "Sie kommt bald zurück aus dem Urlaub.",
+    "example": "Es ist unglaublich, dass er die Prüfung bestanden hat, obwohl er nicht gelernt hat.",
     "id": "1206",
-    "example_th": "เธอจะกลับมาจากวันหยุดพักผ่อนในไม่ช้า"
+    "example_th": "มันน่าเหลือเชื่อที่เขาผ่านการสอบแม้ว่าเขาไม่ได้เรียน"
   },
   {
     "de": "zurück/zurück-",
     "type": "other",
     "th": "กลับ",
-    "example": "Die Realität ist oft schwieriger als unsere Träume.",
+    "example": "Ich gebe dir das Buch zurück, sobald ich es gelesen habe.",
     "id": "1207",
-    "example_th": "ความเป็นจริงมักจะยากกว่าความฝันของเรา"
+    "example_th": "ฉันคืนหนังสือให้คุณทันที่ที่ฉันอ่านเสร็จ"
   },
   {
     "de": "die Realität",
     "plural": "-en",
     "type": "noun",
     "th": "ความเป็นจริง",
-    "example": "Sobald du fertig bist, können wir gehen.",
+    "example": "Der Fluss war so tief, dass wir nicht hinüber gehen konnten.",
     "id": "1208",
-    "example_th": "ทันที่ที่คุณเสร็จสิ้น เราสามารถไปได้"
+    "example_th": "แม่น้ำลึกมากจนเราไม่สามารถข้ามไปได้"
   },
   {
     "de": "sobald",
     "type": "other",
     "th": "ทันที่ที่",
-    "example": "Der Fluss fließt durch die Stadt sehr langsam.",
+    "example": "Sobald er das Angebot erhielt, akzeptierte er es ohne Alternativen.",
     "id": "1209",
-    "example_th": "แม่น้ำไหลผ่านเมืองอย่างช้าๆ"
+    "example_th": "ทันที่ที่เขาได้รับข้อเสนอเขาก็ยอมรับโดยไม่มีทางเลือก"
   },
   {
     "de": "der Fluss",
     "plural": "-̈e",
     "type": "noun",
     "th": "แม่น้ำ",
-    "example": "Es gibt mehrere Alternativen zu diesem Plan.",
+    "example": "Wir begrüßten die neuen Kollegen herzlich am ersten Tag.",
     "id": "1210",
-    "example_th": "มีทางเลือกหลายทางสำหรับแผนนี้"
+    "example_th": "เราต้อนรับเพื่อนร่วมงานใหม่อย่างอบอุ่นในวันแรก"
   },
   {
     "de": "die Alternative",
     "plural": "-n",
     "type": "noun",
     "th": "ทางเลือก",
-    "example": "Der Chef begrüßte die neuen Mitarbeiter herzlich.",
+    "example": "Die Führung durch das Museum war sehr informativ und interessant.",
     "id": "1211",
-    "example_th": "หัวหน้างานต้อนรับพนักงานใหม่อย่างอบอุ่น"
+    "example_th": "การนำทางผ่านพิพิธภัณฑ์น่าสนใจและให้ข้อมูลมากมาย"
   },
   {
     "de": "begrüßen",
     "conjugation": "begrüßen, begrüßt, begrüßte, hat begrüßt",
     "type": "verb",
     "th": "ต้อนรับ",
-    "example": "Die Führung durch das Museum hat mir sehr gefallen.",
+    "example": "Das ist die Realität, auch wenn es schwer ist, das zu akzeptieren.",
     "id": "1212",
-    "example_th": "การนำทางผ่านพิพิธภัณฑ์ทำให้ฉันประทับใจมาก"
+    "example_th": "นี่คือความเป็นจริง แม้ว่ามันจะยากที่จะยอมรับ"
   },
   {
     "de": "die Führung",
     "plural": "-en",
     "type": "noun",
     "th": "การนำทาง",
-    "example": "Mein Handy ist kaputt und ich muss es reparieren.",
+    "example": "Mein Handy ist leer und ich muss es schnell aufladen.",
     "id": "1213",
-    "example_th": "โทรศัพท์มือถือของฉันเสียและต้องซ่อม"
+    "example_th": "โทรศัพท์มือถือของฉันหมดแบตเตอรี่และฉันต้องชาร์จอย่างรวดเร็ว"
   },
   {
     "de": "das Handy",
     "plural": "-s",
     "type": "noun",
     "th": "โทรศัพท์มือถือ",
-    "example": "Berlin ist die Hauptstadt von Deutschland.",
+    "example": "Die Katze versteckte sich hinter der Couch, weil sie den Lärm hasste.",
     "id": "1214",
-    "example_th": "เบอร์ลินเป็นเมืองหลวงของเยอรมนี"
+    "example_th": "แมวซ่อนตัวอยู่หลังโซฟาเพราะมันเกลียดเสียง"
   },
   {
     "de": "die Hauptstadt",
     "plural": "-̈e",
     "type": "noun",
     "th": "เมืองหลวง",
-    "example": "Der Verlag hat das neue Buch diesen Monat veröffentlicht.",
+    "example": "Berlin ist die Hauptstadt von Deutschland und hat eine reiche Geschichte.",
     "id": "1215",
-    "example_th": "สำนักพิมพ์ได้เผยแพร่หนังสือใหม่ในเดือนนี้"
+    "example_th": "เบอร์ลินเป็นเมืองหลวงของเยอรมนีและมีประวัติศาสตร์ที่มากมาย"
   },
   {
     "de": "die Hauptstadt",
     "plural": "-̈e",
     "type": "noun",
     "th": "เมืองหลวง",
-    "example": "Ein Vogel sitzt auf dem Ast des Baumes.",
+    "example": "Die Hauptstadt zieht jedes Jahr Millionen von Touristen an.",
     "id": "1216",
-    "example_th": "นกตัวหนึ่งนั่งอยู่บนกิ่งของต้นไม้"
+    "example_th": "เมืองหลวงดึงดูดนักท่องเที่ยวนับล้านคนทุกปี"
   },
   {
     "de": "der Verlag",
     "plural": "-e (A: -̈e)",
     "type": "noun",
     "th": "สำนักพิมพ์",
-    "example": "Sie beschränken die Anzahl der Teilnehmer auf hundert Personen.",
+    "example": "Der Verlag hat gerade ein neues Buch vom bekannten Autor veröffentlicht.",
     "id": "1217",
-    "example_th": "พวกเขาจำกัดจำนวนผู้เข้าร่วมในหนึ่งร้อยคน"
+    "example_th": "สำนักพิมพ์ได้เผยแพร่หนังสือใหม่จากผู้เขียนที่มีชื่อเสียงเมื่อเร็ว ๆ นี้"
   },
   {
     "de": "der Vogel",
     "plural": "-̈",
     "type": "noun",
     "th": "นก",
-    "example": "Der Schauspieler spielte eine emotionale Rolle sehr überzeugend.",
+    "example": "Der Vogel sitzt auf dem Ast und singt ein schönes Lied.",
     "id": "1218",
-    "example_th": "นักแสดงแสดงบทบาทอีโมชันนั่นอย่างน่าเชื่อถือ"
+    "example_th": "นกนั่งอยู่บนกิ่งไม้และร้องเพลงที่สวยงาม"
   },
   {
     "de": "beschränken",
     "type": "other",
     "th": "จำกัด",
-    "example": "Ich möchte dir einen neuen Plan vorschlagen.",
+    "example": "Die Regierung beschränkt die Reisefreiheit während der Pandemie.",
     "id": "1219",
-    "example_th": "ฉันอยากจะเสนอแผนใหม่ให้คุณ"
+    "example_th": "รัฐบาลจำกัดอิสระในการเดินทางในระหว่างการแพร่ระบาด"
   },
   {
     "de": "der Schauspieler",
     "plural": "- die Schauspielerin",
     "type": "noun",
     "th": "นักแสดง",
-    "example": "Wir sind beinahe zu spät zum Treffen gekommen.",
+    "example": "Der Schauspieler spielte eine Hauptrolle in dem neuen Film.",
     "id": "1220",
-    "example_th": "เราเกือบจะมาสายในการประชุมนั้น"
+    "example_th": "นักแสดงรับบทเป็นบทบาทหลักในภาพยนตร์เรื่องใหม่"
   },
   {
     "de": "vorschlagen",
     "conjugation": "vorschlagen, schlägt vor, schlug vor, hat vorgeschlagen",
     "type": "verb",
     "th": "เสนอ",
-    "example": "Die Botschaft befindet sich in einem alten Gebäude.",
+    "example": "Ich möchte dir vorschlagen, dass wir ins Kino gehen.",
     "id": "1221",
-    "example_th": "สถานทูตตั้งอยู่ในอาคารเก่า"
+    "example_th": "ฉันอยากเสนอให้เราไปโรงภาพยนตร์"
   },
   {
     "de": "beinahe",
     "type": "other",
     "th": "เกือบ",
-    "example": "Der Alltag ist manchmal sehr stressig und anstrengend.",
+    "example": "Er beinahe vergaß seinen Termin beim Arzt.",
     "id": "1222",
-    "example_th": "ชีวิตประจำวันบางครั้งเครียดและเหนื่อยมากเลย"
+    "example_th": "เขาเกือบลืมนัดหมายของเขากับหมอ"
   },
   {
     "de": "die Botschaft",
     "plural": "-en",
     "type": "noun",
     "th": "สถานทูต",
-    "example": "Viele Studenten nehmen an diesem Kurs teil.",
+    "example": "Die Botschaft hat neue Visabestimmungen angekündigt.",
     "id": "1223",
-    "example_th": "นักศึกษามากมายเข้าร่วมในหลักสูตรนี้"
+    "example_th": "สถานทูตประกาศข้อกำหนดวีซ่าใหม่"
   },
   {
     "de": "der Alltag",
     "plural": "",
     "type": "noun",
     "th": "ชีวิตประจำวัน",
-    "example": "Das Fahrzeug ist in einem guten Zustand.",
+    "example": "Im Alltag müssen wir viele Aufgaben erledigen.",
     "id": "1224",
-    "example_th": "ยานพาหนะอยู่ในสภาพที่ดี"
+    "example_th": "ในชีวิตประจำวันเราต้องทำงานหลายอย่าง"
   },
   {
     "de": "teilnehmen",
     "conjugation": "teilnehmen, nimmt teil, nahm teil, hat teilgenommen",
     "type": "verb",
     "th": "เข้าร่วม",
-    "example": "Das Wasser fließt kontinuierlich aus dem Wasserhahn.",
+    "example": "Wirst du an dem Wettbewerb nächste Woche teilnehmen?",
     "id": "1225",
-    "example_th": "น้ำไหลออกมาจากก๊อกอย่างต่อเนื่อง"
+    "example_th": "คุณจะเข้าร่วมการแข่งขันในสัปดาห์หน้าหรือไม่"
   },
   {
     "de": "das Fahrzeug",
     "plural": "-e",
     "type": "noun",
     "th": "ยานพาหนะ",
-    "example": "Der Vorwurf gegen ihn war völlig unbegründet.",
+    "example": "Das Fahrzeug war beschädigt, nachdem es in den Unfall verwickelt wurde.",
     "id": "1226",
-    "example_th": "ข้อกล่าวหาต่อเขาไม่มีพื้นฐานเลย"
+    "example_th": "ยานพาหนะได้รับความเสียหายหลังจากที่มันเกี่ยวข้องกับอุบัติเหตุ"
   },
   {
     "de": "fließen",
     "conjugation": "fließen, fließt, floss, ist geflossen",
     "type": "verb",
     "th": "ไหล",
-    "example": "Ein Visum ist erforderlich, um in dieses Land zu reisen.",
+    "example": "Der Fluss fließt durch das ganze Land und mündet ins Meer.",
     "id": "1227",
-    "example_th": "วีซ่าเป็นสิ่งจำเป็นในการเดินทางไปยังประเทศนี้"
+    "example_th": "แม่น้ำไหลผ่านประเทศทั้งหมดและไหลลงสู่ทะเล"
   },
   {
     "de": "der Vorwurf",
     "plural": "-̈e",
     "type": "noun",
     "th": "ข้อกล่าวหา",
-    "example": "Der Schriftsteller hat ein neues Romanwerk geschrieben.",
+    "example": "Der Vorwurf gegen ihn ist völlig unbegründet.",
     "id": "1228",
-    "example_th": "นักเขียนได้เขียนงานนวนิยายเรื่องใหม่"
+    "example_th": "ข้อกล่าวหาต่อเขาไม่มีพื้นฐานเลย"
   },
   {
     "de": "erforderlich",
     "type": "other",
     "th": "จำเป็น",
-    "example": "Zurückblickend sehe ich, dass ich richtig entschieden habe.",
+    "example": "Ein gültiger Pass ist erforderlich, um ins Ausland zu reisen.",
     "id": "1229",
-    "example_th": "มองย้อนกลับไป ฉันเห็นว่าฉันตัดสินใจอย่างถูกต้อง"
+    "example_th": "หนังสือเดินทางที่ถูกต้องจำเป็นต้องได้รับสำหรับการเดินทางไปต่างประเทศ"
   },
   {
     "de": "der Schriftsteller",
     "plural": "- die Schriftstellerin",
     "type": "noun",
     "th": "นักเขียน",
-    "example": "Die Alternative zu diesem Job ist freiberuflich zu arbeiten.",
+    "example": "Der Schriftsteller schrieb einen Roman, der viele Menschen bewegte.",
     "id": "1230",
-    "example_th": "ทางเลือกแทนงานนี้คืองานอิสระ"
+    "example_th": "นักเขียนเขียนนวนิยายที่สัญจรใจหลายคน"
   },
   {
     "de": "die Stimmung",
@@ -10755,9 +10755,9 @@
     "conjugation": "ausgeben, gibt aus, gab aus, hat ausgegeben",
     "type": "verb",
     "th": "ใช้จ่าย, จ่ายเงิน",
-    "example": "Ich gebe zu viel Geld für Kleidung aus.",
+    "example": "Sie gab zu viel Geld für Kleidung aus.",
     "id": "1242",
-    "example_th": "ฉันใช้จ่ายเงินมากเกินไปสำหรับเสื้อผ้า"
+    "example_th": "เธอใช้จ่ายเงินมากเกินไปสำหรับเสื้อผ้า"
   },
   {
     "de": "der Meister",
@@ -10773,9 +10773,9 @@
     "conjugation": "(sich) umdrehen, dreht um, drehte um, hat umgedreht",
     "type": "verb",
     "th": "หันกลับ, หันตัว",
-    "example": "Er drehte sich um und sah mich an.",
+    "example": "Als er meine Stimme hörte, drehte er sich schnell um.",
     "id": "1244",
-    "example_th": "เขาหันกลับและมองฉัน"
+    "example_th": "เมื่อเขาได้ยินเสียงของฉัน เขาหันกลับมาอย่างรวดเร็ว"
   },
   {
     "de": "traurig",
@@ -10958,9 +10958,9 @@
     "conjugation": "(sich) verabschieden, verabschiedet, verabschiedete, hat verabschiedet",
     "type": "verb",
     "th": "ลาจาก",
-    "example": "Ich verabschiede mich von meinen Freunden.",
+    "example": "Sie verabschiedeten sich herzlich voneinander am Bahnhof.",
     "id": "1265",
-    "example_th": "ฉันลาจากเพื่อนของฉัน"
+    "example_th": "พวกเขาลาจากกันอย่างอบอุ่นที่สถานีรถไฟ"
   },
   {
     "de": "das Detail",
@@ -11271,9 +11271,9 @@
     "conjugation": "aufführen, führt auf, führte auf, hat aufgeführt",
     "type": "verb",
     "th": "แสดง",
-    "example": "Das Theater führt ein neues Stück auf.",
+    "example": "Das Theater führt Shakespeares Stücke regelmäßig auf.",
     "id": "1301",
-    "example_th": "โรงละครแสดงบทละครใหม่"
+    "example_th": "โรงละครแสดงบทละครของเชกสเปียร์เป็นประจำ"
   },
   {
     "de": "der Kandidat",
@@ -11307,9 +11307,9 @@
     "conjugation": "einnehmen, nimmt ein, nahm ein, hat eingenommen",
     "type": "verb",
     "th": "รับประทาน",
-    "example": "Er nimmt sein Frühstück um sieben Uhr ein.",
+    "example": "Ich nehme jeden Morgen ein gesundes Frühstück ein.",
     "id": "1305",
-    "example_th": "เขารับประทานอาหารเช้าในเวลาเจ็ดโมง"
+    "example_th": "ฉันรับประทานอาหารเช้าที่มีคุณค่าทุกเช้า"
   },
   {
     "de": "das Loch",
@@ -11369,9 +11369,9 @@
     "conjugation": "aussprechen, spricht aus, sprach aus, hat ausgesprochen",
     "type": "verb",
     "th": "อ่าน",
-    "example": "Bitte sprechen Sie das Wort richtig aus.",
+    "example": "Der Schüler spricht das deutsche Wort korrekt aus.",
     "id": "1312",
-    "example_th": "โปรดอ่านคำว่านั้นให้ถูกต้อง"
+    "example_th": "นักเรียนอ่านคำภาษาเยอรมันออกเสียงได้ถูกต้อง"
   },
   {
     "de": "beliebt",
@@ -11455,253 +11455,253 @@
     "plural": "-̈e die Anwältin",
     "type": "noun",
     "th": "ทนายความ",
-    "example": "Das Gedicht hat mich sehr beeindruckt.",
+    "example": "Der Anwalt verteidigt seinen Klienten vor Gericht.",
     "id": "1322",
-    "example_th": "บทกวีนั้นทำให้ฉันประทับใจมาก"
+    "example_th": "ทนายความปกป้องไคลเอนต์ของเขาในศาลยุติธรรม"
   },
   {
     "de": "das Gedicht",
     "plural": "-e",
     "type": "noun",
     "th": "บทกวี",
-    "example": "Wir unterhalten uns gerne über Politik.",
+    "example": "Meine Tochter hat ein wunderschönes Gedicht geschrieben.",
     "id": "1323",
-    "example_th": "เรามักชอบสนทนาเกี่ยวกับการเมือง"
+    "example_th": "ลูกสาวของฉันเขียนบทกวีที่งามสวยมากมายไว้"
   },
   {
     "de": "(sich) unterhalten",
     "conjugation": "(sich) unterhalten, unterhält, unterhielt, hat unterhalten",
     "type": "verb",
     "th": "สนทนา/พูดคุย",
-    "example": "Der laute Ton hat mich erschreckt.",
+    "example": "Wir unterhalten uns gerne über verschiedene Themen.",
     "id": "1324",
-    "example_th": "เสียงดังนั้นทำให้ฉันตกใจ"
+    "example_th": "เรามักจะพูดคุยกันเกี่ยวกับหัวข้อต่างๆ"
   },
   {
     "de": "erschrecken",
     "conjugation": "erschrecken, erschrickt, erschrak, ist erschrocken/jdn. erschrecken, erschreckt, erschreckte, hat erschreckt",
     "type": "verb",
     "th": "ตกใจ/หวาดเสียว",
-    "example": "Die beiden Straßen verlaufen parallel.",
+    "example": "Das Baby erschrickt, wenn es laute Geräusche hört.",
     "id": "1325",
-    "example_th": "ถนนทั้งสองเส้นวิ่งขนานกัน"
+    "example_th": "เด็กทารกตกใจเมื่อได้ยินเสียงดังๆ"
   },
   {
     "de": "parallel",
     "type": "other",
     "th": "ขนานกัน",
-    "example": "Das Schloss ist sehr alt und beeindruckend.",
+    "example": "Diese zwei Linien verlaufen parallel zueinander.",
     "id": "1326",
-    "example_th": "ปราสาทนั้นเก่ามากและประทับใจ"
+    "example_th": "เส้นทั้งสองนี้วิ่งขนานกัน"
   },
   {
     "de": "das Schloss",
     "plural": "-̈er",
     "type": "noun",
     "th": "ปราสาท/กลอน",
-    "example": "Es ist ein Wunder, dass er überlebt hat.",
+    "example": "Das alte Schloss liegt auf einem hohen Berg.",
     "id": "1327",
-    "example_th": "เป็นปาฏิหาริย์ที่เขารอดชีวิต"
+    "example_th": "ปราสาทเก่าแก่อยู่บนเนินเขาสูง"
   },
   {
     "de": "das Wunder",
     "plural": "-",
     "type": "noun",
     "th": "ปาฏิหาริย์",
-    "example": "Nach meinem Abschluss möchte ich arbeiten.",
+    "example": "Es ist ein Wunder, dass er die Krankheit überlebt hat.",
     "id": "1328",
-    "example_th": "หลังจากสำเร็จการศึกษา ฉันอยากทำงาน"
+    "example_th": "มันเป็นปาฏิหาริย์ที่เขารอดชีวิตจากโรคนั้น"
   },
   {
     "de": "der Abschluss",
     "plural": "-̈e",
     "type": "noun",
     "th": "การสิ้นสุด/ใบประกาศนียบัตร",
-    "example": "Die Antwort ist korrekt und vollständig.",
+    "example": "Nach dem Abschluss der Universität suchte er einen Job.",
     "id": "1329",
-    "example_th": "คำตอบนั้นถูกต้องและสมบูรณ์"
+    "example_th": "หลังจากจบมหาวิทยาลัย เขาค้นหางาน"
   },
   {
     "de": "korrekt",
     "type": "other",
     "th": "ถูกต้อง",
-    "example": "Du darfst das Geheimnis nicht verraten.",
+    "example": "Ihre Antwort ist korrekt und sehr gut begründet.",
     "id": "1330",
-    "example_th": "คุณห้ามเปิดเผยความลับนี้"
+    "example_th": "คำตอบของเธอถูกต้องและมีเหตุผลที่ดีมาก"
   },
   {
     "de": "verraten",
     "conjugation": "verraten, verrät, verriet, hat verraten",
     "type": "verb",
     "th": "เปิดเผย/ทรยศ",
-    "example": "Die Tür öffnet sich automatisch.",
+    "example": "Sein Freund verriet sein Geheimnis an alle.",
     "id": "1331",
-    "example_th": "ประตูเปิดโดยอัตโนมัติ"
+    "example_th": "เพื่อนของเขาเปิดเผยความลับของเขาให้กับทุกคน"
   },
   {
     "de": "automatisch",
     "type": "other",
     "th": "โดยอัตโนมัติ",
-    "example": "Physik ist schwierig, aber interessant.",
+    "example": "Die Tür öffnet sich automatisch, wenn man näher kommt.",
     "id": "1332",
-    "example_th": "ฟิสิกส์ยากแต่น่าสนใจ"
+    "example_th": "ประตูเปิดโดยอัตโนมัติเมื่อคุณเข้ามาใกล้"
   },
   {
     "de": "die Physik",
     "plural": "",
     "type": "noun",
     "th": "ฟิสิกส์",
-    "example": "Viele Teilnehmer sind zur Veranstaltung gekommen.",
+    "example": "Physik war sein Lieblingsfach in der Schule.",
     "id": "1333",
-    "example_th": "ผู้เข้าร่วมจำนวนมากมาร่วมงาน"
+    "example_th": "ฟิสิกส์เป็นวิชาที่รักของเขาในโรงเรียน"
   },
   {
     "de": "der Teilnehmer",
     "plural": "- die Teilnehmerin",
     "type": "noun",
     "th": "ผู้เข้าร่วม",
-    "example": "Was hast du für dieses Wochenende vor?",
+    "example": "Viele Teilnehmer kamen zur Konferenz aus dem Ausland.",
     "id": "1334",
-    "example_th": "คุณวางแผนอะไรสำหรับสุดสัปดาห์นี้?"
+    "example_th": "ผู้เข้าร่วมจำนวนมากมาจากต่างประเทศเข้าร่วมการประชุม"
   },
   {
     "de": "die Veranstaltung",
     "plural": "-en",
     "type": "noun",
     "th": "งาน/กิจกรรม",
-    "example": "Mein Sohn malt gerne bunte Bilder.",
+    "example": "Die Veranstaltung beginnt um 19 Uhr im Kulturzentrum.",
     "id": "1335",
-    "example_th": "ลูกชายของฉันชอบวาดภาพสี"
+    "example_th": "งานเริ่มต้นเวลา 19 นาฬิกา ที่ศูนย์วัฒนธรรม"
   },
   {
     "de": "vorhaben",
     "conjugation": "vorhaben, hat vor, hatte vor, hat vorgehabt",
     "type": "verb",
     "th": "ตั้งใจจะ/วางแผน",
-    "example": "Ich muss zur Post gehen und ein Paket schicken.",
+    "example": "Was hast du für das Wochenende vor?",
     "id": "1336",
-    "example_th": "ฉันต้องไปไปรษณีย์และส่งพัสดุ"
+    "example_th": "คุณวางแผนอะไรสำหรับสุดสัปดาห์?"
   },
   {
     "de": "malen",
     "conjugation": "malen, malt, malte, hat gemalt",
     "type": "verb",
     "th": "วาด/ทำสี",
-    "example": "Du musst regelmäßig üben, um besser zu werden.",
+    "example": "Die Künstlerin malt ein Portrait mit Ölfarben.",
     "id": "1337",
-    "example_th": "คุณต้องฝึกฝนอย่างสม่ำเสมอเพื่อเก่งขึ้น"
+    "example_th": "ศิลปินวาดภาพเหมือนด้วยสีน้ำมัน"
   },
   {
     "de": "die Post",
     "plural": "",
     "type": "noun",
     "th": "ไปรษณีย์",
-    "example": "Der Hund hat einen starken Knochen bekommen.",
+    "example": "Ich muss zur Post gehen, um ein Paket zu versenden.",
     "id": "1338",
-    "example_th": "สุนัขได้รับกระดูกแข็งแรง"
+    "example_th": "ฉันต้องไปที่ไปรษณีย์เพื่อส่งพัสดุ"
   },
   {
     "de": "üben",
     "type": "other",
     "th": "ฝึกฝน",
-    "example": "Die Brücke über den Fluss ist neu.",
+    "example": "Um besser zu spielen, muss man täglich üben.",
     "id": "1339",
-    "example_th": "สะพานข้ามแม่น้ำนั้นใหม่"
+    "example_th": "เพื่อเล่นได้ดีขึ้น คุณต้องฝึกฝนทุกวัน"
   },
   {
     "de": "der Knochen",
     "plural": "-",
     "type": "noun",
     "th": "กระดูก",
-    "example": "Daneben gibt es einen schönen Garten.",
+    "example": "Der Hund kaute glücklich auf dem Knochen.",
     "id": "1340",
-    "example_th": "ข้างๆนั้นมีสวนสวยๆ"
+    "example_th": "สุนัขกัดกระดูกอย่างมีความสุข"
   },
   {
     "de": "die Brücke",
     "plural": "-n",
     "type": "noun",
     "th": "สะพาน",
-    "example": "Das Gewicht des Koffers ist zu schwer.",
+    "example": "Die alte Brücke über den Fluss ist sehr beeindruckend.",
     "id": "1341",
-    "example_th": "น้ำหนักของกระเป๋านั้นหนักเกินไป"
+    "example_th": "สะพานเก่าที่ข้ามแม่น้ำนั้นน่าทึ่งมาก"
   },
   {
     "de": "daneben",
     "type": "other",
     "th": "ข้างๆ/เคียงข้าง",
-    "example": "Die Mutter versuchte, ihr Kind zu beruhigen.",
+    "example": "Mein Auto steht daneben im Parkhaus.",
     "id": "1342",
-    "example_th": "แม่พยายามปลอบประโลมลูก"
+    "example_th": "รถของฉันจอดอยู่ข้างๆในที่จอดรถ"
   },
   {
     "de": "das Gewicht",
     "plural": "-e",
     "type": "noun",
     "th": "น้ำหนัก",
-    "example": "Er hat verrückte Ideen für das Projekt.",
+    "example": "Das Gewicht des Koffers ist zu schwer für mich.",
     "id": "1343",
-    "example_th": "เขามีไอเดียบ้าๆสำหรับโครงการ"
+    "example_th": "น้ำหนักของกระเป๋าเดินทางหนักเกินไปสำหรับฉัน"
   },
   {
     "de": "beruhigen",
     "conjugation": "beruhigen, beruhigt, beruhigte, hat beruhigt",
     "type": "verb",
     "th": "สงบ/ปลอบประโลม",
-    "example": "Der Start des Rennens war sehr spannend.",
+    "example": "Die Mutter versuchte, ihr weinendes Kind zu beruhigen.",
     "id": "1344",
-    "example_th": "การเริ่มต้นของการแข่งนั้นตื่นเต้น"
+    "example_th": "แม่พยายามปลอบประโลมลูกที่กำลังร้องไห้"
   },
   {
     "de": "verrückt",
     "type": "other",
     "th": "บ้า/บ้าคลั่ง",
-    "example": "Eine weibliche Katze ist manchmal aggressiv.",
+    "example": "Du bist verrückt, wenn du diesen Plan allein durchführen willst.",
     "id": "1345",
-    "example_th": "แมวตัวเมียบางครั้งมีอาการก้าวร้าว"
+    "example_th": "คุณบ้าถ้าต้องการดำเนินแผนนี้คนเดียว"
   },
   {
     "de": "der Start",
     "plural": "-s",
     "type": "noun",
     "th": "การเริ่มต้น",
-    "example": "Seitdem ich hier bin, habe ich viel gelernt.",
+    "example": "Der Start des Rennens war um acht Uhr morgens.",
     "id": "1346",
-    "example_th": "นับแต่ฉันมาที่นี่ ฉันได้เรียนรู้เรื่องมากมาย"
+    "example_th": "การเริ่มต้นของการแข่งขันเป็นเวลาแปดโมงเช้า"
   },
   {
     "de": "weiblich",
     "type": "other",
     "th": "เพศหญิง",
-    "example": "Die Treppe ist dunkel und gefährlich.",
+    "example": "Die weibliche Angestellte arbeitet sehr fleißig.",
     "id": "1347",
-    "example_th": "บันไดนั้นมืดและอันตราย"
+    "example_th": "พนักงานหญิงทำงานอย่างขยันขันแข็ง"
   },
   {
     "de": "seitdem",
     "type": "other",
     "th": "นับแต่นั้นมา",
-    "example": "Die Decke im Wohnzimmer ist weiß.",
+    "example": "Seitdem ich in Berlin lebe, habe ich viele neue Freunde gefunden.",
     "id": "1348",
-    "example_th": "เพดานในห้องนั่งเล่นนั้นสีขาว"
+    "example_th": "นับแต่ที่ฉันอยู่ในเบอร์ลิน ฉันได้พบเพื่อนใหม่มากมาย"
   },
   {
     "de": "die Treppe",
     "plural": "-n",
     "type": "noun",
     "th": "บันได",
-    "example": "Ich brauche eine warme Decke für die Nacht.",
+    "example": "Ich musste die Treppe hinaufgehen, weil der Aufzug kaputt war.",
     "id": "1349",
-    "example_th": "ฉันต้องการผ้าห่มอบอุ่นสำหรับกลางคืน"
+    "example_th": "ฉันต้องขึ้นบันไดเพราะลิฟต์เสีย"
   },
   {
     "de": "die Decke",
     "plural": "-n",
     "type": "noun",
     "th": "เพดาน/ผ้าห่ม",
-    "example": "Die Anwältin erklärte das Gesetz den Teilnehmern.",
+    "example": "Die Decke im Wohnzimmer ist neu gestrichen worden.",
     "id": "1350",
-    "example_th": "ทนายหญิงอธิบายกฎหมายให้ผู้เข้าร่วมฟัง"
+    "example_th": "เพดานในห้องนั่งเล่นได้ทาสีใหม่แล้ว"
   },
   {
     "de": "heiraten",
@@ -11771,9 +11771,9 @@
     "conjugation": "zugehen, geht zu, ging zu, ist zugegangen",
     "type": "verb",
     "th": "เข้าไป",
-    "example": "Wir gehen ins Museum, um die neue Ausstellung zu sehen.",
+    "example": "Langsam zugehen wir auf das Ende des Jahres zu.",
     "id": "1358",
-    "example_th": "เราเข้าไปในพิพิธภัณฑ์เพื่อดูงานแสดงใหม่"
+    "example_th": "เรากำลังเข้าไปสู่จุดสิ้นสุดของปี"
   },
   {
     "de": "durchschnittlich",
@@ -11848,9 +11848,9 @@
     "conjugation": "aufregen, regt auf, regte auf, hat aufgeregt",
     "type": "verb",
     "th": "กระตุ้น",
-    "example": "Der Lärm regt mich wirklich auf.",
+    "example": "Solche Kritik regt mich sehr auf.",
     "id": "1367",
-    "example_th": "เสียงรบกวนนั้นกระตุ้นฉันจริงๆ"
+    "example_th": "วิจารณ์แบบนี้ทำให้ฉันโกรธมาก"
   },
   {
     "de": "die Einrichtung",
@@ -12069,9 +12069,9 @@
     "conjugation": "fangen, fängt, fing, hat gefangen",
     "type": "verb",
     "th": "จับ",
-    "example": "Der Hund fing den Ball im Park.",
+    "example": "Der Junge versuchte, den Ball zu fangen.",
     "id": "1392",
-    "example_th": "สุนัขจับลูกบอลในสวนสาธารณะ"
+    "example_th": "เด็กชายพยายามจับลูกบอล"
   },
   {
     "de": "die Träne",
@@ -12334,161 +12334,161 @@
     "plural": "",
     "type": "noun",
     "th": "ความพยายาม, ความเมื่อยล้า",
-    "example": "Er unterbrach mich während ich sprechen wollte.",
+    "example": "Mit großer Mühe schaffte er es, die schwere Tür zu öffnen.",
     "id": "1422",
-    "example_th": "เขาขัดจังหวะฉันขณะที่ฉันต้องการพูด"
+    "example_th": "ด้วยความพยายามอย่างมาก เขาสามารถเปิดประตูหนักนั้นได้"
   },
   {
     "de": "unterbrechen",
     "conjugation": "unterbrechen, unterbricht, unterbrach, hat unterbrochen",
     "type": "verb",
     "th": "หยุดชั่วคราว, ขัดจังหวะ",
-    "example": "Das Boot segelte langsam über den ruhigen See.",
+    "example": "Er unterbrach das Gespräch, um eine wichtige Frage zu stellen.",
     "id": "1423",
-    "example_th": "เรือแล่นไปช้าๆ บนทะเลสงบ"
+    "example_th": "เขาขัดจังหวะการสนทนาเพื่อถามคำถามที่สำคัญ"
   },
   {
     "de": "das Boot",
     "plural": "-e",
     "type": "noun",
     "th": "เรือ, เรือเล็ก",
-    "example": "Sie klopfte an die Tür und wartete geduldig auf eine Antwort.",
+    "example": "Das Boot war zu klein für fünf Personen.",
     "id": "1424",
-    "example_th": "เธอเคาะประตูและรอคำตอบอย่างอดทน"
+    "example_th": "เรือเล็กเกินไปสำหรับห้าคน"
   },
   {
     "de": "klopfen",
     "conjugation": "klopfen, klopft, klopfte, hat geklopft",
     "type": "verb",
     "th": "เคาะ, ตอก",
-    "example": "Die grauen Wolken hängten schwer über der Stadt.",
+    "example": "Sie klopfte an die Tür und wartete auf eine Antwort.",
     "id": "1425",
-    "example_th": "เมฆสีเทาลอยอยู่เหนือเมืองอย่างหนัก"
+    "example_th": "เธอเคาะประตูและรอการตอบสนอง"
   },
   {
     "de": "die Wolke",
     "plural": "-n",
     "type": "noun",
     "th": "เมฆ",
-    "example": "In meiner Jugend war ich sehr aktiv und abenteuerlustig.",
+    "example": "Die weißen Wolken zogen langsam über den Himmel.",
     "id": "1426",
-    "example_th": "ตอนฉันเยาวชนฉันกระตือรือร้นและชอบผจญภัย"
+    "example_th": "เมฆสีขาวลอยไปช้าๆบนท้องฟ้า"
   },
   {
     "de": "die Jugend",
     "plural": "",
     "type": "noun",
     "th": "วัยรุ่น, ความเยาวชน",
-    "example": "Ich wundere mich, warum er nicht zum Meeting gekommen ist.",
+    "example": "In seiner Jugend war er ein großer Sportler.",
     "id": "1427",
-    "example_th": "ฉันประหลาดใจว่าทำไมเขาไม่มาที่การประชุม"
+    "example_th": "ในวัยเยาวชนของเขา เขาเป็นนักกีฬาที่ยอดเยี่ยม"
   },
   {
     "de": "sich wundern, wundert sich, wunderte sich, hat sich gewundert",
     "type": "other",
     "th": "ประหลาดใจ, สงสัย, ประหลาดใจ, ประหลาดใจแล้ว",
-    "example": "Er hob den Koffer und trug ihn ins Haus.",
+    "example": "Ich wundere mich, warum er nicht zur Besprechung gekommen ist.",
     "id": "1428",
-    "example_th": "เขายกกระเป๋าและหิ้วเข้าไปในบ้าน"
+    "example_th": "ฉันประหลาดใจว่าทำไมเขาถึงไม่มาประชุม"
   },
   {
     "de": "aufheben",
     "conjugation": "aufheben, hebt auf, hob auf, hat aufgehoben",
     "type": "verb",
     "th": "ยกขึ้น, หยิบขึ้น",
-    "example": "Edison erfand die Glühbirne und veränderte damit die Welt.",
+    "example": "Sie hob den Stift vom Boden auf und legte ihn auf den Tisch.",
     "id": "1429",
-    "example_th": "เอดิสันคิดค้นหลอดไฟและเปลี่ยนโลก"
+    "example_th": "เธอหยิบปากกาจากพื้นขึ้นมาและวางไว้บนโต๊ะ"
   },
   {
     "de": "erfinden",
     "conjugation": "erfinden, erfindet, erfand, hat erfunden",
     "type": "verb",
     "th": "คิดค้น, ประดิษฐ์",
-    "example": "Das Projekt erfordert viel Zeit und Aufmerksamkeit von allen.",
+    "example": "Thomas erfand eine neue Methode, um das Problem zu lösen.",
     "id": "1430",
-    "example_th": "โครงการนี้ต้องการเวลาและความสนใจจากทุกคน"
+    "example_th": "โทมัสคิดค้นวิธีใหม่เพื่อแก้ปัญหา"
   },
   {
     "de": "erfordern",
     "conjugation": "erfordern, erfordert, erforderte, hat erfordert",
     "type": "verb",
     "th": "กำหนด, ยืนยัน, ต้องการ",
-    "example": "Der Verkehr in der Innenstadt ist während der Stoßzeiten sehr dicht.",
+    "example": "Diese Arbeit erfordert viel Geduld und Konzentration.",
     "id": "1431",
-    "example_th": "การจราจรในใจกลางเมืองหนาแน่นมากในชั่วโมงเร่งด่วน"
+    "example_th": "งานนี้ต้องการความอดทนและความเข้มข้นมาก"
   },
   {
     "de": "der Verkehr",
     "plural": "",
     "type": "noun",
     "th": "การจราจร, ปริมาณการค้น",
-    "example": "Der Regen hat unsere Reise aufgehalten und wir kamen später an.",
+    "example": "Der Verkehr in der Stadt ist während der Stoßzeit sehr schwer.",
     "id": "1432",
-    "example_th": "ฝนทำให้การเดินทางของเราล่าช้าและเรามาถึงช้า"
+    "example_th": "การจราจรในเมืองหนักมากในช่วงเวลาเร่งด่วน"
   },
   {
     "de": "aufhalten",
     "conjugation": "aufhalten, hält auf, hielt auf, hat aufgehalten",
     "type": "verb",
     "th": "ทำให้ช้า, หยุดกั้น",
-    "example": "Ich schneide das Gemüse für den Salat in kleine Stücke.",
+    "example": "Ein Unfall hielt den Verkehr eine Stunde lang auf.",
     "id": "1433",
-    "example_th": "ฉันตัดผักสำหรับสลัดออกเป็นชิ้นเล็กๆ"
+    "example_th": "อุบัติเหตุทำให้การจราจรหยุดชะงักนานหนึ่งชั่วโมง"
   },
   {
     "de": "(sich) schneiden",
     "conjugation": "(sich) schneiden, schneidet, schnitt, hat geschnitten",
     "type": "verb",
     "th": "ตัด, บาด",
-    "example": "Der Kauf dieser neuen Wohnung war eine wichtige Entscheidung.",
+    "example": "Der Chef schnitt sich beim Kochen in den Finger.",
     "id": "1434",
-    "example_th": "การซื้ออพาร์ตเมนต์ใหม่นี้เป็นการตัดสินใจที่สำคัญ"
+    "example_th": "หัวหน้าตัดนิ้วให้เป็นแผลขณะทำอาหาร"
   },
   {
     "de": "der Kauf",
     "plural": "",
     "type": "noun",
     "th": "การซื้อ",
-    "example": "Das Öl ist zu heiß geworden und ich musste Vorsicht walten lassen.",
+    "example": "Der Kauf eines neuen Hauses war eine große Entscheidung für die Familie.",
     "id": "1435",
-    "example_th": "น้ำมันร้อนเกินไปและฉันต้องระวัง"
+    "example_th": "การซื้อบ้านใหม่เป็นการตัดสินใจครั้งใหญ่สำหรับครอบครัว"
   },
   {
     "de": "das Öl",
     "plural": "-e",
     "type": "noun",
     "th": "น้ำมัน",
-    "example": "Der Betrag der Rechnung war höher als ich erwartet hatte.",
+    "example": "Das Öl in der Lampe muss regelmäßig nachgefüllt werden.",
     "id": "1436",
-    "example_th": "จำนวนเงินในใบเรียกเก็บเงินสูงกว่าที่ฉันคาดไว้"
+    "example_th": "น้ำมันในโคมไฟต้องเติมเพิ่มเติมอย่างสม่ำเสมอ"
   },
   {
     "de": "der Betrag",
     "plural": "-̈e",
     "type": "noun",
     "th": "จำนวนเงิน, จำนวน",
-    "example": "Ich fahre mit meinem Fahrrad jeden Tag zur Schule.",
+    "example": "Der Betrag für die Miete muss bis zum Ende des Monats bezahlt werden.",
     "id": "1437",
-    "example_th": "ฉันขี่จักรยานไปโรงเรียนทุกวัน"
+    "example_th": "จำนวนเงินค่าเช่าต้องชำระภายในสิ้นเดือน"
   },
   {
     "de": "das Fahrrad",
     "plural": "-̈er",
     "type": "noun",
     "th": "จักรยาน",
-    "example": "Der Park ist ein schöner Ort zum Entspannen und Spazieren.",
+    "example": "Sie fährt mit dem Fahrrad zur Arbeit, um fit zu bleiben.",
     "id": "1438",
-    "example_th": "สวนสาธารณะเป็นสถานที่ที่สวยงามสำหรับผ่อนคลายและเดินเล่น"
+    "example_th": "เธอขี่จักรยานไปทำงานเพื่อให้สุขภาพแข็งแรง"
   },
   {
     "de": "der Park",
     "plural": "-s",
     "type": "noun",
     "th": "สวนสาธารณะ",
-    "example": "Das Essen schmeckt sehr gut und ich esse gerne hier.",
+    "example": "Wir haben einen schönen Spaziergang im Park gemacht.",
     "id": "1439",
-    "example_th": "อาหารมีรสชาติอร่อยและฉันชอบกินที่นี่"
+    "example_th": "เราเดินเล่นอย่างสนุกสนานในสวนสาธารณะ"
   },
   {
     "de": "schmecken",
@@ -12531,9 +12531,9 @@
     "conjugation": "ausrichten, richtet aus, richtete aus, hat ausgerichtet",
     "type": "verb",
     "th": "จัดเรียง, ดำเนิน",
-    "example": "Wir richten die Konferenz für nächsten Monat aus.",
+    "example": "Die Schule richtet ein Fest für alle Schüler und Eltern aus.",
     "id": "1444",
-    "example_th": "เราจัดการประชุมในเดือนหน้า"
+    "example_th": "โรงเรียนจัดงานเทศกาลให้นักเรียนและผู้ปกครองทั้งหมด"
   },
   {
     "de": "die Hose",
@@ -13034,9 +13034,9 @@
     "conjugation": "(sich) streiten, streitet, stritt, hat gestritten",
     "type": "verb",
     "th": "ทะเลาะวิวาท",
-    "example": "Meine Eltern streiten sich oft über Politik.",
+    "example": "Die Kinder streiten sich oft über die Spielzeuge.",
     "id": "1501",
-    "example_th": "พ่อแม่ของฉันมักทะเลาะเรื่องการเมืองบ่อยครั้ง"
+    "example_th": "เด็ก ๆ มักทะเลาะกันเรื่องของเล่น"
   },
   {
     "de": "hinterlassen",
@@ -13148,9 +13148,9 @@
     "conjugation": "(sich) waschen, wäscht, wusch, hat gewaschen",
     "type": "verb",
     "th": "อาบน้ำ",
-    "example": "Ich wasche mich jeden Morgen mit kaltem Wasser.",
+    "example": "Nach dem Sport wusch ich mir die Hände und das Gesicht.",
     "id": "1514",
-    "example_th": "ฉันอาบน้ำด้วยน้ำเย็นทุกเช้า"
+    "example_th": "หลังจากออกกำลังกายฉันล้างมือและหน้า"
   },
   {
     "de": "die Lebensmittel (Pl.)",
@@ -13438,9 +13438,9 @@
     "conjugation": "anzeigen, zeigt an, zeigte an, hat angezeigt",
     "type": "verb",
     "th": "แสดง",
-    "example": "Das Thermometer zeigt 25 Grad Celsius an.",
+    "example": "Das Thermometer zeigt eine Temperatur von 25 Grad an.",
     "id": "1547",
-    "example_th": "เทอร์มอมิเตอร์แสดง 25 องศาเซลเซียส"
+    "example_th": "เทอร์โมมิเตอร์แสดงอุณหภูมิ 25 องศา"
   },
   {
     "de": "die Überzeugung",
@@ -13516,9 +13516,9 @@
     "de": "ausziehen, zieht aus, zog aus, hat/ist ausgezogen",
     "type": "other",
     "th": "ถอดออก",
-    "example": "Zieh deine Jacke aus, es ist warm heute.",
+    "example": "Ich zog meinen Mantel aus, weil es warm wurde.",
     "id": "1556",
-    "example_th": "ถอดเสื้อแจ็คเก็ตของคุณออก วันนี้อากาศอบอุ่น"
+    "example_th": "ฉันถอดเสื้อโค้ตออกเพราะอากาศร้อนขึ้น"
   },
   {
     "de": "die Gewerkschaft",
@@ -13699,9 +13699,9 @@
     "conjugation": "fliehen, flieht, floh, ist geflohen",
     "type": "verb",
     "th": "หนี",
-    "example": "Die Gefangenen sind aus dem Gefängnis geflohen.",
+    "example": "Der Dieb floh vor der Polizei in die dunkle Nacht.",
     "id": "1577",
-    "example_th": "นักโทษหนีออกจากคุกแล้ว"
+    "example_th": "ผู้ร้ายหนีจากตำรวจเข้าไปในคืนที่มืดมัว"
   },
   {
     "de": "anerkennen",
@@ -13805,9 +13805,9 @@
     "conjugation": "zustimmen, stimmt zu, stimmte zu, hat zugestimmt",
     "type": "verb",
     "th": "เห็นด้วย",
-    "example": "Alle Mitglieder stimmen diesem Vorschlag zu.",
+    "example": "Ich stimmte dem Vorschlag meines Kollegen zu, weil er sinnvoll war.",
     "id": "1589",
-    "example_th": "สมาชิกทั้งหมดเห็นด้วยกับข้อเสนอนี้"
+    "example_th": "ฉันเห็นด้วยกับข้อเสนอของเพื่อนร่วมงานเพราะมีเหตุผล"
   },
   {
     "de": "der Kanal",
@@ -14184,18 +14184,18 @@
     "conjugation": "anschließen, schließt an, schloss an, hat angeschlossen",
     "type": "verb",
     "th": "เชื่อมต่อ",
-    "example": "Bitte schließ den Drucker an den Computer an.",
+    "example": "Der Techniker schloss das neue Gerät an das Stromnetz an.",
     "id": "1632",
-    "example_th": "กรุณาเชื่อมต่อเครื่องพิมพ์กับคอมพิวเตอร์"
+    "example_th": "ช่างเทคนิคเชื่อมต่ออุปกรณ์ใหม่กับเครือข่ายไฟฟ้า"
   },
   {
     "de": "anstellen",
     "conjugation": "anstellen, stellt an, stellte an, hat angestellt",
     "type": "verb",
     "th": "สวิตช์เปิด/จ้างงาน",
-    "example": "Der Chef stellt einen neuen Angestellten für das Team an.",
+    "example": "Der Chef will neue Mitarbeiter anstellen.",
     "id": "1633",
-    "example_th": "เจ้านายจ้างพนักงานคนใหม่สำหรับทีม"
+    "example_th": "เจ้านายต้องการจ้างพนักงานใหม่"
   },
   {
     "de": "der Protest",
@@ -14271,18 +14271,18 @@
     "de": "einziehen, zieht ein, zog ein, ist eingezogen das Eis",
     "type": "other",
     "th": "ย้ายเข้า/เข้าอยู่/น้ำแข็ง",
-    "example": "Die neue Familie zieht nächste Woche in die Nachbarschaft ein.",
+    "example": "Meine Familie ist vor einem Monat in die neue Wohnung eingezogen.",
     "id": "1642",
-    "example_th": "ครอบครัวใหม่จะย้ายเข้าไปในย่านใกล้เคียงสัปดาห์หน้า"
+    "example_th": "ครอบครัวของฉันย้ายเข้าไปในอพาร์ตเมนต์ใหม่เมื่อหนึ่งเดือนที่แล้ว"
   },
   {
     "de": "(sich) verbrennen",
     "conjugation": "(sich) verbrennen, verbrennt, verbrannte, hat verbrannt",
     "type": "verb",
     "th": "ไหม้",
-    "example": "Vorsicht! Du verbrennt dich an dem heißen Topf.",
+    "example": "Achtung! Das Lagerfeuer ist heiß und du kannst dich verbrennen.",
     "id": "1643",
-    "example_th": "ระวัง! เธอจะไหม้จากหม้อที่ร้อน"
+    "example_th": "ระวัง! ไฟค่ายร้อนและคุณอาจไหม้ได้"
   },
   {
     "de": "der Atem",
@@ -14396,9 +14396,9 @@
     "conjugation": "beraten, berät, beriet, hat beraten",
     "type": "verb",
     "th": "ให้คำแนะนำ",
-    "example": "Mein Vater berät mich bei wichtigen Entscheidungen.",
+    "example": "Der Berater hat mir geraten, mein Geld zu sparen.",
     "id": "1656",
-    "example_th": "พ่อของฉันให้คำแนะนำฉันในการตัดสินใจที่สำคัญ"
+    "example_th": "顾问建议我存钱"
   },
   {
     "de": "das Erlebnis",
@@ -14499,9 +14499,9 @@
     "conjugation": "loben, lobt, lobte, hat gelobt",
     "type": "verb",
     "th": "ยกย่อง",
-    "example": "Der Lehrer lobt die gute Arbeit der Schüler.",
+    "example": "Der Lehrer lobte die Schülerin für ihre ausgezeichnete Arbeit.",
     "id": "1668",
-    "example_th": "ครูยกย่องงานที่ดีของนักเรียน"
+    "example_th": "ครูยกย่องนักเรียนหญิงเพราะงานของเธอดีเยี่ยม"
   },
   {
     "de": "die Zustimmung",
@@ -14768,9 +14768,9 @@
     "conjugation": "(sich) ärgern, ärgert, ärgerte, hat geärgert",
     "type": "verb",
     "th": "โกรธ",
-    "example": "Er ärgert sich über die schlechten Noten.",
+    "example": "Mein Bruder ärgert sich über den Verkehr auf der Straße.",
     "id": "1699",
-    "example_th": "เขาโกรธเพราะเกรดต่ำ"
+    "example_th": "พี่ชายของฉันโกรธเพราะการจราจรบนถนน"
   },
   {
     "de": "der Verwandte",
@@ -14962,9 +14962,9 @@
     "conjugation": "zusagen, sagt zu, sagte zu, hat zugesagt",
     "type": "verb",
     "th": "ตกลง",
-    "example": "Er hat meinem Vorschlag zugesagt.",
+    "example": "Hast du der Einladung zugesagt oder abgesagt?",
     "id": "1721",
-    "example_th": "เขาตกลงกับข้อเสนอของฉัน"
+    "example_th": "คุณตกลงหรือปฏิเสธคำเชิญแล้ว"
   },
   {
     "de": "der Buchstabe",
@@ -15050,9 +15050,9 @@
     "conjugation": "fressen, frisst, fraß, hat gefressen",
     "type": "verb",
     "th": "กิน (สัตว์)",
-    "example": "Die Kuh frisst Gras auf der Wiese.",
+    "example": "Die Kühe fressen Gras auf der Weide.",
     "id": "1731",
-    "example_th": "วัวกินหญ้าในทุ่ง"
+    "example_th": "วัวกินหญ้าบนทุ่งนา"
   },
   {
     "de": "anfangs",
@@ -15084,42 +15084,42 @@
     "plural": "-̈e",
     "type": "noun",
     "th": "วัว",
-    "example": "Drüben auf der anderen Seite ist ein See.",
+    "example": "Die Kuh gibt uns jeden Tag frische Milch.",
     "id": "1735",
-    "example_th": "ฝั่งตรงข้ามนั้นมีทะเลสาบ"
+    "example_th": "วัวให้นมสดแก่เราทุกวัน"
   },
   {
     "de": "drüben",
     "type": "other",
     "th": "ฝั่งตรงข้าม",
-    "example": "Es ist peinlich, so etwas zu fragen.",
+    "example": "Das Restaurant drüben ist viel besser als dieses hier.",
     "id": "1736",
-    "example_th": "เป็นเรื่องอายที่จะถามอย่างนั้น"
+    "example_th": "ร้านอาหารฝั่งตรงข้ามดีกว่าที่นี่มาก"
   },
   {
     "de": "peinlich",
     "type": "other",
     "th": "อายโหดหรือน่าอับอาย",
-    "example": "Mein altes Auto ist kaputt gegangen.",
+    "example": "Es war peinlich, dass ich in der Klasse eingeschlafen bin.",
     "id": "1737",
-    "example_th": "รถเก่าของฉันพังลงแล้ว"
+    "example_th": "เป็นเรื่องน่าอับอายที่ฉันนอนในชั้นเรียน"
   },
   {
     "de": "kaputt",
     "type": "other",
     "th": "พัง",
-    "example": "Ich habe eine gute Note in Mathematik bekommen.",
+    "example": "Mein altes Auto ist kaputt und ich muss es reparieren lassen.",
     "id": "1738",
-    "example_th": "ฉันได้คะแนนดีในวิชาคณิตศาสตร์"
+    "example_th": "รถเก่าของฉันพังและฉันต้องซ่อมแซม"
   },
   {
     "de": "die Note",
     "plural": "-n",
     "type": "noun",
     "th": "คะแนน",
-    "example": "Die Kuh grast auf der grünen Wiese.",
+    "example": "Ich bin mit meiner Note in Mathematik nicht zufrieden.",
     "id": "1739",
-    "example_th": "วัวกำลังกินหญ้าบนทุ่งหญ้าสีเขียว"
+    "example_th": "ฉันไม่พอใจคะแนนคณิตศาสตร์ของฉัน"
   },
   {
     "de": "die Wiese",
@@ -15272,111 +15272,111 @@
     "de": "zurzeit",
     "type": "other",
     "th": "ในปัจจุบัน",
-    "example": "Der Film war langweilig und ich bin eingeschlafen.",
+    "example": "Zurzeit arbeite ich in einem großen Unternehmen.",
     "id": "1757",
-    "example_th": "หนังนั้นน่าเบื่อและฉันนอนหลับไป"
+    "example_th": "ในปัจจุบันฉันทำงานในบริษัทขนาดใหญ่"
   },
   {
     "de": "langweilig",
     "type": "other",
     "th": "น่าเบื่อ",
-    "example": "Das Bild an der Wand hängt schief.",
+    "example": "Dieser Film ist langweilig und ich möchte ihn nicht sehen.",
     "id": "1758",
-    "example_th": "ภาพบนผนังนั้นแขวนเอียง"
+    "example_th": "หนังเรื่องนี้น่าเบื่อและฉันไม่อยากดู"
   },
   {
     "de": "schief",
     "type": "other",
     "th": "เอียง",
-    "example": "Der Lehrer korrigiert die Fehler der Schüler.",
+    "example": "Das Bild hängt schief an der Wand.",
     "id": "1759",
-    "example_th": "ครูแก้ไขข้อผิดพลาดของนักเรียน"
+    "example_th": "รูปภาพห้อยเอียงบนผนัง"
   },
   {
     "de": "korrigieren",
     "conjugation": "korrigieren, korrigiert, korrigierte, hat korrigiert",
     "type": "verb",
     "th": "แก้ไข",
-    "example": "Der berühmte Sänger tritt heute im Konzert auf.",
+    "example": "Der Lehrer korrigierte meine Fehler in der Prüfung.",
     "id": "1760",
-    "example_th": "นักร้องชื่อดังนั้นบรร演งานในคอนเสิร์ตวันนี้"
+    "example_th": "ครูแก้ไขข้อผิดพลาดของฉันในการสอบ"
   },
   {
     "de": "der Sänger",
     "plural": "- die Sängerin",
     "type": "noun",
     "th": "นักร้อง",
-    "example": "Einige Leute mögen nicht gerne Gemüse essen.",
+    "example": "Der Sänger sang das Lied sehr schön auf der Bühne.",
     "id": "1761",
-    "example_th": "บางคนไม่ชอบกินผัก"
+    "example_th": "นักร้องร้องเพลงอย่างสวยงามบนเวที"
   },
   {
     "de": "einig-",
     "type": "other",
     "th": "เดียวกัน/บางส่วน",
-    "example": "Die mündliche Prüfung ist schwerer als die schriftliche.",
+    "example": "Einige Schüler haben die Hausaufgaben vergessen.",
     "id": "1762",
-    "example_th": "การสอบปากเปล่าหนักกว่าการสอบเขียน"
+    "example_th": "นักเรียนบางคนลืมการบ้าน"
   },
   {
     "de": "mündlich",
     "type": "other",
     "th": "ด้วยปาก/ปากเปล่า",
-    "example": "Die neugierige Katze schaut aus dem Fenster.",
+    "example": "Die mündliche Prüfung war schwieriger als die schriftliche.",
     "id": "1763",
-    "example_th": "แมวอยากรู้อยากเห็นมองออกมาจากหน้าต่าง"
+    "example_th": "การสอบปากเปล่าเป็นเรื่องยากกว่าการสอบเขียน"
   },
   {
     "de": "neugierig",
     "type": "other",
     "th": "อยากรู้อยากเห็น",
-    "example": "Das Fett in dieser Suppe ist zu viel.",
+    "example": "Die Kinder waren neugierig auf die neue Ausstellung im Museum.",
     "id": "1764",
-    "example_th": "ไขมันในซุปนี้มากเกินไป"
+    "example_th": "เด็กๆ อยากรู้อยากเห็นเกี่ยวกับนิทรรศการใหม่ในพิพิธภัณฑ์"
   },
   {
     "de": "das Fett",
     "plural": "",
     "type": "noun",
     "th": "ไขมัน",
-    "example": "Die Marke klebt auf der Flasche.",
+    "example": "Der Arzt warnte ihn vor zu viel Fett in seiner Ernährung.",
     "id": "1765",
-    "example_th": "ป้ายติดกับขวด"
+    "example_th": "แพทย์เตือนเขาให้ระวังไขมันมากเกินไปในอาหาร"
   },
   {
     "de": "kleben",
     "conjugation": "kleben, klebt, klebte, hat geklebt",
     "type": "verb",
     "th": "ติดกัน",
-    "example": "Im virtuellen Klassenzimmer können wir online lernen.",
+    "example": "Die zwei Papierblätter kleben zusammen und lassen sich nicht trennen.",
     "id": "1766",
-    "example_th": "ในห้องเรียนจำลองเราสามารถเรียนออนไลน์ได้"
+    "example_th": "กระดาษสองแผ่นติดกัน และไม่สามารถแยกออกจากกันได้"
   },
   {
     "de": "virtuell",
     "type": "other",
     "th": "เสมือน/จำลอง",
-    "example": "Mein Vorname ist Hans und mein Nachname ist Schmidt.",
+    "example": "Wir haben an einem virtuellen Treffen über Zoom teilgenommen.",
     "id": "1767",
-    "example_th": "ชื่อจริงของฉันคือ Hans และนามสกุลของฉันคือ Schmidt"
+    "example_th": "เราเข้าร่วมการประชุมเสมือนผ่าน Zoom"
   },
   {
     "de": "der Vorname",
     "plural": "-n",
     "type": "noun",
     "th": "ชื่อจริง",
-    "example": "Ich lese jede Woche eine interessante Zeitschrift.",
+    "example": "Der Vorname meines Lehrers ist Klaus, aber wir nennen ihn Herr Schmidt.",
     "id": "1768",
-    "example_th": "ฉันอ่านวารสารที่น่าสนใจทุกสัปดาห์"
+    "example_th": "ชื่อจริงของครูของฉันคือ Klaus แต่เราเรียกเขาว่า Herr Schmidt"
   },
   {
     "de": "die Zeitschrift",
     "plural": "-en",
     "type": "noun",
     "th": "วารสาร",
-    "example": "All dieses Zeug muss ich zur Uni mitnehmen.",
+    "example": "Ich lese jede Woche eine Zeitschrift über Mode und Design.",
     "id": "1769",
-    "example_th": "สิ่งของทั้งหมดนี้ฉันต้องนำไปที่มหาวิทยาลัย"
+    "example_th": "ฉันอ่านวารสารเกี่ยวกับแฟชั่นและการออกแบบทุกสัปดาห์"
   },
   {
     "de": "das Zeug/-zeug",
@@ -15417,9 +15417,9 @@
     "conjugation": "auffordern, fordert auf, forderte auf, hat aufgefordert",
     "type": "verb",
     "th": "เรียกร้อง",
-    "example": "Der Chef forderte die Mitarbeiter auf, schneller zu arbeiten.",
+    "example": "Der Chef forderte seine Mitarbeiter auf, ihre Ideen zu teilen.",
     "id": "1774",
-    "example_th": "หัวหน้าเรียกร้องให้พนักงานทำงานเร็วขึ้น"
+    "example_th": "เจ้านายเรียกร้องให้พนักงานแบ่งปันความคิดของพวกเขา"
   },
   {
     "de": "der Hügel",
@@ -15563,9 +15563,9 @@
     "conjugation": "(sich etwas) aussuchen, sucht aus, suchte aus, hat ausgesucht",
     "type": "verb",
     "th": "เลือกสำหรับตัวเอง",
-    "example": "Du darfst dir selbst einen Film von dieser Liste aussuchen.",
+    "example": "Du kannst dir jedes Buch aus der Bibliothek aussuchen.",
     "id": "1791",
-    "example_th": "เธอสามารถเลือกหนังให้ตัวเองจากรายชื่อนี้ได้"
+    "example_th": "คุณสามารถเลือกหนังสือจากห้องสมุดได้"
   },
   {
     "de": "das Stadion",
@@ -15790,124 +15790,124 @@
     "conjugation": "zuschauen, schaut zu, schaute zu, hat zugeschaut",
     "type": "verb",
     "th": "ดูอย่างใจจดใจจ่อ",
-    "example": "Die Mutter sendet ein Paket an ihren Sohn.",
+    "example": "Wir schauten gebannt zu, wie der Magier seinen Trick vorführte.",
     "id": "1817",
-    "example_th": "แม่ส่งพัสดุไปให้ลูกชาย"
+    "example_th": "เราดูอย่างใจจดใจจ่อเมื่อนักมายากลแสดงเทคนิคของเขา"
   },
   {
     "de": "senden, sendet, sendete/sandte, hat gesendet/gesandt",
     "type": "other",
     "th": "ส่ง",
-    "example": "Ich stelle die Gläser in den Schrank.",
+    "example": "Sie sendete eine Nachricht an ihren Freund, um ihm alles zu erklären.",
     "id": "1818",
-    "example_th": "ฉันเอาแก้วใส่ในตู้"
+    "example_th": "เธอส่งข้อความไปให้เพื่อนของเธอเพื่อให้เข้าใจทุกอย่าง"
   },
   {
     "de": "der Schrank",
     "plural": "-̈e",
     "type": "noun",
     "th": "ตู้",
-    "example": "Du übertreibst immer deine Geschichten.",
+    "example": "Die Geschirr sind in dem großen Schrank in der Küche verstaut.",
     "id": "1819",
-    "example_th": "เธอพูดเกินจริงเกี่ยวกับเรื่องราวของเธอเสมอ"
+    "example_th": "จานชามวางอยู่ในตู้ใหญ่ในห้องครัว"
   },
   {
     "de": "übertreiben",
     "conjugation": "übertreiben, übertreibt, übertrieb, hat übertrieben",
     "type": "verb",
     "th": "พูดเกินจริง",
-    "example": "Ich gebe dir Bescheid, wenn ich ankomme.",
+    "example": "Er übertreibt immer, wenn er seine Abenteuer erzählt.",
     "id": "1820",
-    "example_th": "ฉันจะบอกคุณเมื่อฉันถึง"
+    "example_th": "เขาพูดเกินจริงเสมอเมื่อเล่าเรื่องผจญภัยของเขา"
   },
   {
     "de": "übertreiben",
     "conjugation": "übertreiben, übertreibt, übertrieb, hat übertrieben",
     "type": "verb",
     "th": "พูดเกินจริง",
-    "example": "Der Metzger wiegt das Fleisch für mich.",
+    "example": "Du solltest nicht übertreiben mit den Gewürzen beim Kochen.",
     "id": "1821",
-    "example_th": "ชาวโลหะชั่งเนื้อสำหรับฉัน"
+    "example_th": "คุณไม่ควรใช้เครื่องแกงมากเกินไปตอนทำอาหาร"
   },
   {
     "de": "der Bescheid",
     "plural": "-e",
     "type": "noun",
     "th": "คำบอกกล่าว",
-    "example": "Eine rote Rose ist ein Symbol der Liebe.",
+    "example": "Der Bescheid vom Amt kam per Post nach zwei Wochen.",
     "id": "1822",
-    "example_th": "ดอกกุหลาบแดงเป็นสัญลักษณ์ของความรัก"
+    "example_th": "คำบอกกล่าวจากสำนักงานมาทางไปรษณีย์หลังจากสองสัปดาห์"
   },
   {
     "de": "wiegen",
     "conjugation": "wiegen, wiegt, wog, hat gewogen",
     "type": "verb",
     "th": "ชั่ง",
-    "example": "Deine Worte schaden unserem Verhältnis.",
+    "example": "Das Baby wiegt jetzt acht Kilogramm und wächst schnell.",
     "id": "1823",
-    "example_th": "คำพูดของเธอทำให้สัมพันธ์ของเราเสียหาย"
+    "example_th": "เด็กตัวน้อยหนักแปดกิโลกรัมตอนนี้และโตอย่างรวดเร็ว"
   },
   {
     "de": "die Rose",
     "plural": "-n",
     "type": "noun",
     "th": "ดอกกุหลาบ",
-    "example": "Er bleibt stumm und antwortet nicht.",
+    "example": "Ich möchte meiner Mutter eine rote Rose zum Muttertag schenken.",
     "id": "1824",
-    "example_th": "เขาเงียบและไม่ตอบสนอง"
+    "example_th": "ฉันต้องการให้ดอกกุหลาบแดงแก่แม่ในวันแม่"
   },
   {
     "de": "schaden",
     "conjugation": "schaden, schadet, schadete, hat geschadet",
     "type": "verb",
     "th": "ทำให้เสียหาย",
-    "example": "Der Empfänger des Briefs ist nicht zu Hause.",
+    "example": "Der Raucher schadet seiner Gesundheit und der Gesundheit anderer.",
     "id": "1825",
-    "example_th": "ผู้รับจดหมายไม่อยู่บ้าน"
+    "example_th": "การสูบบุหรี่ทำให้เสียหายต่อสุขภาพของเขาและคนอื่น"
   },
   {
     "de": "stumm",
     "type": "other",
     "th": "เงียบ",
-    "example": "Die Hochzeit findet im Juni statt.",
+    "example": "Der stumme Hauptcharakter drückt seine Gefühle nur durch Mimik aus.",
     "id": "1826",
-    "example_th": "งานแต่งงานจัดขึ้นในเดือนมิถุนายน"
+    "example_th": "ตัวละครหลักที่เงียบนิ่งแสดงความรู้สึกผ่านใบหน้าเท่านั้น"
   },
   {
     "de": "der Empfänger",
     "plural": "-",
     "type": "noun",
     "th": "ผู้รับ",
-    "example": "Schreib die Einkaufsliste auf einen Zettel.",
+    "example": "Der Empfänger des Pakets musste unterschreiben, um es zu bestätigen.",
     "id": "1827",
-    "example_th": "เขียนรายการซื้อของบนกระดาษเล็กๆ"
+    "example_th": "ผู้รับพัสดุต้องลงนามเพื่อยืนยัน"
   },
   {
     "de": "die Hochzeit",
     "plural": "-en",
     "type": "noun",
     "th": "งานแต่งงาน",
-    "example": "Im Winter brauche ich eine warme Jacke.",
+    "example": "Die Hochzeit meiner Schwester war ein wunderschönes Fest mit vielen Gästen.",
     "id": "1828",
-    "example_th": "ในฤดูหนาวฉันต้องการแจ็คเก็ตที่อบอุ่น"
+    "example_th": "งานแต่งงานของน้องสาวของฉันเป็นงานเลี้ยงที่สวยงามมากมีแขกจำนวนมาก"
   },
   {
     "de": "der Zettel",
     "plural": "-",
     "type": "noun",
     "th": "กระดาษเล็กๆ",
-    "example": "Das feuchte Wetter macht mich traurig.",
+    "example": "Ich habe die Telefonnummer auf einem Zettel aufgeschrieben.",
     "id": "1829",
-    "example_th": "อากาศชื้นทำให้ฉันเศร้า"
+    "example_th": "ฉันเขียนหมายเลขโทรศัพท์ลงในกระดาษเล็กๆ"
   },
   {
     "de": "die Jacke",
     "plural": "-n",
     "type": "noun",
     "th": "แจ็คเก็ต",
-    "example": "Diese furchtbar teuren Schuhe gefallen mir nicht.",
+    "example": "Im Winter trage ich immer eine warme Jacke zum Schutz vor der Kälte.",
     "id": "1830",
-    "example_th": "รองเท้าแพงน่ากลัวเหล่านี้ไม่ถูกใจฉัน"
+    "example_th": "ในฤดูหนาว ฉันสวมใส่แจ็คเก็ตอุ่นเพื่อป้องกันความหนาว"
   },
   {
     "de": "die Droge",
@@ -15958,9 +15958,9 @@
     "conjugation": "beißen, beißt, biss, hat gebissen",
     "type": "verb",
     "th": "กัด",
-    "example": "Der Hund hat mich in den Arm gebissen.",
+    "example": "Der Hund hat mich ins Bein gebissen, deshalb muss ich zum Arzt gehen.",
     "id": "1836",
-    "example_th": "สุนัขกัดแขนของฉัน"
+    "example_th": "สุนัขกัดขาของฉัน ดังนั้นฉันต้องไปหาแพทย์"
   },
   {
     "de": "die Kneipe",
@@ -16818,9 +16818,9 @@
     "conjugation": "vorlesen, liest vor, las vor, hat vorgelesen",
     "type": "verb",
     "th": "อ่านให้ฟัง",
-    "example": "Sie liest den Kindern jeden Abend vor.",
+    "example": "Meine Großmutter liebt es, mir Märchen vorzulesen.",
     "id": "1934",
-    "example_th": "เธออ่านหนังสือให้เด็ก ๆ ฟังทุกเย็น"
+    "example_th": "ยายของฉันชอบอ่านนิยายเรื่องต่างๆให้ฉันฟัง"
   },
   {
     "de": "die Lüge",
@@ -16912,9 +16912,9 @@
     "de": "aufschreiben",
     "type": "other",
     "th": "จดบันทึก, เขียนลงบันทึก",
-    "example": "Ich schreibe alle wichtigen Informationen auf.",
+    "example": "Du musst die wichtigen Informationen aufschreiben, um sie nicht zu vergessen.",
     "id": "1945",
-    "example_th": "ฉันจดบันทึกข้อมูลสำคัญทั้งหมด"
+    "example_th": "คุณต้องจดบันทึกข้อมูลที่สำคัญเพื่อไม่ให้ลืม"
   },
   {
     "de": "der Ersatz",
@@ -16999,226 +16999,226 @@
     "de": "gründlich",
     "type": "other",
     "th": "อย่างถี่ถ้วน อย่างสุขสัญญา",
-    "example": "Nirgendwo fand ich einen besseren Koch.",
+    "example": "Die Lehrerin hat die Hausaufgaben gründlich überprüft.",
     "id": "1955",
-    "example_th": "ฉันไม่พบพ่อครัวที่ดีกว่านี้ที่ไหน"
+    "example_th": "ครูผู้หญิงตรวจการบ้านอย่างถี่ถ้วน"
   },
   {
     "de": "nirgendwo",
     "type": "other",
     "th": "ไม่มีที่ใด",
-    "example": "Sie umarmten sich herzlich am Empfang.",
+    "example": "In dieser kleinen Stadt gibt es nirgendwo ein gutes Restaurant.",
     "id": "1956",
-    "example_th": "พวกเขาโอบกอดกันอย่างจริงใจที่บริเวณต้อนรับ"
+    "example_th": "ในเมืองเล็กๆนี้ไม่มีที่ใดที่มีร้านอาหารที่ดี"
   },
   {
     "de": "umarmen",
     "conjugation": "umarmen, umarmt, umarmte, hat umarmt",
     "type": "verb",
     "th": "โอบกอด",
-    "example": "Der Kühlschrank war schmutzig.",
+    "example": "Sie umarmen sich freudig, nachdem sie sich lange nicht gesehen haben.",
     "id": "1957",
-    "example_th": "ตู้เย็นเบื้องหลังสกปรก"
+    "example_th": "พวกเขาโอบกอดกันด้วยความยินดี หลังจากที่ไม่ได้พบกันมานาน"
   },
   {
     "de": "der Kühlschrank",
     "plural": "-̈e",
     "type": "noun",
     "th": "ตู้เย็น",
-    "example": "Die minimale Strafe wurde nicht beantragen.",
+    "example": "Die Milch ist im Kühlschrank, du kannst sie dir selbst nehmen.",
     "id": "1958",
-    "example_th": "ไม่ได้ยื่นขอโทษที่น้อยที่สุด"
+    "example_th": "นมอยู่ในตู้เย็น คุณสามารถเอาเองได้"
   },
   {
     "de": "der Empfang",
     "plural": "-̈e",
     "type": "noun",
     "th": "การต้อนรับ บริเวณต้อนรับ",
-    "example": "Er unterschrieb die Unterschrift deutlich.",
+    "example": "Der Empfang des Hotels war sehr freundlich und hilfsbereit.",
     "id": "1959",
-    "example_th": "เขาลงลายเซ็นต์อย่างชัดเจน"
+    "example_th": "บริเวณต้อนรับของโรงแรมนั้นเป็นมิตรและช่วยเหลือมาก"
   },
   {
     "de": "minimal",
     "type": "other",
     "th": "น้อยที่สุด ขั้นต่ำ",
-    "example": "Sie beantragen einen neuen Pass.",
+    "example": "Mit minimalem Budget kann man trotzdem eine schöne Reise planen.",
     "id": "1960",
-    "example_th": "เธอยื่นขอหนังสือเดินทางเล่มใหม่"
+    "example_th": "ด้วยงบประมาณที่น้อยที่สุด เรายังสามารถวางแผนการท่องเที่ยวที่สวยงามได้"
   },
   {
     "de": "die Unterschrift",
     "plural": "-en",
     "type": "noun",
     "th": "ลายเซ็นต์",
-    "example": "Kartoffeln wachsen in der Fabrik nicht.",
+    "example": "Meine Unterschrift ist auf dem offiziellen Dokument sehr wichtig.",
     "id": "1961",
-    "example_th": "มันฝรั่งไม่เจริญเติบโตในโรงงาน"
+    "example_th": "ลายเซ็นต์ของฉันมีความสำคัญมากในเอกสารอย่างเป็นทางการ"
   },
   {
     "de": "beantragen",
     "conjugation": "beantragen, beantragt, beantragte, hat beantragt",
     "type": "verb",
     "th": "ยื่นขอ ร้องขอ",
-    "example": "Der mutige Koch wurde bestraft.",
+    "example": "Mein Bruder beantrag einen neuen Pass bei der Behörde.",
     "id": "1962",
-    "example_th": "พ่อครัวกล้าหาญถูกลงโทษ"
+    "example_th": "พี่ชายของฉันยื่นขอหนังสือเดินทางใหม่ที่สำนักงาน"
   },
   {
     "de": "die Kartoffel",
     "plural": "-n",
     "type": "noun",
     "th": "มันฝรั่ง",
-    "example": "Sein Bruder ist sehr sympathisch und mutig.",
+    "example": "Meine Mutter kocht leckere Kartoffeln zum Abendessen.",
     "id": "1963",
-    "example_th": "พี่ชายของเขาน่าชอบและกล้าหาญมาก"
+    "example_th": "แม่ของฉันปรุงมันฝรั่งที่อร่อยสำหรับอาหารเย็น"
   },
   {
     "de": "bestrafen",
     "conjugation": "bestrafen, bestraft, bestrafte, hat bestraft",
     "type": "verb",
     "th": "ลงโทษ",
-    "example": "Die Tafel war voll geschrieben.",
+    "example": "Der Lehrer bestrafte den Schüler, weil er im Unterricht nicht aufpasste.",
     "id": "1964",
-    "example_th": "กระดานดำเต็มไปด้วยตัวอักษร"
+    "example_th": "ครูลงโทษนักเรียนเพราะเขาไม่ตั้งใจเรียนในชั้นเรียน"
   },
   {
     "de": "die Fabrik",
     "plural": "-en",
     "type": "noun",
     "th": "โรงงาน",
-    "example": "Die Uniform der Feuerwehr ist rot.",
+    "example": "In dieser Fabrik werden täglich tausende Produkte hergestellt.",
     "id": "1965",
-    "example_th": "เครื่องแบบของหน่วยดับเพลิงสีแดง"
+    "example_th": "ในโรงงานนี้มีการผลิตสินค้าหลายพันชิ้นต่อวัน"
   },
   {
     "de": "mutig",
     "type": "other",
     "th": "กล้าหาญ",
-    "example": "Er weigerte sich, die Kartoffel zu essen.",
+    "example": "Der mutige Feuerwehrmann rettete die Familie aus dem brennenden Haus.",
     "id": "1966",
-    "example_th": "เขาปฏิเสธที่จะกินมันฝรั่ง"
+    "example_th": "นักดับเพลิงกล้าหาญช่วยครอบครัวออกจากบ้านที่กำลังไหม้"
   },
   {
     "de": "sympathisch",
     "type": "other",
     "th": "น่าชอบ เป็นมิตร",
-    "example": "Ich fotografierte die Mode in der Stadt.",
+    "example": "Mein neuer Kollege ist sehr sympathisch und freundlich zu allen.",
     "id": "1967",
-    "example_th": "ฉันถ่ายรูปแฟชั่นในเมือง"
+    "example_th": "เพื่อนร่วมงานใหม่ของฉันน่าชอบและเป็นมิตรกับทุกคน"
   },
   {
     "de": "die Tafel",
     "plural": "-n",
     "type": "noun",
     "th": "กระดานดำ แผ่นไม้",
-    "example": "Schreib das Wort in dein Heft!",
+    "example": "Der Lehrer schrieb die mathematische Formel auf die Tafel.",
     "id": "1968",
-    "example_th": "จดคำนั้นลงในสมุดบันทึกของคุณ"
+    "example_th": "ครูเขียนสูตรทางคณิตศาสตร์บนกระดานดำ"
   },
   {
     "de": "die Uniform",
     "plural": "-en",
     "type": "noun",
     "th": "เครื่องแบบ",
-    "example": "Diese Mode gefällt mir überhaupt nicht.",
+    "example": "Der Polizist trug eine blaue Uniform zur Arbeit.",
     "id": "1969",
-    "example_th": "แฟชั่นนี้ไม่ถูกใจฉันเลย"
+    "example_th": "ตำรวจสวมใส่เครื่องแบบสีน้ำเงินไปทำงาน"
   },
   {
     "de": "sich weigern, weigert sich, weigerte sich, hat sich geweigert",
     "type": "other",
     "th": "ปฏิเสธ ไม่ยินยอม",
-    "example": "Seine Gesicht sieht blass aus.",
+    "example": "Der Schüler weigerte sich, die Hausaufgaben zu machen.",
     "id": "1970",
-    "example_th": "ใบหน้าของเขาดูซีดเซียว"
+    "example_th": "นักเรียนปฏิเสธที่จะทำการบ้าน"
   },
   {
     "de": "fotografieren",
     "conjugation": "fotografieren, fotografiert, fotografierte, hat fotografiert",
     "type": "verb",
     "th": "ถ่ายรูป",
-    "example": "Die Teilnahme am Kurs ist minimal.",
+    "example": "Wir fotografieren gerne die schönen Landschaften in den Bergen.",
     "id": "1971",
-    "example_th": "การเข้าร่วมในหลักสูตรเป็นเรื่องขั้นต่ำ"
+    "example_th": "เรากำลังถ่ายรูปทิวทัศน์ที่สวยงามในภูเขา"
   },
   {
     "de": "das Heft",
     "plural": "-e",
     "type": "noun",
     "th": "สมุดบันทึก",
-    "example": "Zumachen Sie die Tür gründlich!",
+    "example": "Ich schreibe meine Notizen immer in einem roten Heft.",
     "id": "1972",
-    "example_th": "ปิดประตูอย่างถี่ถ้วน!"
+    "example_th": "ฉันเขียนบันทึกของฉันในสมุดบันทึกสีแดง"
   },
   {
     "de": "die Mode",
     "plural": "-n",
     "type": "noun",
     "th": "แฟชั่น ファッション",
-    "example": "Das Museum stellte die Münze aus.",
+    "example": "Die Mode ändert sich jeden Sommer, und viele Menschen kaufen neue Kleider.",
     "id": "1973",
-    "example_th": "พิพิธภัณฑ์จัดแสดงเหรียญ"
+    "example_th": "แฟชั่นเปลี่ยนไปทุกฤดูร้อน และผู้คนจำนวนมากซื้อเสื้อผ้าใหม่"
   },
   {
     "de": "schmutzig",
     "type": "other",
     "th": "สกปรก",
-    "example": "Die alte Münze wurde augestellt.",
+    "example": "Nach dem Spielen war sein Gesicht schmutzig und dreckig.",
     "id": "1974",
-    "example_th": "เหรียญเก่าถูกจัดแสดง"
+    "example_th": "หลังจากเล่นแล้วหน้าของเขามีสกปรก"
   },
   {
     "de": "gemütlich",
     "type": "other",
     "th": "สะดวกสบาย อบอุ่น",
-    "example": "Sein sympathischer Charakter beeindruckte alle.",
+    "example": "Das Café ist sehr gemütlich, darum treffen wir uns dort jeden Wochenende.",
     "id": "1975",
-    "example_th": "บุคลิกภาพน่าชอบของเขาประทับใจทุกคน"
+    "example_th": "คาเฟ่นี้อบอุ่นและสะดวกสบายมาก เลยเราพบกันที่นี่ทุกวันหยุด"
   },
   {
     "de": "blass",
     "type": "other",
     "th": "苍白 ซีดเซียว",
-    "example": "Der Koch weigerte sich zu kochen.",
+    "example": "Der Patient sah sehr blass aus, weil er lange krank war.",
     "id": "1976",
-    "example_th": "พ่อครัวปฏิเสธที่จะปรุงอาหาร"
+    "example_th": "ผู้ป่วยดูซีดเซียวมาก เพราะเขาป่วยมาเป็นเวลานาน"
   },
   {
     "de": "die Teilnahme",
     "plural": "-n",
     "type": "noun",
     "th": "การเข้าร่วม",
-    "example": "Im Heim war es sehr gemütlich.",
+    "example": "Die Teilnahme am Wettkampf ist freiwillig und kostet nichts.",
     "id": "1977",
-    "example_th": "ในบ้านอบอุ่นและสะดวกสบายมาก"
+    "example_th": "การเข้าร่วมการแข่งขันเป็นการสมัครใจและไม่เสียค่าใช้จ่าย"
   },
   {
     "de": "zumachen",
     "conjugation": "zumachen, macht zu, machte zu, hat zugemacht",
     "type": "verb",
     "th": "ปิด",
-    "example": "Er fotografierte die Feuerwehr während des Einsatzes.",
+    "example": "Bitte mach die Tür zu, es ist sehr kalt draußen.",
     "id": "1978",
-    "example_th": "เขาถ่ายรูปหน่วยดับเพลิงระหว่างปฏิบัติการ"
+    "example_th": "โปรดปิดประตูสิ นอกนั้นหนาวมาก"
   },
   {
     "de": "ausstellen",
     "conjugation": "ausstellen, stellt aus, stellte aus, hat ausgestellt",
     "type": "verb",
     "th": "จัดแสดง ออกใบ",
-    "example": "Die Kartoffel im Kühlschrank wurde schmutzig.",
+    "example": "Das Museum stellt die neuen Kunstwerke in der Haupthalle aus.",
     "id": "1979",
-    "example_th": "มันฝรั่งในตู้เย็นกลายเป็นสกปรก"
+    "example_th": "พิพิธภัณฑ์จัดแสดงผลงานศิลปะใหม่ในห้องโถงหลัก"
   },
   {
     "de": "die Münze",
     "plural": "-n",
     "type": "noun",
     "th": "เหรียญ",
-    "example": "Die Unterschrift auf dem Antrag ist ungültig.",
+    "example": "Ich warf eine Münze in den Brunnen und machte einen Wunsch.",
     "id": "1980",
-    "example_th": "ลายเซ็นต์บนใบสมัครไม่ถูกต้อง"
+    "example_th": "ฉันโยนเหรียญลงในน้ำพุและอวยพรหวัง"
   },
   {
     "de": "die Oper",
@@ -17478,9 +17478,9 @@
     "conjugation": "abheben, hebt ab, hob ab, hat abgehoben",
     "type": "verb",
     "th": "ยกตัวสูงขึ้น",
-    "example": "Der Vogel hebt ab und fliegt davon.",
+    "example": "Der Adler hebt sich majestätisch über den Wolken ab.",
     "id": "2010",
-    "example_th": "นกยกตัวสูงขึ้นและบินไป"
+    "example_th": "นกอินทรีย์ลอยตัวสูงขึ้นอย่างสง่างามเหนือเมฆ"
   },
   {
     "de": "alltäglich",
@@ -17976,9 +17976,9 @@
     "conjugation": "ausfüllen, füllt aus, füllte aus, hat ausgefüllt",
     "type": "verb",
     "th": "กรอก เติม",
-    "example": "Bitte fülle das Formular aus.",
+    "example": "Du musst das Anmeldeformular ausfüllen, bevor du den Kurs beginnen kannst.",
     "id": "2067",
-    "example_th": "โปรดกรอกแบบฟอร์ม"
+    "example_th": "คุณต้องกรอกแบบฟอร์มการสมัครสมาชิกก่อนเริ่มคอร์ส"
   },
   {
     "de": "die Betreuung",
@@ -18286,9 +18286,9 @@
     "conjugation": "(sich) verabreden, verabredet, verabredete, hat verabredet",
     "type": "verb",
     "th": "นัดหมาย",
-    "example": "Wir verabreden uns morgen um 18 Uhr.",
+    "example": "Wir verabredeten uns für nächsten Freitag um 19 Uhr im Restaurant.",
     "id": "2102",
-    "example_th": "เรานัดหมายกันพรุ่งนี้เวลา 18 นาฬิกา"
+    "example_th": "เราวางแผนนัดหมายกับกันในวันศุกร์หน้าเวลา 19.00 น. ที่ร้านอาหาร"
   },
   {
     "de": "füttern",
@@ -18910,9 +18910,9 @@
     "de": "sich umziehen, zieht sich um, zog sich um, hat sich umgezogen",
     "type": "other",
     "th": "เปลี่ยนเสื้อผ้า",
-    "example": "Ich ziehe mich um, bevor ich zum Sport gehe.",
+    "example": "Der Sportler zog sich um und schlüpfte in seine Trainingskleidung.",
     "id": "2173",
-    "example_th": "ฉันเปลี่ยนเสื้อผ้าก่อนไปออกกำลังกาย"
+    "example_th": "นักกีฬาเปลี่ยนเสื้อผ้าและสวมใส่ชุดฝึกของเขา"
   },
   {
     "de": "gebrauchen",
@@ -18980,9 +18980,9 @@
     "conjugation": "(sich) duschen, duscht, duschte, hat geduscht",
     "type": "verb",
     "th": "อาบน้ำ",
-    "example": "Ich dusche mich jeden Morgen kalt.",
+    "example": "Nach dem Training dusche ich mich und gehe nach Hause.",
     "id": "2181",
-    "example_th": "ฉันอาบน้ำเย็นทุกเช้า"
+    "example_th": "หลังจากฝึกแล้วฉันอาบน้ำและกลับบ้าน"
   },
   {
     "de": "der Vorort",
@@ -19251,9 +19251,9 @@
     "de": "weder … noch",
     "type": "other",
     "th": "ไม่ว่า...หรือ...ก็ไม่ว่า",
-    "example": "Er ist weder reich noch berühmt, aber er ist glücklich.",
+    "example": "Das Restaurant ist weder sehr teuer noch sehr billig, sondern mittelmäßig.",
     "id": "2212",
-    "example_th": "เขาไม่ว่ยมั่งคั่งหรืออยากเป็นดาราก็ไม่ว่า แต่เขามีความสุข"
+    "example_th": "ร้านอาหารนี้ไม่ว่าแพงหรือถูก แต่อยู่ในระดับปานกลาง"
   },
   {
     "de": "pauschal",
@@ -19407,9 +19407,9 @@
     "de": "bio(logisch)",
     "type": "other",
     "th": "ธรรมชาติ",
-    "example": "Ich kaufe lieber bio Produkte im Supermarkt.",
+    "example": "Die Bio-Produkte im Supermarkt sind teurer als die normalen Produkte.",
     "id": "2230",
-    "example_th": "ฉันชอบซื้อผลิตภัณฑ์ธรรมชาติในซุปเปอร์มาร์เก็ต"
+    "example_th": "ผลิตภัณฑ์ธรรมชาติในซุปเปอร์มาร์เก็ตแพงกว่าผลิตภัณฑ์ธรรมดา"
   },
   {
     "de": "die Halbpension",
@@ -19512,9 +19512,9 @@
     "conjugation": "(sich) siezen, siezt, siezte, hat gesiezt",
     "type": "verb",
     "th": "ใช้คำสุภาพในการพูด",
-    "example": "In Deutschland siezen sich die Menschen im Beruf.",
+    "example": "In formalen Situationen siezen wir uns gegenseitig und bleiben höflich.",
     "id": "2242",
-    "example_th": "ในเยอรมนี ผู้คนใช้คำสุภาพในการพูดที่งาน"
+    "example_th": "ในสถานการณ์ที่เป็นทางการเราใช้คำสุภาพในการพูดคุยกัน"
   },
   {
     "de": "herunterladen",
@@ -19591,18 +19591,18 @@
     "conjugation": "zubereiten, bereitet zu, bereitete zu, hat zubereitet",
     "type": "verb",
     "th": "เตรียม, ประกอบ, สำรับ",
-    "example": "Ich bereite das Abendessen vor.",
+    "example": "Meine Mutter bereitet das Abendessen jeden Tag sorgfältig zu.",
     "id": "2251",
-    "example_th": "ฉันเตรียมอาหารค่ำ"
+    "example_th": "แม่ของฉันเตรียมอาหารเย็นทุกวันอย่างระมัดระวัง"
   },
   {
     "de": "einzahlen",
     "conjugation": "einzahlen, zahlt ein, zahlte ein, hat eingezahlt",
     "type": "verb",
     "th": "ฝากเงิน",
-    "example": "Er zahlt jeden Monat Geld auf sein Konto ein.",
+    "example": "Ich muss nächste Woche 500 Euro auf mein Sparkonto einzahlen.",
     "id": "2252",
-    "example_th": "เขาฝากเงินเข้าบัญชีของเขาทุกเดือน"
+    "example_th": "ฉันต้องฝากเงิน 500 ยูโรลงในบัญชีออมสินของฉันในสัปดาห์หน้า"
   },
   {
     "de": "recht-",
@@ -19653,9 +19653,9 @@
     "conjugation": "abfahren, fährt ab, fuhr ab, ist abgefahren",
     "type": "verb",
     "th": "ออกเดินทาง, เดินทาง",
-    "example": "Der Zug fährt um 9 Uhr ab.",
+    "example": "Der Zug fährt um 8 Uhr morgens ab.",
     "id": "2258",
-    "example_th": "รถไฟออกเดินทางเวลา 9 โมง"
+    "example_th": "รถไฟออกเดินทางเวลา 8 โมงเช้า"
   },
   {
     "de": "die Haltestelle",
@@ -19740,9 +19740,9 @@
     "conjugation": "braten, brät, briet, hat gebraten",
     "type": "verb",
     "th": "ทอด, อบ",
-    "example": "Meine Mutter brät das Hähnchen in der Küche.",
+    "example": "Der Koch brät das Hähnchen in der Pfanne golden braun.",
     "id": "2268",
-    "example_th": "แม่ของฉันอบไก่ในห้องครัว"
+    "example_th": "พ่อครัวทอดไก่ในกระทะจนสีทองสวย"
   },
   {
     "de": "der Essig",
@@ -19872,9 +19872,9 @@
     "de": "sich etwas gefallen lassen, lässt sich etwas gefallen, ließ sich etwas gefallen, hat sich etwas gefallen lassen",
     "type": "other",
     "th": "ยอมรับ ยอมทำให้",
-    "example": "Er lässt sich zu viel von seinen Freunden gefallen.",
+    "example": "Er ließ sich die schlechte Behandlung nicht länger gefallen.",
     "id": "2283",
-    "example_th": "เขายอมรับสิ่งต่างๆ มากมายจากเพื่อนของเขา"
+    "example_th": "เขาไม่ยอมให้การปฏิบัติที่ไม่ดีต่อตัวเองอีกต่อไป"
   },
   {
     "de": "recht",
@@ -19959,9 +19959,9 @@
     "de": "nah(e)",
     "type": "other",
     "th": "ใกล้",
-    "example": "Mein Haus ist nah am Bahnhof.",
+    "example": "Das Restaurant liegt nah am Bahnhof.",
     "id": "2293",
-    "example_th": "บ้านของฉันอยู่ใกล้สถานีรถไฟ"
+    "example_th": "ร้านอาหารอยู่ใกล้สถานีรถไฟ"
   },
   {
     "de": "die Tomate",
@@ -19985,9 +19985,9 @@
     "de": "je … desto …",
     "type": "other",
     "th": "ยิ่ง...ยิ่ง...",
-    "example": "Je früher du kommst, desto besser ist es.",
+    "example": "Je mehr man übt, desto besser wird man.",
     "id": "2296",
-    "example_th": "ยิ่งคุณมาเร็ว ยิ่งดีเท่านั้น"
+    "example_th": "ยิ่งฝึกมากเท่าไร ก็ยิ่งดีขึ้นเท่านั้น"
   },
   {
     "de": "die Reparatur",
@@ -20835,9 +20835,9 @@
     "conjugation": "(hinunter) runterwerfen, wirft runter, warf runter, hat runtergeworfen",
     "type": "verb",
     "th": "โยนลง",
-    "example": "Werfen Sie den Müll bitte runter.",
+    "example": "Die Kinder warfen die Steine runter vom Balkon.",
     "id": "2393",
-    "example_th": "โปรดโยนขยะลงมา"
+    "example_th": "เด็ก ๆ โยนหินลงมาจากระเบียง"
   },
   {
     "de": "die Mehrwertsteuer",
@@ -20888,9 +20888,9 @@
     "de": "weder … noch",
     "type": "other",
     "th": "ไม่ว่า ... หรือ",
-    "example": "Ich mag weder Kaffee noch Tee zum Frühstück.",
+    "example": "Diese Arbeit ist weder interessant noch bezahlt gut.",
     "id": "2399",
-    "example_th": "ฉันไม่ชอบไม่ว่าจะเป็นกาแฟหรือชา ในการอาหารเช้า"
+    "example_th": "งานนี้ไม่ว่าจะไม่น่าสนใจหรือได้เงินเดือนไม่สูง"
   },
   {
     "de": "der Stadtplan",
@@ -21857,9 +21857,9 @@
     "de": "sich anstrengen, strengt sich an, strengte sich an, hat sich angestrengt",
     "type": "other",
     "th": "พยายาม, ตั้งใจ",
-    "example": "Er strengt sich an, um gute Noten zu bekommen.",
+    "example": "Sie strengte sich sehr an, um das Projekt zu beenden.",
     "id": "2510",
-    "example_th": "เขาพยายามเพื่อให้ได้เกรดดี"
+    "example_th": "เธอตั้งใจและพยายามอย่างมากเพื่อให้โครงการเสร็จ"
   },
   {
     "de": "die Rückfahrt",
@@ -21953,18 +21953,18 @@
     "de": "herein-, rein-",
     "type": "other",
     "th": "นำเข้า-, เข้า-",
-    "example": "Die Lastwagen fahren auf der Autobahn.",
+    "example": "Der Polizist forderte den Verdächtigen auf, hereinzukommen.",
     "id": "2521",
-    "example_th": "รถบรรทุกวิ่งบนทางหลวง"
+    "example_th": "ตำรวจขอให้ผู้ต้องสงสัยเข้ามาภายใน"
   },
   {
     "de": "der Laster",
     "plural": "-",
     "type": "noun",
     "th": "รถบรรทุก",
-    "example": "Das Schmerzmittel hilft mir gegen Kopfschmerzen.",
+    "example": "Der Laster transportiert schwere Güter zum Hafen.",
     "id": "2522",
-    "example_th": "ยาแก้ปวดช่วยบรรเทาอาการปวดหัวของฉัน"
+    "example_th": "รถบรรทุกขนส่งสินค้าหนักไปยังท่าเรือ"
   },
   {
     "de": "nützen",
@@ -22014,202 +22014,202 @@
     "plural": "-",
     "type": "noun",
     "th": "ยาแก้ปวด",
-    "example": "Das Pflaster schützt die Wunde.",
+    "example": "Der Arzt gab mir Schmerzmittel gegen die Kopfschmerzen.",
     "id": "2528",
-    "example_th": "พลาสเตอร์ปกป้องแผล"
+    "example_th": "แพทย์ให้ยาแก้ปวดสำหรับปวดหัวแก่ฉัน"
   },
   {
     "de": "fertig",
     "type": "other",
     "th": "เสร็จสิ้น, สำเร็จ",
-    "example": "Dieses Produkt ist haltbar für ein Jahr.",
+    "example": "Das Projekt ist endlich fertig und kann präsentiert werden.",
     "id": "2529",
-    "example_th": "ผลิตภัณฑ์นี้ทนทานได้นานหนึ่งปี"
+    "example_th": "โครงการเสร็จสิ้นแล้วและสามารถนำเสนอได้"
   },
   {
     "de": "haltbar",
     "type": "other",
     "th": "ทนทาน, ค้างทน",
-    "example": "Kannst du mir deine Rufnummer geben?",
+    "example": "Diese Materialien sind sehr haltbar und halten lange.",
     "id": "2530",
-    "example_th": "คุณสามารถบอกเลขโทรศัพท์ของคุณให้ฉันได้ไหม"
+    "example_th": "วัสดุเหล่านี้ทนทานมากและคงทนนาน"
   },
   {
     "de": "die Rufnummer",
     "plural": "-n",
     "type": "noun",
     "th": "เลขโทรศัพท์",
-    "example": "Das Buffet hat viele verschiedene Gerichte.",
+    "example": "Können Sie mir bitte Ihre Rufnummer geben?",
     "id": "2531",
-    "example_th": "บุฟเฟต์มีอาหารหลากหลายชนิด"
+    "example_th": "คุณช่วยให้เลขโทรศัพท์ของคุณให้ฉันได้ไหม"
   },
   {
     "de": "das Buffet",
     "plural": "-s",
     "type": "noun",
     "th": "บุฟเฟต์",
-    "example": "Diese Sehenswürdigkeit ist sehr berühmt.",
+    "example": "Im Hotel gibt es ein großes Buffet mit vielen Speisen.",
     "id": "2532",
-    "example_th": "สถานที่น่าชมแห่งนี้มีชื่อเสียงมาก"
+    "example_th": "ในโรงแรมมีบุฟเฟต์ขนาดใหญ่ที่มีอาหารมากมาย"
   },
   {
     "de": "die Sehenswürdigkeit",
     "plural": "-en",
     "type": "noun",
     "th": "สถานที่น่าชม, แหล่งท่องเที่ยว",
-    "example": "Ich esse gerne Pommes frites.",
+    "example": "Diese Stadt hat viele wunderbare Sehenswürdigkeiten zu besuchen.",
     "id": "2533",
-    "example_th": "ฉันชอบกินมันฝรั่งทอด"
+    "example_th": "เมืองนี้มีสถานที่น่าชมที่ยอดเยี่ยมมากมายให้ไปเยี่ยม"
   },
   {
     "de": "die Pommes frites (Pl.)",
     "plural": "",
     "type": "noun",
     "th": "มันฝรั่งทอด",
-    "example": "Der Notausgang ist neben der Tür.",
+    "example": "Die Kinder liebten die knusprigen Pommes frites zum Mittagessen.",
     "id": "2534",
-    "example_th": "ทางออกฉุกเฉินอยู่ข้างประตู"
+    "example_th": "เด็ก ๆ ชอบมันฝรั่งทอดกรอบ ๆ ที่ทำหน้าที่เป็นอาหารกลางวัน"
   },
   {
     "de": "der Notausgang",
     "plural": "-̈e",
     "type": "noun",
     "th": "ทางออกฉุกเฉิน",
-    "example": "Ich verpacke die Geschenke für Weihnachten.",
+    "example": "Im Flugzeug müssen alle Passagiere den Notausgang kennen.",
     "id": "2535",
-    "example_th": "ฉันบรรจุภัณฑ์ของขวัญสำหรับคริสต์มาส"
+    "example_th": "ในเครื่องบิน ผู้โดยสารทุกคนต้องรู้ตำแหน่งของทางออกฉุกเฉิน"
   },
   {
     "de": "verpacken",
     "conjugation": "verpacken, verpackt, verpackte, hat verpackt",
     "type": "verb",
     "th": "บรรจุภัณฑ์, หุ้มห่อ",
-    "example": "Darf ich dir mein Auto leihen?",
+    "example": "Ich muss die Geschenke schön verpacken, bevor ich sie verschenke.",
     "id": "2536",
-    "example_th": "ฉันสามารถให้รถยนต์ของฉันยืมคุณได้ไหม"
+    "example_th": "ฉันต้องหุ้มห่อของขวัญให้สวยงามก่อนที่จะให้เป็นของขวัญ"
   },
   {
     "de": "leihen",
     "conjugation": "leihen, leiht, lieh, hat geliehen",
     "type": "verb",
     "th": "ยืม",
-    "example": "Das Gebirge ist wunderschön im Herbst.",
+    "example": "Kannst du mir dein Fahrrad leihen? Meins ist kaputt.",
     "id": "2537",
-    "example_th": "เทือกเขาสวยงามมากในฤดูใบไม้ร่วง"
+    "example_th": "คุณสามารถยืมจักรยานของคุณให้ฉันได้ไหม จักรยานของฉันเสีย"
   },
   {
     "de": "das Gebirge",
     "plural": "",
     "type": "noun",
     "th": "ภูเขา, เทือกเขา",
-    "example": "Die Einfahrt zum Haus ist sehr eng.",
+    "example": "Das Gebirge in der Schweiz ist wirklich beeindruckend.",
     "id": "2538",
-    "example_th": "ทางเข้าไปยังบ้านแคบมาก"
+    "example_th": "เทือกเขาในสวิตเซอร์แลนด์นั้นน่าทึ่งมาก"
   },
   {
     "de": "die Einfahrt",
     "plural": "-en",
     "type": "noun",
     "th": "ทางเข้า",
-    "example": "Das Menü für heute ist sehr interessant.",
+    "example": "Die Einfahrt zum Parkhaus ist sehr schmal.",
     "id": "2539",
-    "example_th": "เมนูสำหรับวันนี้น่าสนใจมาก"
+    "example_th": "ทางเข้าของที่จอดรถเป็นแบบที่แคบมาก"
   },
   {
     "de": "das Menü",
     "plural": "-s",
     "type": "noun",
     "th": "เมนู, รายการอาหาร",
-    "example": "Der Termin wurde auf Montag festgesetzt.",
+    "example": "Das Restaurant hat ein großes Menü mit vielen vegetarischen Gerichten.",
     "id": "2540",
-    "example_th": "กำหนดการตั้งไว้ในวันจันทร์"
+    "example_th": "ร้านอาหารนี้มีเมนูขนาดใหญ่พร้อมอาหารเจหลากหลาย"
   },
   {
     "de": "festsetzen",
     "conjugation": "festsetzen, setzt fest, setzte fest, hat festgesetzt",
     "type": "verb",
     "th": "กำหนด, ตั้งไว้",
-    "example": "Die Bluse ist sehr elegant und schick.",
+    "example": "Der Chef hat den Preis für das Projekt festgesetzt.",
     "id": "2541",
-    "example_th": "เสื้อสตรีนี้หรูหราและสวยงาม"
+    "example_th": "ประธานบัญชีได้กำหนดราคาสำหรับโครงการ"
   },
   {
     "de": "das Pflaster",
     "plural": "-",
     "type": "noun",
     "th": "พลาสเตอร์, แผ่นปิดแผล",
-    "example": "Welche Zutaten brauchst du für das Rezept?",
+    "example": "Ich brauche ein Pflaster für meine kleine Wunde.",
     "id": "2542",
-    "example_th": "คุณต้องการวัตถุดิบอะไรสำหรับสูตรนี้"
+    "example_th": "ฉันต้องใช้พลาสเตอร์สำหรับแผลเล็ก ๆ ของฉัน"
   },
   {
     "de": "die Bluse",
     "plural": "-n",
     "type": "noun",
     "th": "เสื้อสตรี",
-    "example": "Ich füge ein neues Kapitel in das Buch ein.",
+    "example": "Die blaue Bluse passt perfekt zu meinem Rock.",
     "id": "2543",
-    "example_th": "ฉันแทรกบทใหม่เข้าไปในหนังสือ"
+    "example_th": "เสื้อสีฟ้านี้ลงตัวกับกระโปรงของฉันอย่างลงตัว"
   },
   {
     "de": "die Zutaten (Pl.)",
     "plural": "",
     "type": "noun",
     "th": "วัตถุดิบ,ส่วนประกอบ",
-    "example": "Es schneit draußen, deshalb bleibe ich zu Hause.",
+    "example": "Alle Zutaten für den Kuchen sind im Supermarkt erhältlich.",
     "id": "2544",
-    "example_th": "หิมะตกข้างนอก ฉันจึงอยู่บ้าน"
+    "example_th": "วัตถุดิบทั้งหมดสำหรับเค้กสามารถหาได้ในซูเปอร์มาร์เก็ต"
   },
   {
     "de": "einfügen",
     "conjugation": "einfügen, fügt ein, fügte ein, hat eingefügt",
     "type": "verb",
     "th": "ใส่, แทรก, เพิ่มเติม",
-    "example": "Ich kaufe ein Wörterbuch in der Buchhandlung.",
+    "example": "Ich muss noch einen Absatz in meinen Bericht einfügen.",
     "id": "2545",
-    "example_th": "ฉันซื้อพจนานุกรมในร้านหนังสือ"
+    "example_th": "ฉันต้องแทรกย่อหน้าเพิ่มเติมในรายงานของฉัน"
   },
   {
     "de": "schneien, es schneit, es schneite, es hat geschneit",
     "type": "other",
     "th": "หิมะตก, มีหิมะตก, หิมะตกลงมา",
-    "example": "Übermorgen fahre ich in den Urlaub.",
+    "example": "Es schneite die ganze Nacht, und nun ist alles weiß.",
     "id": "2546",
-    "example_th": "วันมะรืนนี้ฉันจะไปพักผ่อน"
+    "example_th": "หิมะตกตลอดคืน และตอนนี้ทุกสิ่งมีสีขาว"
   },
   {
     "de": "die Buchhandlung",
     "plural": "-en",
     "type": "noun",
     "th": "ร้านหนังสือ",
-    "example": "Deine neuen Schuhe sind sehr chic!",
+    "example": "Ich bin in die Buchhandlung gegangen, um ein neues Buch zu kaufen.",
     "id": "2547",
-    "example_th": "รองเท้าใหม่ของคุณหรูหรามาก"
+    "example_th": "ฉันไปที่ร้านหนังสือเพื่อซื้อหนังสือเล่มใหม่"
   },
   {
     "de": "übermorgen",
     "type": "other",
     "th": "วันมะรืนนี้",
-    "example": "Das Schnitzel wird mit frischen Zutaten zubereitet.",
+    "example": "Übermorgen beginnt mein Urlaub, und ich freue mich schon darauf.",
     "id": "2548",
-    "example_th": "สโนิตเซลเตรียมด้วยวัตถุดิบสดใหม่"
+    "example_th": "วันมะรืนนี้ฉันจะเริ่มวันหยุดพักของฉัน และฉันรอคอยมาก"
   },
   {
     "de": "das Wörterbuch",
     "plural": "-̈er",
     "type": "noun",
     "th": "พจนานุกรม",
-    "example": "Der Lieferwagen fährt zur Einfahrt hinein.",
+    "example": "Ich schlage das Wörterbuch auf, um die Bedeutung zu verstehen.",
     "id": "2549",
-    "example_th": "รถส่งของขับเข้าไปยังทางเข้า"
+    "example_th": "ฉันเปิดพจนานุกรมเพื่อเข้าใจความหมาย"
   },
   {
     "de": "chic/schick",
     "type": "other",
     "th": "หรูหรา, สวยงาม",
-    "example": "Fertig! Ich habe das Projekt abgeschlossen.",
+    "example": "Das chic gekleidete Paar ist gerade hereingekommen.",
     "id": "2550",
-    "example_th": "เสร็จแล้ว ฉันจบโครงการแล้ว"
+    "example_th": "คู่รักที่แต่งตัวสวยหรูเพิ่งเข้ามา"
   },
   {
     "de": "die Nachhilfe",
@@ -22355,9 +22355,9 @@
     "de": "un-",
     "type": "other",
     "th": "คำนำหน้าแสดงการปฏิเสธ",
-    "example": "Dieses Produkt ist ungesund für die Zähne.",
+    "example": "Das Wetter ist heute unfreundlich und regnerisch.",
     "id": "2567",
-    "example_th": "ผลิตภัณฑ์นี้ไม่ดีต่อฟัน"
+    "example_th": "อากาศวันนี้ไม่สวยและมีฝนตก"
   },
   {
     "de": "der Fotoapparat",
@@ -22372,9 +22372,9 @@
     "de": "stehen bleiben",
     "type": "other",
     "th": "หยุดอยู่กับที่",
-    "example": "Das Auto stand bleiben auf der roten Ampel.",
+    "example": "Der Zug stand plötzlich still und blieb stehen.",
     "id": "2569",
-    "example_th": "รถหยุดอยู่กับที่ที่สัญญาณไฟแดง"
+    "example_th": "รถไฟหยุดลงอย่างกะทันหันและอยู่กับที่"
   },
   {
     "de": "die Fernbedienung",
@@ -22635,9 +22635,9 @@
     "conjugation": "einpacken, packt ein, packte ein, hat eingepackt",
     "type": "verb",
     "th": "บรรจุ",
-    "example": "Ich packe meine Koffer ein, weil ich morgen in den Urlaub fahre.",
+    "example": "Ich muss meine Sachen einpacken, bevor ich abreise.",
     "id": "2599",
-    "example_th": "ฉันบรรจุกระเป๋าเดินทางเพราะพรุ่งนี้ฉันจะไปพักผ่อน"
+    "example_th": "ฉันต้องบรรจุสิ่งของของฉันก่อนที่จะออกเดินทาง"
   },
   {
     "de": "so viel/so viel wie",
@@ -22669,18 +22669,18 @@
     "conjugation": "wehtun, tut weh, tat weh, hat wehgetan",
     "type": "verb",
     "th": "เจ็บปวด",
-    "example": "Mein Zahn tut mir sehr weh.",
+    "example": "Mein Zahn tut mir weh, und es tut sehr weh.",
     "id": "2603",
-    "example_th": "ฟันของฉันเจ็บมาก"
+    "example_th": "ฟันของฉันเจ็บและเจ็บมาก"
   },
   {
     "de": "(sich) rasieren",
     "conjugation": "(sich) rasieren, rasiert, rasierte, hat rasiert",
     "type": "verb",
     "th": "โ剃胡วน",
-    "example": "Er rasiert sich jeden Morgen mit dem Rasierer.",
+    "example": "Mein Vater rasiert sich jeden Morgen vor der Arbeit.",
     "id": "2604",
-    "example_th": "เขาโ剃胡วนทุกเช้าด้วยมีดโ剃"
+    "example_th": "พ่อของฉันโ剃หนวดทุกเช้าก่อนออกไปทำงาน"
   },
   {
     "de": "bekannt geben, gibt bekannt, gab bekannt, hat bekannt gegeben",
@@ -22694,9 +22694,9 @@
     "de": "-weise",
     "type": "other",
     "th": "วิธี",
-    "example": "Schrittweise verbessert sich die Situation.",
+    "example": "Schrittweise verbesserte sich sein Deutsch immer mehr.",
     "id": "2606",
-    "example_th": "สถานการณ์ดีขึ้นทีละขั้น"
+    "example_th": "ทีละขั้นตอน ภาษาเยอรมันของเขาดีขึ้นเรื่อย ๆ"
   },
   {
     "de": "der Lehrling",
@@ -22845,9 +22845,9 @@
     "conjugation": "anklicken, klickt an, klickte an, hat angeklickt",
     "type": "verb",
     "th": "คลิก",
-    "example": "Bitte klicken Sie auf den Link an.",
+    "example": "Du musst auf den Link anklicken, um die Website zu öffnen.",
     "id": "2623",
-    "example_th": "โปรดคลิกที่ลิงก์"
+    "example_th": "คุณต้องคลิกที่ลิงก์เพื่อเปิดเว็บไซต์"
   },
   {
     "de": "die Sprechstunde",
@@ -22959,9 +22959,9 @@
     "de": "(ein) paar",
     "type": "other",
     "th": "สองสามอย่าง",
-    "example": "Ich habe ein Paar Schuhe gekauft.",
+    "example": "Ich habe ein paar neue Bücher in der Bibliothek gefunden.",
     "id": "2636",
-    "example_th": "ฉันซื้อรองเท้าสองสามคู่"
+    "example_th": "ฉันพบหนังสือใหม่สองสามเล่มในห้องสมุด"
   },
   {
     "de": "äußerlich",
@@ -23142,9 +23142,9 @@
     "plural": "-̈e",
     "type": "noun",
     "th": "ถุงเท้า",
-    "example": "Ich trage warme Strümpfe im Winter.",
+    "example": "Meine Strümpfe sind schmutzig und ich muss sie waschen.",
     "id": "2657",
-    "example_th": "ฉันสวมถุงเท้าหนาในฤดูหนาว"
+    "example_th": "ถุงเท้าของฉันสกปรก และฉันต้องซักให้สะอาด"
   },
   {
     "de": "überreden",
@@ -23761,9 +23761,9 @@
     "conjugation": "(sich) ausruhen, ruht aus, ruhte aus, hat ausgeruht",
     "type": "verb",
     "th": "พักผ่อน",
-    "example": "Nach der Arbeit ruhe ich mich aus.",
+    "example": "Nach der Arbeit ruht sich meine Mutter auf dem Sofa aus.",
     "id": "2728",
-    "example_th": "หลังจากงานฉันพักผ่อน"
+    "example_th": "หลังจากงาน แม่ของฉันพักผ่อนบนโซฟา"
   },
   {
     "de": "die Bestätigung",
@@ -23903,9 +23903,9 @@
     "conjugation": "nähen, näht, nähte, hat genäht",
     "type": "verb",
     "th": "เย็บ",
-    "example": "Meine Großmutter näht noch immer Kleider selbst.",
+    "example": "Meine Großmutter näht sehr gerne und macht wunderbare Kleider.",
     "id": "2744",
-    "example_th": "ยายของฉันยังคงเย็บเสื้อผ้าด้วยตนเอง"
+    "example_th": "แม่ยายของฉันชอบเย็บและทำเสื้อผ้าที่สวยงาม"
   },
   {
     "de": "der Handwerker",
@@ -23983,9 +23983,9 @@
     "conjugation": "einbrechen, bricht ein, brach ein, ist eingebrochen",
     "type": "verb",
     "th": "บุกเข้า",
-    "example": "Diebe haben in der Nacht in den Laden eingebrochen.",
+    "example": "Einbrecher sind letzte Nacht in das Geschäft eingebrochen.",
     "id": "2753",
-    "example_th": "ขโมยบุกเข้าร้านในคืนนั้น"
+    "example_th": "โจรบุกเข้าร้านค้าคืนที่แล้ว"
   },
   {
     "de": "der Appetit",
@@ -24088,9 +24088,9 @@
     "plural": "-er/-",
     "type": "noun",
     "th": "สกี",
-    "example": "Ich fahre gerne Ski in den Bergen.",
+    "example": "Im Winter fahre ich gerne Ski in den Alpen.",
     "id": "2765",
-    "example_th": "ฉันชอบสกีในภูเขา"
+    "example_th": "ในช่วงฤดูหนาว ฉันชอบเล่นสกีในเทือกเขาแอลป์"
   },
   {
     "de": "der Lautsprecher",
@@ -24201,9 +24201,9 @@
     "de": "um … zu",
     "type": "other",
     "th": "เพื่อที่จะ",
-    "example": "Ich lerne Deutsch, um in Deutschland zu arbeiten.",
+    "example": "Ich lerne Deutsch, um eine bessere Arbeit zu finden.",
     "id": "2778",
-    "example_th": "ฉันเรียนภาษาเยอรมันเพื่อทำงานในเยอรมนี"
+    "example_th": "ฉันเรียนภาษาเยอรมันเพื่อที่จะหางานที่ดีกว่า"
   },
   {
     "de": "der Flohmarkt",
@@ -24270,9 +24270,9 @@
     "de": "ander-",
     "type": "other",
     "th": "อื่น, อื่น ๆ",
-    "example": "Es gibt verschiedene Lösungen für dieses Problem.",
+    "example": "Andere Studenten haben verschiedene Meinungen zu diesem Thema.",
     "id": "2786",
-    "example_th": "มีวิธีแก้ปัญหาอื่น ๆ สำหรับปัญหานี้"
+    "example_th": "นักเรียนคนอื่น ๆ มีความเห็นที่แตกต่างกันเกี่ยวกับหัวข้อนี้"
   },
   {
     "de": "der Steward",
@@ -24566,9 +24566,9 @@
     "conjugation": "anschnallen, schnallt an, schnallte an, hat angeschnallt",
     "type": "verb",
     "th": "ขัดเข็มขัดนิรภัย",
-    "example": "Vergiss nicht, deinen Sicherheitsgurt anzuschnallen!",
+    "example": "Du musst dich anschnallen, bevor das Auto losfährt.",
     "id": "2820",
-    "example_th": "อย่าลืมขัดเข็มขัดนิรภัยของคุณ"
+    "example_th": "คุณต้องขัดเข็มขัดนิรภัย ก่อนที่รถจะออกไป"
   },
   {
     "de": "genehmigen",

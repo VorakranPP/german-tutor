@@ -29,10 +29,14 @@ Vocabulary flashcards, grammar drills, reading, speaking practice, and daily dia
     "plural": "-en",
     "th": "อพาร์ตเมนต์",
     "example": "Meine Wohnung ist sehr schön.",
-    "example_th": "อพาร์ตเมนต์ของฉันสวยมาก"
+    "example_th": "อพาร์ตเมนต์ของฉันสวยมาก",
+    "cerf": "A2"
   }
   ```
-  Note: verbs have `conjugation` instead of `plural`. `pronunciation` field unused (removed from pipeline).
+  Notes:
+  - Verbs have `conjugation` instead of `plural`
+  - `cerf` field: A1 (id 1–500), A2 (501–1500), B1 (1501–2833) — based on frequency rank
+  - `pronunciation` field unused (removed from pipeline)
 
 ## Claude API Usage
 

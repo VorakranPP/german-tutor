@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## [0.5.0] — 2026-06-04
+
+### Added
+- Level filter (A1/A2/B1) บน Vocabulary Tab — สีต่างกันแต่ละระดับ
+- Type filter (คำนาม/กริยา/อื่นๆ) นับตาม level ที่เลือก
+- Background image `bg-ge.png` เป็น wallpaper จาง 80% ทั้ง app
+- Header ใช้ `backdrop-blur` + semi-transparent
+
+### Fixed
+- Plural แสดงคำเต็ม เช่น "die Male" แทน "-e"
+- Queue สุ่มภายใน level เดียวกัน (Fisher-Yates) ไม่เรียงตาม ID อีกต่อไป
+- 511 ตัวอย่างประโยคที่ไม่มีคำนั้น — regenerate ด้วย prompt ที่บังคับให้ใส่คำ
+- 21 คำที่มีอักษรญี่ปุ่น/จีนปนในคำแปลไทย — แก้ manual
+- เพิ่ม field `cerf` (A1/A2/B1) ทุกคำใน vocab_translated.json
+
+### Scripts Added
+- `scripts/fix_examples.py` — regenerate ตัวอย่างที่ไม่มีคำเป้าหมายในประโยค
+- `scripts/fix_cjk_and_levels.py` — แก้ CJK + เพิ่ม cerf level
+
+---
+
 ## [0.4.0] — 2026-06-04
 
 ### Added
