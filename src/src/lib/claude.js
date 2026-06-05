@@ -5,13 +5,20 @@ const client = new Anthropic({
   dangerouslyAllowBrowser: true,
 })
 
+const GRAMMAR_SYSTEM = [{
+  type: 'text',
+  text: 'คุณคือครูสอนภาษาเยอรมันผู้เชี่ยวชาญ อธิบายเป็นภาษาไทยเสมอ ตอบกระชับและตรงประเด็น',
+  cache_control: { type: 'ephemeral' },
+}]
+
 export async function generateExercise(topic) {
   const msg = await client.messages.create({
     model: 'claude-haiku-4-5-20251001',
     max_tokens: 512,
+    system: GRAMMAR_SYSTEM,
     messages: [{
       role: 'user',
-      content: `สร้างแบบฝึกหัด fill-in-the-blank ภาษาเยอรมันเรื่อง "${topic}" 1 ข้อ สำหรับผู้เรียนระดับ B1 ที่เป็นคนไทย
+      content: `สร้างแบบฝึกหัด fill-in-the-blank ภาษาเยอรมันเรื่อง "${topic}" 1 ข้อ สำหรับผู้เรียนระดับ B1
 ตอบเป็น JSON เท่านั้น:
 {
   "sentence": "ประโยคภาษาเยอรมันที่มี ___ แทนคำที่ต้องเติม",
@@ -29,9 +36,10 @@ export async function checkAnswer(sentence, userAnswer, correctAnswer, topic) {
   const msg = await client.messages.create({
     model: 'claude-haiku-4-5-20251001',
     max_tokens: 512,
+    system: GRAMMAR_SYSTEM,
     messages: [{
       role: 'user',
-      content: `ตรวจคำตอบแบบฝึกหัดภาษาเยอรมัน อธิบายเป็นภาษาไทย
+      content: `ตรวจคำตอบแบบฝึกหัดภาษาเยอรมัน
 
 ประโยค: ${sentence}
 คำตอบที่ถูก: ${correctAnswer}

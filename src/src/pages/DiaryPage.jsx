@@ -68,6 +68,7 @@ function WriteEntry({ onSave }) {
       const msg = await client.messages.create({
         model: 'claude-haiku-4-5-20251001',
         max_tokens: 2048,
+        system: [{ type: 'text', text: 'คุณคือครูสอนภาษาเยอรมัน เชี่ยวชาญการแก้ไขงานเขียน อธิบายเป็นภาษาไทยเสมอ', cache_control: { type: 'ephemeral' } }],
         messages: [{
           role: 'user',
           content: `แก้ไขไดอารี่ภาษาเยอรมันนี้และอธิบายเป็นภาษาไทย

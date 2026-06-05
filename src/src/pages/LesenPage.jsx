@@ -57,6 +57,7 @@ export default function LesenPage() {
       const msg = await client.messages.create({
         model: 'claude-haiku-4-5-20251001',
         max_tokens: 1024,
+        system: [{ type: 'text', text: 'คุณคือครูสอนภาษาเยอรมัน สร้างสื่อการเรียนระดับ B1 ตอบเป็น JSON เท่านั้น', cache_control: { type: 'ephemeral' } }],
         messages: [{ role: 'user', content: `สร้างบทอ่านภาษาเยอรมันระดับ B1 พร้อมคำถาม 5 ข้อ ตอบ JSON เท่านั้น:
 {"title":"...","topic_th":"${topic}","passage":"130-160 คำ B1","questions":[{"q":"คำถามไทย","options":["ก)...","ข)...","ค)..."],"answer":0}]}` }],
       })
