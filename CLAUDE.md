@@ -10,7 +10,7 @@ Vocabulary flashcards, grammar drills, reading, speaking practice, and daily dia
 ## Tech Stack
 
 - **Frontend**: React, Zustand, Tailwind CSS
-- **AI**: Anthropic Claude API (claude-sonnet-4-6 for tutoring, claude-haiku-4-5-20251001 for bulk tasks)
+- **AI**: Anthropic Claude API (claude-haiku-4-5-20251001 for all tasks)
 - **Deploy**: Vercel (frontend), Railway (API proxy if needed)
 - **Data**: JSON seed file from Goethe B1 Wortliste (2,833 words)
 
@@ -43,10 +43,10 @@ Vocabulary flashcards, grammar drills, reading, speaking practice, and daily dia
 
 ## Claude API Usage
 
-- Use `claude-haiku-4-5-20251001` for: bulk translation, flashcard generation, simple Q&A
-- Use `claude-sonnet-4-6` for: diary correction, grammar explanation, speaking feedback
+- Use `claude-haiku-4-5-20251001` for: all tutoring tasks (diary correction, grammar explanation, speaking feedback, vocabulary, reading)
 - Always include Thai instruction in system prompt
 - Keep max_tokens reasonable — 1024 for most tasks
+- All API calls include prompt caching (ephemeral) for cost reduction
 
 ## Spaced Repetition Logic
 
