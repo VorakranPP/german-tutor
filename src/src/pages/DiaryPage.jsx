@@ -55,6 +55,7 @@ export default function DiaryPage() {
 function WriteEntry({ onSave }) {
   const [text, setText] = useState('')
   const [result, setResult] = useState(null)
+  const { penalizeWords } = useVocabStore()
   const [loading, setLoading] = useState(false)
   const { words: vocabWords } = useVocabStore()
 
@@ -90,16 +91,10 @@ ${text}
         msg.content[0].text.trim().replace(/```json|```/g, '').trim()
       )
 
-      // auto-add wrong words to vocab bank ถ้าพบในรายการ
-      const addedWords = []
-      if (parsed.wrong_words?.length && vocabWords.length) {
-        parsed.wrong_words.forEach(w => {
-          const found = vocabWords.find(v =>
-            v.de.toLowerCase().includes(w.toLowerCase())
-          )
-          if (found) addedWords.push(found.de)
-        })
-      }
+      // ลด level คำที่เขียนผิดใน vocabStore → จะขึ้น flashcard บ่อยขึ้น
+      const penalized = parsed.wrong_words?.length
+        ? penalizeWords(parsed.wrong_words)
+        : []
 
       const entry = {
         id: Date.now().toString(),
@@ -109,7 +104,7 @@ ${text}
         corrections: parsed.corrections ?? [],
         wrong_words: parsed.wrong_words ?? [],
         overall: parsed.overall ?? '',
-        added_to_vocab: addedWords,
+        added_to_vocab: penalized,
       }
 
       setResult(entry)

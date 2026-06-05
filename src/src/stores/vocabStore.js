@@ -62,6 +62,25 @@ export const useVocabStore = create(
         })
       },
 
+      // เรียกจาก Diary — reset level คำที่เขียนผิดให้กลับมาติวอีกรอบ
+      penalizeWords: (germanWords) => {
+        const { words, levels } = get()
+        const newLevels = { ...levels }
+        const penalized = []
+        germanWords.forEach(raw => {
+          const match = words.find(w =>
+            w.de.toLowerCase().includes(raw.toLowerCase()) ||
+            raw.toLowerCase().includes(w.de.toLowerCase().replace(/^(der|die|das|sich)\s+/i, ''))
+          )
+          if (match) {
+            newLevels[match.id] = 1
+            penalized.push(match.de)
+          }
+        })
+        if (penalized.length > 0) set({ levels: newLevels })
+        return penalized
+      },
+
       restart: () => {
         const { words, levels } = get()
         set({
