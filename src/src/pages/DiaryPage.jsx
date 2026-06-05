@@ -65,8 +65,8 @@ function WriteEntry({ onSave }) {
 
     try {
       const msg = await client.messages.create({
-        model: 'claude-sonnet-4-6',
-        max_tokens: 1024,
+        model: 'claude-haiku-4-5-20251001',
+        max_tokens: 2048,
         messages: [{
           role: 'user',
           content: `แก้ไขไดอารี่ภาษาเยอรมันนี้และอธิบายเป็นภาษาไทย
@@ -115,7 +115,7 @@ ${text}
       setResult(entry)
       onSave(entry)
     } catch (e) {
-      setResult({ error: 'เกิดข้อผิดพลาด ลองใหม่อีกครั้ง' })
+      setResult({ error: `เกิดข้อผิดพลาด: ${e.message}` })
     }
     setLoading(false)
   }

@@ -65,6 +65,9 @@ export default function Flashcard({ word, onCorrect, onWrong }) {
                   {TYPE_LABEL[word.type] ?? word.type}
                 </span>
                 <span className="text-sm text-gray-400">{word.de}</span>
+                {word.pronunciation && (
+                  <span className="text-xs text-blue-400">[{word.pronunciation}]</span>
+                )}
               </div>
               {word.cerf && (
                 <span className="text-xs font-bold px-2 py-0.5 rounded-full bg-blue-100 text-blue-600">

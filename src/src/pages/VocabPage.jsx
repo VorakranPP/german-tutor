@@ -44,11 +44,44 @@ export default function VocabPage() {
   const [typeFilter, setTypeFilter] = useState('all')
   const [levelFilter, setLevelFilter] = useState('all')
   const [categoryFilter, setCategoryFilter] = useState('all')
+  const [search, setSearch] = useState('')
 
   useEffect(() => { loadWords() }, [loadWords])
 
   if (!isLoaded) {
     return <div className="flex items-center justify-center h-64 text-gray-400">กำลังโหลด...</div>
+  }
+
+  // Search mode — แสดง list แทน flashcard
+  if (search.trim()) {
+    const q = search.trim().toLowerCase()
+    const results = queue.filter(w =>
+      w.de.toLowerCase().includes(q) || w.th?.toLowerCase().includes(q)
+    ).slice(0, 50)
+    return (
+      <div className="p-4 flex flex-col gap-3">
+        <SearchBar search={search} onChange={setSearch} />
+        <p className="text-xs text-gray-400">{results.length} ผลลัพธ์</p>
+        <div className="flex flex-col gap-2">
+          {results.map(w => (
+            <div key={w.id} className="bg-white/80 border border-gray-200 rounded-xl p-3 flex flex-col gap-0.5">
+              <div className="flex items-center justify-between">
+                <span className="font-semibold text-gray-800">{w.de}</span>
+                <div className="flex gap-1">
+                  <span className={`text-xs px-1.5 py-0.5 rounded-full ${
+                    w.cerf === 'A1' ? 'bg-emerald-100 text-emerald-600' :
+                    w.cerf === 'A2' ? 'bg-amber-100 text-amber-600' :
+                    'bg-blue-100 text-blue-600'}`}>{w.cerf}</span>
+                </div>
+              </div>
+              <span className="text-blue-600 font-medium">{w.th}</span>
+              {w.pronunciation && <span className="text-xs text-gray-400">[{w.pronunciation}]</span>}
+              {w.example && <span className="text-xs text-gray-500 italic mt-0.5">{w.example}</span>}
+            </div>
+          ))}
+        </div>
+      </div>
+    )
   }
 
   const filtered = queue.filter(w =>
@@ -83,6 +116,7 @@ export default function VocabPage() {
 
   return (
     <div className="p-4 flex flex-col gap-3">
+      <SearchBar search={search} onChange={setSearch} />
       <LevelBar levelFilter={levelFilter} onChange={setLevelFilter} queue={queue} />
       <CategoryBar categoryFilter={categoryFilter} onChange={setCategoryFilter} />
       <TypeBar typeFilter={typeFilter} onChange={setTypeFilter} queue={queue} levelFilter={levelFilter} />
@@ -123,6 +157,24 @@ export default function VocabPage() {
           </div>
         </div>
       </div>
+    </div>
+  )
+}
+
+function SearchBar({ search, onChange }) {
+  return (
+    <div className="relative">
+      <span className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-300 text-sm">🔍</span>
+      <input
+        type="text"
+        value={search}
+        onChange={e => onChange(e.target.value)}
+        placeholder="ค้นหาคำ... (ภาษาเยอรมัน หรือ ไทย)"
+        className="w-full pl-8 pr-8 py-2 text-sm border border-gray-200 rounded-xl bg-white/70 outline-none focus:border-blue-400"
+      />
+      {search && (
+        <button onClick={() => onChange('')} className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-300 text-sm">✕</button>
+      )}
     </div>
   )
 }
