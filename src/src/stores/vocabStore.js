@@ -1,7 +1,6 @@
 import { create } from 'zustand'
 import { persist } from 'zustand/middleware'
 
-// จัดกลุ่มตาม level แล้วสุ่มภายในกลุ่ม — level ต่ำขึ้นก่อน แต่ไม่เรียงตาม ID
 function buildQueue(words, levels) {
   const groups = {}
   for (const w of words) {
@@ -12,7 +11,6 @@ function buildQueue(words, levels) {
   const result = []
   for (let lv = 1; lv <= 5; lv++) {
     if (!groups[lv]) continue
-    // Fisher-Yates shuffle ภายใน level เดียวกัน
     const g = [...groups[lv]]
     for (let i = g.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
@@ -27,9 +25,11 @@ export const useVocabStore = create(
   persist(
     (set, get) => ({
       words: [],
-      queue: [],       // คำที่เรียงแล้วพร้อมทบทวน
+      queue: [],
       currentIndex: 0,
-      levels: {},      // { [id]: 1-5 }
+      levels: {},           // { [id]: 1-5 } — persist
+      sessionCorrect: 0,    // นับรอบนี้
+      sessionWrong: 0,
       isLoaded: false,
 
       loadWords: async () => {
@@ -40,35 +40,41 @@ export const useVocabStore = create(
         set({ words, queue: buildQueue(words, levels), isLoaded: true })
       },
 
-      markCorrect: () => {
-        const { queue, currentIndex, levels } = get()
-        const word = queue[currentIndex]
+      // รับ word ที่แสดงอยู่จริง แล้วหา index ที่แม่นยำ
+      markCorrect: (word) => {
+        const { queue, levels, sessionCorrect } = get()
+        const wordIdx = queue.findIndex(w => w.id === word.id)
         const newLevel = Math.min((levels[word.id] ?? 1) + 1, 5)
-        const newLevels = { ...levels, [word.id]: newLevel }
         set({
-          levels: newLevels,
-          currentIndex: currentIndex + 1,
+          levels: { ...levels, [word.id]: newLevel },
+          currentIndex: wordIdx + 1,
+          sessionCorrect: sessionCorrect + 1,
         })
       },
 
-      markWrong: () => {
-        const { queue, currentIndex, levels } = get()
-        const word = queue[currentIndex]
-        const newLevels = { ...levels, [word.id]: 1 }
+      markWrong: (word) => {
+        const { queue, levels, sessionWrong } = get()
+        const wordIdx = queue.findIndex(w => w.id === word.id)
         set({
-          levels: newLevels,
-          currentIndex: currentIndex + 1,
+          levels: { ...levels, [word.id]: 1 },
+          currentIndex: wordIdx + 1,
+          sessionWrong: sessionWrong + 1,
         })
       },
 
       restart: () => {
         const { words, levels } = get()
-        set({ queue: buildQueue(words, levels), currentIndex: 0 })
+        set({
+          queue: buildQueue(words, levels),
+          currentIndex: 0,
+          sessionCorrect: 0,
+          sessionWrong: 0,
+        })
       },
     }),
     {
       name: 'deutsch-vocab',
-      partialize: (state) => ({ levels: state.levels }), // persist เฉพาะ levels
+      partialize: (state) => ({ levels: state.levels }),
     }
   )
 )

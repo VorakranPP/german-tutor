@@ -2,6 +2,7 @@ import json
 import anthropic
 import time
 import os
+from utils import load_protected, safe_set
 
 client = anthropic.Anthropic()
 
@@ -68,9 +69,10 @@ def main():
 
         try:
             results = generate_batch(batch)
+            protected = load_protected()
             for j, r in enumerate(results):
-                words[i+j]["example"] = r.get("example", "")
-                words[i+j]["example_th"] = r.get("example_th", "")
+                safe_set(words[i+j], "example", r.get("example", ""), protected)
+                safe_set(words[i+j], "example_th", r.get("example_th", ""), protected)
             save_progress(words)
         except Exception as e:
             print(f"  ⚠️ Skipping batch {i}: {e}")

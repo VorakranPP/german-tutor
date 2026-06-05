@@ -2,6 +2,7 @@ import json
 import anthropic
 import time
 import os
+from utils import load_protected, safe_set
 
 client = anthropic.Anthropic()
 
@@ -70,8 +71,9 @@ def main():
 
         try:
             translations = translate_batch(batch)
+            protected = load_protected()
             for j, t in enumerate(translations):
-                words[i+j]["th"] = t["th"]
+                safe_set(words[i+j], "th", t["th"], protected)
             save_progress(words)  # save after every batch
         except Exception as e:
             print(f"  ⚠️ Error at batch {i}: {e}")

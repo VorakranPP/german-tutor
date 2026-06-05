@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const TYPE_LABEL = { noun: 'คำนาม', verb: 'กริยา', other: 'อื่นๆ' }
+const TYPE_LABEL = { noun: 'Nomen', verb: 'Verb', other: 'Andere' }
 
 function getFullPlural(de, plural) {
   if (!plural || plural === '') return null
@@ -30,7 +30,7 @@ export default function Flashcard({ word, onCorrect, onWrong }) {
   }
 
   const extra = word.type === 'noun'
-    ? word.plural ? `พหูพจน์: ${getFullPlural(word.de, word.plural)}` : ''
+    ? word.plural ? `Plural: ${getFullPlural(word.de, word.plural)}` : ''
     : word.conjugation ?? ''
 
   return (
@@ -45,25 +45,32 @@ export default function Flashcard({ word, onCorrect, onWrong }) {
       >
         {!flipped ? (
           // หน้าหน้า — คำภาษาเยอรมัน
-          <div className="flex flex-col items-center justify-center h-full p-8 gap-3" style={{ minHeight: 260 }}>
-            <span className={`text-xs font-medium px-2 py-0.5 rounded-full ${TYPE_COLOR[word.type] ?? TYPE_COLOR.other}`}>
+          <div className="flex flex-col items-center justify-center h-full p-8 gap-3" style={{ minHeight: 280 }}>
+            <span className={`text-sm font-medium px-3 py-0.5 rounded-full ${TYPE_COLOR[word.type] ?? TYPE_COLOR.other}`}>
               {TYPE_LABEL[word.type] ?? word.type}
             </span>
-            <p className="text-3xl font-bold text-gray-800 text-center">{word.de}</p>
-            {extra && <p className="text-sm text-gray-400">{extra}</p>}
+            <p className="text-4xl font-bold text-gray-800 text-center">{word.de}</p>
+            {extra && <p className="text-base text-gray-400">{extra}</p>}
             <p className="text-xs text-gray-300 mt-4">👆 แตะเพื่อดูคำแปล</p>
           </div>
         ) : (
           // หลังการ์ด — คำแปล + ตัวอย่าง
           <div className="flex flex-col p-6 gap-3" style={{ minHeight: 260 }}>
-            <div className="flex items-center gap-2">
-              <span className={`text-xs font-medium px-2 py-0.5 rounded-full ${TYPE_COLOR[word.type] ?? TYPE_COLOR.other}`}>
-                {TYPE_LABEL[word.type] ?? word.type}
-              </span>
-              <span className="text-sm text-gray-400">{word.de}</span>
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-2">
+                <span className={`text-xs font-medium px-2 py-0.5 rounded-full ${TYPE_COLOR[word.type] ?? TYPE_COLOR.other}`}>
+                  {TYPE_LABEL[word.type] ?? word.type}
+                </span>
+                <span className="text-sm text-gray-400">{word.de}</span>
+              </div>
+              {word.cerf && (
+                <span className="text-xs font-bold px-2 py-0.5 rounded-full bg-blue-100 text-blue-600">
+                  {word.cerf}
+                </span>
+              )}
             </div>
-            <p className="text-2xl font-bold text-blue-700">{word.th}</p>
-            {extra && <p className="text-sm text-gray-400">{extra}</p>}
+            <p className="text-3xl font-bold text-blue-700">{word.th}</p>
+            {extra && <p className="text-base text-gray-400">{extra}</p>}
             {word.example && (
               <div className="mt-2 bg-gray-50 rounded-xl p-3 border border-gray-100">
                 <p className="text-sm text-gray-700 italic">{word.example}</p>
