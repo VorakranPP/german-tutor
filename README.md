@@ -16,10 +16,12 @@
 
 ## Tech Stack
 
-- React 19 + Zustand + Tailwind CSS v4
-- Vite 5 (Node.js 20.x compatible)
-- Claude API — Haiku สำหรับทุก feature (Grammatik, Writing, Diary)
-- Vercel (frontend) + Railway (backend, optional)
+- **Frontend**: React 19 + Zustand + Tailwind CSS v4
+- **Build**: Vite 5 (Node.js 20.x compatible)
+- **AI**: Claude API — `claude-haiku-4-5-20251001` ทุก feature (Grammatik, Writing, Diary, Reading)
+  - Prompt caching (ephemeral) ทุก call → ลด input token cost ~90% เมื่อใช้ซ้ำ
+  - Single shared Anthropic client (`src/lib/client.js`) → easy maintenance
+- **Deploy**: Vercel (frontend) + Railway (backend, optional)
 
 ## Getting Started
 
@@ -36,7 +38,7 @@ cp .env.example .env
 cd src
 npm install
 npm run dev
-# เปิด http://localhost:5173
+# เปิด http://localhost:5174 (or port shown in terminal)
 ```
 
 ## Data Pipeline
@@ -73,9 +75,9 @@ german-tutor/
 │   └── src/
 │       ├── components/         # Flashcard, BottomNav
 │       ├── data/               # grammarTopics.js
-│       ├── lib/                # claude.js (Anthropic SDK client)
-│       ├── pages/              # VocabPage, GrammarPage, ...
-│       └── stores/             # vocabStore, diaryStore (Zustand)
+│       ├── lib/                # client.js (shared Anthropic instance), claude.js (grammar helpers)
+│       ├── pages/              # VocabPage, GrammarPage, DiaryPage, SpeakingPage, LesenPage
+│       └── stores/             # vocabStore, diaryStore, lesenStore (Zustand persist)
 ├── .env                        # ANTHROPIC_API_KEY (ไม่ commit)
 └── CLAUDE.md                   # instructions for Claude Code
 ```
