@@ -12,7 +12,7 @@
 - **Grammatik** — 11 หัวข้อ B1 (รวม Idiome 13 สำนวน) + fill-in-the-blank + ตรวจคำตอบ ด้วย Claude Haiku
 - **Sprechen** — Writing Practice B1/B2 สุ่มหัวข้อ Claude ให้คะแนน 4 ด้าน + feedback ภาษาไทย
 - **Tagebuch** — เขียน diary ภาษาเยอรมัน Claude แก้ทุกจุด + streak counter 🔥 + history
-- **Lesen** — *(เร็วๆ นี้)*
+- **Lesen** — 50 บทอ่าน B1 แบบ cache + คลิกคำดูความหมาย (auto-translate คำที่ไม่มีในคลัง) + 5 คำถาม MCQ
 
 ## Tech Stack
 

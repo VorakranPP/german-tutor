@@ -52,9 +52,11 @@
 - [x] Idiome & Redewendungen (13 สำนวน)
 
 ### Reading Tab (Lesen)
-- [ ] B1 passage generator (Claude API)
-- [ ] Comprehension questions
-- [ ] Highlight unknown words → add to vocab bank
+- [x] Cache 50 บทอ่าน B1 (generate_reading.py)
+- [x] คลิกคำ → popup คำแปล + คำอ่าน
+- [x] คำที่ไม่มีในคลัง → auto-translate ด้วย Claude
+- [x] 5 คำถาม multiple choice + เฉลย
+- [ ] เพิ่มคำจาก popup เข้า vocab bank โดยตรง
 
 ### Speaking Tab (Sprechen) → Writing Practice
 - [x] เลือกระดับ B1/B2

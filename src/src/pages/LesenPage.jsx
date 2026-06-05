@@ -72,7 +72,7 @@ export default function LesenPage() {
     setGenerating(false)
   }
 
-  function handleWordClick(word, e) {
+  async function handleWordClick(word, e) {
     const clean = word.replace(/[.,!?;:"()]/g, '').toLowerCase()
     if (clean.length < 2) return
     const match = vocabWords.find(v => {
@@ -81,12 +81,28 @@ export default function LesenPage() {
     })
     const rect = passageRef.current?.getBoundingClientRect()
     const btnRect = e.target.getBoundingClientRect()
-    setPopup({
-      word: word.replace(/[.,!?;:"()]/g, ''),
-      match,
-      x: btnRect.left - (rect?.left ?? 0),
-      y: btnRect.bottom - (rect?.top ?? 0) + 4,
-    })
+    const x = Math.min(btnRect.left - (rect?.left ?? 0), 180)
+    const y = btnRect.bottom - (rect?.top ?? 0) + 4
+
+    if (match) {
+      setPopup({ word: word.replace(/[.,!?;:"()]/g, ''), match, x, y })
+      return
+    }
+
+    // ไม่มีในคลัง → แปลด้วย Claude
+    setPopup({ word: word.replace(/[.,!?;:"()]/g, ''), match: null, x, y, loading: true })
+    try {
+      const msg = await client.messages.create({
+        model: 'claude-haiku-4-5-20251001',
+        max_tokens: 128,
+        messages: [{ role: 'user', content: `แปลคำเยอรมันนี้เป็นภาษาไทยสั้นๆ ตอบ JSON: {"th":"คำแปล","type":"noun/verb/other"}
+คำ: ${clean}` }],
+      })
+      const data = JSON.parse(msg.content[0].text.trim().replace(/```json|```/g, '').trim())
+      setPopup(p => ({ ...p, loading: false, translated: data.th }))
+    } catch {
+      setPopup(p => ({ ...p, loading: false, translated: '(แปลไม่ได้)' }))
+    }
   }
 
   function handleAddToVocab() {
@@ -185,16 +201,19 @@ export default function LesenPage() {
                 {popup.match.pronunciation && (
                   <p className="text-xs text-gray-400">[{popup.match.pronunciation}]</p>
                 )}
-                <button
-                  onClick={handleAddToVocab}
-                  className="mt-2 w-full py-1.5 bg-blue-600 text-white rounded-lg text-xs font-medium"
-                >
+                <button onClick={handleAddToVocab}
+                  className="mt-2 w-full py-1.5 bg-blue-600 text-white rounded-lg text-xs font-medium">
                   + เพิ่มเข้า Vokabeln
                 </button>
               </>
-            ) : (
-              <p className="text-xs text-gray-400">ไม่พบในคลัง</p>
-            )}
+            ) : popup.loading ? (
+              <p className="text-xs text-gray-400 animate-pulse">กำลังแปล...</p>
+            ) : popup.translated ? (
+              <>
+                <p className="text-blue-600 font-medium">{popup.translated}</p>
+                <p className="text-xs text-gray-400 mt-0.5">แปลโดย Claude · ไม่มีในคลัง</p>
+              </>
+            ) : null}
           </div>
         )}
       </div>

@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## [0.8.0] — 2026-06-05
+
+### Added
+- **Lesen Tab** — อ่านบทอ่านจาก cache 50 บท (หัวข้อ B1 ครบทุกหมวด)
+  - คลิกคำในบทอ่าน → popup คำแปล + คำอ่าน
+  - คำที่ไม่มีในคลัง → auto-translate ด้วย Claude Haiku ทันที
+  - 5 คำถาม multiple choice + เฉลยหลัง submit
+  - สุ่มไม่ซ้ำจนกว่าจะอ่านครบทุกบท
+- Prompt caching (`cache_control: ephemeral`) ทุก Claude API call — ลด input token cost ~90% เมื่อใช้ซ้ำ
+
+### Fixed
+- Diary wrong words → vocabStore `penalizeWords()` reset level = 1 ให้คำนั้นขึ้น flashcard บ่อยขึ้น
+
+### Scripts Added
+- `scripts/generate_reading.py` — batch generate 50 B1 reading passages ครอบคลุม 10 หมวด
+
+---
+
 ## [0.7.0] — 2026-06-05
 
 ### Added
