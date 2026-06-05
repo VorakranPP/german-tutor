@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [0.8.1] — 2026-06-05
+
+### Changed
+- **Consolidate Anthropic client** — single shared instance in `src/lib/client.js` (ลด duplicate, ง่ายต่อ maintain)
+- **Vite config** — เพิ่ม alias stub สำหรับ agent-toolset Node modules ให้ browser build ผ่าน
+- **Documentation** — update CLAUDE.md ให้ชัดว่าใช้ Haiku ทั้งหมด (diary, grammar, speaking, reading)
+
+### Refactored
+- `src/lib/claude.js`, `DiaryPage.jsx`, `LesenPage.jsx`, `SpeakingPage.jsx` — import shared client แทนสร้าง Anthropic() แยกกัน
+- LesenPage structure — consolidate logic, extract lesenStore
+
+---
+
 ## [0.8.0] — 2026-06-05
 
 ### Added
