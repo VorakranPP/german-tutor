@@ -1,12 +1,7 @@
 import { useState, useEffect, useRef } from 'react'
-import Anthropic from '@anthropic-ai/sdk'
+import { client } from '../lib/client.js'
 import { useVocabStore } from '../stores/vocabStore'
 import { useLesenStore } from '../stores/lesenStore'
-
-const client = new Anthropic({
-  apiKey: import.meta.env.VITE_ANTHROPIC_API_KEY,
-  dangerouslyAllowBrowser: true,
-})
 
 export default function LesenPage() {
   const [passages, setPassages] = useState([])

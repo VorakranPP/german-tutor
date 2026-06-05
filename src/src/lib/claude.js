@@ -1,9 +1,4 @@
-import Anthropic from '@anthropic-ai/sdk'
-
-const client = new Anthropic({
-  apiKey: import.meta.env.VITE_ANTHROPIC_API_KEY,
-  dangerouslyAllowBrowser: true,
-})
+import { client } from './client.js'
 
 const GRAMMAR_SYSTEM = [{
   type: 'text',

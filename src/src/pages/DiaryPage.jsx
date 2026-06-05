@@ -1,12 +1,7 @@
 import { useState } from 'react'
-import Anthropic from '@anthropic-ai/sdk'
+import { client } from '../lib/client.js'
 import { useDiaryStore } from '../stores/diaryStore'
 import { useVocabStore } from '../stores/vocabStore'
-
-const client = new Anthropic({
-  apiKey: import.meta.env.VITE_ANTHROPIC_API_KEY,
-  dangerouslyAllowBrowser: true,
-})
 
 export default function DiaryPage() {
   const { entries, streak, addEntry } = useDiaryStore()

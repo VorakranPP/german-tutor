@@ -1,10 +1,5 @@
 import { useState } from 'react'
-import Anthropic from '@anthropic-ai/sdk'
-
-const client = new Anthropic({
-  apiKey: import.meta.env.VITE_ANTHROPIC_API_KEY,
-  dangerouslyAllowBrowser: true,
-})
+import { client } from '../lib/client.js'
 
 const TOPICS = {
   B1: [
