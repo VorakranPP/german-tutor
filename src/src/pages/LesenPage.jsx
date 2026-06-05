@@ -1,22 +1,12 @@
 import { useState, useEffect, useRef } from 'react'
 import Anthropic from '@anthropic-ai/sdk'
 import { useVocabStore } from '../stores/vocabStore'
+import { useLesenStore } from '../stores/lesenStore'
 
 const client = new Anthropic({
   apiKey: import.meta.env.VITE_ANTHROPIC_API_KEY,
   dangerouslyAllowBrowser: true,
 })
-
-const SEEN_KEY = 'lesen-seen-ids'
-
-function getSeenIds() {
-  try { return JSON.parse(localStorage.getItem(SEEN_KEY) || '[]') } catch { return [] }
-}
-function addSeenId(id) {
-  const seen = getSeenIds()
-  if (!seen.includes(id)) localStorage.setItem(SEEN_KEY, JSON.stringify([...seen, id]))
-}
-function clearSeen() { localStorage.removeItem(SEEN_KEY) }
 
 export default function LesenPage() {
   const [passages, setPassages] = useState([])
@@ -26,6 +16,7 @@ export default function LesenPage() {
   const [popup, setPopup] = useState(null) // { word, match, x, y }
   const [generating, setGenerating] = useState(false)
   const { words: vocabWords, penalizeWords } = useVocabStore()
+  const { seenIds, addSeenId, clearSeen } = useLesenStore()
   const passageRef = useRef()
 
   useEffect(() => {
@@ -37,8 +28,7 @@ export default function LesenPage() {
 
   function pickRandom() {
     if (!passages.length) { generateNew(); return }
-    const seen = getSeenIds()
-    const unseen = passages.filter(p => !seen.includes(p.id))
+    const unseen = passages.filter(p => !seenIds.includes(p.id))
     const pool = unseen.length > 0 ? unseen : passages // ถ้าอ่านหมดแล้วสุ่มใหม่
     if (unseen.length === 0) clearSeen()
     const pick = pool[Math.floor(Math.random() * pool.length)]
