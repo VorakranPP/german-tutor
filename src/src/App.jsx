@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import BottomNav from './components/BottomNav'
 import VocabPage from './pages/VocabPage'
 import GrammarPage from './pages/GrammarPage'
-import ReadingPage from './pages/ReadingPage'
+import LesenPage from './pages/LesenPage'
 import SpeakingPage from './pages/SpeakingPage'
 import DiaryPage from './pages/DiaryPage'
 
@@ -25,7 +25,7 @@ export default function App() {
           <Routes>
             <Route path="/"         element={<VocabPage />} />
             <Route path="/grammar"  element={<GrammarPage />} />
-            <Route path="/reading"  element={<ReadingPage />} />
+            <Route path="/reading"  element={<LesenPage />} />
             <Route path="/speaking" element={<SpeakingPage />} />
             <Route path="/diary"    element={<DiaryPage />} />
           </Routes>
