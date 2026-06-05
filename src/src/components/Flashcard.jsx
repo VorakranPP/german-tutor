@@ -50,8 +50,11 @@ export default function Flashcard({ word, onCorrect, onWrong }) {
               {TYPE_LABEL[word.type] ?? word.type}
             </span>
             <p className="text-4xl font-bold text-gray-800 text-center">{word.de}</p>
+            {word.pronunciation && (
+              <p className="text-base text-blue-400 font-medium">[{word.pronunciation}]</p>
+            )}
             {extra && <p className="text-base text-gray-400">{extra}</p>}
-            <p className="text-xs text-gray-300 mt-4">👆 แตะเพื่อดูคำแปล</p>
+            <p className="text-xs text-gray-300 mt-2">👆 แตะเพื่อดูคำแปล</p>
           </div>
         ) : (
           // หลังการ์ด — คำแปล + ตัวอย่าง
