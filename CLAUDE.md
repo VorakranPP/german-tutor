@@ -30,13 +30,16 @@ Vocabulary flashcards, grammar drills, reading, speaking practice, and daily dia
     "th": "อพาร์ตเมนต์",
     "example": "Meine Wohnung ist sehr schön.",
     "example_th": "อพาร์ตเมนต์ของฉันสวยมาก",
-    "cerf": "A2"
+    "cerf": "A2",
+    "pronunciation": "ดี วอ-นุง",
+    "category": "Wohnen"
   }
   ```
   Notes:
   - Verbs have `conjugation` instead of `plural`
-  - `cerf` field: A1 (id 1–500), A2 (501–1500), B1 (1501–2833) — based on frequency rank
-  - `pronunciation` field unused (removed from pipeline)
+  - `cerf`: A1 (id 1–500), A2 (501–1500), B1 (1501–2833) — based on frequency rank
+  - `category`: 14 Goethe B1 topics (Alltag, Arbeit, Familie, Gesundheit, Reisen, Wohnen, Bildung, Einkaufen, Freizeit, Natur, Kommunikation, Gesellschaft, Sprache, Sonstige)
+  - Manual fixes tracked in `data/protected_fields.json` — use `safe_set()` from `scripts/utils.py`
 
 ## Claude API Usage
 

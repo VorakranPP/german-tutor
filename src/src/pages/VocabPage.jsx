@@ -2,6 +2,24 @@ import { useEffect, useState } from 'react'
 import { useVocabStore } from '../stores/vocabStore'
 import Flashcard from '../components/Flashcard'
 
+const CATEGORY_FILTERS = [
+  { value: 'all',           label: '🗂 Alle' },
+  { value: 'Alltag',        label: '☀️ Alltag' },
+  { value: 'Arbeit',        label: '💼 Arbeit' },
+  { value: 'Familie',       label: '👨‍👩‍👧 Familie' },
+  { value: 'Gesundheit',    label: '🏥 Gesundheit' },
+  { value: 'Reisen',        label: '✈️ Reisen' },
+  { value: 'Wohnen',        label: '🏠 Wohnen' },
+  { value: 'Bildung',       label: '📚 Bildung' },
+  { value: 'Einkaufen',     label: '🛒 Einkaufen' },
+  { value: 'Freizeit',      label: '🎯 Freizeit' },
+  { value: 'Natur',         label: '🌿 Natur' },
+  { value: 'Kommunikation', label: '💬 Kommunikation' },
+  { value: 'Gesellschaft',  label: '🏛 Gesellschaft' },
+  { value: 'Sprache',       label: '🔤 Sprache' },
+  { value: 'Sonstige',      label: '📌 Sonstige' },
+]
+
 const TYPE_FILTERS = [
   { value: 'all',   label: 'Alle' },
   { value: 'noun',  label: 'Nomen' },
@@ -25,6 +43,7 @@ export default function VocabPage() {
 
   const [typeFilter, setTypeFilter] = useState('all')
   const [levelFilter, setLevelFilter] = useState('all')
+  const [categoryFilter, setCategoryFilter] = useState('all')
 
   useEffect(() => { loadWords() }, [loadWords])
 
@@ -34,7 +53,8 @@ export default function VocabPage() {
 
   const filtered = queue.filter(w =>
     (typeFilter === 'all' || w.type === typeFilter) &&
-    (levelFilter === 'all' || w.cerf === levelFilter)
+    (levelFilter === 'all' || w.cerf === levelFilter) &&
+    (categoryFilter === 'all' || w.category === categoryFilter)
   )
 
   const currentWord = filtered.find(w => queue.indexOf(w) >= currentIndex)
@@ -47,6 +67,7 @@ export default function VocabPage() {
     return (
       <div className="p-4 flex flex-col gap-4">
         <LevelBar levelFilter={levelFilter} onChange={setLevelFilter} queue={queue} />
+        <CategoryBar categoryFilter={categoryFilter} onChange={setCategoryFilter} />
         <TypeBar typeFilter={typeFilter} onChange={setTypeFilter} queue={queue} levelFilter={levelFilter} />
         <div className="flex flex-col items-center justify-center gap-4 p-8 text-center" style={{ minHeight: 300 }}>
           <p className="text-5xl">🎉</p>
@@ -63,6 +84,7 @@ export default function VocabPage() {
   return (
     <div className="p-4 flex flex-col gap-3">
       <LevelBar levelFilter={levelFilter} onChange={setLevelFilter} queue={queue} />
+      <CategoryBar categoryFilter={categoryFilter} onChange={setCategoryFilter} />
       <TypeBar typeFilter={typeFilter} onChange={setTypeFilter} queue={queue} levelFilter={levelFilter} />
 
       <div className="flex items-center justify-between text-xs text-gray-400">
@@ -101,6 +123,26 @@ export default function VocabPage() {
           </div>
         </div>
       </div>
+    </div>
+  )
+}
+
+function CategoryBar({ categoryFilter, onChange }) {
+  return (
+    <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide">
+      {CATEGORY_FILTERS.map(({ value, label }) => (
+        <button
+          key={value}
+          onClick={() => onChange(value)}
+          className={`flex-shrink-0 px-3 py-1.5 rounded-full text-xs font-medium border transition-colors whitespace-nowrap
+            ${categoryFilter === value
+              ? 'bg-blue-600 text-white border-blue-600'
+              : 'bg-white/70 text-gray-500 border-gray-200'
+            }`}
+        >
+          {label}
+        </button>
+      ))}
     </div>
   )
 }

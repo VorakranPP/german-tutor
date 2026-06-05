@@ -8,8 +8,8 @@
 
 ## Features
 
-- **คำศัพท์** — Flashcard + Spaced repetition (2,833 คำ) + filter CEFR A1/A2/B1 + noun/verb/other พร้อมตัวอย่างประโยค B1
-- **ไวยากรณ์** — กฎภาษาเยอรมันอธิบายเป็นภาษาไทย + แบบฝึกหัด *(เร็วๆ นี้)*
+- **Vokabeln** — Flashcard + Spaced repetition (2,833 คำ) + filter CEFR A1/A2/B1 + 14 หมวด Goethe B1 + คำอ่านภาษาไทย + ตัวอย่างประโยค B1
+- **Grammatik** — 10 หัวข้อ B1 อธิบายภาษาไทย + fill-in-the-blank + ตรวจคำตอบด้วย Claude
 - **อ่าน** — บทอ่านระดับ B1 สร้างด้วย Claude + คำถามทดสอบความเข้าใจ *(เร็วๆ นี้)*
 - **ฝึกพูด** — พิมพ์ภาษาเยอรมัน Claude แก้ไข grammar *(เร็วๆ นี้)*
 - **ไดอารี่** — เขียน diary ภาษาเยอรมัน Claude แก้และบันทึกคำผิดเข้า vocab bank อัตโนมัติ *(เร็วๆ นี้)*
@@ -58,17 +58,23 @@ python3 scripts/generate_examples.py
 german-tutor/
 ├── data/
 │   ├── vocab_raw.json          # คำศัพท์ดิบ (ไม่มีคำแปล)
-│   └── vocab_translated.json   # คำศัพท์ครบ (th + example + example_th + cerf)
+│   ├── vocab_translated.json   # คำศัพท์ครบ (th + example + pronunciation + category + cerf)
+│   └── protected_fields.json   # manual fix tracking (ป้องกัน script overwrite)
 ├── scripts/
 │   ├── parse_vocab.py          # แปลง sorted.txt → JSON
 │   ├── translate_vocab.py      # แปลเป็นไทยด้วย Claude Haiku
 │   ├── generate_examples.py    # สร้างประโยคตัวอย่าง B1
+│   ├── generate_pronunciation.py # สร้างคำอ่านภาษาไทย
+│   ├── tag_categories.py       # tag 14 หมวด Goethe B1
 │   ├── fix_examples.py         # regenerate ประโยคที่ไม่มีคำเป้าหมาย
-│   └── fix_cjk_and_levels.py   # แก้ CJK + เพิ่ม CEFR level
+│   ├── fix_pronunciation.py    # แก้ pronunciation ที่มี non-Thai chars
+│   └── utils.py                # safe_set(), protect() — ป้องกัน overwrite
 ├── src/                        # React app (Vite)
 │   └── src/
 │       ├── components/         # Flashcard, BottomNav
-│       ├── pages/              # VocabPage, DiaryPage, ...
+│       ├── data/               # grammarTopics.js
+│       ├── lib/                # claude.js (Anthropic SDK client)
+│       ├── pages/              # VocabPage, GrammarPage, ...
 │       └── stores/             # vocabStore (Zustand)
 ├── .env                        # ANTHROPIC_API_KEY (ไม่ commit)
 └── CLAUDE.md                   # instructions for Claude Code

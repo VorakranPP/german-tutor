@@ -1,5 +1,31 @@
 # CHANGELOG
 
+## [0.6.0] — 2026-06-05
+
+### Added
+- Category filter (14 หมวด Goethe B1) — horizontal scroll chips บน Vocabulary Tab
+- `pronunciation` field (คำอ่านภาษาไทย) ทุกคำ 2,833/2,833
+- `category` field (Alltag, Arbeit, Familie ฯลฯ) ทุกคำ 2,833/2,833
+- CEFR level badge (สีฟ้า) มุมขวาบนของหลังการ์ด
+- Stats panel ขวา — รู้แล้ว / ยังไม่รู้ / ทั้งหมด (นับรอบนี้)
+
+### Fixed
+- Navigation bug: markCorrect/markWrong รับ word โดยตรงแทน global index — การ์ดเลื่อนถูกคำเมื่อ filter active
+- 93 nouns ที่มี feminine form ปนใน plural field (เช่น `-en die Doktorin` → `-en`)
+- 29 pronunciations ที่มี Devanagari/CJK characters
+- Re-applied 21 manual CJK translation fixes หลัง pronunciation script overwrite
+- `überhaupt` pronunciation แก้ manual
+
+### Scripts Added
+- `scripts/generate_pronunciation.py` — batch generate Thai phonetic pronunciation
+- `scripts/tag_categories.py` — batch tag 14 Goethe B1 categories ด้วย Claude Haiku
+- `scripts/fix_pronunciation.py` — fix pronunciations ที่มี non-Thai characters
+- `scripts/utils.py` — shared utilities: `safe_set()`, `protect()`, `load_protected()`
+- `data/protected_fields.json` — track manual fixes ป้องกัน script overwrite
+- Scripts ทุกตัวใช้ `safe_set()` — ถามยืนยันก่อน overwrite protected fields
+
+---
+
 ## [0.5.0] — 2026-06-04
 
 ### Added
