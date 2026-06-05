@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## [0.7.0] — 2026-06-05
+
+### Added
+- **Search bar** — ค้นหาภาษาเยอรมัน/ไทย แสดง list พร้อม CEFR, คำอ่าน, ตัวอย่างประโยค
+- **Writing Practice (Sprechen Tab)** — เลือก B1/B2, สุ่มหัวข้อ, Claude Haiku ให้คะแนน 4 ด้าน + feedback ภาษาไทย
+- **Diary Tab (Tagebuch)** — เขียน German diary, Claude แก้ + อธิบายไทย, streak counter, history
+- Pronunciation แสดงบน **หลังการ์ด** ข้างคำเยอรมัน
+- Idiome เพิ่ม 2 สำนวน: "Ich glaube, mein Schwein pfeift!" และ "Alles hat ein Ende, nur die Wurst hat zwei."
+- diaryStore (Zustand persist) — entries + streak
+
+### Fixed
+- Tagebuch เปลี่ยน claude-sonnet-4-6 → claude-haiku-4-5-20251001 (ประหยัด 20x)
+- Tagebuch max_tokens 1024 → 2048 (แก้ error กับ diary ยาว)
+- Tee ziehen lassen: อัปคำแปลให้ครอบคลุมความหมายเปรียบเปรย
+- QA spot-check 50 random words — 0 issues
+
+---
+
 ## [0.6.0] — 2026-06-05
 
 ### Added

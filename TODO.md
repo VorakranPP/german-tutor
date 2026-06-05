@@ -2,8 +2,8 @@
 
 ## 🔄 In Progress
 
-- [ ] เพิ่ม pronunciation แสดงบนการ์ด
-- [ ] Category filter ใน UI (เพิ่มแล้ว รอ test)
+- [ ] Deploy to Vercel
+- [ ] Lesen Tab — B1 passage generator
 
 ## 📦 Data Pipeline
 
@@ -18,7 +18,7 @@
 - [x] เพิ่ม category (14 หมวด Goethe B1) ทุกคำ
 - [x] Fix 93 nouns ที่มี feminine form ปนใน plural field
 - [x] Data protection system (protected_fields.json + safe_set)
-- [ ] Manual QA — spot check 50 random words
+- [x] Manual QA — spot check 50 random words (0 issues)
 - [x] Commit `vocab_translated.json` to repo
 
 ## 🎨 Frontend — React App
@@ -41,29 +41,34 @@
 - [x] Plural แสดงคำเต็ม (die Male แทน -e)
 - [x] Queue สุ่มภายใน level (Fisher-Yates)
 - [x] CEFR badge มุมขวาบนการ์ด
-- [ ] แสดง pronunciation บนการ์ด
+- [x] แสดง pronunciation บนการ์ด (หน้า + หลัง)
+- [x] Search bar (ค้นหา DE/TH)
 
 ### Grammar Tab
-- [x] Topic list 10 หัวข้อ B1
+- [x] Topic list 11 หัวข้อ (รวม Idiome)
 - [x] Rule explanation in Thai
 - [x] Fill-in-the-blank exercise (Claude Haiku)
 - [x] Answer checking with explanation (Claude Haiku)
+- [x] Idiome & Redewendungen (13 สำนวน)
 
-### Reading Tab
+### Reading Tab (Lesen)
 - [ ] B1 passage generator (Claude API)
 - [ ] Comprehension questions
 - [ ] Highlight unknown words → add to vocab bank
 
-### Speaking Practice Tab
-- [ ] Chat interface (type in German)
-- [ ] Claude corrects grammar + suggests better phrasing
-- [ ] Save corrections to vocab bank
+### Speaking Tab (Sprechen) → Writing Practice
+- [x] เลือกระดับ B1/B2
+- [x] สุ่มหัวข้อ (8 B1 + 6 B2)
+- [x] Claude Haiku ให้คะแนน 4 ด้าน × 5 = 20
+- [x] Feedback ภาษาไทย (จุดเด่น, ควรพัฒนา, เคล็ดลับ)
 
-### Diary Tab
-- [ ] Text editor for daily entry
-- [ ] Submit → Claude corrects and explains
-- [ ] Auto-extract wrong words → vocab bank
-- [ ] Streak counter
+### Diary Tab (Tagebuch)
+- [x] Text editor เขียน diary ภาษาเยอรมัน
+- [x] Claude Haiku แก้ + อธิบายภาษาไทย
+- [x] แสดงจุดผิดแต่ละจุด ~~เดิม~~ → ถูก
+- [x] Streak counter 🔥
+- [x] History view
+- [ ] เชื่อม wrong words → ลด level ใน vocabStore
 - [ ] Export to PDF
 
 ## 🚀 Deployment

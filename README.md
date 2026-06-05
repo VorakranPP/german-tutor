@@ -8,17 +8,17 @@
 
 ## Features
 
-- **Vokabeln** — Flashcard + Spaced repetition (2,833 คำ) + filter CEFR A1/A2/B1 + 14 หมวด Goethe B1 + คำอ่านภาษาไทย + ตัวอย่างประโยค B1
-- **Grammatik** — 10 หัวข้อ B1 อธิบายภาษาไทย + fill-in-the-blank + ตรวจคำตอบด้วย Claude
-- **อ่าน** — บทอ่านระดับ B1 สร้างด้วย Claude + คำถามทดสอบความเข้าใจ *(เร็วๆ นี้)*
-- **ฝึกพูด** — พิมพ์ภาษาเยอรมัน Claude แก้ไข grammar *(เร็วๆ นี้)*
-- **ไดอารี่** — เขียน diary ภาษาเยอรมัน Claude แก้และบันทึกคำผิดเข้า vocab bank อัตโนมัติ *(เร็วๆ นี้)*
+- **Vokabeln** — Flashcard + Spaced repetition (2,833 คำ) + search bar + filter CEFR/หมวด/ประเภท + คำอ่าน + ตัวอย่างประโยค B1
+- **Grammatik** — 11 หัวข้อ B1 (รวม Idiome 13 สำนวน) + fill-in-the-blank + ตรวจคำตอบ ด้วย Claude Haiku
+- **Sprechen** — Writing Practice B1/B2 สุ่มหัวข้อ Claude ให้คะแนน 4 ด้าน + feedback ภาษาไทย
+- **Tagebuch** — เขียน diary ภาษาเยอรมัน Claude แก้ทุกจุด + streak counter 🔥 + history
+- **Lesen** — *(เร็วๆ นี้)*
 
 ## Tech Stack
 
 - React 19 + Zustand + Tailwind CSS v4
 - Vite 5 (Node.js 20.x compatible)
-- Claude API — Haiku สำหรับ bulk tasks, Sonnet สำหรับ tutoring
+- Claude API — Haiku สำหรับทุก feature (Grammatik, Writing, Diary)
 - Vercel (frontend) + Railway (backend, optional)
 
 ## Getting Started
@@ -75,7 +75,7 @@ german-tutor/
 │       ├── data/               # grammarTopics.js
 │       ├── lib/                # claude.js (Anthropic SDK client)
 │       ├── pages/              # VocabPage, GrammarPage, ...
-│       └── stores/             # vocabStore (Zustand)
+│       └── stores/             # vocabStore, diaryStore (Zustand)
 ├── .env                        # ANTHROPIC_API_KEY (ไม่ commit)
 └── CLAUDE.md                   # instructions for Claude Code
 ```
