@@ -59,6 +59,22 @@ Cards have a `level` field (1–5). After each review:
 When Claude corrects a diary entry, extract words PP got wrong  
 and automatically add them to the personal vocab bank with `source: "diary"`.
 
+## Vocabulary Addition Workflow
+
+When adding new words to `data/vocab_translated.json`:
+
+1. **Check if word exists** using grep (case-insensitive partial match)
+2. **Extract all unique words** from diary entry or text
+3. **Filter out existing words** already in vocab_translated.json
+4. **For each new word**, create entry following vocab JSON structure:
+   - Required fields: `de`, `type`, `th`, `example`, `example_th`, `id`, `cerf`, `pronunciation`, `category`
+   - For verbs: use `conjugation` instead of `plural`
+   - For words from diary: add `source: "diary"` field
+5. **Assign sequential IDs** (continue from last ID in file)
+6. **Commit** with message: `feat: add N B1 vocabulary words from [source]`
+
+See [VOCAB_WORKFLOW.md](./VOCAB_WORKFLOW.md) for detailed example and workflow.
+
 ## Do Not
 
 - Do not use localStorage — use Zustand with persist middleware to Railway DB
