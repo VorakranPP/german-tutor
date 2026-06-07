@@ -80,7 +80,7 @@ german-tutor/
 │       └── stores/             # vocabStore, diaryStore, lesenStore (Zustand persist)
 ├── .env                        # ANTHROPIC_API_KEY (ไม่ commit)
 └── CLAUDE.md                   # instructions for Claude Code
-```
+
 
 ## Roadmap
 

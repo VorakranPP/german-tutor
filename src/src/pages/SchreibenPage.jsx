@@ -22,7 +22,7 @@ const TOPICS = {
   ],
 }
 
-export default function SpeakingPage() {
+export default function SchreibenPage() {
   const [level, setLevel] = useState('B1')
   const [topic, setTopic] = useState(null)
   const [essay, setEssay] = useState('')

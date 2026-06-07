@@ -3,7 +3,7 @@ import BottomNav from './components/BottomNav'
 import VocabPage from './pages/VocabPage'
 import GrammarPage from './pages/GrammarPage'
 import LesenPage from './pages/LesenPage'
-import SpeakingPage from './pages/SpeakingPage'
+import SchreibenPage from './pages/SchreibenPage'
 import DiaryPage from './pages/DiaryPage'
 import React from 'react';
 //import Dashboard from './components/Dashboard';
@@ -33,7 +33,7 @@ export default function App() {
             <Route path="/"         element={<VocabPage />} />
             <Route path="/grammar"  element={<GrammarPage />} />
             <Route path="/reading"  element={<LesenPage />} />
-            <Route path="/schreiben" element={<SpeakingPage />} />
+            <Route path="/schreiben" element={<SchreibenPage />} />
             <Route path="/diary"    element={<DiaryPage />} />
           </Routes>
         </main>
