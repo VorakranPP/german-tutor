@@ -111,18 +111,18 @@ export default function LesenPage() {
       <div className="p-4 flex flex-col gap-4">
         <div>
           <h2 className="font-bold text-gray-800">📖 Lesen</h2>
-          <p className="text-xs text-gray-400">ฝึกอ่านภาษาเยอรมัน + ทดสอบความเข้าใจ</p>
+          <p className="text-xs text-gray-400">Deutsch lesen und Verständnis testen</p>
         </div>
         <div className="flex flex-col items-center gap-4 py-12 text-center">
           <p className="text-5xl">📖</p>
           <p className="text-gray-500 text-sm">
-            {passages.length > 0 ? `มี ${passages.length} บทอ่านในคลัง` : 'กำลังโหลด...'}
+            {passages.length > 0 ? `${passages.length} Lesestücke im Archiv` : 'Lädt...'}
           </p>
           <button
             onClick={pickRandom}
             className="px-8 py-3 bg-blue-600 text-white rounded-xl font-semibold"
           >
-            เริ่มอ่าน →
+            Jetzt lesen →
           </button>
         </div>
       </div>
@@ -132,7 +132,7 @@ export default function LesenPage() {
   if (generating) {
     return (
       <div className="flex items-center justify-center h-64 text-gray-400 text-sm">
-        Claude กำลังสร้างบทอ่าน...
+        Claude erstellt ein Lesestück...
       </div>
     )
   }
@@ -149,7 +149,7 @@ export default function LesenPage() {
           onClick={pickRandom}
           className="px-3 py-1.5 bg-blue-50 text-blue-600 border border-blue-200 rounded-lg text-xs font-medium"
         >
-          บทอ่านใหม่
+          Neues Lesestück
         </button>
       </div>
 
@@ -159,7 +159,7 @@ export default function LesenPage() {
         className="relative bg-white/80 border border-gray-200 rounded-xl p-4"
         onClick={() => setPopup(null)}
       >
-        <p className="text-xs text-gray-400 mb-2">👆 แตะคำที่ไม่รู้จักเพื่อดูความหมาย</p>
+        <p className="text-xs text-gray-400 mb-2">👆 Tippe auf ein Wort, um die Bedeutung zu sehen</p>
         <p className="text-sm text-gray-800 leading-7">
           {current.passage.split(/(\s+)/).map((token, i) =>
             token.trim() ? (
@@ -190,15 +190,15 @@ export default function LesenPage() {
                 )}
                 <button onClick={handleAddToVocab}
                   className="mt-2 w-full py-1.5 bg-blue-600 text-white rounded-lg text-xs font-medium">
-                  + เพิ่มเข้า Vokabeln
+                  + Zu Vokabeln hinzufügen
                 </button>
               </>
             ) : popup.loading ? (
-              <p className="text-xs text-gray-400 animate-pulse">กำลังแปล...</p>
+              <p className="text-xs text-gray-400 animate-pulse">Wird übersetzt...</p>
             ) : popup.translated ? (
               <>
                 <p className="text-blue-600 font-medium">{popup.translated}</p>
-                <p className="text-xs text-gray-400 mt-0.5">แปลโดย Claude · ไม่มีในคลัง</p>
+                <p className="text-xs text-gray-400 mt-0.5">Übersetzt von Claude · nicht im Archiv</p>
               </>
             ) : null}
           </div>
@@ -207,7 +207,7 @@ export default function LesenPage() {
 
       {/* Questions */}
       <div className="flex flex-col gap-3">
-        <p className="text-sm font-semibold text-gray-700">คำถาม</p>
+        <p className="text-sm font-semibold text-gray-700">Fragen</p>
         {current.questions.map((q, qi) => (
           <div key={qi} className="bg-white/80 border border-gray-200 rounded-xl p-3 flex flex-col gap-2">
             <div className="flex items-start justify-between">
@@ -216,9 +216,9 @@ export default function LesenPage() {
                 <button
                   onClick={() => setShowThai(prev => ({ ...prev, [qi]: !prev[qi] }))}
                   className="ml-2 px-2 py-1 text-xs bg-gray-100 text-gray-600 hover:bg-gray-200 rounded transition-colors"
-                  title={showThai[qi] ? 'Hide Thai' : 'Show Thai'}
+                  title={showThai[qi] ? 'Thai verbergen' : 'Thai zeigen'}
                 >
-                  {showThai[qi] ? '🙈 ซ่อน' : '👁 ดู'}
+                  {showThai[qi] ? '🙈 Ausblenden' : '👁 Thai'}
                 </button>
               )}
             </div>
@@ -258,7 +258,7 @@ export default function LesenPage() {
           disabled={Object.keys(answers).length < current.questions.length}
           className="py-3 bg-blue-600 text-white rounded-xl font-semibold text-sm disabled:opacity-40"
         >
-          ส่งคำตอบ
+          Antworten abgeben
         </button>
       ) : (
         <div className={`rounded-xl p-4 text-center border ${
@@ -269,12 +269,12 @@ export default function LesenPage() {
           <p className="text-3xl font-bold mb-1">
             {score >= 4 ? '🎉' : score >= 3 ? '👍' : '📚'}
           </p>
-          <p className="font-bold text-lg">{score} / {current.questions.length} คะแนน</p>
+          <p className="font-bold text-lg">{score} / {current.questions.length} Punkte</p>
           <p className="text-sm text-gray-500 mt-1">
-            {score === 5 ? 'ยอดเยี่ยม!' : score >= 3 ? 'ดี ลองบทต่อไป' : 'อ่านอีกครั้งแล้วลองใหม่'}
+            {score === 5 ? 'Perfekt!' : score >= 3 ? 'Gut! Nächstes Lesestück.' : 'Lies nochmal und versuche es erneut.'}
           </p>
           <button onClick={pickRandom} className="mt-3 px-6 py-2 bg-blue-600 text-white rounded-xl text-sm font-semibold">
-            บทอ่านถัดไป →
+            Nächstes Lesestück →
           </button>
         </div>
       )}
