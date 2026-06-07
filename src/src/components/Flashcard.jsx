@@ -86,41 +86,41 @@ export default function Flashcard({ word, onCorrect, onWrong }) {
         onClick={!flipped ? handleFlip : undefined}
         className={`w-full rounded-2xl shadow-lg border transition-all duration-200 cursor-pointer select-none
           ${flipped ? 'bg-white border-blue-200 cursor-default' : 'bg-white border-gray-200 active:scale-95'}`}
-        style={{ minHeight: 380 }}
+        style={{ minHeight: '360px' }}
       >
         {!flipped ? (
           // หน้าหน้า — คำภาษาเยอรมัน
-          <div className="flex flex-col items-center justify-center h-full p-8 gap-4" style={{ minHeight: 380 }}>
+          <div className="flex flex-col items-center justify-center h-full p-8 gap-4">
             <span className={`text-base font-medium px-4 py-1 rounded-full ${TYPE_COLOR[word.type] ?? TYPE_COLOR.other}`}>
               {TYPE_LABEL[word.type] ?? word.type}
             </span>
-            <p className="text-6xl font-bold text-gray-800 text-center">{word.de}</p>
+            <p className="text-5xl font-bold text-gray-800 text-center break-words">{word.de}</p>
             {word.pronunciation && (
-              <p className="text-lg text-blue-400 font-medium">[{word.pronunciation}]</p>
+              <p className="text-base text-blue-400 font-medium">[{word.pronunciation}]</p>
             )}
-            {extra && <p className="text-lg text-gray-400">{extra}</p>}
-            <p className="text-sm text-gray-300 mt-3">👆 แตะเพื่อดูคำแปล</p>
+            {extra && <p className="text-base text-gray-400">{extra}</p>}
+            <p className="text-xs text-gray-300 mt-2">👆 แตะเพื่อดูคำแปล</p>
           </div>
         ) : (
           // หลังการ์ด — คำแปล + ตัวอย่าง
-          <div className="flex flex-col p-8 gap-4" style={{ minHeight: 380 }}>
-            <div className="flex items-center justify-between">
-              <div className="flex items-center gap-3">
-                <span className={`text-sm font-medium px-3 py-1 rounded-full ${TYPE_COLOR[word.type] ?? TYPE_COLOR.other}`}>
+          <div className="flex flex-col p-8 gap-4">
+            <div className="flex items-center justify-between gap-2">
+              <div className="flex items-center gap-2 flex-1 min-w-0">
+                <span className={`text-xs font-medium px-3 py-1 rounded-full ${TYPE_COLOR[word.type] ?? TYPE_COLOR.other}`}>
                   {TYPE_LABEL[word.type] ?? word.type}
                 </span>
-                <span className="text-base text-gray-400">{word.de}</span>
+                <span className="text-sm text-gray-400 break-words">{word.de}</span>
                 {word.pronunciation && (
-                  <span className="text-sm text-blue-400">[{word.pronunciation}]</span>
+                  <span className="text-xs text-blue-400">[{word.pronunciation}]</span>
                 )}
               </div>
               {word.cerf && (
-                <span className="text-sm font-bold px-3 py-1 rounded-full bg-blue-100 text-blue-600">
+                <span className="text-xs font-bold px-2 py-1 rounded-full bg-blue-100 text-blue-600">
                   {word.cerf}
                 </span>
               )}
             </div>
-            <p className="text-5xl font-bold text-blue-700">{word.th}</p>
+            <p className="text-3xl font-bold text-blue-700 break-words min-h-16">{word.th}</p>
             {extra && <p className="text-base text-gray-400">{extra}</p>}
             {word.example && (
               <div className="mt-3 bg-gray-50 rounded-xl p-4 border border-gray-100">
