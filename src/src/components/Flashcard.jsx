@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { useVocabStore } from '../stores/vocabStore'
 
 const TYPE_LABEL = { noun: 'Nomen', verb: 'Verb', other: 'Andere' }
 
@@ -18,6 +19,8 @@ const TYPE_COLOR = { noun: 'bg-blue-100 text-blue-700', verb: 'bg-green-100 text
 
 export default function Flashcard({ word, onCorrect, onWrong }) {
   const [flipped, setFlipped] = useState(false)
+  const { levels } = useVocabStore()
+  const isMemorized = (levels[word.id] ?? 1) >= 4
 
   function handleFlip() {
     setFlipped(true)
@@ -33,8 +36,50 @@ export default function Flashcard({ word, onCorrect, onWrong }) {
     ? word.plural ? `Plural: ${getFullPlural(word.de, word.plural)}` : ''
     : word.conjugation ?? ''
 
+  const handleMarkMemorized = () => {
+    const { markCorrect } = useVocabStore()
+    const currentLevel = levels[word.id] ?? 1
+    if (currentLevel < 4) {
+      const increments = 4 - currentLevel
+      for (let i = 0; i < increments; i++) {
+        markCorrect(word)
+      }
+    }
+  }
+
+  const handleResetWord = () => {
+    const { markWrong } = useVocabStore()
+    if (isMemorized) markWrong(word)
+  }
+
   return (
     <div className="flex flex-col items-center gap-4 w-full max-w-sm mx-auto">
+
+      {/* Memorized badge + actions */}
+      <div className="w-full flex items-center justify-between">
+        {isMemorized && <span className="text-xs bg-green-100 text-green-700 px-2 py-1 rounded-full font-semibold">✅ จำได้แล้ว</span>}
+        {!isMemorized && <div />}
+        <div className="flex gap-1">
+          {!isMemorized && (
+            <button
+              onClick={handleMarkMemorized}
+              className="text-sm px-3 py-1 rounded-full bg-green-50 text-green-600 border border-green-200 hover:bg-green-100 transition-colors"
+              title="บันทึกว่าจำคำนี้แล้ว"
+            >
+              💾 บันทึก
+            </button>
+          )}
+          {isMemorized && (
+            <button
+              onClick={handleResetWord}
+              className="text-sm px-3 py-1 rounded-full bg-amber-50 text-amber-600 border border-amber-200 hover:bg-amber-100 transition-colors"
+              title="รีเซ็ต เพื่อฝึกคำนี้อีก"
+            >
+              🔄 รีเซ็ท
+            </button>
+          )}
+        </div>
+      </div>
 
       {/* Card */}
       <div
