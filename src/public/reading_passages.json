@@ -5,49 +5,79 @@
     "passage": "Berlin ist eine lebendige Stadt mit vielen Möglichkeiten. Morgens fahre ich mit der U-Bahn zur Arbeit. Die öffentlichen Verkehrsmittel sind sehr zuverlässig und praktisch. In der Mittagspause gehe ich oft ins Café und treffe meine Freunde. Berlin hat viele Cafés und Restaurants in jedem Stadtteil. Am Wochenende besuche ich gerne die Museen oder spaziere durch den Tiergarten. Der Tiergarten ist ein wunderschöner Park im Zentrum der Stadt. Abends gehe ich manchmal ins Kino oder zum Konzert. Es gibt immer etwas Interessantes zu tun. Die Berliner sind sehr offen und freundlich. Ich mag diese Stadt sehr, weil sie kulturell vielfältig und modern ist.",
     "questions": [
       {
-        "q": "ผู้พูดใช้วิธีการใดในการเดินทางไปทำงานในตอนเช้า?",
+        "q": "Welche Verkehrsmittel benutzt der Sprecher morgens auf dem Weg zur Arbeit?",
         "options": [
+          "A) Er fährt mit seinem eigenen Auto.",
+          "B) Er nimmt die U-Bahn.",
+          "C) Er fährt mit dem Fahrrad."
+        ],
+        "answer": 1,
+        "q_th": "ผู้พูดใช้วิธีการใดในการเดินทางไปทำงานในตอนเช้า?",
+        "options_th": [
           "ก) ขับรถส่วนตัว",
           "ข) ใช้รถไฟใต้ดิน (U-Bahn)",
           "ค) ขี่จักรยาน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ผู้พูดชอบทำอะไรในวันปลายสัปดาห์?",
+        "q": "Was macht der Sprecher gerne am Wochenende?",
         "options": [
+          "A) Er geht einkaufen im Kaufhaus.",
+          "B) Er besucht ein Museum oder spaziert im Park.",
+          "C) Er bleibt zu Hause und schaut Fernsehen."
+        ],
+        "answer": 1,
+        "q_th": "ผู้พูดชอบทำอะไรในวันปลายสัปดาห์?",
+        "options_th": [
           "ก) ไปซื้อของในห้างสรรพสินค้า",
           "ข) เข้าชมพิพิธภัณฑ์หรือเดินเล่นในสวนสาธารณะ",
           "ค) อยู่บ้านและดูทีวี"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "สถานที่ใดในเบอร์ลินที่ผู้พูดชอบเยี่ยมชมในเวลาว่าง?",
+        "q": "Welche Orte in Berlin besucht der Sprecher gerne in seiner Freizeit?",
         "options": [
+          "Sportstadien",
+          "Museen, Kinos und Konzerthallen",
+          "Bahnhöfe"
+        ],
+        "answer": 1,
+        "q_th": "สถานที่ใดในเบอร์ลินที่ผู้พูดชอบเยี่ยมชมในเวลาว่าง?",
+        "options_th": [
           "ก) สนามกีฬา",
           "ข) พิพิธภัณฑ์, โรงภาพยนตร์ และคอนเสิร์ต",
           "ค) สถานีรถไฟ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ลักษณะของเบอร์ลินตามที่ผู้พูดกล่าวคือข้อใด?",
+        "q": "Wie beschreibt der Sprecher die Charakteristiken von Berlin?",
         "options": [
+          "Alt und langweilig",
+          "Lebendig, kulturell vielfältig und modern",
+          "Eine Stadt mit nur Wohnblöcken"
+        ],
+        "answer": 1,
+        "q_th": "ลักษณะของเบอร์ลินตามที่ผู้พูดกล่าวคือข้อใด?",
+        "options_th": [
           "ก) เป็นเมืองเก่าและน่าเบื่อ",
           "ข) เป็นเมืองที่มีชีวิตชีวา มีความหลากหลายทางวัฒนธรรม และทันสมัย",
           "ค) เป็นเมืองที่มีเฉพาะหอพัก"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ข้อใดไม่ใช่สิ่งที่ผู้พูดกล่าวว่าทำในเวลาเที่ยง?",
+        "q": "Welche Aktivität hat der Sprecher NICHT mittags gemacht?",
         "options": [
+          "Im Café vorbeigehen und Freunde treffen",
+          "Im Büro arbeiten",
+          "In verschiedenen Restaurants essen gehen"
+        ],
+        "answer": 1,
+        "q_th": "ข้อใดไม่ใช่สิ่งที่ผู้พูดกล่าวว่าทำในเวลาเที่ยง?",
+        "options_th": [
           "ก) ไปที่ร้านกาแฟและพบปะเพื่อน",
           "ข) ทำงานที่สำนักงาน",
           "ค) ไปที่ร้านอาหารในย่างต่างๆ"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p001"
@@ -58,49 +88,79 @@
     "passage": "Jeden Samstag geht Maria zum Wochenmarkt in ihrer Stadt. Sie mag diesen Markt sehr, denn hier findet man frische Produkte direkt vom Bauern. Heute kauft sie Gemüse, Obst und Blumen. Der Gemüseverkäufer kennt Maria schon lange und gibt ihr einen guten Preis für die Tomaten und Paprika. Sie möchte auch Äpfel kaufen, aber die sind heute teuer. An einem anderen Stand verkauft eine Frau hausgemachte Marmelade und Käse. Maria nimmt zwei Gläser Erdbeermanmelade mit. Am Ende bezahlt sie insgesamt 35 Euro. Sie ist zufrieden mit ihrem Einkauf und plant, nächste Woche wiederzukommen.",
     "questions": [
       {
-        "q": "แมเรียไปตลาดเมื่อไหร่?",
+        "q": "Wann geht Maria auf den Markt?",
         "options": [
+          "jeden Freitag",
+          "jeden Samstag",
+          "jeden Sonntag"
+        ],
+        "answer": 1,
+        "q_th": "แมเรียไปตลาดเมื่อไหร่?",
+        "options_th": [
           "ก) ทุกวันศุกร์",
           "ข) ทุกวันเสาร์",
           "ค) ทุกวันอาทิตย์"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เหตุใดแมเรียจึงชอบไปที่ตลาดนี้?",
+        "q": "Warum geht Maria gerne auf diesen Markt?",
         "options": [
+          "A) Die Preise sind sehr günstig.",
+          "B) Die Waren sind frisch und kommen direkt von den Bauern.",
+          "C) Es gibt eine große Auswahl an Kleidung."
+        ],
+        "answer": 1,
+        "q_th": "เหตุใดแมเรียจึงชอบไปที่ตลาดนี้?",
+        "options_th": [
           "ก) ราคาถูกมาก",
           "ข) สินค้าสดใหม่มาจากเกษตรกร",
           "ค) มีเสื้อผ้าเพียบ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "แมเรียซื้อของอะไรบ้าง?",
+        "q": "Was hat Maria alles gekauft?",
         "options": [
+          "A) Rindfleisch und Fisch",
+          "B) Kuchen und Brot",
+          "C) Gemüse, Obst und Blumen"
+        ],
+        "answer": 2,
+        "q_th": "แมเรียซื้อของอะไรบ้าง?",
+        "options_th": [
           "ก) เนื้อวัวและปลา",
           "ข) เค้กและขนมปัง",
           "ค) ผักผลไม้และดอกไม้"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "เอ็นนายขายแยมบ้านแบบไหน?",
+        "q": "Wie macht Anna ihr Marmelade zu Hause?",
         "options": [
+          "Erdbeermarmelade",
+          "Wassermelonen-Marmelade",
+          "Mangmarmelade"
+        ],
+        "answer": 0,
+        "q_th": "เอ็นนายขายแยมบ้านแบบไหน?",
+        "options_th": [
           "ก) แยมสตรอเบอร์รี่",
           "ข) แยมแตงโม",
           "ค) แยมมะม่วง"
-        ],
-        "answer": 0
+        ]
       },
       {
-        "q": "แมเรียจ่ายเงินทั้งหมดเท่าไหร่?",
+        "q": "Wie viel Euro hat Maria insgesamt bezahlt?",
         "options": [
+          "25 Euro",
+          "30 Euro",
+          "35 Euro"
+        ],
+        "answer": 2,
+        "q_th": "แมเรียจ่ายเงินทั้งหมดเท่าไหร่?",
+        "options_th": [
           "ก) 25 ยูโร",
           "ข) 30 ยูโร",
           "ค) 35 ยูโร"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p002"
@@ -111,49 +171,79 @@
     "passage": "Die deutsche Küche ist bekannt für ihre herzhaften und köstlichen Gerichte. Das berühmteste Gericht ist wahrscheinlich die Bratwurst, eine Wurst aus Schweinefleisch, die oft mit Sauerkraut und Kartoffeln serviert wird. Ein anderes beliebtes Gericht ist das Schnitzel, ein dünnes Stück Fleisch, das paniert und frittiert wird. Zum Frühstück essen Deutsche gerne Brötchen mit Butter und Marmelade oder Käse. Das Brot ist sehr wichtig in der deutschen Kultur - es gibt über 300 verschiedene Sorten. Für Feiertage bereitet man traditionelle Speisen wie Sauerbraten oder Eintopf zu. Diese Gerichte brauchen viel Zeit zum Kochen, aber das Ergebnis ist immer köstlich. Die deutsche Küche verbindet Tradition mit qualitativ hochwertigen Zutaten.",
     "questions": [
       {
-        "q": "ตามข้อความ ไสหสวายเยอรมันที่มีชื่อเสียงที่สุดคืออะไร",
+        "q": "Nach dem Text, welches ist das berühmteste deutsche Fleischgericht?",
         "options": [
+          "Schnitzel",
+          "Bratwurst",
+          "Sauerbraten"
+        ],
+        "answer": 1,
+        "q_th": "ตามข้อความ ไสหสวายเยอรมันที่มีชื่อเสียงที่สุดคืออะไร",
+        "options_th": [
           "ก) Schnitzel",
           "ข) Bratwurst",
           "ค) Sauerbraten"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "การเรียน Bratwurst นิยมจะเสิร์ฟกับอะไร",
+        "q": "Womit wird Bratwurst typischerweise serviert?",
         "options": [
+          "Butter und Marmelade",
+          "Brötchen und Käse",
+          "Sauerkraut und Kartoffeln"
+        ],
+        "answer": 2,
+        "q_th": "การเรียน Bratwurst นิยมจะเสิร์ฟกับอะไร",
+        "options_th": [
           "ก) Butter และ Marmelade",
           "ข) Brötchen และ Käse",
           "ค) Sauerkraut และ Kartoffeln"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "เยอรมนีมีเบรดกี่ชนิด",
+        "q": "Wie viele Brotsorten gibt es in Deutschland?",
         "options": [
+          "Etwa 100 Sorten",
+          "Etwa 200 Sorten",
+          "Etwa 300 Sorten"
+        ],
+        "answer": 2,
+        "q_th": "เยอรมนีมีเบรดกี่ชนิด",
+        "options_th": [
           "ก) ประมาณ 100 ชนิด",
           "ข) ประมาณ 200 ชนิด",
           "ค) ประมาณ 300 ชนิด"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "อาหารดั้งเดิมสำหรับวันเฉลิมฉลองเยอรมันคือข้อใด",
+        "q": "Welches traditionelle deutsche Festessen ist richtig?",
         "options": [
+          "Bratwurst und Brötchen",
+          "Sauerbraten und Eintopf",
+          "Schnitzel und Kartoffeln"
+        ],
+        "answer": 1,
+        "q_th": "อาหารดั้งเดิมสำหรับวันเฉลิมฉลองเยอรมันคือข้อใด",
+        "options_th": [
           "ก) Bratwurst และ Brötchen",
           "ข) Sauerbraten และ Eintopf",
           "ค) Schnitzel และ Kartoffeln"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ข้อความนี้บอกว่าสิ่งใดเป็นสิ่งสำคัญในวัฒนธรรมเยอรมัน",
+        "q": "Was sagt der Text ist wichtig in der deutschen Kultur?",
         "options": [
+          "Butter",
+          "Brot",
+          "Fleisch"
+        ],
+        "answer": 1,
+        "q_th": "ข้อความนี้บอกว่าสิ่งใดเป็นสิ่งสำคัญในวัฒนธรรมเยอรมัน",
+        "options_th": [
           "ก) Butter",
           "ข) Brot",
           "ค) Fleisch"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p003"
@@ -164,49 +254,79 @@
     "passage": "Sport ist wichtig für unsere Gesundheit. Viele Menschen trainieren regelmäßig, um fit zu bleiben. Es gibt verschiedene Arten von Sport: Laufen, Schwimmen, Yoga und Fitnesstraining. Experten empfehlen, mindestens 30 Minuten pro Tag aktiv zu sein. Wenn wir Sport treiben, verbessert sich unsere Ausdauer und wir fühlen uns energischer. Außerdem hilft Sport gegen Stress und Schlafprobleme. Eine gesunde Ernährung ist auch sehr wichtig. Obst, Gemüse und Vollkornprodukte sind gut für den Körper. Wir sollten weniger Zucker und Fett essen. Mit regelmäßigem Training und guter Ernährung können wir ein langes und gesundes Leben führen.",
     "questions": [
       {
-        "q": "ตามข้อความ ผู้เชี่ยวชาญแนะนำให้ออกกำลังกายอย่างไร",
+        "q": "Laut dem Text, wie empfehlen Experten, Sport zu treiben?",
         "options": [
+          "A) Mindestens 30 Minuten pro Tag",
+          "B) 2 Stunden pro Tag",
+          "C) Nur 15 Minuten pro Woche"
+        ],
+        "answer": 0,
+        "q_th": "ตามข้อความ ผู้เชี่ยวชาญแนะนำให้ออกกำลังกายอย่างไร",
+        "options_th": [
           "ก) อย่างน้อย 30 นาทีต่อวัน",
           "ข) 2 ชั่วโมงต่อวัน",
           "ค) เพียง 15 นาทีต่อสัปดาห์"
-        ],
-        "answer": 0
+        ]
       },
       {
-        "q": "ประโยชน์ของการออกกำลังกายคืออะไร",
+        "q": "Was sind die Vorteile von regelmäßiger Bewegung und Sport?",
         "options": [
+          "Nur Gewichtsabnahme",
+          "Verbesserung der Kraft, mehr Energie und Stressabbau",
+          "Um neue Freunde zu finden"
+        ],
+        "answer": 1,
+        "q_th": "ประโยชน์ของการออกกำลังกายคืออะไร",
+        "options_th": [
           "ก) ลดน้ำหนักเท่านั้น",
           "ข) ปรับปรุงความแข็งแรง ความรู้สึกมีพลัง และลดความเครียด",
           "ค) เพื่อให้มีเพื่อนใหม่"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "อาหารใดที่ควรกินเพื่อสุขภาพที่ดี",
+        "q": "Welche Lebensmittel sollte man essen, um eine gute Gesundheit zu haben?",
         "options": [
+          "Lebensmittel mit viel Zucker und Fett",
+          "Obst, Gemüse und Getreideprodukte",
+          "Nur Fleisch von Wandertieren"
+        ],
+        "answer": 1,
+        "q_th": "อาหารใดที่ควรกินเพื่อสุขภาพที่ดี",
+        "options_th": [
           "ก) อาหารที่มีน้ำตาลและไขมันมาก",
           "ข) ผลไม้ ผัก และผลิตภัณฑ์จากธัญพืช",
           "ค) แต่เนื้อสัตว์อพยพ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "คำว่า 'Ausdauer' ในข้อความหมายถึงอะไร",
+        "q": "Was bedeutet das Wort \"Ausdauer\" im Text?",
         "options": [
+          "Geschwindigkeit",
+          "Muskelkraft",
+          "Die Fähigkeit, lange Zeit ohne Ermüdung zu arbeiten"
+        ],
+        "answer": 2,
+        "q_th": "คำว่า 'Ausdauer' ในข้อความหมายถึงอะไร",
+        "options_th": [
           "ก) ความเร็ว",
           "ข) ความแข็งแรงของกล้ามเนื้อ",
           "ค) ความสามารถในการทำงานต่อเนื่องโดยไม่เหนื่อย"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ข้อความบอกว่าการออกกำลังกายช่วยแก้ปัญหาใด",
+        "q": "Welche Probleme können durch Bewegung und Sport gelöst werden?",
         "options": [
+          "Lernprobleme",
+          "Stress und Schlafstörungen",
+          "Finanzielle Probleme"
+        ],
+        "answer": 1,
+        "q_th": "ข้อความบอกว่าการออกกำลังกายช่วยแก้ปัญหาใด",
+        "options_th": [
           "ก) ปัญหาการเรียน",
           "ข) ความเครียดและปัญหาการนอนหลับ",
           "ค) ปัญหาด้านการเงิน"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p004"
@@ -217,49 +337,79 @@
     "passage": "Maria arbeitet seit fünf Jahren in einem modernen Büro in München. Sie beginnt ihren Tag um acht Uhr mit einer Tasse Kaffee und überprüft ihre E-Mails. Um neun Uhr hat sie ein wichtiges Meeting mit ihrem Team. Sie diskutieren die neuen Projekte für diesen Monat. Am Mittag isst Maria mit ihren Kollegen in der Betriebskantine. Nach dem Mittagessen arbeitet sie an ihrer Präsentation für den Chef. Um siebzehn Uhr beendet sie ihre Arbeit und fährt nach Hause. Maria mag ihren Job sehr, weil die Zusammenarbeit mit dem Team sehr gut funktioniert und ihre Vorgesetzten sind immer hilfsbereit.",
     "questions": [
       {
-        "q": "ที่ไหนที่ Maria ทำงาน?",
+        "q": "Wo arbeitet Maria?",
         "options": [
+          "A) In New York",
+          "B) In München",
+          "C) In Berlin"
+        ],
+        "answer": 1,
+        "q_th": "ที่ไหนที่ Maria ทำงาน?",
+        "options_th": [
           "ก) ในนิวยอร์ก",
           "ข) ในมิวนิก",
           "ค) ในเบอร์ลิน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "Maria เริ่มงานของเธอเมื่อไร?",
+        "q": "Wann hat Maria ihre Arbeit begonnen?",
         "options": [
+          "A) Um 7 Uhr",
+          "B) Um 8 Uhr",
+          "C) Um 9 Uhr"
+        ],
+        "answer": 1,
+        "q_th": "Maria เริ่มงานของเธอเมื่อไร?",
+        "options_th": [
           "ก) เวลา 7 นาฬิกา",
           "ข) เวลา 8 นาฬิกา",
           "ค) เวลา 9 นาฬิกา"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "Maria ทำอะไรเมื่อสิบเก้านาฬิกา?",
+        "q": "Was macht Maria um neunzehn Uhr?",
         "options": [
+          "A) Sie spricht mit ihren Arbeitskollegen.",
+          "B) Sie arbeitet an einer Präsentation.",
+          "C) Sie geht nach Hause zum Arbeiten."
+        ],
+        "answer": 1,
+        "q_th": "Maria ทำอะไรเมื่อสิบเก้านาฬิกา?",
+        "options_th": [
           "ก) พูดคุยกับเพื่อนร่วมงาน",
           "ข) ทำงานด้านการนำเสนอ",
           "ค) ไปทำงานที่บ้าน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "Maria กินอาหารกลางวันกับใคร?",
+        "q": "Mit wem isst Maria zu Mittag?",
         "options": [
+          "A) Mit ihrer Familie",
+          "B) Mit ihren Arbeitskollegen",
+          "C) Allein"
+        ],
+        "answer": 1,
+        "q_th": "Maria กินอาหารกลางวันกับใคร?",
+        "options_th": [
           "ก) อพยพกับครอบครัวของเธอ",
           "ข) กับเพื่อนร่วมงาน",
           "ค) คนเดียว"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "Maria ชอบงานของเธอเพราะเหตุใด?",
+        "q": "Warum mag Maria ihre Arbeit?",
         "options": [
+          "A) Weil das Gehalt hoch ist",
+          "B) Weil die Zusammenarbeit gut ist und die Kollegen sich gegenseitig helfen",
+          "C) Weil der Arbeitsplatz schön ist"
+        ],
+        "answer": 1,
+        "q_th": "Maria ชอบงานของเธอเพราะเหตุใด?",
+        "options_th": [
           "ก) เพราะเงินเดือนสูง",
           "ข) เพราะการทำงานร่วมกันดีและเพื่อนบ้านช่วยเหลือ",
           "ค) เพราะสถานที่ทำงานสวย"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p005"
@@ -270,49 +420,79 @@
     "passage": "Max sitzt nervös im Büro und wartet auf sein Vorstellungsgespräch. Der Personalleiter kommt herein und begrüßt ihn freundlich. \"Willkommen! Erzählen Sie mir von Ihren Erfahrungen,\" sagt er. Max erklärt, dass er fünf Jahre als Projektmanager gearbeitet hat und sehr gerne in einem Team arbeitet. Der Personalleiter fragt nach seinen Stärken und Schwächen. Max antwortet ehrlich: \"Ich bin organisiert und zuverlässig, aber manchmal bin ich ungeduldig.\" Nach einer Stunde Gespräch über Aufgaben, Gehalt und Arbeitszeiten schütteln sie sich die Hand. Der Personalleiter sagt: \"Wir werden Sie in zwei Wochen kontaktieren.\" Max verlässt das Büro mit gemischten Gefühlen, aber hoffnungsvoll.",
     "questions": [
       {
-        "q": "ที่ไหนที่ Max รอการสัมภาษณ์งาน?",
+        "q": "Wo wartete Max auf sein Vorstellungsgespräch?",
         "options": [
+          "Im Wartezimmer",
+          "Im Park",
+          "In seinem Haus"
+        ],
+        "answer": 0,
+        "q_th": "ที่ไหนที่ Max รอการสัมภาษณ์งาน?",
+        "options_th": [
           "ก) ในห้องรอคอย",
           "ข) ในสวนสาธารณะ",
           "ค) ในบ้านของเขา"
-        ],
-        "answer": 0
+        ]
       },
       {
-        "q": "Max มีประสบการณ์การทำงานมากเท่าไหร่?",
+        "q": "Wie viel Berufserfahrung hat Max?",
         "options": [
+          "A) Drei Jahre",
+          "B) Fünf Jahre",
+          "C) Zehn Jahre"
+        ],
+        "answer": 1,
+        "q_th": "Max มีประสบการณ์การทำงานมากเท่าไหร่?",
+        "options_th": [
           "ก) สามปี",
           "ข) ห้าปี",
           "ค) สิบปี"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ข้อบกพ่องของ Max คืออะไร?",
+        "q": "Was ist Max' Schwäche?",
         "options": [
+          "A) Mangelnde Kommunikationsfähigkeiten",
+          "B) Unzuverlässigkeit",
+          "C) Ungeduld"
+        ],
+        "answer": 2,
+        "q_th": "ข้อบกพ่องของ Max คืออะไร?",
+        "options_th": [
           "ก) ขาดทักษะการสื่อสาร",
           "ข) ไม่เชื่อถือได้",
           "ค) ขาดความอดทน"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "เมื่อไหร่ที่ผู้บริหารจะติดต่อ Max อีกครั้ง?",
+        "q": "Wann wird sich der Manager wieder mit Max in Verbindung setzen?",
         "options": [
+          "In einer Woche",
+          "In zwei Wochen",
+          "In einem Monat"
+        ],
+        "answer": 1,
+        "q_th": "เมื่อไหร่ที่ผู้บริหารจะติดต่อ Max อีกครั้ง?",
+        "options_th": [
           "ก) ในหนึ่งสัปดาห์",
           "ข) ในสองสัปดาห์",
           "ค) ในหนึ่งเดือน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ความรู้สึกของ Max เมื่อออกจากสำนักงานเป็นอย่างไร?",
+        "q": "Wie fühlte sich Max, als er das Büro verließ?",
         "options": [
+          "A) Hoffnungslos und traurig",
+          "B) Glücklich und voller Selbstvertrauen",
+          "C) Sehr besorgt, aber hoffnungsvoll"
+        ],
+        "answer": 2,
+        "q_th": "ความรู้สึกของ Max เมื่อออกจากสำนักงานเป็นอย่างไร?",
+        "options_th": [
           "ก) สิ้นหวังและเศร้า",
           "ข) มีความสุขและเต็มไปด้วยความมั่นใจ",
           "ค) กังวลมากแต่มีความหวัง"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p006"
@@ -323,49 +503,79 @@
     "passage": "Max ist Elektrotechniker und arbeitet seit 15 Jahren in seinem Beruf. Jeden Tag installiert er elektrische Systeme in neuen Häusern und Bürogebäuden. Seine Arbeit erfordert große Sorgfalt und technisches Wissen, denn Elektrizität ist sehr gefährlich. Max hat eine dreijährige Ausbildung absolviert und mehrere Zertifikate erworben. Er arbeitet gerne mit seinen Händen und löst gerne technische Probleme. Das Beste an seinem Job ist die Vielfalt - jeden Tag trifft er neue Kunden und arbeitet an verschiedenen Projekten. Obwohl die Arbeit manchmal stressig ist, verdient Max gut und kann seine Familie unterstützen. Er empfiehlt jungen Menschen, einen Handwerksberuf zu lernen, weil solche Fachkräfte immer gebraucht werden.",
     "questions": [
       {
-        "q": "ประเภศอาชีพของแมกซ์คืออะไร?",
+        "q": "Was ist der Beruf von Max?",
         "options": [
+          "Bauingenieur",
+          "Elektriker",
+          "Architekt"
+        ],
+        "answer": 1,
+        "q_th": "ประเภศอาชีพของแมกซ์คืออะไร?",
+        "options_th": [
           "ก) วิศวกรโยธา",
           "ข) ช่างไฟฟ้า",
           "ค) สถาปนิก"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "แมกซ์ได้รับการฝึกอบรมนานเท่าใด?",
+        "q": "Wie lange hat Max eine Ausbildung erhalten?",
         "options": [
+          "2 Jahre",
+          "3 Jahre",
+          "5 Jahre"
+        ],
+        "answer": 1,
+        "q_th": "แมกซ์ได้รับการฝึกอบรมนานเท่าใด?",
+        "options_th": [
           "ก) 2 ปี",
           "ข) 3 ปี",
           "ค) 5 ปี"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "สิ่งที่แมกซ์ชอบที่สุดในงานของเขาคืออะไร?",
+        "q": "Was gefällt Max am meisten an seiner Arbeit?",
         "options": [
+          "Ein hohes Gehalt",
+          "Im Büro arbeiten",
+          "Die Vielfalt der Projekte jeden Tag"
+        ],
+        "answer": 2,
+        "q_th": "สิ่งที่แมกซ์ชอบที่สุดในงานของเขาคืออะไร?",
+        "options_th": [
           "ก) เงินเดือนสูง",
           "ข) ทำงานในสำนักงาน",
           "ค) ความหลากหลายของโครงการแต่ละวัน"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ทำไมแมกซ์จึงแนะนำการเรียนงานช่างให้กับคนหนุ่มสาว?",
+        "q": "Warum empfiehlt Max jungen Menschen, ein Handwerk zu erlernen?",
         "options": [
+          "A) Weil es eine einfache Arbeit ist",
+          "B) Weil das Handwerk immer Fachleute mit guten Fähigkeiten braucht",
+          "C) Weil man nicht zur Universität gehen muss"
+        ],
+        "answer": 1,
+        "q_th": "ทำไมแมกซ์จึงแนะนำการเรียนงานช่างให้กับคนหนุ่มสาว?",
+        "options_th": [
           "ก) เพราะว่าเป็นงานที่ไม่ยาก",
           "ข) เพราะว่างานช่างต้องการบุคลากรที่มีทักษะเสมอ",
           "ค) เพราะว่าไม่ต้องเรียนต่อมหาวิทยาลัย"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ความเสี่ยงหลักของการเป็นช่างไฟฟ้าคืออะไรตามข้อความ?",
+        "q": "Was ist das Hauptrisiko, ein Elektriker zu sein, laut dem Text?",
         "options": [
+          "A) Das Risiko von Stürzen",
+          "B) Das Risiko von gefährlichem elektrischem Strom",
+          "C) Das Risiko von Verletzungen durch Werkzeuge"
+        ],
+        "answer": 1,
+        "q_th": "ความเสี่ยงหลักของการเป็นช่างไฟฟ้าคืออะไรตามข้อความ?",
+        "options_th": [
           "ก) ความเสี่ยงจากการหกล้ม",
           "ข) ความเสี่ยงจากไฟฟ้าที่อันตราย",
           "ค) ความเสี่ยงจากการบาดเจ็บจากเครื่องมือ"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p007"
@@ -376,49 +586,79 @@
     "passage": "Heute hatte ich ein wichtiges Online-Meeting mit meinem Team. Wir trafen uns um 14 Uhr auf der Videokonferenz-Plattform. Am Anfang gab es technische Probleme mit der Internetverbindung, aber nach zehn Minuten funktionierte alles gut. Mein Chef präsentierte die neuen Projektpläne für das nächste Quartal. Alle Kollegen konnten ihre Fragen stellen und ihre Meinungen teilen. Das Meeting war sehr produktiv und wir haben viele wichtige Entscheidungen getroffen. Am Ende vereinbarten wir den nächsten Termin für zwei Wochen später. Ich bin zufrieden mit der Zusammenarbeit meines Teams. Online-Meetings sparen Zeit und sind sehr praktisch für unsere Arbeit.",
     "questions": [
       {
-        "q": "เวลาที่ประชุมเริ่มต้นคือกี่โมง",
+        "q": "Um wie viel Uhr beginnt die Versammlung?",
         "options": [
+          "12 Uhr",
+          "14 Uhr",
+          "16 Uhr"
+        ],
+        "answer": 1,
+        "q_th": "เวลาที่ประชุมเริ่มต้นคือกี่โมง",
+        "options_th": [
           "ก) 12 นาฬิกา",
           "ข) 14 นาฬิกา",
           "ค) 16 นาฬิกา"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ปัญหาแรกที่พบในการประชุมคืออะไร",
+        "q": "Was war das erste Problem, das in der Besprechung aufgetreten ist?",
         "options": [
+          "Die Plattform war beschädigt",
+          "Es gab Probleme mit der Internetverbindung",
+          "Der Kollege ist nicht angekommen"
+        ],
+        "answer": 1,
+        "q_th": "ปัญหาแรกที่พบในการประชุมคืออะไร",
+        "options_th": [
           "ก) แพลตฟอร์มเสียหาย",
           "ข) ปัญหาการเชื่อมต่ออินเทอร์เน็ต",
           "ค) เพื่อนร่วมงานไม่มาถึง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "หัวหน้างานนำเสนออะไรในการประชุม",
+        "q": "Was präsentierte der Projektleiter in der Besprechung?",
         "options": [
+          "A) Den Jahresbericht",
+          "B) Den Projektplan für das nächste Quartal",
+          "C) Die neue Unternehmenspolitik"
+        ],
+        "answer": 1,
+        "q_th": "หัวหน้างานนำเสนออะไรในการประชุม",
+        "options_th": [
           "ก) รายงานประจำปี",
           "ข) แผนโครงการสำหรับไตรมาสถัดไป",
           "ค) นโยบายบริษัทใหม่"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "คณะทำงานจะประชุมครั้งต่อไปเมื่อใด",
+        "q": "Wann wird das Team das nächste Mal zusammenkommen?",
         "options": [
+          "A) In einer Woche",
+          "B) In drei Wochen",
+          "C) In zwei Wochen"
+        ],
+        "answer": 2,
+        "q_th": "คณะทำงานจะประชุมครั้งต่อไปเมื่อใด",
+        "options_th": [
           "ก) หนึ่งสัปดาห์ต่อมา",
           "ข) สามสัปดาห์ต่อมา",
           "ค) สองสัปดาห์ต่อมา"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ผู้เขียนมีความรู้สึกอย่างไรต่อการประชุมนี้",
+        "q": "Welche Gefühle hat der Autor gegenüber diesem Treffen?",
         "options": [
+          "Unzufrieden, weil es Zeitverschwendung war",
+          "Zufrieden mit der Zusammenarbeit des Teams und den Ergebnissen",
+          "Gelangweilt, weil das Treffen zu lange gedauert hat"
+        ],
+        "answer": 1,
+        "q_th": "ผู้เขียนมีความรู้สึกอย่างไรต่อการประชุมนี้",
+        "options_th": [
           "ก) ไม่พอใจเพราะเสียเวลา",
           "ข) พอใจในความร่วมมือของทีมและผลประโยชน์",
           "ค) เบื่อหน่ายเพราะการประชุมนานเกินไป"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p008"
@@ -429,49 +669,79 @@
     "passage": "Die Familie spielt eine wichtige Rolle in der deutschen Gesellschaft. In Deutschland leben viele Familien mit zwei Kindern. Die Eltern arbeiten oft beide, deshalb ist die Kinderbetreuung sehr wichtig. Es gibt Kindergärten und Schulen, die lange offen sind. Am Wochenende verbringen deutsche Familien gerne Zeit zusammen. Sie machen Ausflüge in die Natur, gehen ins Kino oder besuchen Freunde. Das Mittagessen ist oft die wichtigste Mahlzeit des Tages, und die Familie isst zusammen. Die meisten Eltern unterstützen die Bildung ihrer Kinder sehr. Sie helfen ihnen bei den Hausaufgaben und ermutigen sie, Sport zu treiben. Großeltern sind auch wichtig und helfen oft bei der Kinderbetreuung.",
     "questions": [
       {
-        "q": "ในเยอรมนี ครอบครัวส่วนใหญ่มีเด็กกี่คน",
+        "q": "Wie viele Kinder haben die meisten Familien in Deutschland?",
         "options": [
+          "ein Kind",
+          "zwei Kinder",
+          "drei Kinder"
+        ],
+        "answer": 1,
+        "q_th": "ในเยอรมนี ครอบครัวส่วนใหญ่มีเด็กกี่คน",
+        "options_th": [
           "ก) หนึ่งคน",
           "ข) สองคน",
           "ค) สามคน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ทำไมการดูแลเด็กจึงสำคัญในเยอรมนี",
+        "q": "Warum ist die Kinderbetreuung in Deutschland wichtig?",
         "options": [
+          "A) Weil es keine Schulen gibt",
+          "B) Weil beide Elternteile arbeiten",
+          "C) Weil Kinder außerhäusliche Betreuung brauchen"
+        ],
+        "answer": 1,
+        "q_th": "ทำไมการดูแลเด็กจึงสำคัญในเยอรมนี",
+        "options_th": [
           "ก) เพราะไม่มีโรงเรียน",
           "ข) เพราะพ่อแม่ทั้งสองทำงาน",
           "ค) เพราะเด็กต้องการการดูแลนอกบ้าน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ครอบครัวเยอรมนีชอบทำอะไรในวันสุดสัปดาห์",
+        "q": "Was machen deutsche Familien gerne am Wochenende?",
         "options": [
+          "A) Sie arbeiten zu Hause.",
+          "B) Sie gehen raus und verbringen Zeit mit der Familie.",
+          "C) Sie schauen Fernsehen."
+        ],
+        "answer": 1,
+        "q_th": "ครอบครัวเยอรมนีชอบทำอะไรในวันสุดสัปดาห์",
+        "options_th": [
           "ก) ทำงานที่บ้าน",
           "ข) ออกไปข้างนอกและใช้เวลากับครอบครัว",
           "ค) ดูทีวี"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "มื้ออาหารที่สำคัญที่สุดในวันของครอบครัวเยอรมนีคือมื้อใด",
+        "q": "Welche Mahlzeit ist die wichtigste Mahlzeit des Tages für eine deutsche Familie?",
         "options": [
+          "Frühstück",
+          "Mittagessen",
+          "Abendessen"
+        ],
+        "answer": 1,
+        "q_th": "มื้ออาหารที่สำคัญที่สุดในวันของครอบครัวเยอรมนีคือมื้อใด",
+        "options_th": [
           "ก) อาหารเช้า",
           "ข) อาหารกลางวัน",
           "ค) อาหารเย็น"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "บทบาทของปู่ย่าตายายในครอบครัวเยอรมนีคืออะไร",
+        "q": "Welche Rolle spielen Großeltern in der deutschen Familie?",
         "options": [
+          "A) Sie helfen bei der Kinderbetreuung und unterstützen die Familie.",
+          "B) Sie arbeiten, um Einkommen zu verdienen.",
+          "C) Sie haben keine wichtige Rolle."
+        ],
+        "answer": 0,
+        "q_th": "บทบาทของปู่ย่าตายายในครอบครัวเยอรมนีคืออะไร",
+        "options_th": [
           "ก) ช่วยดูแลเด็กและสนับสนุนครอบครัว",
           "ข) ทำงานเพื่อหารายได้",
           "ค) ไม่มีบทบาทสำคัญ"
-        ],
-        "answer": 0
+        ]
       }
     ],
     "id": "p009"
@@ -482,49 +752,79 @@
     "passage": "In Deutschland ist die Erziehung von Kindern sehr strukturiert und diszipliniert. Die Eltern legen großen Wert auf Selbstständigkeit und Verantwortung. Bereits im frühen Alter lernen Kinder, ihre Aufgaben zu erfüllen und Regeln zu respektieren. Die deutsche Erziehung betont auch die Bedeutung von Naturerlebnissen. Kinder verbringen viel Zeit im Freien und lernen die Natur kennen. Zudem ist Ehrlichkeit ein wichtiger Wert in der Familie. Eltern ermutigen ihre Kinder, ihre Meinung frei zu äußern, aber sie müssen auch die Konsequenzen ihrer Handlungen verstehen. Bildung wird sehr ernst genommen und Schulleistungen sind bedeutsam. Allerdings fördern deutsche Eltern auch Kreativität und Individualität ihrer Kinder. Die Balance zwischen Struktur und Freiheit macht die deutsche Erziehung einzigartig.",
     "questions": [
       {
-        "q": "เด็กเยอรมันเรียนรู้อะไรตั้งแต่อายุเล็กน้อย?",
+        "q": "Was lernen deutsche Kinder schon in jungem Alter?",
         "options": [
+          "A) Videospiele zu spielen",
+          "B) Eigenverantwortung und Regelbeachtung",
+          "C) Fremdsprachen zu sprechen"
+        ],
+        "answer": 1,
+        "q_th": "เด็กเยอรมันเรียนรู้อะไรตั้งแต่อายุเล็กน้อย?",
+        "options_th": [
           "ก) การเล่นเกมวิดีโอ",
           "ข) การทำงานของตนเองและการเคารพกฎ",
           "ค) การพูดภาษาต่างประเทศ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "สิ่งสำคัญสำหรับการเลี้ยงลูกแบบเยอรมันคือข้อใด?",
+        "q": "Was ist wichtig für die deutsche Erziehung?",
         "options": [
+          "Freiheit und Verantwortung",
+          "Verschiedene Prüfungen und Misserfolge",
+          "Die ganze Zeit zu Hause bleiben"
+        ],
+        "answer": 0,
+        "q_th": "สิ่งสำคัญสำหรับการเลี้ยงลูกแบบเยอรมันคือข้อใด?",
+        "options_th": [
           "ก) ความเป็นอิสระและความรับผิดชอบ",
           "ข) การสอบตกต่างๆ",
           "ค) การอยู่ในบ้านตลอดเวลา"
-        ],
-        "answer": 0
+        ]
       },
       {
-        "q": "เด็กเยอรมันใช้เวลากับอะไรบ่อยๆ?",
+        "q": "Womit verbringen deutsche Kinder häufig ihre Zeit?",
         "options": [
+          "A) Mit Mobiltelefonen",
+          "B) Mit der Natur und Zeit in klimatisierten Räumen",
+          "C) Mit Aktivitäten im Freien und dem Kennenlernen der Natur"
+        ],
+        "answer": 2,
+        "q_th": "เด็กเยอรมันใช้เวลากับอะไรบ่อยๆ?",
+        "options_th": [
           "ก) โทรศัพท์เคลื่อนที่",
           "ข) การอยู่ในธรรมชาติและเวลาในห้องแอร์",
           "ค) การอยู่นอกบ้านและการทำความรู้จักธรรมชาติ"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "คุณค่าใดที่ถือว่าสำคัญในครอบครัวเยอรมัน?",
+        "q": "Welcher Wert wird in einer deutschen Familie als wichtig angesehen?",
         "options": [
+          "Wohlstand und Reichtum",
+          "Ehrlichkeit und die Äußerung von Meinungen",
+          "Schweigen und Zurückhaltung"
+        ],
+        "answer": 1,
+        "q_th": "คุณค่าใดที่ถือว่าสำคัญในครอบครัวเยอรมัน?",
+        "options_th": [
           "ก) ความมั่งคั่ง",
           "ข) ความจริงใจและการแสดงความคิดเห็น",
           "ค) การเงียบเงิน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "บทอ่านนี้บอกว่า การเลี้ยงลูกเยอรมันมีลักษณะคล้ายกับอะไร?",
+        "q": "Worauf vergleicht dieser Text die deutsche Erziehung?",
         "options": [
+          "A) Das Gleichgewicht zwischen Struktur und Freiheit",
+          "B) Nur auf Freiheit",
+          "C) Nur auf Regeln und Vorschriften"
+        ],
+        "answer": 0,
+        "q_th": "บทอ่านนี้บอกว่า การเลี้ยงลูกเยอรมันมีลักษณะคล้ายกับอะไร?",
+        "options_th": [
           "ก) ความสมดุลระหว่างโครงสร้างและเสรีภาพ",
           "ข) มีเพียงเสรีภาพเท่านั้น",
           "ค) มีเพียงกฎเกณฑ์เท่านั้น"
-        ],
-        "answer": 0
+        ]
       }
     ],
     "id": "p010"
@@ -535,49 +835,79 @@
     "passage": "Letztes Wochenende haben wir eine wunderbare Zeit mit der Familie verbracht. Am Samstag sind wir ins Gebirge gefahren, um dort zu wandern. Meine Kinder waren sehr begeistert von der frischen Luft und den schönen Aussichten. Wir haben ein Picknick mit selbstgemachten Sandwiches und Obst gemacht. Am Sonntag sind wir früh aufgestanden und haben gemeinsam ein großes Frühstück zubereitet. Danach haben wir Brettspiele gespielt und viel gelacht. Am Abend haben wir einen Film geschaut und heiße Schokolade getrunken. Diese Tage waren sehr wertvoll für unsere Familie. Es ist wichtig, regelmäßig Zeit zusammen zu verbringen und die Momente zu genießen.",
     "questions": [
       {
-        "q": "ครอบครัวไปไหนในวันเสาร์?",
+        "q": "Wohin geht die Familie am Samstag?",
         "options": [
+          "Am Strand",
+          "In die Berge",
+          "In den Zoo"
+        ],
+        "answer": 1,
+        "q_th": "ครอบครัวไปไหนในวันเสาร์?",
+        "options_th": [
           "ก) ไปชายหาด",
           "ข) ไปเที่ยวเขา",
           "ค) ไปสวนสัตว์"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "พวกเขากินอะไรขณะออกไปเดินเขา?",
+        "q": "Was essen sie während des Wanderns?",
         "options": [
+          "Gekaufte Kekse",
+          "Pizza",
+          "Selbstgemachte Sandwiches"
+        ],
+        "answer": 2,
+        "q_th": "พวกเขากินอะไรขณะออกไปเดินเขา?",
+        "options_th": [
           "ก) ข้าวกระเบื้องที่ซื้อมา",
           "ข) พิซซ่า",
           "ค) แซนด์วิชที่ทำเอง"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "พวกเขาทำอะไรในตอนเช้าวันอาทิตย์?",
+        "q": "Was machen sie am Sonntagmorgen?",
         "options": [
+          "A) Sie gehen weiter wandern in den Bergen.",
+          "B) Sie bereiten ein großes Frühstück vor.",
+          "C) Sie gehen einkaufen im Geschäft."
+        ],
+        "answer": 1,
+        "q_th": "พวกเขาทำอะไรในตอนเช้าวันอาทิตย์?",
+        "options_th": [
           "ก) ออกไปเดินเขาต่อ",
           "ข) เตรียมอาหารเช้าขนาดใหญ่",
           "ค) ไปซื้อของที่ร้าน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ข้อใดต่อไปนี้ไม่ได้กล่าวถึงในบทอ่าน?",
+        "q": "Welche der folgenden Aktivitäten wird in dem Text NICHT erwähnt?",
         "options": [
+          "Brettspiele spielen",
+          "Einen Film schauen",
+          "Schwimmen gehen"
+        ],
+        "answer": 2,
+        "q_th": "ข้อใดต่อไปนี้ไม่ได้กล่าวถึงในบทอ่าน?",
+        "options_th": [
           "ก) การเล่นเกมโต๊ะ",
           "ข) การดูหนัง",
           "ค) การว่ายน้ำ"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ข้อความนี้บอกอะไรเกี่ยวกับความสำคัญของการใช้เวลากับครอบครัว?",
+        "q": "Was sagt dieser Text über die Bedeutung von Zeit mit der Familie?",
         "options": [
+          "A) Es ist langweilig und unnötig.",
+          "B) Es ist wichtig und man sollte diese Momente genießen.",
+          "C) Man sollte das nur einmal im Jahr tun."
+        ],
+        "answer": 1,
+        "q_th": "ข้อความนี้บอกอะไรเกี่ยวกับความสำคัญของการใช้เวลากับครอบครัว?",
+        "options_th": [
           "ก) มันน่าเบื่อและไม่จำเป็น",
           "ข) มันเป็นสิ่งสำคัญและควรสนุกสนานกับโมเมนต์",
           "ค) มันควรทำเพียงครั้งเดียวในปี"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p011"
@@ -588,49 +918,79 @@
     "passage": "Vor drei Monaten bin ich in eine neue Wohnung im Zentrum der Stadt gezogen. Die Wohnung liegt im dritten Stock eines modernen Hauses mit Aufzug. Sie hat zwei Schlafzimmer, ein großes Wohnzimmer und eine offene Küche. Was mir besonders gefällt, ist der kleine Balkon mit Blick auf die grüne Straße. Meine Nachbarn sind sehr freundlich und hilfsbereit. Frau Müller von nebenan hat mir sofort bei der Renovierung geholfen. Der Hausmeister Herr Schmidt kümmert sich um alle Reparaturen. Die Gegend ist perfekt für mich, weil viele Läden, Restaurants und ein Park in der Nähe sind. Ich bin sehr zufrieden mit meinem neuen Leben hier und möchte hier lange bleiben.",
     "questions": [
       {
-        "q": "เมื่อไหร่ที่ผู้เขียนย้ายเข้ามาอพยพนี้?",
+        "q": "Wann ist der Autor in diese Wohnung eingezogen?",
         "options": [
+          "Vor zwei Monaten",
+          "Vor drei Monaten",
+          "Vor sechs Monaten"
+        ],
+        "answer": 1,
+        "q_th": "เมื่อไหร่ที่ผู้เขียนย้ายเข้ามาอพยพนี้?",
+        "options_th": [
           "ก) เมื่อสองเดือนที่แล้ว",
           "ข) เมื่อสามเดือนที่แล้ว",
           "ค) เมื่อหกเดือนที่แล้ว"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "อพยพของผู้เขียนอยู่ชั้นที่เท่าไร?",
+        "q": "In welchem Stock wohnt der Autor?",
         "options": [
+          "Zweiter Stock",
+          "Dritter Stock",
+          "Vierter Stock"
+        ],
+        "answer": 1,
+        "q_th": "อพยพของผู้เขียนอยู่ชั้นที่เท่าไร?",
+        "options_th": [
           "ก) ชั้นที่สอง",
           "ข) ชั้นที่สาม",
           "ค) ชั้นที่สี่"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เพื่อนบ้านคนไหนช่วยเขาในการปรับปรุงบ้าน?",
+        "q": "Welcher Nachbar hat ihm bei der Hausrenovierung geholfen?",
         "options": [
+          "Herr Schmidt",
+          "Frau Müller",
+          "Der Aufzugsführer"
+        ],
+        "answer": 1,
+        "q_th": "เพื่อนบ้านคนไหนช่วยเขาในการปรับปรุงบ้าน?",
+        "options_th": [
           "ก) Herr Schmidt",
           "ข) Frau Müller",
           "ค) Der Aufzugsführer"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ส่วนไหนของอพยพที่ผู้เขียนชอบมากที่สุด?",
+        "q": "Welcher Teil der Wohnung gefällt dem Autor am besten?",
         "options": [
+          "Die offene Küche",
+          "Der praktische Aufzug",
+          "Der kleine Balkon mit Blick auf den grünen Garten"
+        ],
+        "answer": 2,
+        "q_th": "ส่วนไหนของอพยพที่ผู้เขียนชอบมากที่สุด?",
+        "options_th": [
           "ก) ห้องครัวที่เปิดโล่ง",
           "ข) ลิฟท์ที่สะดวก",
           "ค) ระเบียงเล็กๆ ที่มองเห็นวิวสวนสีเขียว"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ทำไมพื้นที่นี้จึงเหมาะสมกับผู้เขียน?",
+        "q": "Warum ist dieses Gebiet für den Autor geeignet?",
         "options": [
+          "Hotels und Unterkünfte sind zahlreich vorhanden",
+          "Es gibt Geschäfte, Restaurants und Parks in der Nähe",
+          "Alle Nachbarn interessieren sich für Renovierungen"
+        ],
+        "answer": 1,
+        "q_th": "ทำไมพื้นที่นี้จึงเหมาะสมกับผู้เขียน?",
+        "options_th": [
           "ก) เพราะมีโรงแรมและหอพักมากมาย",
           "ب) เพราะมีร้านค้า ร้านอาหาร และสวนใกล้เคียง",
           "ค) เพราะเพื่อนบ้านทั้งหมดสนใจการปรับปรุง"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p012"
@@ -641,49 +1001,79 @@
     "passage": "Sarah hatte Kopfschmerzen und Fieber seit drei Tagen. Sie beschloss, ihren Hausarzt zu besuchen. In der Praxis wartete sie etwa zwanzig Minuten. Die Arzthelferin fragte sie nach ihren Symptomen. Der Arzt Dr. Schmidt untersuchte sie gründlich und maß ihre Temperatur. Nach der Untersuchung sagte er, dass Sarah eine leichte Grippe hatte. Er verschrieb ihr Medikamente und empfahl ihr, viel Wasser zu trinken und sich auszuruhen. Der Arzt erklärte, dass sie in einer Woche besser sein würde. Sarah ging in die Apotheke und holte ihre Medikamente. Sie zahlte ihre Versicherung und bedankte sich beim Personal. Zu Hause nahm sie die erste Dosis und legte sich ins Bett. Nach drei Tagen fühlte sie sich viel besser.",
     "questions": [
       {
-        "q": "Sarah ไปพบแพทย์เพราะเหตุใด?",
+        "q": "Warum ist Sarah zum Arzt gegangen?",
         "options": [
+          "A) Sie hatte Zahnprobleme.",
+          "B) Sie hatte Fieber und Kopfschmerzen.",
+          "C) Sie hatte eine Verletzung am Bein."
+        ],
+        "answer": 1,
+        "q_th": "Sarah ไปพบแพทย์เพราะเหตุใด?",
+        "options_th": [
           "ก) มีปัญหาเรื่องฟัน",
           "ข) มีไข้และเจ็บหัว",
           "ค) บาดเจ็บที่ขา"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "แพทย์ Dr. Schmidt วินิจฉัยว่า Sarah เป็นโรคอะไร?",
+        "q": "Welche Krankheit hat Dr. Schmidt bei Sarah diagnostiziert?",
         "options": [
+          "A) Lungenentzündung",
+          "B) Leichte Grippe",
+          "C) Herzerkrankung"
+        ],
+        "answer": 1,
+        "q_th": "แพทย์ Dr. Schmidt วินิจฉัยว่า Sarah เป็นโรคอะไร?",
+        "options_th": [
           "ก) โรคปอดอักเสบ",
           "ข) ไข้หวัดใหญ่เบา",
           "ค) โรคหัวใจ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "แพทย์แนะนำให้ Sarah ทำอะไร?",
+        "q": "Was empfiehlt der Arzt Sarah zu tun?",
         "options": [
+          "Sofort Sport treiben",
+          "In der frischen Luft spazieren gehen",
+          "Viel Wasser trinken und sich ausruhen"
+        ],
+        "answer": 2,
+        "q_th": "แพทย์แนะนำให้ Sarah ทำอะไร?",
+        "options_th": [
           "ก) ออกกำลังกายทันที",
           "ข) เดินเล่นในอากาศบริสุทธิ์",
           "ค) ดื่มน้ำมากและพักผ่อน"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "Sarah รอนานเท่าไหร่ในคลินิกแพทย์?",
+        "q": "Wie lange wartet Sarah in der Arztpraxis?",
         "options": [
+          "5 Minuten",
+          "20 Minuten",
+          "1 Stunde"
+        ],
+        "answer": 1,
+        "q_th": "Sarah รอนานเท่าไหร่ในคลินิกแพทย์?",
+        "options_th": [
           "ก) 5 นาที",
           "ข) 20 นาที",
           "ค) 1 ชั่วโมง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "Sarah รู้สึกดีขึ้นในกี่วัน?",
+        "q": "Nach wie vielen Tagen fühlte sich Sarah besser?",
         "options": [
+          "Nach 1 Tag",
+          "Nach 3 Tagen",
+          "Nach 7 Tagen"
+        ],
+        "answer": 1,
+        "q_th": "Sarah รู้สึกดีขึ้นในกี่วัน?",
+        "options_th": [
           "ก) 1 วัน",
           "ข) 3 วัน",
           "ค) 7 วัน"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p013"
@@ -694,49 +1084,79 @@
     "passage": "Eine gesunde Ernährung ist der Schlüssel zu einem langen und glücklichen Leben. Es ist wichtig, täglich Obst und Gemüse zu essen, da sie viele Vitamine und Mineralstoffe enthalten. Experten empfehlen, mindestens fünf Portionen Obst und Gemüse pro Tag zu konsumieren. Wasser ist auch essentiell für unseren Körper. Man sollte ungefähr zwei Liter Wasser täglich trinken. Fleisch und Fisch sind gute Proteinquellen, aber man sollte sie nicht zu oft essen. Zucker und Fett sollten begrenzt werden. Ein ausgewogenes Frühstück mit Vollkornbrot und Milchprodukten gibt uns Energie für den ganzen Tag. Wenn man diese einfachen Regeln befolgt, kann man Krankheiten vermeiden und sich besser fühlen.",
     "questions": [
       {
-        "q": "ตามข้อความ ควรกินผักและผลไม้กี่ครั้งต่อวัน",
+        "q": "Wie oft pro Tag sollte man nach dem Text Gemüse und Obst essen?",
         "options": [
+          "dreimal",
+          "fünfmal",
+          "zehnmal"
+        ],
+        "answer": 1,
+        "q_th": "ตามข้อความ ควรกินผักและผลไม้กี่ครั้งต่อวัน",
+        "options_th": [
           "ก) สามครั้ง",
           "ข) ห้าครั้ง",
           "ค) สิบครั้ง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ควรดื่มน้ำปกติวันละเท่าไหร่",
+        "q": "Wie viel Wasser sollte man täglich trinken?",
         "options": [
+          "einen Liter",
+          "zwei Liter",
+          "drei Liter"
+        ],
+        "answer": 1,
+        "q_th": "ควรดื่มน้ำปกติวันละเท่าไหร่",
+        "options_th": [
           "ก) หนึ่งลิตร",
           "ข) สองลิตร",
           "ค) สามลิตร"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "อาหารใดเป็นแหล่งโปรตีนที่ดี",
+        "q": "Welche Lebensmittel sind gute Proteinquellen?",
         "options": [
+          "Weißer Reis und Zucker",
+          "Gemüse und Obst",
+          "Fleisch und Fisch"
+        ],
+        "answer": 2,
+        "q_th": "อาหารใดเป็นแหล่งโปรตีนที่ดี",
+        "options_th": [
           "ก) ข้าวขาวและน้ำตาล",
           "ข) ผักและผลไม้",
           "ค) เนื้อสัตว์และปลา"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "อะไรเป็นกุญแจสำคัญของการมีชีวิตที่ยาวนานและมีความสุข",
+        "q": "Was ist der Schlüssel zu einem langen und glücklichen Leben?",
         "options": [
+          "A) Regelmäßige Bewegung und Sport",
+          "B) Gesunde Ernährung",
+          "C) Ausreichend Schlaf"
+        ],
+        "answer": 1,
+        "q_th": "อะไรเป็นกุญแจสำคัญของการมีชีวิตที่ยาวนานและมีความสุข",
+        "options_th": [
           "ก) การออกกำลังกาย",
           "ข) การกินอาหารเพื่อสุขภาพ",
           "ค) การนอนหลับเพียงพอ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "อาหารอะไรควรหลีกเลี่ยง",
+        "q": "Welche Lebensmittel sollte man vermeiden?",
         "options": [
+          "Wasser und proteinreiche Lebensmittel",
+          "Zucker und zu viel Fett",
+          "Frisches Gemüse und Obst"
+        ],
+        "answer": 1,
+        "q_th": "อาหารอะไรควรหลีกเลี่ยง",
+        "options_th": [
           "ก) น้ำและอาหารที่มีโปรตีน",
           "ข) น้ำตาลและไขมันมากเกินไป",
           "ค) ผักและผลไม้สดใหม่"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p014"
@@ -747,49 +1167,79 @@
     "passage": "Das deutsche Gesundheitssystem ist eines der ältesten und besten der Welt. Es wurde 1883 von Bismarck gegründet und basiert auf dem Prinzip der Solidarität. In Deutschland müssen alle Bürger eine Krankenversicherung haben. Es gibt zwei Arten: die gesetzliche Krankenversicherung und die private Krankenversicherung. Die meisten Menschen sind in der gesetzlichen Versicherung versichert. Die Beiträge werden von Arbeitgeber und Arbeitnehmer gemeinsam bezahlt. Das System deckt die wichtigsten medizinischen Leistungen ab, wie Arztbesuche, Medikamente und Krankenhausaufenthalte. Patienten müssen manchmal eine kleine Kostenbeteiligung zahlen. Das System funktioniert sehr gut und die Deutschen haben Zugang zu hochwertiger medizinischer Versorgung. Viele andere Länder orientieren sich am deutschen Modell.",
     "questions": [
       {
-        "q": "ระบบประกันสุขภาพเยอรมันถูกก่อตั้งขึ้นเมื่อไร",
+        "q": "Wann wurde das deutsche Gesundheitssicherungssystem gegründet?",
         "options": [
+          "1883",
+          "1893",
+          "1873"
+        ],
+        "answer": 0,
+        "q_th": "ระบบประกันสุขภาพเยอรมันถูกก่อตั้งขึ้นเมื่อไร",
+        "options_th": [
           "ก) ปี 1883",
           "ข) ปี 1893",
           "ค) ปี 1873"
-        ],
-        "answer": 0
+        ]
       },
       {
-        "q": "ประกันสุขภาพในเยอรมันมีกี่ประเภท",
+        "q": "Wie viele Arten von Krankenversicherung gibt es in Deutschland?",
         "options": [
+          "eine Art",
+          "zwei Arten",
+          "drei Arten"
+        ],
+        "answer": 1,
+        "q_th": "ประกันสุขภาพในเยอรมันมีกี่ประเภท",
+        "options_th": [
           "ก) 1 ประเภท",
           "ข) 2 ประเภท",
           "ค) 3 ประเภท"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ใครเป็นผู้จ่ายค่าประกันสุขภาพตามข้อความ",
+        "q": "Wer zahlt die Krankenversicherung nach dem Text?",
         "options": [
+          "Nur der Arbeitnehmer",
+          "Nur der Arbeitgeber",
+          "Der Arbeitgeber und der Arbeitnehmer zusammen"
+        ],
+        "answer": 2,
+        "q_th": "ใครเป็นผู้จ่ายค่าประกันสุขภาพตามข้อความ",
+        "options_th": [
           "ก) เฉพาะลูกจ้าง",
           "ข) เฉพาะนายจ้าง",
           "ค) นายจ้างและลูกจ้างร่วมกัน"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ระบบเยอรมันครอบคลุมบริการทางการแพทยศาสตร์ใดบ้าง",
+        "q": "Welche medizinischen Leistungen umfasst das deutsche Gesundheitssystem?",
         "options": [
+          "Nur Operationen",
+          "Arztbesuche, Medikamente und Krankenhausaufenthalte",
+          "Nur Arztbesuche"
+        ],
+        "answer": 1,
+        "q_th": "ระบบเยอรมันครอบคลุมบริการทางการแพทยศาสตร์ใดบ้าง",
+        "options_th": [
           "ก) เฉพาะการทำศัลยกรรม",
           "ข) การเยี่ยมแพทย์ ยา และการนอนโรงพยาบาล",
           "ค) เฉพาะการเยี่ยมแพทย์"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ผู้ป่วยต้องจ่ายเงินเพิ่มเติมในระบบเยอรมันหรือไม่",
+        "q": "Müssen Patienten im deutschen Gesundheitssystem zusätzliches Geld bezahlen?",
         "options": [
+          "Nein, sie müssen gar nichts bezahlen.",
+          "Ja, sie müssen sehr viel Geld bezahlen.",
+          "Ja, sie müssen einen kleinen Eigenanteil bezahlen."
+        ],
+        "answer": 2,
+        "q_th": "ผู้ป่วยต้องจ่ายเงินเพิ่มเติมในระบบเยอรมันหรือไม่",
+        "options_th": [
           "ก) ไม่ต้องจ่ายเลย",
           "ข) ต้องจ่ายเงินอย่างมากมาย",
           "ค) ต้องจ่ายค่าร่วมจำนวนน้อย"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p015"
@@ -800,49 +1250,79 @@
     "passage": "Millionen von Menschen leiden unter Schlafproblemen. Die Hauptursache ist oft chronischer Stress im Beruf und in der Familie. Wenn wir gestresst sind, produziert unser Körper mehr Cortisol, ein Hormon, das uns wach hält. Dies führt zu Schlaflosigkeit und weiteren Gesundheitsproblemen.\n\nEs gibt verschiedene Methoden, um besser zu schlafen. Zunächst sollte man vor dem Schlafengehen auf Kaffee und Bildschirme verzichten. Meditation und progressive Muskelentspannung sind sehr wirksam. Ein fester Schlafplan ist ebenfalls wichtig. Man sollte jeden Tag zur gleichen Zeit ins Bett gehen und aufstehen.\n\nExperten empfehlen auch, regelmäßig Sport zu treiben. Dies reduziert Stress und verbessert die Schlafqualität erheblich. Wenn die Probleme anhalten, ist es ratsam, einen Arzt zu konsultieren.",
     "questions": [
       {
-        "q": "อะไรคือสาเหตุหลักของปัญหาการนอนหลับตามบทอ่าน?",
+        "q": "Was ist die Hauptursache des Schlafproblems nach dem Lesetext?",
         "options": [
+          "Chronischer Stress im Alltag",
+          "Zu viel essen",
+          "Kaltes Wetter"
+        ],
+        "answer": 0,
+        "q_th": "อะไรคือสาเหตุหลักของปัญหาการนอนหลับตามบทอ่าน?",
+        "options_th": [
           "ก) ความเครียดเรื้อรังในชีวิตประจำวัน",
           "ข) การกินอาหารมากเกินไป",
           "ค) อากาศหนาวเย็น"
-        ],
-        "answer": 0
+        ]
       },
       {
-        "q": "ฮอร์โมนใดที่ทำให้เราตื่นตัวเมื่อเรามีความเครียด?",
+        "q": "Welches Hormon macht uns wach, wenn wir Stress haben?",
         "options": [
+          "Insulin",
+          "Cortisol",
+          "Melatonin"
+        ],
+        "answer": 1,
+        "q_th": "ฮอร์โมนใดที่ทำให้เราตื่นตัวเมื่อเรามีความเครียด?",
+        "options_th": [
           "ก) Insulin",
           "ข) Cortisol",
           "ค) Melatonin"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "อะไรควรหลีกเลี่ยงก่อนนอนหลับตามเนื้อหาบทอ่าน?",
+        "q": "Was sollte man vor dem Schlafengehen vermeiden?",
         "options": [
+          "A) Intensives Training",
+          "B) Kaffee und die Nutzung von elektronischen Geräten",
+          "C) Bücher lesen"
+        ],
+        "answer": 1,
+        "q_th": "อะไรควรหลีกเลี่ยงก่อนนอนหลับตามเนื้อหาบทอ่าน?",
+        "options_th": [
           "ก) การออกกำลังกายหนัก",
           "ข) กาแฟและการใช้อุปกรณ์อิเล็กทรอนิกส์",
           "ค) การอ่านหนังสือ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "วิธีใดที่ช่วยลดความเครียดและปรับปรุงคุณภาพการนอนหลับ?",
+        "q": "Welche Methode hilft, Stress abzubauen und die Schlafqualität zu verbessern?",
         "options": [
+          "Mehr Schlaf während der Wochenenden",
+          "Regelmäßiges Training und Bewegung",
+          "Das Trinken von vielen Litern Wasser"
+        ],
+        "answer": 1,
+        "q_th": "วิธีใดที่ช่วยลดความเครียดและปรับปรุงคุณภาพการนอนหลับ?",
+        "options_th": [
           "ก) การนอนหลับมากขึ้นในช่วงวันหยุด",
           "ข) การออกกำลังกายเป็นประจำ",
           "ค) การดื่มน้ำหลายแกลลอน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ตามบทอ่าน หากปัญหาการนอนหลับยังคงดำเนินต่อไป ควรทำอะไร?",
+        "q": "Laut dem Text, was sollte man tun, wenn die Schlafprobleme anhalten?",
         "options": [
+          "A) Warten, bis das Problem von selbst verschwindet",
+          "B) Die Menge an körperlicher Aktivität erhöhen",
+          "C) Einen Arzt konsultieren"
+        ],
+        "answer": 2,
+        "q_th": "ตามบทอ่าน หากปัญหาการนอนหลับยังคงดำเนินต่อไป ควรทำอะไร?",
+        "options_th": [
           "ก) รอให้ปัญหาหายไปเอง",
           "ข) เพิ่มปริมาณการออกกำลังกาย",
           "ค) ปรึกษาแพทย์"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p016"
@@ -853,49 +1333,79 @@
     "passage": "München ist die Hauptstadt von Bayern und eine wunderbare Stadt zum Besuchen. Die Stadt hat viele Museen, schöne Parks und historische Gebäude. Der Marienplatz ist das Herz Münchens mit der beeindruckenden Neuen Rathaus. Wenn man hungrig ist, kann man in einem traditionellen Biergarten wie dem Hofbräuhaus Bier und bayerische Spezialitäten genießen. Die Schlösser Nymphenburg und Neuschwanstein sind auch sehr beliebt bei Touristen. Im Englischen Garten kann man spazieren gehen und die Natur genießen. München ist auch bekannt für das Oktoberfest, das größte Volksfest der Welt. Die beste Zeit zum Besuch ist von Mai bis September, wenn das Wetter warm und sonnig ist.",
     "questions": [
       {
-        "q": "มิวนิกเป็นเมืองหลวงของจังหวัดไหน",
+        "q": "München ist die Hauptstadt von welchem Bundesland?",
         "options": [
+          "Baden-Württemberg",
+          "Bayern",
+          "Hessen"
+        ],
+        "answer": 1,
+        "q_th": "มิวนิกเป็นเมืองหลวงของจังหวัดไหน",
+        "options_th": [
           "ก) Baden-Württemberg",
           "ข) Bayern",
           "ค) Hessen"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "Marienplatz มีสิ่งสำคัญอะไรที่โดดเด่น",
+        "q": "Was ist das Besondere und Herausragende am Marienplatz?",
         "options": [
+          "A) Der Englische Garten",
+          "B) Das Schloss Nymphenburg",
+          "C) Das Neuen Rathaus"
+        ],
+        "answer": 2,
+        "q_th": "Marienplatz มีสิ่งสำคัญอะไรที่โดดเด่น",
+        "options_th": [
           "ก) ไบเออร์การ์เดน",
           "ข) พระราชวังนิมฟ์เบิร์ก",
           "ค) ตัวอาคารสภาเมืองใหม่"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "Hofbräuhaus มีชื่อเสียงเพราะอะไร",
+        "q": "Wofür ist das Hofbräuhaus berühmt?",
         "options": [
+          "A) Es ist ein Kunstmuseum",
+          "B) Es serviert Bier und bayerische Hausmannskost",
+          "C) Es ist ein großer öffentlicher Park"
+        ],
+        "answer": 1,
+        "q_th": "Hofbräuhaus มีชื่อเสียงเพราะอะไร",
+        "options_th": [
           "ก) เป็นพิพิธภัณฑ์ศิลปะ",
           "ข) เสิร์ฟเบียร์และอาหารพื้นบ้านบาวาเรีย",
           "ค) เป็นสวนสาธารณะขนาดใหญ่"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เดือนไหนที่ดีที่สุดในการเยี่ยมชมมิวนิก",
+        "q": "Welcher Monat ist am besten für einen Besuch in München?",
         "options": [
+          "Januar bis März",
+          "Mai bis September",
+          "Oktober bis Dezember"
+        ],
+        "answer": 1,
+        "q_th": "เดือนไหนที่ดีที่สุดในการเยี่ยมชมมิวนิก",
+        "options_th": [
           "ก) มกราคมถึงมีนาคม",
           "ข) พฤษภาคมถึงกันยายน",
           "ค) ตุลาคมถึงธันวาคม"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "Oktoberfest คืออะไรและมีความสำคัญอย่างไร",
+        "q": "Was ist das Oktoberfest und welche Bedeutung hat es?",
         "options": [
+          "A) Es ist ein kleines Touristenfest.",
+          "B) Es ist eines der größten Volksfeste der Welt.",
+          "C) Es ist eine jährliche Kunstveranstaltung."
+        ],
+        "answer": 1,
+        "q_th": "Oktoberfest คืออะไรและมีความสำคัญอย่างไร",
+        "options_th": [
           "ก) เป็นเทศกาลท่องเที่ยวขนาดเล็ก",
           "ข) เป็นเทศกาลสุดยิ่งใหญ่ของโลก",
           "ค) เป็นงานศิลปะประจำปี"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p017"
@@ -906,49 +1416,79 @@
     "passage": "Der ICE (InterCityExpress) ist der schnellste Zug in Deutschland. Er verbindet die großen Städte wie Berlin, München und Hamburg. Mit einer Geschwindigkeit von bis zu 320 Kilometern pro Stunde erreicht man sein Ziel sehr schnell. Der ICE ist komfortabel und modern. Es gibt verschiedene Klassen: erste und zweite Klasse. In der ersten Klasse ist es ruhiger und komfortabler. Die Fahrgäste können kostenlos WLAN nutzen und arbeiten oder entspannen. Es gibt auch ein Restaurant im Zug, wo man essen und trinken kann. Die Tickets kann man online oder am Bahnhof kaufen. Mit der Bahncard kann man Rabatt bekommen. Der ICE ist eine sehr beliebte und zuverlässige Transportmöglichkeit für Geschäftsreisende und Touristen.",
     "questions": [
       {
-        "q": "ICE ย่อมาจากคำว่าอะไร และความเร็วสูงสุดคือเท่าไหร่?",
+        "q": "Wofür steht die Abkürzung ICE und wie hoch ist die maximale Geschwindigkeit?",
         "options": [
+          "InterCityExpress mit einer Höchstgeschwindigkeit von 280 km/h",
+          "InterCityExpress mit einer Höchstgeschwindigkeit von 320 km/h",
+          "InternationalCityExpress mit einer Höchstgeschwindigkeit von 300 km/h"
+        ],
+        "answer": 1,
+        "q_th": "ICE ย่อมาจากคำว่าอะไร และความเร็วสูงสุดคือเท่าไหร่?",
+        "options_th": [
           "ก) InterCityExpress ความเร็ว 280 กม./ชม.",
           "ข) InterCityExpress ความเร็ว 320 กม./ชม.",
           "ค) InternationalCityExpress ความเร็ว 300 กม./ชม."
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "มีกี่ชั้นที่แตกต่างกันในรถไฟ ICE?",
+        "q": "Wie viele verschiedene Klassen gibt es im ICE-Zug?",
         "options": [
+          "A) Es gibt 3 Klassen",
+          "B) Es gibt 2 Klassen",
+          "C) Es gibt 4 Klassen"
+        ],
+        "answer": 1,
+        "q_th": "มีกี่ชั้นที่แตกต่างกันในรถไฟ ICE?",
+        "options_th": [
           "ก) มี 3 ชั้น",
           "ข) มี 2 ชั้น",
           "ค) มี 4 ชั้น"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "บริการใดที่ให้ได้ฟรีสำหรับผู้โดยสาร?",
+        "q": "Welcher Service ist für Passagiere kostenlos?",
         "options": [
+          "A) Essen und Getränke",
+          "B) WiFi",
+          "C) Unterkunft"
+        ],
+        "answer": 1,
+        "q_th": "บริการใดที่ให้ได้ฟรีสำหรับผู้โดยสาร?",
+        "options_th": [
           "ก) อาหารและเครื่องดื่ม",
           "ข) WiFi",
           "ค) ที่นอน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "สามารถซื้อตั๋ว ICE ได้จากที่ไหน?",
+        "q": "Wo kann man ICE-Fahrkarten kaufen?",
         "options": [
+          "Nur online",
+          "Nur am Bahnhof",
+          "Online oder am Bahnhof"
+        ],
+        "answer": 2,
+        "q_th": "สามารถซื้อตั๋ว ICE ได้จากที่ไหน?",
+        "options_th": [
           "ก) เฉพาะออนไลน์เท่านั้น",
           "ب) เฉพาะที่สถานีรถไฟเท่านั้น",
           "ค) ออนไลน์หรือที่สถานีรถไฟ"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "คำว่า 'Bahncard' ในข้อความหมายถึงอะไร?",
+        "q": "Was bedeutet das Wort \"Bahncard\" im Text?",
         "options": [
+          "A) Eine Fahrkarte für Bahnreisen",
+          "B) Eine Rabattkarte für Bahnfahrten",
+          "C) Eine Fahrkarte für die erste Klasse"
+        ],
+        "answer": 1,
+        "q_th": "คำว่า 'Bahncard' ในข้อความหมายถึงอะไร?",
+        "options_th": [
           "ก) บัตรประจำตัวผู้โดยสาร",
           "ค) บัตรลดราคาสำหรับการเดินทางด้วยรถไฟ",
           "ข) บัตรขึ้นรถไฟชั้นแรก"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p018"
@@ -959,49 +1499,79 @@
     "passage": "Herr Schmidt möchte ein Wochenende in Berlin verbringen. Er ruft ein Hotel an und fragt nach freien Zimmern. Der Rezeptionist sagt, dass sie noch zwei Doppelzimmer und ein Einzelzimmer haben. Herr Schmidt braucht ein Doppelzimmer für zwei Personen vom 15. bis 17. März. Das Zimmer kostet 85 Euro pro Nacht. Der Preis beinhaltet Frühstück und kostenloses WLAN. Herr Schmidt möchte das Zimmer reservieren. Der Rezeptionist fragt nach seinem Namen und seiner Telefonnummer. Dann bestätigt er die Buchung per E-Mail. Herr Schmidt ist sehr zufrieden mit dem Service und freut sich auf seinen Aufenthalt in Berlin.",
     "questions": [
       {
-        "q": "เหตุใดที่ Herr Schmidt โทรไปที่โรงแรม",
+        "q": "Warum hat Herr Schmidt das Hotel angerufen?",
         "options": [
+          "Nach freien Zimmern fragen",
+          "Eine Buchung stornieren",
+          "Sich über den Service beschweren"
+        ],
+        "answer": 0,
+        "q_th": "เหตุใดที่ Herr Schmidt โทรไปที่โรงแรม",
+        "options_th": [
           "ก) เพื่อสอบถามเกี่ยวกับห้องว่าง",
           "ข) เพื่อยกเลิกการจอง",
           "ค) เพื่อร้องเรียนเกี่ยวกับบริการ"
-        ],
-        "answer": 0
+        ]
       },
       {
-        "q": "ห้องนอนที่ Herr Schmidt ต้องการจองคืออะไร",
+        "q": "Welches Zimmer möchte Herr Schmidt buchen?",
         "options": [
+          "Einzelzimmer",
+          "Doppelzimmer",
+          "Podcast-Zimmer"
+        ],
+        "answer": 1,
+        "q_th": "ห้องนอนที่ Herr Schmidt ต้องการจองคืออะไร",
+        "options_th": [
           "ก) ห้องเดี่ยว",
           "ข) ห้องดับเบิล",
           "ค) ห้องพอดคาสต์"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ราคาห้องต่อคืนเท่ากับเท่าไหร่",
+        "q": "Wie viel kostet ein Zimmer pro Nacht?",
         "options": [
+          "A) 75 Euro",
+          "B) 85 Euro",
+          "C) 95 Euro"
+        ],
+        "answer": 1,
+        "q_th": "ราคาห้องต่อคืนเท่ากับเท่าไหร่",
+        "options_th": [
           "ก) 75 ยูโร",
           "ข) 85 ยูโร",
           "ค) 95 ยูโร"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ข้อใดถูกต้องเกี่ยวกับราคา",
+        "q": "Welche Aussage über den Preis ist korrekt?",
         "options": [
+          "A) Der Preis beinhaltet kein Frühstück",
+          "B) Der Preis beinhaltet Frühstück und WLAN",
+          "C) Der Preis beinhaltet nur das Frühstück"
+        ],
+        "answer": 1,
+        "q_th": "ข้อใดถูกต้องเกี่ยวกับราคา",
+        "options_th": [
           "ก) ราคาไม่รวมอาหารเช้า",
           "ข) ราคารวมอาหารเช้าและ WLAN",
           "ค) ราคารวมเฉพาะอาหารเช้าเท่านั้น"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "โรงแรมจะยืนยันการจองอย่างไร",
+        "q": "Wie wird die Hotelreservierung bestätigt?",
         "options": [
+          "A) Durch einen erneuten Anruf",
+          "B) Per SMS",
+          "C) Per E-Mail"
+        ],
+        "answer": 2,
+        "q_th": "โรงแรมจะยืนยันการจองอย่างไร",
+        "options_th": [
           "ก) โทรศัพท์มาอีกครั้ง",
           "ข) ส่ง SMS",
           "ค) ส่งอีเมล"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p019"
@@ -1012,49 +1582,79 @@
     "passage": "Diesen Sommer haben wir unseren Urlaub an der Ostsee verbracht. Wir sind mit dem Auto nach Mecklenburg-Vorpommern gefahren. Das Wetter war herrlich – sonnig und warm. Jeden Tag sind wir zum Strand gegangen und haben im Meer geschwommen. Die Kinder haben Sandburgen gebaut und Muscheln gesammelt. Abends sind wir durch die kleinen Küstendörfer spaziert und haben frische Fischgerichte gegessen. Am liebsten mochten wir die langen Strandwanderungen bei Sonnenuntergang. Es war ein wunderschöner und erholsamer Urlaub. Wir planen bereits, nächstes Jahr wiederzukommen.",
     "questions": [
       {
-        "q": "เพื่อนๆ ไปพักผ่อนที่ไหนในฤดูร้อนนี้",
+        "q": "Wohin fahren die Freunde in diesem Sommer in den Urlaub?",
         "options": [
+          "A) In die Berge in Bayern",
+          "B) Zur Ostsee",
+          "C) An einen See bei Berlin"
+        ],
+        "answer": 1,
+        "q_th": "เพื่อนๆ ไปพักผ่อนที่ไหนในฤดูร้อนนี้",
+        "options_th": [
           "ก) ที่ภูเขาในบาเวเรีย",
           "ข) ที่ทะเลบอลติก (Ostsee)",
           "ค) ที่湖ในเบอร์ลิน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "อากาศในระหว่างการพักผ่อนเป็นอย่างไร",
+        "q": "Wie war das Wetter während des Urlaubs?",
         "options": [
+          "Es regnete und war angenehm kühl",
+          "Es war bewölkt und kalt",
+          "Es war schwül und schön, mit Sonne und warm"
+        ],
+        "answer": 2,
+        "q_th": "อากาศในระหว่างการพักผ่อนเป็นอย่างไร",
+        "options_th": [
           "ก) ฝนตกและเย็นสบาย",
           "ข) มีเมฆปกคลุมและหนาวเย็น",
           "ค) อบอวลและอากาศดี มีแดดและอุ่น"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "เด็กๆ ทำอะไรที่หาด",
+        "q": "Was machen die Kinder am Strand?",
         "options": [
+          "A) Sie spielen Tennis.",
+          "B) Sie bauen Sandburgen und sammeln Muscheln.",
+          "C) Sie spielen Fußball."
+        ],
+        "answer": 1,
+        "q_th": "เด็กๆ ทำอะไรที่หาด",
+        "options_th": [
           "ก) เล่นเทนนิส",
           "ข) สร้างปราสาททราย และเก็บเปลือกหอย",
           "ค) เล่นฟุตบอล"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "พวกเขาชอบกิจกรรมไหนมากที่สุด",
+        "q": "Welche Aktivität haben sie am liebsten?",
         "options": [
+          "A) Das Schwimmen am Morgen",
+          "B) Die Strandspiele spielen",
+          "C) Den langen Spaziergang am Strand bei Sonnenuntergang"
+        ],
+        "answer": 2,
+        "q_th": "พวกเขาชอบกิจกรรมไหนมากที่สุด",
+        "options_th": [
           "ก) การว่ายน้ำในตอนเช้า",
           "ข) การเล่นเกมชายหาด",
           "ค) การเดินเล่นชายหาดยาวในเวลาพระอาทิตย์ตกดิน"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "พวกเขาวางแผนที่จะทำอะไรต่อไป",
+        "q": "Was planen sie als Nächstes zu tun?",
         "options": [
+          "A) Nach Osteuropa in den Urlaub fahren",
+          "B) Nächstes Jahr wiederkommen",
+          "C) Nicht mehr hierher zurückkommen"
+        ],
+        "answer": 1,
+        "q_th": "พวกเขาวางแผนที่จะทำอะไรต่อไป",
+        "options_th": [
           "ก) ไปพักผ่อนที่ยุโรปตะวันออก",
           "ข) มีแผนที่จะกลับมาปีหน้า",
           "ค) ไม่มีแผนที่จะไปที่นี่อีก"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p020"
@@ -1065,49 +1665,79 @@
     "passage": "Viele Menschen möchten gerne reisen, haben aber nicht viel Geld. Es gibt jedoch verschiedene Möglichkeiten, um einen günstigen Urlaub zu machen. Zuerst sollte man Flüge und Hotels frühzeitig buchen, da diese oft billiger sind. Hostels sind eine gute Alternative zu teuren Hotels. Man kann auch mit Freunden die Kosten teilen und zusammen ein Apartment mieten. Beim Essen sparen Sie Geld, wenn Sie selbst kochen statt ins Restaurant zu gehen. Viele Museen und Sehenswürdigkeiten bieten kostenlose Eintrittskarten für Studenten an. Mit dem Fahrrad oder öffentlichen Verkehrsmitteln reisen ist auch günstiger als ein Auto zu mieten. Mit etwas Planung und Kreativität können Sie einen wunderbaren und erschwinglichen Urlaub genießen.",
     "questions": [
       {
-        "q": "วิธีใดที่สามารถช่วยประหยัดค่าที่พัก?",
+        "q": "Welche Möglichkeit hilft dabei, Unterkunftskosten zu sparen?",
         "options": [
+          "A) In einem luxuriösen Hotel übernachten",
+          "B) Ein Hotel spontan im letzten Moment buchen",
+          "C) In einer Jugendherberge oder einem Hostel übernachten"
+        ],
+        "answer": 2,
+        "q_th": "วิธีใดที่สามารถช่วยประหยัดค่าที่พัก?",
+        "options_th": [
           "ก) พักในโรงแรมหรูหรา",
           "ข) จองโรงแรมสักหนาด่านแรก",
           "ค) พักในห้องพักรับแขก (Hostels)"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ข้อใดไม่ได้กล่าวถึงการประหยัดค่าอาหาร?",
+        "q": "Welche Option wird NICHT als Möglichkeit zum Sparen bei Lebensmitteln erwähnt?",
         "options": [
+          "Selbst kochen",
+          "Ins teure Restaurant gehen",
+          "Beide Optionen sind nicht richtig"
+        ],
+        "answer": 1,
+        "q_th": "ข้อใดไม่ได้กล่าวถึงการประหยัดค่าอาหาร?",
+        "options_th": [
           "ก) ทำอาหารเอง",
           "ข) ไปร้านอาหารราคาแพง",
           "ค) ทั้งสองข้อนี้ไม่ใช่"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "นักเรียนสามารถประหยัดค่าเข้าชมสถานที่ท่องเที่ยวได้อย่างไร?",
+        "q": "Wie können Schüler Geld beim Besuch von Sehenswürdigkeiten sparen?",
         "options": [
+          "Indem sie Museen nicht besuchen",
+          "Indem sie Studentenermäßigungskarten verwenden",
+          "Indem sie in einer bestimmten Woche des Monats besuchen"
+        ],
+        "answer": 1,
+        "q_th": "นักเรียนสามารถประหยัดค่าเข้าชมสถานที่ท่องเที่ยวได้อย่างไร?",
+        "options_th": [
           "ก) การไม่เข้าชมพิพิธภัณฑ์",
           "ข) การใช้บัตรลดราคาสำหรับนักเรียน",
           "ค) การเข้าชมในสัปดาห์หนึ่งของเดือน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ข้อใดเป็นวิธีการเดินทางที่ประหยัดที่สุด?",
+        "q": "Welche Transportart ist am kostengünstigsten?",
         "options": [
+          "Ein Auto mieten",
+          "Die Bahn oder das Fahrrad benutzen",
+          "Mit einem Privatflugzeug fliegen"
+        ],
+        "answer": 1,
+        "q_th": "ข้อใดเป็นวิธีการเดินทางที่ประหยัดที่สุด?",
+        "options_th": [
           "ก) การเช่ารถยนต์",
           "ข) การใช้รถไฟหรือจักรยาน",
           "ค) การบินเครื่องส่วนตัว"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เรื่องหลักของข้อความนี้คืออะไร?",
+        "q": "Worum geht es in diesem Text hauptsächlich?",
         "options": [
+          "A) Sichere Reisemethoden",
+          "B) Geldsparen während einer Reise",
+          "C) Die beste Reisezeit auswählen"
+        ],
+        "answer": 1,
+        "q_th": "เรื่องหลักของข้อความนี้คืออะไร?",
+        "options_th": [
           "ก) วิธีการเดินทางที่ปลอดภัย",
           "ข) วิธีประหยัดเงินขณะท่องเที่ยว",
           "ค) การเลือกวันท่องเที่ยวที่ดีที่สุด"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p021"
@@ -1118,49 +1748,79 @@
     "passage": "Die Wohnungssuche in einer Großstadt ist oft schwierig und stressig. Maria sucht seit drei Monaten eine neue Wohnung in Berlin. Sie möchte eine 2-Zimmer-Wohnung mit Balkon haben, aber die Preise sind sehr hoch. Viele Vermieter verlangen hohe Mieten und zusätzliche Gebühren. Maria hat viele Angebote online gefunden, aber manche sind zu teuer oder zu klein. Sie besucht jede Woche mehrere Wohnungen. Endlich findet sie eine schöne Wohnung im Prenzlauer Berg. Die Miete kostet 900 Euro pro Monat. Der Vermieter ist freundlich und die Nachbarn sind nett. Maria ist glücklich über ihre neue Wohnung und möchte dort mindestens drei Jahre bleiben.",
     "questions": [
       {
-        "q": "มาเรียค้นหาอพาร์ตเมนต์นานเท่าไหร่?",
+        "q": "Wie lange hat Maria nach einer Wohnung gesucht?",
         "options": [
+          "einen Monat",
+          "drei Monate",
+          "sechs Monate"
+        ],
+        "answer": 1,
+        "q_th": "มาเรียค้นหาอพาร์ตเมนต์นานเท่าไหร่?",
+        "options_th": [
           "ก) หนึ่งเดือน",
           "ข) สามเดือน",
           "ค) หกเดือน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "อพาร์ตเมนต์ที่มาเรียต้องการมีลักษณะเป็นอย่างไร?",
+        "q": "Welche Eigenschaften soll die Wohnung haben, die Maria sucht?",
         "options": [
+          "A) Ein Schlafzimmer und eine Küche",
+          "B) Zwei Schlafzimmer und einen Balkon",
+          "C) Drei Schlafzimmer und einen Parkplatz"
+        ],
+        "answer": 1,
+        "q_th": "อพาร์ตเมนต์ที่มาเรียต้องการมีลักษณะเป็นอย่างไร?",
+        "options_th": [
           "ก) 1 ห้องนอนและห้องครัว",
           "ข) 2 ห้องนอนและระเบียง",
           "ค) 3 ห้องนอนและพื้นที่จอดรถ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ปัญหาหลักในการหาอพาร์ตเมนต์คืออะไร?",
+        "q": "Was ist das Hauptproblem bei der Wohnungssuche?",
         "options": [
+          "A) Es gibt keine freien Wohnungen in Berlin",
+          "B) Die Miete ist teuer und es gibt zusätzliche Kosten",
+          "C) Die Nachbarn sind nicht freundlich"
+        ],
+        "answer": 1,
+        "q_th": "ปัญหาหลักในการหาอพาร์ตเมนต์คืออะไร?",
+        "options_th": [
           "ก) ไม่มีอพาร์ตเมนต์ว่างในเบอร์ลิน",
           "ข) ราคาแพงและต้องมีค่าเพิ่มเติม",
           "ค) บ้านใกล้เคียงไม่เป็นมิตร"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "อพาร์ตเมนต์ที่มาเรียตัดสินใจเลือกอยู่ที่ไหน?",
+        "q": "In welchem Bezirk hat sich Maria für eine Wohnung entschieden?",
         "options": [
+          "Charlottenburg",
+          "Prenzlauer Berg",
+          "Kreuzberg"
+        ],
+        "answer": 1,
+        "q_th": "อพาร์ตเมนต์ที่มาเรียตัดสินใจเลือกอยู่ที่ไหน?",
+        "options_th": [
           "ก) Charlottenburg",
           "ข) Prenzlauer Berg",
           "ค) Kreuzberg"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ค่าเช่าอพาร์ตเมนต์ของมาเรียต่อเดือนเท่าไหร่?",
+        "q": "Wie viel Miete zahlt Maria pro Monat für ihre Wohnung?",
         "options": [
+          "A) 600 Euro",
+          "B) 800 Euro",
+          "C) 900 Euro"
+        ],
+        "answer": 2,
+        "q_th": "ค่าเช่าอพาร์ตเมนต์ของมาเรียต่อเดือนเท่าไหร่?",
+        "options_th": [
           "ก) 600 ยูโร",
           "ข) 800 ยูโร",
           "ค) 900 ยูโร"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p022"
@@ -1173,47 +1833,77 @@
       {
         "q": "Wann findet der Umzug statt?",
         "options": [
+          "Am nächsten Freitag",
+          "Am kommenden Samstag",
+          "In zwei Wochen"
+        ],
+        "answer": 1,
+        "q_th": "Wann findet der Umzug statt?",
+        "options_th": [
           "ก) Am nächsten Freitag",
           "ข) Am kommenden Samstag",
           "ค) In zwei Wochen"
-        ],
-        "answer": 1
+        ]
       },
       {
         "q": "Wie viele Zimmer hat die neue Wohnung?",
         "options": [
+          "Zwei Zimmer",
+          "Vier Zimmer",
+          "Drei Zimmer"
+        ],
+        "answer": 2,
+        "q_th": "Wie viele Zimmer hat die neue Wohnung?",
+        "options_th": [
           "ก) Zwei Zimmer",
           "ข) Vier Zimmer",
           "ค) Drei Zimmer"
-        ],
-        "answer": 2
+        ]
       },
       {
         "q": "Was hat Markus' Mutter bereits gemacht?",
         "options": [
+          "Sie hat die Möbel gekauft",
+          "Sie hat die Adresse geändert und Institutionen benachrichtigt",
+          "Sie hat die Kartons gepackt"
+        ],
+        "answer": 1,
+        "q_th": "Was hat Markus' Mutter bereits gemacht?",
+        "options_th": [
           "ก) Sie hat die Möbel gekauft",
           "ข) Sie hat die Adresse geändert und Institutionen benachrichtigt",
           "ค) Sie hat die Kartons gepackt"
-        ],
-        "answer": 1
+        ]
       },
       {
         "q": "Was kostet der Umzug ungefähr?",
         "options": [
+          "Fünfhundert Euro",
+          "Zweitausend Euro",
+          "Tausend Euro"
+        ],
+        "answer": 2,
+        "q_th": "Was kostet der Umzug ungefähr?",
+        "options_th": [
           "ก) Fünfhundert Euro",
           "ข) Zwei tausend Euro",
           "ค) Tausend Euro"
-        ],
-        "answer": 2
+        ]
       },
       {
         "q": "Warum freut sich Markus auf die neue Wohnung?",
         "options": [
+          "Weil sie günstiger ist",
+          "Weil sie einen großen Balkon mit Blick auf den Park hat",
+          "Weil sie näher bei seiner Schule liegt"
+        ],
+        "answer": 1,
+        "q_th": "Warum freut sich Markus auf die neue Wohnung?",
+        "options_th": [
           "ก) Weil sie günstiger ist",
           "ข) Weil sie einen großen Balkon mit Blick auf den Park hat",
           "ค) Weil sie näher bei seiner Schule liegt"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p023"
@@ -1224,49 +1914,79 @@
     "passage": "Das Wohnzimmer ist der wichtigste Raum in einem Haus, da die Familie hier viel Zeit zusammen verbringt. Bei der Einrichtung sollte man auf Komfort und Funktionalität achten. Ein großes Sofa in neutralen Farben bietet Platz für alle Familienmitglieder. Der Couchtisch aus Holz oder Glas passt gut dazu. An den Wänden können bunte Bilder oder Poster hängen, die den Raum persönlicher machen. Gute Beleuchtung ist sehr wichtig - eine Deckenlampe und mehrere Stehlampen schaffen eine gemütliche Atmosphäre. Pflanzen bringen Frische und Grün in den Raum. Ein großer Spiegel macht das Wohnzimmer optisch größer. Mit geschmackvollen Dekorationen und passenden Möbeln wird das Wohnzimmer zum Lieblingsplatz der ganzen Familie.",
     "questions": [
       {
-        "q": "ห้องนั่งเล่นมีความสำคัญเพราะเหตุใด",
+        "q": "Warum ist das Wohnzimmer wichtig?",
         "options": [
+          "Das Wohnzimmer ist das schönste Zimmer im Haus.",
+          "Die Familie verbringt viel Zeit dort.",
+          "Das Wohnzimmer hat viele Fenster."
+        ],
+        "answer": 1,
+        "q_th": "ห้องนั่งเล่นมีความสำคัญเพราะเหตุใด",
+        "options_th": [
           "ก) เพราะเป็นห้องที่สวยที่สุดในบ้าน",
           "ข) เพราะครอบครัวใช้เวลามากที่นี่",
           "ค) เพราะมีหลายหน้าต่าง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "สิ่งใดที่ช่วยให้ห้องดูโปร่งสบายขึ้น",
+        "q": "Was hilft einem Zimmer, heller und luftiger auszusehen?",
         "options": [
+          "A) Ein großes Sofa",
+          "B) Ein buntes Gemälde",
+          "C) Ein großer Spiegel"
+        ],
+        "answer": 2,
+        "q_th": "สิ่งใดที่ช่วยให้ห้องดูโปร่งสบายขึ้น",
+        "options_th": [
           "ก) โซฟาขนาดใหญ่",
           "ข) ภาพวาดสีสันสดใส",
           "ค) กระจกขนาดใหญ่"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "เฟอร์นิเจอร์สำคัญชิ้นแรกในห้องนั่งเล่นคืออะไร",
+        "q": "Was ist das wichtigste Möbelstück im Wohnzimmer?",
         "options": [
+          "A) Der Couchtisch",
+          "B) Das Sofa",
+          "C) Der Fernseher"
+        ],
+        "answer": 1,
+        "q_th": "เฟอร์นิเจอร์สำคัญชิ้นแรกในห้องนั่งเล่นคืออะไร",
+        "options_th": [
           "ก) โต๊ะกาแฟ",
           "ข) โซฟา",
           "ค) ตู้โทรทัศน์"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "การจัดแสงสว่างที่ดีควรมีลักษณะอย่างไร",
+        "q": "Wie sollte eine gute Beleuchtung aussehen?",
         "options": [
+          "Nur mit einer Deckenleuchte",
+          "Mit einer Deckenleuchte und mehreren Stehlampen",
+          "Ohne zusätzliche Beleuchtung"
+        ],
+        "answer": 1,
+        "q_th": "การจัดแสงสว่างที่ดีควรมีลักษณะอย่างไร",
+        "options_th": [
           "ก) มีเพียงไฟเพดานเท่านั้น",
           "ข) มีไฟเพดานและโคมไฟตั้งพื้นหลายดวง",
           "ค) ไม่จำเป็นต้องมีไฟสว่างเพิ่มเติม"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "สีที่แนะนำสำหรับโซฟาในห้องนั่งเล่นคืออะไร",
+        "q": "Welche Farbe wird für ein Sofa im Wohnzimmer empfohlen?",
         "options": [
+          "Helle und lebendige Farben",
+          "Neutrale Farben",
+          "Nur schwarze Farbe"
+        ],
+        "answer": 1,
+        "q_th": "สีที่แนะนำสำหรับโซฟาในห้องนั่งเล่นคืออะไร",
+        "options_th": [
           "ก) สีสดใสและสว่างตลอด",
           "ข) สีกลาง (neutral)",
           "ค) สีดำเท่านั้น"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p024"
@@ -1277,49 +1997,79 @@
     "passage": "Die Mietpreise in Deutschland sind in den letzten Jahren stark gestiegen. Besonders in großen Städten wie Berlin, München und Hamburg zahlen Mieter sehr hohe Mieten. Eine Wohnung mit zwei Zimmern kostet in München durchschnittlich 1.200 Euro pro Monat. In Berlin ist es günstiger und liegt bei etwa 900 Euro. Auf dem Land sind die Mieten deutlich niedriger, manchmal nur 500 bis 700 Euro. Viele junge Leute teilen sich eine Wohnung mit Mitbewohnern, um Kosten zu sparen. Das ist in Deutschland sehr beliebt und nennt sich Wohngemeinschaft oder WG. Für Studierende gibt es auch günstige Studentenwohnheime. Die hohen Mietpreise sind ein großes Problem in vielen deutschen Städten geworden.",
     "questions": [
       {
-        "q": "ตามข้อความ ค่าเช่าอพาร์ตเมนต์ 2 ห้องในเมืองมิวนิก เท่าไหร่ต่อเดือน",
+        "q": "Wie viel kostet die Miete für eine 2-Zimmer-Wohnung in München pro Monat nach dem Text?",
         "options": [
+          "etwa 500-700 Euro",
+          "etwa 900 Euro",
+          "etwa 1.200 Euro"
+        ],
+        "answer": 2,
+        "q_th": "ตามข้อความ ค่าเช่าอพาร์ตเมนต์ 2 ห้องในเมืองมิวนิก เท่าไหร่ต่อเดือน",
+        "options_th": [
           "ก) ประมาณ 500-700 ยูโร",
           "ข) ประมาณ 900 ยูโร",
           "ค) ประมาณ 1.200 ยูโร"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "คำว่า 'Wohngemeinschaft' หรือ 'WG' หมายถึงอะไร",
+        "q": "Was bedeutet das Wort „Wohngemeinschaft\" oder „WG\"?",
         "options": [
+          "A) Ein Studentenwohnheim",
+          "B) Eine gemeinsame Wohnung mit anderen Personen",
+          "C) Ein Büro zur Miete"
+        ],
+        "answer": 1,
+        "q_th": "คำว่า 'Wohngemeinschaft' หรือ 'WG' หมายถึงอะไร",
+        "options_th": [
           "ก) หอพักสำหรับนักศึกษา",
           "ข) การแบ่งเช่าบ้านกับผู้อื่น",
           "ค) สำนักงานให้เช่า"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ค่าเช่าในเมืองเบอร์ลินต่างจากเมืองมิวนิกอย่างไร",
+        "q": "Wie unterscheiden sich die Mietpreise zwischen Berlin und München?",
         "options": [
+          "Berlin ist teurer",
+          "Berlin ist günstiger",
+          "Die Preise sind gleich"
+        ],
+        "answer": 1,
+        "q_th": "ค่าเช่าในเมืองเบอร์ลินต่างจากเมืองมิวนิกอย่างไร",
+        "options_th": [
           "ก) เบอร์ลินแพงกว่า",
           "ข) เบอร์ลินถูกกว่า",
           "ค) ราคาเท่ากัน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เหตุใดคนหลายคนในเยอรมนีจึงเลือกอาศัยอยู่ใน WG",
+        "q": "Warum entscheiden sich viele Menschen in Deutschland, in einer WG zu leben?",
         "options": [
+          "A) Um mehr Spaß zu haben",
+          "B) Um Mietkosten zu sparen",
+          "C) Weil es gesetzlich vorgeschrieben ist"
+        ],
+        "answer": 1,
+        "q_th": "เหตุใดคนหลายคนในเยอรมนีจึงเลือกอาศัยอยู่ใน WG",
+        "options_th": [
           "ก) เพื่อเพิ่มความสนุก",
           "ข) เพื่อประหยัดค่าเช่า",
           "ค) เพราะเป็นกฎหมาย"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ค่าเช่าในเขตชนบทของเยอรมนีประมาณเท่าไหร่",
+        "q": "Wie hoch ist die Miete in ländlichen Gegenden Deutschlands ungefähr?",
         "options": [
+          "900 Euro",
+          "1.200 Euro",
+          "500-700 Euro"
+        ],
+        "answer": 2,
+        "q_th": "ค่าเช่าในเขตชนบทของเยอรมนีประมาณเท่าไหร่",
+        "options_th": [
           "ก) 900 ยูโร",
           "ข) 1.200 ยูโร",
           "ค) 500-700 ยูโร"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p025"
@@ -1330,49 +2080,79 @@
     "passage": "Maria lebt in einem kleinen Dorf in Bayern. Das Dorf hat nur etwa 500 Einwohner. Jeden Morgen wacht Maria um 6 Uhr auf und hilft ihrer Familie auf dem Bauernhof. Sie füttert die Kühe und Hühner. Um 8 Uhr geht sie zur Schule in der Nachbarstadt. Der Bus kommt um 7:30 Uhr. Nach der Schule hilft Maria wieder auf dem Hof. Am Wochenende trifft sie ihre Freunde im Dorf. Sie spielen Fußball auf der Wiese oder fahren mit dem Fahrrad zum See. Das Leben auf dem Land ist ruhig und schön. Maria liebt ihr Dorf sehr, obwohl es klein ist. Sie sagt, dass die Menschen hier freundlich und hilfsbereit sind.",
     "questions": [
       {
-        "q": "ในเช้าตรู่ มาเรีย ตื่นนอนกี่โมง?",
+        "q": "Um wie viel Uhr wacht Maria früh morgens auf?",
         "options": [
+          "Um 5 Uhr morgens",
+          "Um 6 Uhr morgens",
+          "Um 7 Uhr morgens"
+        ],
+        "answer": 1,
+        "q_th": "ในเช้าตรู่ มาเรีย ตื่นนอนกี่โมง?",
+        "options_th": [
           "ก) 5 โมงเช้า",
           "ข) 6 โมงเช้า",
           "ค) 7 โมงเช้า"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "มาเรียช่วยเหลืองานในไร่ไหนก่อนไปโรงเรียน?",
+        "q": "In welchem Bereich half Maria auf dem Hof, bevor sie zur Schule ging?",
         "options": [
+          "A) Das Vieh füttern",
+          "B) Die Ernte einbringen",
+          "C) Das Haus reparieren"
+        ],
+        "answer": 0,
+        "q_th": "มาเรียช่วยเหลืองานในไร่ไหนก่อนไปโรงเรียน?",
+        "options_th": [
           "ก) ให้อาหารสัตว์ปศุสัตว์",
           "ข) เก็บเกี่ยวพืช",
           "ค) ซ่อมบ้าน"
-        ],
-        "answer": 0
+        ]
       },
       {
-        "q": "รถบัสมาถึงกี่โมงพอดี?",
+        "q": "Um wie viel Uhr ist der Bus genau angekommen?",
         "options": [
+          "A) Um 7:00 Uhr",
+          "B) Um 7:30 Uhr",
+          "C) Um 8:00 Uhr"
+        ],
+        "answer": 1,
+        "q_th": "รถบัสมาถึงกี่โมงพอดี?",
+        "options_th": [
           "ก) 7:00 น.",
           "ข) 7:30 น.",
           "ค) 8:00 น."
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เพื่อนๆของมาเรีย ทำกิจกรรมอะไรในวันสุดสัปดาห์?",
+        "q": "Was machen Marias Freunde am Wochenende?",
         "options": [
+          "Sie gehen ins Kino.",
+          "Sie spielen Fußball oder fahren mit dem Fahrrad zum See.",
+          "Sie gehen in der Stadt einkaufen."
+        ],
+        "answer": 1,
+        "q_th": "เพื่อนๆของมาเรีย ทำกิจกรรมอะไรในวันสุดสัปดาห์?",
+        "options_th": [
           "ก) ไปดูหนังยนตร์",
           "ข) เล่นฟุตบอลหรือปั่นจักรยานไปยังทะเลสาบ",
           "ค) ไปช้อปปิ้งในเมือง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "มาเรีย รู้สึกอย่างไรเกี่ยวกับการอยู่อาศัยในหมู่บ้านเล็กนี้?",
+        "q": "Wie fühlt sich Maria über das Leben in diesem kleinen Dorf?",
         "options": [
+          "Sie fühlt sich gelangweilt und möchte wegziehen.",
+          "Sie liebt das Dorf sehr, weil das Leben ruhig ist und die Menschen freundlich sind.",
+          "Sie fühlt sich unwohl und hat Angst."
+        ],
+        "answer": 1,
+        "q_th": "มาเรีย รู้สึกอย่างไรเกี่ยวกับการอยู่อาศัยในหมู่บ้านเล็กนี้?",
+        "options_th": [
           "ก) รู้สึกเบื่อและอยากออกไป",
           "ข) รู้สึกรักหมู่บ้านอย่างมาก เพราะชีวิตเงียบสงบและคนใจดี",
           "ค)รู้สึกแปลกและกลัว"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p026"
@@ -1383,49 +2163,79 @@
     "passage": "Das deutsche Schulsystem ist sehr unterschiedlich von anderen Ländern. Nach der Grundschule, die vier Jahre dauert, gehen Schüler in verschiedene Schultypen. Die meisten besuchen die Hauptschule oder die Realschule. Die besten Schüler gehen aufs Gymnasium, wo sie zwölf Jahre lernen und das Abitur machen. Das Abitur ist das wichtigste Examen für die Universität. Es gibt auch Berufsschulen, wo Schüler eine praktische Ausbildung bekommen. Die Schulferien sind lang und Schüler haben viel Zeit für Hobbys und Freunde. Viele Schulen bieten auch AGs an, zum Beispiel Sport, Musik oder Kunst. Das System hilft jedem Kind, seinen eigenen Weg zu finden.",
     "questions": [
       {
-        "q": "ระบบการศึกษาเยอรมันมีช่วงกี่ปีสำหรับการศึกษาพื้นฐาน",
+        "q": "Wie lange dauert die Grundschule im deutschen Schulsystem?",
         "options": [
+          "4 Jahre",
+          "6 Jahre",
+          "8 Jahre"
+        ],
+        "answer": 0,
+        "q_th": "ระบบการศึกษาเยอรมันมีช่วงกี่ปีสำหรับการศึกษาพื้นฐาน",
+        "options_th": [
           "ก) 4 ปี",
           "ข) 6 ปี",
           "ค) 8 ปี"
-        ],
-        "answer": 0
+        ]
       },
       {
-        "q": "สำหรับนักเรียนที่ดีที่สุด พวกเขาจะเข้าเรียนที่โรงเรียนใด",
+        "q": "Welche Schule besuchen die besten Schüler?",
         "options": [
+          "Hauptschule",
+          "Gymnasium",
+          "Berufsschule"
+        ],
+        "answer": 1,
+        "q_th": "สำหรับนักเรียนที่ดีที่สุด พวกเขาจะเข้าเรียนที่โรงเรียนใด",
+        "options_th": [
           "ก) Hauptschule",
           "ข) Gymnasium",
           "ค) Berufsschule"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "Abitur คืออะไร",
+        "q": "Was ist das Abitur?",
         "options": [
+          "Eine Sekundarschule",
+          "Ein Kunstunterrichtsfach",
+          "Eine wichtige Prüfung zur Zulassung an der Universität"
+        ],
+        "answer": 2,
+        "q_th": "Abitur คืออะไร",
+        "options_th": [
           "ก) โรงเรียนมัธยม",
           "ข) วิชาการศึกษาด้านศิลปะ",
           "ค) การสอบที่สำคัญเพื่อเข้ามหาวิทยาลัย"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "โรงเรียนประเภท Berufsschule นำเสนออะไร",
+        "q": "Was bietet eine Berufsschule an?",
         "options": [
+          "Allgemeine Schulbildung",
+          "Praktische Berufsausbildung",
+          "Abiturprüfungen"
+        ],
+        "answer": 1,
+        "q_th": "โรงเรียนประเภท Berufsschule นำเสนออะไร",
+        "options_th": [
           "ก) การศึกษาทั่วไป",
           "ข) การฝึกอบรมปฏิบัติจริง",
           "ค) การสอบ Abitur"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "โรงเรียนเยอรมันมักจัดอะไรให้นักเรียนบ้าง",
+        "q": "Was organisieren deutsche Schulen normalerweise für die Schüler?",
         "options": [
+          "Auslandsreisen",
+          "AGs wie Sport, Musik und Kunst",
+          "Tourismusfahrten"
+        ],
+        "answer": 1,
+        "q_th": "โรงเรียนเยอรมันมักจัดอะไรให้นักเรียนบ้าง",
+        "options_th": [
           "ก) งานต่างประเทศ",
           "ข) AG เช่น กีฬา ดนตรี และศิลปะ",
           "ค) การท่องเที่ยว"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p027"
@@ -1436,49 +2246,79 @@
     "passage": "Viele Studierende in Deutschland suchen nach Stipendien, um ihre Ausbildung zu finanzieren. Das DAAD-Stipendium ist eines der bekanntesten Programme für internationale Studenten. Es bietet nicht nur finanzielle Unterstützung, sondern auch kulturellen Austausch. Um ein Stipendium zu erhalten, müssen Bewerber gute Noten und Sprachkenntnisse nachweisen. Die Bewerbung ist kostenlos und der Prozess dauert etwa drei Monate. Viele Universitäten arbeiten auch mit lokalen Stiftungen zusammen, um zusätzliche Mittel bereitzustellen. Ein Stipendium kann Leben verändern und mehr Menschen den Zugang zur höheren Bildung ermöglichen.",
     "questions": [
       {
-        "q": "DAAD-Stipendium นอกเหนือจากการสนับสนุนทางการเงินแล้ว ยังมอบสิ่งใดอีก",
+        "q": "Was bietet das DAAD-Stipendium neben der finanziellen Unterstützung noch an?",
         "options": [
+          "A) Ein Praktikum",
+          "B) Einen Kulturaustausch",
+          "C) Eine Auswanderung ins Ausland"
+        ],
+        "answer": 1,
+        "q_th": "DAAD-Stipendium นอกเหนือจากการสนับสนุนทางการเงินแล้ว ยังมอบสิ่งใดอีก",
+        "options_th": [
           "ก) การฝึกงาน",
           "ข) การแลกเปลี่ยนวัฒนธรรม",
           "ค) อพยพไปยังต่างประเทศ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ผู้สมัครต้องสิ่งใดเพื่อรับทุนการศึกษา",
+        "q": "Was muss ein Bewerber haben, um ein Stipendium zu erhalten?",
         "options": [
+          "A) Berufserfahrung",
+          "B) Anmeldegebühr",
+          "C) Gute Noten und Sprachfähigkeiten"
+        ],
+        "answer": 2,
+        "q_th": "ผู้สมัครต้องสิ่งใดเพื่อรับทุนการศึกษา",
+        "options_th": [
           "ก) ประสบการณ์การทำงาน",
           "ข) เงินสมัคร",
           "ค) คะแนนดีและความสามารถด้านภาษา"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "กระบวนการสมัครทุนการศึกษา DAAD ใช้เวลานานเท่าใด",
+        "q": "Wie lange dauert das Bewerbungsverfahren für ein DAAD-Stipendium?",
         "options": [
+          "einen Monat",
+          "drei Monate",
+          "sechs Monate"
+        ],
+        "answer": 1,
+        "q_th": "กระบวนการสมัครทุนการศึกษา DAAD ใช้เวลานานเท่าใด",
+        "options_th": [
           "ก) หนึ่งเดือน",
           "ข) สามเดือน",
           "ค) หกเดือน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "มหาวิทยาลัยในเยอรมนีทำงานร่วมกับใครเพื่อให้ทุนเพิ่มเติม",
+        "q": "Mit wem arbeiten Universitäten in Deutschland zusammen, um zusätzliche Finanzierung zu erhalten?",
         "options": [
+          "Mit der Regierung",
+          "Mit lokalen Stiftungen",
+          "Mit privaten Unternehmen"
+        ],
+        "answer": 1,
+        "q_th": "มหาวิทยาลัยในเยอรมนีทำงานร่วมกับใครเพื่อให้ทุนเพิ่มเติม",
+        "options_th": [
           "ก) รัฐบาล",
           "ข) มูลนิธิท้องถิ่น",
           "ค) บริษัทเอกชน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ประโยชน์หลักของการมีทุนการศึกษาคืออะไร",
+        "q": "Was ist der Hauptvorteil eines Bildungsstipendiums?",
         "options": [
+          "A) Die Vermeidung von Bildung",
+          "B) Der bessere Zugang zu hochwertiger Hochschulbildung",
+          "C) Das Vermeiden von Arbeit"
+        ],
+        "answer": 1,
+        "q_th": "ประโยชน์หลักของการมีทุนการศึกษาคืออะไร",
+        "options_th": [
           "ก) การหลีกเลี่ยงการศึกษา",
           "ข) การเข้าถึงการศึกษาชั้นสูงที่ดีขึ้น",
           "ค) การไม่ต้องทำงาน"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p028"
@@ -1489,49 +2329,79 @@
     "passage": "Ich bin Tim und habe vor drei Monaten mein Praktikum bei einer großen Firma in München begonnen. Das Praktikum dauert sechs Monate und ich arbeite im Marketing-Bereich. Meine Aufgaben sind sehr interessant. Ich helfe bei der Erstellung von Werbekampagnen und analysiere Kundendaten. Die Kollegen sind sehr freundlich und unterstützen mich bei meiner Arbeit. Am Anfang war ich nervös, aber jetzt fühle ich mich sehr wohl. Ich lerne jeden Tag etwas Neues und sammle wichtige Erfahrungen für meine Karriere. Mein Chef sagt, dass meine Arbeit ausgezeichnet ist. Nach dem Praktikum möchte ich gerne bei dieser Firma arbeiten, denn das Arbeitsumfeld gefällt mir sehr gut.",
     "questions": [
       {
-        "q": "ทิมทำงานในแผนกไหน?",
+        "q": "In welcher Abteilung arbeitet Tim?",
         "options": [
+          "Buchhaltung",
+          "Marketing",
+          "Informationstechnologie"
+        ],
+        "answer": 1,
+        "q_th": "ทิมทำงานในแผนกไหน?",
+        "options_th": [
           "ก) บัญชี",
           "ข) การตลาด",
           "ค) เทคโนโลยีสารสนเทศ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "การฝึกงานของทิมกินเวลานานเท่าไหร่?",
+        "q": "Wie lange dauerte Tims Praktikum?",
         "options": [
+          "A) Drei Monate",
+          "B) Vier Monate",
+          "C) Sechs Monate"
+        ],
+        "answer": 2,
+        "q_th": "การฝึกงานของทิมกินเวลานานเท่าไหร่?",
+        "options_th": [
           "ก) สามเดือน",
           "ข) สี่เดือน",
           "ค) หกเดือน"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ทิมรู้สึกอย่างไรเมื่อเริ่มต้นการฝึกงาน?",
+        "q": "Wie fühlte sich Tim am Anfang seines Praktikums?",
         "options": [
+          "Glücklich",
+          "Ängstlich und nervös",
+          "Sehr gelangweilt"
+        ],
+        "answer": 1,
+        "q_th": "ทิมรู้สึกอย่างไรเมื่อเริ่มต้นการฝึกงาน?",
+        "options_th": [
           "ก) มีความสุข",
           "ข) กลัวและวิตกกังวล",
           "ค) เบื่อหน่ายมาก"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "อะไรคือหนึ่งในงานที่ทิมช่วยทำ?",
+        "q": "Was ist eine der Aufgaben, bei denen Tim geholfen hat?",
         "options": [
+          "Webseitengestaltung",
+          "Erstellung einer Werbekampagne",
+          "Reparatur von Geräten"
+        ],
+        "answer": 1,
+        "q_th": "อะไรคือหนึ่งในงานที่ทิมช่วยทำ?",
+        "options_th": [
           "ก) ออกแบบเว็บไซต์",
           "ข) การสร้างแคมเปญโฆษณา",
           "ค) การซ่อมแซมอุปกรณ์"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ทิมต้องการทำอะไรหลังจากจบการฝึกงาน?",
+        "q": "Was möchte Tim nach dem Ende seines Praktikums machen?",
         "options": [
+          "A) Bei einem anderen Unternehmen arbeiten",
+          "B) An der Universität weiterstudieren",
+          "C) Bei demselben Unternehmen arbeiten"
+        ],
+        "answer": 2,
+        "q_th": "ทิมต้องการทำอะไรหลังจากจบการฝึกงาน?",
+        "options_th": [
           "ก) เปลี่ยนไปทำงานที่บริษัทอื่น",
           "ข) เรียนต่อที่มหาวิทยาลัย",
           "ค) ทำงานที่บริษัทเดียวกัน"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p029"
@@ -1542,49 +2412,79 @@
     "passage": "In Deutschland ist die Mülltrennung sehr wichtig. Die Deutschen trennen ihren Müll sorgfältig in verschiedene Kategorien. Es gibt vier Haupttypen von Mülltonnen: die gelbe Tonne für Verpackungen, die blaue Tonne für Papier und Pappe, die braune Tonne für Bioabfall und die schwarze Tonne für Restmüll. Viele Menschen bringen auch Glas zu speziellen Glascontainern, die man überall in der Stadt findet. Die Mülltrennung ist nicht nur eine Gewohnheit, sondern auch ein Gesetz. Wenn man den Müll falsch trennt, kann man eine Geldstrafe bekommen. Durch diese Praxis können viele Materialien recycelt werden. Das ist gut für die Umwelt und hilft, natürliche Ressourcen zu sparen. Deutschland ist ein Vorbild für Nachhaltigkeit in Europa.",
     "questions": [
       {
-        "q": "กี่สีของถังขยะที่มีในระบบการแยกขยะในเยอรมัน?",
+        "q": "Wie viele Farben von Mülltonnen gibt es im deutschen Mülltrennungssystem?",
         "options": [
+          "Vier Farben",
+          "Drei Farben",
+          "Fünf Farben"
+        ],
+        "answer": 0,
+        "q_th": "กี่สีของถังขยะที่มีในระบบการแยกขยะในเยอรมัน?",
+        "options_th": [
           "ก) สี่สี",
           "ข) สามสี",
           "ค) ห้าสี"
-        ],
-        "answer": 0
+        ]
       },
       {
-        "q": "ถังสีน้ำเงินใช้สำหรับสิ่งใด?",
+        "q": "Wofür wird die blaue Tonne verwendet?",
         "options": [
+          "A) Verpackungsmaterialien",
+          "B) Papier und Pappe",
+          "C) Essensreste"
+        ],
+        "answer": 1,
+        "q_th": "ถังสีน้ำเงินใช้สำหรับสิ่งใด?",
+        "options_th": [
           "ก) วัสดุบรรจุภัณฑ์",
           "ข) กระดาษและกระดาษแข็ง",
           "ค) ขยะอาหาร"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "การแยกขยะในเยอรมันเป็นเพียงแค่นิสัยหรือมีบางอย่างมากกว่านั้น?",
+        "q": "Ist die Mülltrennung in Deutschland nur eine Gewohnheit oder gibt es mehr dahinter?",
         "options": [
+          "A) Es ist nur eine Gewohnheit.",
+          "B) Es ist gesetzlich vorgeschrieben.",
+          "C) Es ist nur eine Empfehlung."
+        ],
+        "answer": 1,
+        "q_th": "การแยกขยะในเยอรมันเป็นเพียงแค่นิสัยหรือมีบางอย่างมากกว่านั้น?",
+        "options_th": [
           "ก) เป็นเพียงนิสัยเท่านั้น",
           "ข) เป็นกฎหมาย",
           "ค) เป็นเพียงคำแนะนำ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "จะเกิดอะไรขึ้นหากแยกขยะผิดวิธี?",
+        "q": "Was passiert, wenn man den Müll falsch trennt?",
         "options": [
+          "A) Man erhält eine Verwarnung",
+          "B) Man muss möglicherweise eine Geldstrafe zahlen",
+          "C) Es passiert nichts"
+        ],
+        "answer": 1,
+        "q_th": "จะเกิดอะไรขึ้นหากแยกขยะผิดวิธี?",
+        "options_th": [
           "ก) ได้รับการเตือน",
           "ข) อาจต้องเสียค่าปรับ",
           "ค) ไม่มีอะไรเกิดขึ้น"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ประเทศเยอรมันแยกขยะเพื่อจุดประสงค์ใด?",
+        "q": "Warum trennt Deutschland seinen Müll?",
         "options": [
+          "A) Um die Städte sauberer aussehen zu lassen",
+          "B) Um Geld zu sparen",
+          "C) Um Materialien zu recyceln und die Umwelt zu schützen"
+        ],
+        "answer": 2,
+        "q_th": "ประเทศเยอรมันแยกขยะเพื่อจุดประสงค์ใด?",
+        "options_th": [
           "ก) เพื่อให้เมืองดูสะอาด",
           "ข) เพื่อประหยัดเงิน",
           "ค) เพื่อรีไซเคิลวัสดุและคุ้มครองสิ่งแวดล้อม"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p030"
@@ -1595,49 +2495,79 @@
     "passage": "Deutschland hat vier verschiedene Jahreszeiten. Der Frühling beginnt im März und bringt wärmere Temperaturen. Die Blumen blühen und die Natur erwacht wieder zum Leben. Der Sommer ist die wärmste Zeit des Jahres mit Temperaturen zwischen 20 und 25 Grad Celsius. Viele Menschen fahren in den Urlaub oder besuchen die Strände. Der Herbst kommt im September und die Blätter ändern ihre Farben von grün zu rot und gelb. Das Wetter wird kälter und es regnet mehr. Der Winter ist die kälteste Jahreszeit. Es schneit oft und die Temperaturen fallen unter Null. Die Menschen mögen Winter Sports wie Ski fahren und Schlittschuh laufen.",
     "questions": [
       {
-        "q": "ตามข้อความ ฤดูใดที่มีอุณหภูมิอบอุ่นและดอกไม้บาน",
+        "q": "Nach dem Text, in welcher Jahreszeit ist es warm und blühen die Blumen?",
         "options": [
+          "A) Im Sommer",
+          "B) Im Frühling",
+          "C) Im Herbst"
+        ],
+        "answer": 1,
+        "q_th": "ตามข้อความ ฤดูใดที่มีอุณหภูมิอบอุ่นและดอกไม้บาน",
+        "options_th": [
           "ก) ฤดูร้อน",
           "ข) ฤดูใบไม้ผลิ",
           "ค) ฤดูใบไม้ร่วง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "อุณหภูมิของฤดูร้อนในเยอรมนีอยู่ที่เท่าไร",
+        "q": "Wie warm ist es durchschnittlich im Sommer in Deutschland?",
         "options": [
+          "15-20 Grad Celsius",
+          "20-25 Grad Celsius",
+          "25-30 Grad Celsius"
+        ],
+        "answer": 1,
+        "q_th": "อุณหภูมิของฤดูร้อนในเยอรมนีอยู่ที่เท่าไร",
+        "options_th": [
           "ก) 15-20 องศาเซลเซียส",
           "ข) 20-25 องศาเซลเซียส",
           "ค) 25-30 องศาเซลเซียส"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ในฤดูใบไม้ร่วง สีของใบไม้เปลี่ยนเป็นสีใด",
+        "q": "Im Herbst, welche Farben bekommen die Blätter?",
         "options": [
+          "Blau und Violett",
+          "Rot und Gelb",
+          "Regenbogenfarben"
+        ],
+        "answer": 1,
+        "q_th": "ในฤดูใบไม้ร่วง สีของใบไม้เปลี่ยนเป็นสีใด",
+        "options_th": [
           "ก) สีน้ำเงินและสีม่วง",
           "ข) สีแดงและสีเหลือง",
           "ค) สีสันรุ้ง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "กีฬาฤดูหนาวที่กล่าวถึงในข้อความมีกี่ชนิด",
+        "q": "Wie viele Wintersportarten werden in dem Text erwähnt?",
         "options": [
+          "1 Art",
+          "2 Arten",
+          "3 Arten"
+        ],
+        "answer": 1,
+        "q_th": "กีฬาฤดูหนาวที่กล่าวถึงในข้อความมีกี่ชนิด",
+        "options_th": [
           "ก) 1 ชนิด",
           "ข) 2 ชนิด",
           "ค) 3 ชนิด"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เยอรมนีมีกี่ฤดูในหนึ่งปี",
+        "q": "Wie viele Jahreszeiten hat ein Jahr in Deutschland?",
         "options": [
+          "drei Jahreszeiten",
+          "vier Jahreszeiten",
+          "fünf Jahreszeiten"
+        ],
+        "answer": 1,
+        "q_th": "เยอรมนีมีกี่ฤดูในหนึ่งปี",
+        "options_th": [
           "ก) สามฤดู",
           "ข) สี่ฤดู",
           "ค) ห้าฤดู"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p031"
@@ -1648,49 +2578,79 @@
     "passage": "Deutschland hat 16 Nationalparks, die sich über verschiedene Regionen verteilen. Der älteste ist der Nationalpark Bayerischer Wald, der 1970 gegründet wurde. Diese Parks schützen die natürliche Vielfalt und Landschaften des Landes. Im Nationalpark Wattenmeer an der Nordsee können Besucher Seevögel und Robben beobachten. Die Nationalparks bieten ideal Bedingungen für Wanderungen und Naturbeobachtungen. Viele Menschen besuchen diese Parks, um die Schönheit der Natur zu genießen und mehr über den Umweltschutz zu erfahren. Die Parks sind wichtig für den Tourismus und die Wirtschaft Deutschlands.",
     "questions": [
       {
-        "q": "อุทยานแห่งชาติที่เก่าที่สุดในเยอรมันตั้งอยู่ที่ไหน",
+        "q": "Wo befindet sich der älteste Nationalpark in Deutschland?",
         "options": [
+          "Nordsee",
+          "Bayerischer Wald",
+          "Berlin"
+        ],
+        "answer": 1,
+        "q_th": "อุทยานแห่งชาติที่เก่าที่สุดในเยอรมันตั้งอยู่ที่ไหน",
+        "options_th": [
           "ก) ทะเลเหนือ (Nordsee)",
           "ข) บาวาเรีย (Bayerischer Wald)",
           "ค) เบอร์ลิน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "อุทยานแห่งชาติในเยอรมันมีจำนวนกี่แห่ง",
+        "q": "Wie viele Nationalparks gibt es in Deutschland?",
         "options": [
+          "10 Nationalparks",
+          "16 Nationalparks",
+          "20 Nationalparks"
+        ],
+        "answer": 1,
+        "q_th": "อุทยานแห่งชาติในเยอรมันมีจำนวนกี่แห่ง",
+        "options_th": [
           "ก) 10 แห่ง",
           "ข) 16 แห่ง",
           "ค) 20 แห่ง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "สัตว์ใดที่สามารถมองเห็นได้ในอุทยานแห่งชาติ Wattenmeer",
+        "q": "Welche Tiere kann man im Nationalpark Wattenmeer sehen?",
         "options": [
+          "Bären und Hirsche",
+          "Seevögel und Robben",
+          "Tiger und Elefanten"
+        ],
+        "answer": 1,
+        "q_th": "สัตว์ใดที่สามารถมองเห็นได้ในอุทยานแห่งชาติ Wattenmeer",
+        "options_th": [
           "ก) หมีและกวาง",
           "ข) นกทะเลและโพ",
           "ค) เสือและช้าง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "อุทยานแห่งชาติถูกสร้างขึ้นเพื่อจุดประสงค์ใดเป็นหลัก",
+        "q": "Zu welchem Hauptzweck werden Nationalparks gegründet?",
         "options": [
+          "Hotels und Resorts zu bauen",
+          "Die Natur und die Vielfalt der Umwelt zu schützen",
+          "Den Verkehr zu regeln"
+        ],
+        "answer": 1,
+        "q_th": "อุทยานแห่งชาติถูกสร้างขึ้นเพื่อจุดประสงค์ใดเป็นหลัก",
+        "options_th": [
           "ก) เพื่อสร้างโรงแรมและรีสอร์ท",
           "ข) เพื่อปกป้องธรรมชาติและความหลากหลายของสิ่งแวดล้อม",
           "ค) เพื่อจัดการจราจร"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ประโยชน์ของอุทยานแห่งชาติต่อเยอรมันคืออะไร",
+        "q": "Welche Vorteile haben die Nationalparks für Deutschland?",
         "options": [
+          "Nur für den Tourismus",
+          "Für den Tourismus und die Wirtschaft",
+          "Nur für die wissenschaftliche Bildung"
+        ],
+        "answer": 1,
+        "q_th": "ประโยชน์ของอุทยานแห่งชาติต่อเยอรมันคืออะไร",
+        "options_th": [
           "ก) เพียงเพื่อการท่องเที่ยวเท่านั้น",
           "ข) เพื่อการท่องเที่ยวและเศรษฐกิจ",
           "ค) เพื่อการศึกษาวิทยาศาสตร์เท่านั้น"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p032"
@@ -1701,49 +2661,79 @@
     "passage": "Das Oktoberfest ist das größte Volksfest der Welt und findet jedes Jahr in München statt. Es beginnt im September und dauert etwa zwei Wochen. Millionen von Besuchern aus aller Welt kommen nach Bayern, um dieses traditionelle Fest zu feiern. Auf dem Fest gibt es traditionelle bayerische Musik, Tanzgruppen und natürlich das berühmte deutsche Bier. Die Besucher tragen traditionelle Kleidung wie Dirndl und Lederhosen. Es gibt auch viele Stände mit leckeren Speisen wie Leberkäse, Brezn und Lebkuchen. Das Oktoberfest hat eine lange Geschichte und ist seit 1810 ein wichtiger Teil der bayerischen Kultur. Familien, Freunde und Touristen genießen zusammen die Atmosphäre, die Musik und die Gemeinschaft. Das Fest symbolisiert die bayerische Tradition und Gastfreundschaft.",
     "questions": [
       {
-        "q": "Oktoberfest เป็นเทศกาลที่เกิดขึ้นที่ไหน?",
+        "q": "Wo findet das Oktoberfest statt?",
         "options": [
+          "Berlin",
+          "München",
+          "Hamburg"
+        ],
+        "answer": 1,
+        "q_th": "Oktoberfest เป็นเทศกาลที่เกิดขึ้นที่ไหน?",
+        "options_th": [
           "ก) เบอร์ลิน",
           "ข) มิวนิก",
           "ค) ฮامบูร์ก"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เทศกาล Oktoberfest มีประวัติศาสตร์มาตั้งแต่ปีไหน?",
+        "q": "Seit welchem Jahr gibt es das Oktoberfest?",
         "options": [
+          "1750",
+          "1810",
+          "1900"
+        ],
+        "answer": 1,
+        "q_th": "เทศกาล Oktoberfest มีประวัติศาสตร์มาตั้งแต่ปีไหน?",
+        "options_th": [
           "ก) ค.ศ. 1750",
           "ข) ค.ศ. 1810",
           "ค) ค.ศ. 1900"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ชื่อเรื่องที่เหมาะสมที่สุดสำหรับบทอ่านนี้คืออะไร?",
+        "q": "Welcher Titel passt am besten zu diesem Lesetext?",
         "options": [
+          "A) Internationale Konferenz",
+          "B) Traditionelles Musikfestival",
+          "C) Das größte Bierfest der Welt"
+        ],
+        "answer": 2,
+        "q_th": "ชื่อเรื่องที่เหมาะสมที่สุดสำหรับบทอ่านนี้คืออะไร?",
+        "options_th": [
           "ก) การประชุมสากล",
           "ข) เทศกาลดนตรีแบบดั้งเดิม",
           "ค) เทศกาลเบียร์ที่ใหญ่ที่สุดในโลก"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ผู้เข้าร่วมเทศกาล Oktoberfest นิยมใส่เสื้อผ้าแบบไหน?",
+        "q": "Welche Kleidung tragen die Besucher des Oktoberfests traditionell gern?",
         "options": [
+          "Moderne Kleidung",
+          "Dirndl und Lederhosen",
+          "Anzüge und Uniformen"
+        ],
+        "answer": 1,
+        "q_th": "ผู้เข้าร่วมเทศกาล Oktoberfest นิยมใส่เสื้อผ้าแบบไหน?",
+        "options_th": [
           "ก) เสื้อผ้าทันสมัย",
           "ข) Dirndl และ Lederhosen",
           "ค) ชุดราชการ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เทศกาล Oktoberfest มีระยะเวลากี่สัปดาห์?",
+        "q": "Wie lange dauert das Oktoberfest?",
         "options": [
+          "Eine Woche",
+          "Zwei Wochen",
+          "Drei Wochen"
+        ],
+        "answer": 1,
+        "q_th": "เทศกาล Oktoberfest มีระยะเวลากี่สัปดาห์?",
+        "options_th": [
           "ก) หนึ่งสัปดาห์",
           "ข) สองสัปดาห์",
           "ค) สามสัปดาห์"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p033"
@@ -1754,49 +2744,79 @@
     "passage": "Der Weihnachtsmarkt ist eine beliebte Tradition in Deutschland, besonders in der Adventszeit. Jeden November und Dezember öffnen sich die Märkte in vielen Städten wie Berlin, München und Köln. Die Menschen kaufen dort Weihnachtsdekorationen, handgemachte Geschenke und traditionelle Süßigkeiten. Der Glühwein ist das beliebteste Getränk auf dem Markt. Familien spazieren zusammen durch die bunten Stände und genießen die festliche Atmosphäre. Viele Märkte haben auch Musikaufführungen und Licht-Shows. Der Weihnachtsmarkt ist nicht nur ein Ort zum Einkaufen, sondern auch ein wichtiger Teil der deutschen Weihnachtskultur und eine Gelegenheit, Zeit mit Familie und Freunden zu verbringen.",
     "questions": [
       {
-        "q": "เมื่อไหร่ที่ตลาดคริสต์มาสปกติเปิดในเยอรมนี",
+        "q": "Wann öffnen die Weihnachtsmärkte normalerweise in Deutschland?",
         "options": [
+          "September und Oktober",
+          "November und Dezember",
+          "Januar und Februar"
+        ],
+        "answer": 1,
+        "q_th": "เมื่อไหร่ที่ตลาดคริสต์มาสปกติเปิดในเยอรมนี",
+        "options_th": [
           "ก) กันยายนและตุลาคม",
           "ข) พฤศจิกายนและธันวาคม",
           "ค) มกราคมและกุมภาพันธ์"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เครื่องดื่มใดที่เป็นที่นิยมที่สุดในตลาดคริสต์มาส",
+        "q": "Welches Getränk ist auf dem Weihnachtsmarkt am beliebtesten?",
         "options": [
+          "Kaffee",
+          "Frisch gepresster Orangensaft",
+          "Glühwein"
+        ],
+        "answer": 2,
+        "q_th": "เครื่องดื่มใดที่เป็นที่นิยมที่สุดในตลาดคริสต์มาส",
+        "options_th": [
           "ก) กาแฟ",
           "ข) น้ำส้มสด",
           "ค) ไวน์ร้อน (Glühwein)"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ตลาดคริสต์มาสขายสินค้าประเภทใดบ้าง",
+        "q": "Welche Waren verkauft der Weihnachtsmarkt?",
         "options": [
+          "Nur Kleidung und Schuhe",
+          "Weihnachtsdekoration, Geschenke und Süßigkeiten",
+          "Nur Bücher und DVDs"
+        ],
+        "answer": 1,
+        "q_th": "ตลาดคริสต์มาสขายสินค้าประเภทใดบ้าง",
+        "options_th": [
           "ก) เฉพาะเสื้อผ้าและรองเท้า",
           "ข) การตกแต่งวันคริสต์มาส ของขวัญ และขนมหวาน",
           "ค) เฉพาะหนังสือและวีซีดี"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เมืองใดต่อไปนี้ไม่ได้กล่าวถึงในข้อความว่ามีตลาดคริสต์มาส",
+        "q": "Welche Stadt wird im Text NICHT als Ort mit einem Weihnachtsmarkt erwähnt?",
         "options": [
+          "Berlin",
+          "Hamburg",
+          "München"
+        ],
+        "answer": 1,
+        "q_th": "เมืองใดต่อไปนี้ไม่ได้กล่าวถึงในข้อความว่ามีตลาดคริสต์มาส",
+        "options_th": [
           "ก) เบอร์ลิน",
           "ข) ฮัมบูร์ก",
           "ค) มิวนิก"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ตลาดคริสต์มาสมีความสำคัญสำหรับวัฒนธรรมเยอรมันอย่างไร",
+        "q": "Welche Bedeutung haben Weihnachtsmärkte für die deutsche Kultur?",
         "options": [
+          "Es sind nur Einkaufsorte.",
+          "Sie sind ein Teil der Weihnachtskultur und eine Gelegenheit, Zeit mit der Familie zu verbringen.",
+          "Sie sind nur Musikaufführungen."
+        ],
+        "answer": 1,
+        "q_th": "ตลาดคริสต์มาสมีความสำคัญสำหรับวัฒนธรรมเยอรมันอย่างไร",
+        "options_th": [
           "ก) เป็นเพียงสถานที่ช้อปปิ้ง",
           "ข) เป็นส่วนหนึ่งของวัฒนธรรมคริสต์มาสและโอกาสในการใช้เวลากับครอบครัว",
           "ค) เป็นการแสดงดนตรีเท่านั้น"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p034"
@@ -1807,49 +2827,79 @@
     "passage": "In Deutschland gibt es viele wichtige Feiertage und Traditionen, die Familien zusammenbringen. Weihnachten ist das größte Fest im Jahr. Viele Menschen schmücken ihre Häuser mit bunten Lichtern und Dekoration. Das Adventszeit beginnt vier Wochen vor Weihnachten, und Familien öffnen jeden Tag ein Türchen am Adventskalender. Silvester ist auch sehr beliebt. Am 31. Dezember feiern Deutsche mit Feuerwerk und Sekt das neue Jahr. Ein anderes wichtiges Fest ist Ostern im Frühling. Kinder suchen versteckte Ostereier im Garten. Das Oktoberfest in München ist ein weltberühmtes Volksfest, wo Menschen Bier trinken und traditionelle Musik hören. Pfingsten, Himmelfahrt und der Tag der Deutschen Einheit sind auch nationale Feiertage. Diese Traditionen sind sehr wichtig für die deutsche Kultur und Familie.",
     "questions": [
       {
-        "q": "กี่สัปดาห์ก่อนคริสต์มาสที่เริ่มต้นช่วง Adventszeit?",
+        "q": "Wie viele Wochen vor Weihnachten beginnt die Adventszeit?",
         "options": [
+          "zwei Wochen",
+          "drei Wochen",
+          "vier Wochen"
+        ],
+        "answer": 2,
+        "q_th": "กี่สัปดาห์ก่อนคริสต์มาสที่เริ่มต้นช่วง Adventszeit?",
+        "options_th": [
           "ก) สองสัปดาห์",
           "ข) สามสัปดาห์",
           "ค) สี่สัปดาห์"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "วันที่เท่าไหร่ที่ชาวเยอรมันฉลองวันสิ้นปี (Silvester)?",
+        "q": "An welchem Datum feiern die Deutschen Silvester?",
         "options": [
+          "25. Dezember",
+          "31. Dezember",
+          "1. Januar"
+        ],
+        "answer": 1,
+        "q_th": "วันที่เท่าไหร่ที่ชาวเยอรมันฉลองวันสิ้นปี (Silvester)?",
+        "options_th": [
           "ก) 25 ธันวาคม",
           "ข) 31 ธันวาคม",
           "ค) 1 มกราคม"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เด็กๆ ทำกิจกรรมอะไรในเทศกาล Ostern?",
+        "q": "Was machen die Kinder beim Osterfest?",
         "options": [
+          "A) Sie dekorieren einen Tannenbaum",
+          "B) Sie suchen versteckte Ostereier",
+          "C) Sie öffnen Türen in einem Adventskalender"
+        ],
+        "answer": 1,
+        "q_th": "เด็กๆ ทำกิจกรรมอะไรในเทศกาล Ostern?",
+        "options_th": [
           "ก) ตกแต่งต้นเทพพฤกษ์",
           "ข) ค้นหาไข่อีสเตอร์ที่ซ่อนอยู่",
           "ค) เปิดประตูบนปฏิทินนับถอยหลัง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "Oktoberfest มีชื่อเสียงเพราะเหตุใด?",
+        "q": "Warum ist das Oktoberfest berühmt?",
         "options": [
+          "A) Es ist der größte Weihnachtsmarkt.",
+          "B) Es ist ein weltberühmtes Volksfest.",
+          "C) Es ist eine Feier zum deutschen Nationalfeiertag."
+        ],
+        "answer": 1,
+        "q_th": "Oktoberfest มีชื่อเสียงเพราะเหตุใด?",
+        "options_th": [
           "ก) เป็นตลาดคริสต์มาสที่ใหญ่ที่สุด",
           "ข) เป็นเทศกาลพื่นบ้านที่มีชื่อเสียงระดับโลก",
           "ค) เป็นการเฉลิมฉลองวันชาติเยอรมัน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ประเพณีไหนที่เกี่ยวข้องกับการตกแต่งบ้านด้วยไฟและเครื่องประดับ?",
+        "q": "Welcher Feiertag ist mit der Dekoration des Hauses mit Lichtern und Schmuck verbunden?",
         "options": [
+          "Silvester",
+          "Ostern",
+          "Weihnachten"
+        ],
+        "answer": 2,
+        "q_th": "ประเพณีไหนที่เกี่ยวข้องกับการตกแต่งบ้านด้วยไฟและเครื่องประดับ?",
+        "options_th": [
           "ก) Silvester",
           "ข) Ostern",
           "ค) Weihnachten"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p035"
@@ -1860,49 +2910,79 @@
     "passage": "Maria ist eine engagierte Freiwillige in ihrer Gemeinde. Jeden Samstag hilft sie im Altenheim, wo sie Zeit mit älteren Menschen verbringt. Sie liest ihnen Geschichten vor und hört ihnen zu. Außerdem arbeitet Maria in einem Nachbarschaftszentrum, wo sie Deutschkurse für Migranten unterrichtet. Diese Arbeit macht ihr große Freude, denn sie kann anderen Menschen helfen und neue Freundschaften schließen. Maria sagt, dass Freiwilligenarbeit nicht nur anderen nutzt, sondern auch ihr selbst hilft, ihre Fähigkeiten zu entwickeln. Viele Menschen in ihrer Stadt folgen Marias Beispiel und werden auch Freiwillige. Zusammen schaffen sie eine warmherzigere und solidarischere Gemeinschaft.",
     "questions": [
       {
-        "q": "Maria ทำการอาสาสมัครที่ไหนในสุดสัปดาห์",
+        "q": "Wo macht Maria am Wochenende Freiwilligenarbeit?",
         "options": [
+          "In der Schule",
+          "Im Altenheim",
+          "Am Bahnhof"
+        ],
+        "answer": 1,
+        "q_th": "Maria ทำการอาสาสมัครที่ไหนในสุดสัปดาห์",
+        "options_th": [
           "ก) ที่โรงเรียน",
           "ข) ที่บ้านพักคนแก่",
           "ค) ที่สถานีรถไฟ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "Maria สอนวิชาอะไรในศูนย์ชุมชน",
+        "q": "Welches Fach unterrichtet Maria im Gemeinschaftszentrum?",
         "options": [
+          "Mathematik",
+          "Deutsch",
+          "Geschichte"
+        ],
+        "answer": 1,
+        "q_th": "Maria สอนวิชาอะไรในศูนย์ชุมชน",
+        "options_th": [
           "ก) วิชาคณิตศาสตร์",
           "ข) วิชาภาษาเยอรมัน",
           "ค) วิชาประวัติศาสตร์"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "Maria ได้ประโยชน์อะไรจากการอาสาสมัครนี้",
+        "q": "Welchen Vorteil hat Maria durch dieses Freiwilligenengagement?",
         "options": [
+          "A) Sie verdient viel Geld",
+          "B) Sie entwickelt ihre Fähigkeiten und knüpft neue Freundschaften",
+          "C) Sie erhält einen neuen Schulabschluss"
+        ],
+        "answer": 1,
+        "q_th": "Maria ได้ประโยชน์อะไรจากการอาสาสมัครนี้",
+        "options_th": [
           "ก) ได้เงินสดจำนวนมาก",
           "ข) ได้พัฒนาทักษะและสร้างมิตรภาพ",
           "ค) ได้วุฒิการศึกษาใหม่"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ผลกระทบของการอาสาสมัครของ Maria ต่อชุมชนเป็นอย่างไร",
+        "q": "Welche Auswirkungen hat Marias Freiwilligenarbeit auf die Gemeinde?",
         "options": [
+          "Sie verursacht zusätzliche Probleme in der Gemeinde",
+          "Sie hat überhaupt keine Auswirkungen",
+          "Sie schafft eine warmherzige Gemeinde voller Opferbereitschaft"
+        ],
+        "answer": 2,
+        "q_th": "ผลกระทบของการอาสาสมัครของ Maria ต่อชุมชนเป็นอย่างไร",
+        "options_th": [
           "ก) ทำให้ชุมชนมีปัญหาเพิ่มขึ้น",
           "ข) ไม่มีผลกระทบใดเลย",
           "ค) สร้างชุมชนที่อบอุ่นและเต็มไปด้วยความเสียสละ"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "คำว่า 'engagiert' ในบริบทนี้หมายความว่าอย่างไร",
+        "q": "Was bedeutet das Wort \"engagiert\" in diesem Kontext?",
         "options": [
+          "Faul und desinteressiert",
+          "Interessiert und engagiert",
+          "Frustriert und verärgert"
+        ],
+        "answer": 1,
+        "q_th": "คำว่า 'engagiert' ในบริบทนี้หมายความว่าอย่างไร",
+        "options_th": [
           "ก) ขี้เกียจและไม่สนใจ",
           "ข) มีความสนใจและทุ่มเท",
           "ค) หงุดหงิดและโมโห"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p036"
@@ -1913,49 +2993,79 @@
     "passage": "Deutschland ist heute ein multikulturelles Land. Etwa 26 Prozent der Bevölkerung hat einen Migrationshintergrund. Menschen aus der Türkei, Polen, Syrien und vielen anderen Ländern leben in deutschen Städten. Sie bringen ihre Kulturen, Traditionen und Sprachen mit. In Berlin, Köln und Frankfurt kann man verschiedene Religionen und Feste sehen. Moscheeen, Synagogen und Kirchen stehen oft nebeneinander. Viele Deutsche und Migranten arbeiten zusammen und bauen eine gemeinsame Zukunft auf. Allerdings gibt es auch Herausforderungen. Nicht alle Menschen akzeptieren die Vielfalt. Integration braucht Zeit, Geduld und gegenseitigen Respekt. Die deutsche Gesellschaft muss lernen, Unterschiede zu schätzen und zusammen zu leben.",
     "questions": [
       {
-        "q": "ตามบทอ่าน ร้อยละเท่าไรของประชากรเยอรมันที่มีพื้นหลังการอพยพ",
+        "q": "Nach dem Text, wie viel Prozent der deutschen Bevölkerung hat einen Migrationshintergrund?",
         "options": [
+          "15 Prozent",
+          "26 Prozent",
+          "35 Prozent"
+        ],
+        "answer": 1,
+        "q_th": "ตามบทอ่าน ร้อยละเท่าไรของประชากรเยอรมันที่มีพื้นหลังการอพยพ",
+        "options_th": [
           "ก) 15 เปอร์เซ็นต์",
           "ข) 26 เปอร์เซ็นต์",
           "ค) 35 เปอร์เซ็นต์"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "สถาปัตยกรรมศาสนาในเยอรมันแสดงให้เห็นอะไร",
+        "q": "Was zeigt die Sakralarchitektur in Deutschland?",
         "options": [
+          "A) Es gibt nur eine Religion",
+          "B) Verschiedene Religionen existieren zusammen in der Gesellschaft",
+          "C) Deutschland erlaubt den Bau von Sakralbauten nicht"
+        ],
+        "answer": 1,
+        "q_th": "สถาปัตยกรรมศาสนาในเยอรมันแสดงให้เห็นอะไร",
+        "options_th": [
           "ก) มีศาสนาเดียวเท่านั้น",
           "ข) ศาสนาต่างๆ อยู่ร่วมกันในสังคม",
           "ค) เยอรมันไม่อนุญาตให้สร้างศาสนสถาน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ความท้าทายหลักของสังคมพหุวัฒนธรรมคืออะไร",
+        "q": "Was ist die Hauptherausforderung einer multikulturellen Gesellschaft?",
         "options": [
+          "A) Die Jobsuche für Migranten",
+          "B) Nicht jeder akzeptiert Vielfalt und es braucht gegenseitiges Verständnis",
+          "C) Die deutsche Sprache ist zu schwierig"
+        ],
+        "answer": 1,
+        "q_th": "ความท้าทายหลักของสังคมพหุวัฒนธรรมคืออะไร",
+        "options_th": [
           "ก) การค้นหางานสำหรับผู้อพยพ",
           "ข) ไม่ใช่ทุกคนยอมรับความหลากหลายและต้องการความเข้าใจร่วมกัน",
           "ค) ภาษาเยอรมันยากเกินไป"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "คำว่า 'Migrationshintergrund' ในบทอ่านหมายถึงอะไร",
+        "q": "Was bedeutet das Wort \"Migrationshintergrund\" im Text?",
         "options": [
+          "A) Menschen, die in Deutschland geboren sind",
+          "B) Menschen mit einem Hintergrund von Auswanderung oder Zuwanderung",
+          "C) Menschen, die im Transportwesen arbeiten"
+        ],
+        "answer": 1,
+        "q_th": "คำว่า 'Migrationshintergrund' ในบทอ่านหมายถึงอะไร",
+        "options_th": [
           "ก) คนที่เกิดในเยอรมัน",
           "ข) คนที่มีพื้นหลังจากการอพยพ",
           "ค) คนที่ทำงานในด้านการขนส่ง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เมืองไหนที่บทอ geografía สามารถมองเห็นสัญลักษณ์ของความหลากหลายทางศาสนา",
+        "q": "In welchen Städten kann man Symbole der religiösen Vielfalt sehen?",
         "options": [
+          "München, Hamburg und Stuttgart",
+          "Berlin, Köln und Frankfurt",
+          "Dresden, Düsseldorf und Bremen"
+        ],
+        "answer": 1,
+        "q_th": "เมืองไหนที่บทอ geografía สามารถมองเห็นสัญลักษณ์ของความหลากหลายทางศาสนา",
+        "options_th": [
           "ก) München, Hamburg และ Stuttgart",
           "ข) Berlin, Köln และ Frankfurt",
           "ค) Dresden, Düsseldorf และ Bremen"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p037"
@@ -1966,49 +3076,79 @@
     "passage": "Das Smartphone ist heute ein wichtiger Teil unseres Lebens. Wir nutzen es für Kommunikation, Arbeit und Unterhaltung. Morgens schauen viele Menschen zuerst auf ihr Handy, um E-Mails und Nachrichten zu lesen. Während der Arbeit verwenden wir Smartphones für Videokonferenzen und Zusammenarbeit mit Kollegen. In der Freizeit spielen wir Spiele, schauen Videos oder surfen im Internet. Allerdings gibt es auch Probleme: Zu viel Bildschirmzeit kann zu Stress und Schlafstörungen führen. Experten empfehlen, das Handy abends eine Stunde vor dem Schlafengehen wegzulegen. Eine gute Balance zwischen digitaler und realer Welt ist wichtig für unsere Gesundheit und unser Wohlbefinden.",
     "questions": [
       {
-        "q": "ตามข้อความ สมาร์ทโฟนใช้สำหรับอะไรบ้าง",
+        "q": "Wofür wird das Smartphone laut dem Text verwendet?",
         "options": [
+          "Nur für Kommunikation",
+          "Für Kommunikation, Arbeit und Unterhaltung",
+          "Nur zum Spielen von Spielen"
+        ],
+        "answer": 1,
+        "q_th": "ตามข้อความ สมาร์ทโฟนใช้สำหรับอะไรบ้าง",
+        "options_th": [
           "ก) เฉพาะการสื่อสารเท่านั้น",
           "ข) การสื่อสาร งาน และการบันเทิง",
           "ค) เฉพาะการเล่นเกมส์"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ผู้เชี่ยวชาญแนะนำให้วางโทรศัพท์ไว้เมื่อไร",
+        "q": "Wann empfehlen die Experten, das Handy wegzulegen?",
         "options": [
+          "A) Wenn man gerade ein Buch liest",
+          "B) Ab dem frühen Morgen",
+          "C) Eine Stunde vor dem Schlafengehen"
+        ],
+        "answer": 2,
+        "q_th": "ผู้เชี่ยวชาญแนะนำให้วางโทรศัพท์ไว้เมื่อไร",
+        "options_th": [
           "ก) เมื่อกำลังอ่านหนังสือ",
           "ข) ตั้งแต่เช้ามืด",
           "ค) หนึ่งชั่วโมงก่อนนอน"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "สิ่งใดที่อาจเกิดจากการใช้โทรศัพท์นานเกินไป",
+        "q": "Was könnte aus der zu langen Handynutzung entstehen?",
         "options": [
+          "Glück und Vergnügen",
+          "Stress und Schlafprobleme",
+          "Bessere Arbeitsleistung"
+        ],
+        "answer": 1,
+        "q_th": "สิ่งใดที่อาจเกิดจากการใช้โทรศัพท์นานเกินไป",
+        "options_th": [
           "ก) ความสุขและความเพลิดเพลิน",
           "ข) ความเครียดและปัญหานอนหลับ",
           "ค) การทำงานที่ดีขึ้น"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "คำว่า 'Bildschirmzeit' ในข้อความหมายถึง",
+        "q": "Was bedeutet das Wort 'Bildschirmzeit' im Text?",
         "options": [
+          "A) Die Zeit für die Arbeit",
+          "B) Die Zeit, die man vor einem Bildschirm verbringt",
+          "C) Die Zeit für Sport und Bewegung"
+        ],
+        "answer": 1,
+        "q_th": "คำว่า 'Bildschirmzeit' ในข้อความหมายถึง",
+        "options_th": [
           "ก) เวลาในการทำงาน",
           "ข) เวลาที่มองหน้าจออุปกรณ์",
           "ค) เวลาสำหรับออกกำลังกาย"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ข้อความสื่อให้เข้าใจว่าเราควรทำอะไร",
+        "q": "Was vermittelt der Text, dass wir tun sollten?",
         "options": [
+          "Smartphones von Anfang an überhaupt nicht nutzen",
+          "Smartphones noch mehr benutzen",
+          "Ein Gleichgewicht zwischen digitaler Nutzung und realem Leben schaffen"
+        ],
+        "answer": 2,
+        "q_th": "ข้อความสื่อให้เข้าใจว่าเราควรทำอะไร",
+        "options_th": [
           "ก) ไม่ใช้สมาร์ทโฟนเลยตั้งแต่ต้น",
           "ข) ใช้สมาร์ทโฟนเพิ่มเติม",
           "ค) สร้างสมดุลระหว่างการใช้งานดิจิทัลและชีวิตจริง"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p038"
@@ -2019,49 +3159,79 @@
     "passage": "Das Online-Shopping hat sich in den letzten Jahren zu einer beliebten Aktivität entwickelt. Viele Menschen kaufen täglich Produkte im Internet, ohne ihr Haus zu verlassen. Die großen E-Commerce-Plattformen bieten eine riesige Auswahl an Waren, von Kleidung bis zu Elektronik. Die Vorteile sind offensichtlich: Man spart Zeit und kann Preise leicht vergleichen. Allerdings gibt es auch Nachteile. Manchmal ist die Lieferung langsam oder die Produkte entsprechen nicht den Erwartungen. Ein weiteres Problem ist der Datenschutz, denn persönliche Informationen werden oft an verschiedene Unternehmen weitergegeben. Trotz dieser Herausforderungen wächst der Online-Handel weiterhin schnell. Experten sagen, dass in Zukunft noch mehr Menschen online einkaufen werden, besonders die junge Generation.",
     "questions": [
       {
-        "q": "ข้อดีของการช้อปปิ้งออนไลน์คืออะไร?",
+        "q": "Was sind die Vorteile des Online-Shoppings?",
         "options": [
+          "A) Man muss ins Geschäft gehen und verschwendet Zeit.",
+          "B) Man spart Zeit und kann Preise leicht vergleichen.",
+          "C) Es gibt keine Lieferung von Waren."
+        ],
+        "answer": 1,
+        "q_th": "ข้อดีของการช้อปปิ้งออนไลน์คืออะไร?",
+        "options_th": [
           "ก) ต้องไปที่ร้านค้าแล้วสิ้นเปลืองเวลา",
           "ข) ประหยัดเวลาและเปรียบเทียบราคาได้ง่าย",
           "ค) ไม่มีการส่งสินค้า"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ปัญหาใดที่กล่าวถึงในบทอ่าน?",
+        "q": "Welches Problem wird in dem Lesetext erwähnt?",
         "options": [
+          "Die Preise sind viel zu teuer",
+          "Langsame Lieferung und Datenschutzprobleme",
+          "Es gibt nicht genug Produktauswahl"
+        ],
+        "answer": 1,
+        "q_th": "ปัญหาใดที่กล่าวถึงในบทอ่าน?",
+        "options_th": [
           "ก) ราคาแพงมากเกินไป",
           "ข) การส่งสินค้าช้าและปัญหาความเป็นส่วนตัว",
           "ค) ไม่มีสินค้าให้เลือก"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ใครจะซื้อสินค้าออนไลน์มากขึ้นในอนาคตตามข้อความ?",
+        "q": "Wer wird in Zukunft mehr Online-Produkte kaufen?",
         "options": [
+          "Ältere Menschen",
+          "Ältere Generationen",
+          "Junge Menschen"
+        ],
+        "answer": 2,
+        "q_th": "ใครจะซื้อสินค้าออนไลน์มากขึ้นในอนาคตตามข้อความ?",
+        "options_th": [
           "ก) ผู้สูงอายุ",
           "ข) คนรุ่นเก่า",
           "ค) รุ่นหนุ่มสาว"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ข้อมูลส่วนตัวของผู้ใช้จะเกิดอะไร?",
+        "q": "Was passiert mit den persönlichen Daten der Nutzer?",
         "options": [
+          "Sie werden sicher gespeichert.",
+          "Sie werden sofort gelöscht.",
+          "Sie werden an andere Unternehmen weitergegeben."
+        ],
+        "answer": 2,
+        "q_th": "ข้อมูลส่วนตัวของผู้ใช้จะเกิดอะไร?",
+        "options_th": [
           "ก) ถูกเก็บรักษาอย่างปลอดภัย",
           "ข) ถูกลบทันที",
           "ค) ถูกส่งต่อให้บริษัทอื่น"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "บทอ่านนี้มีจุดประสงค์อะไร?",
+        "q": "Was ist der Zweck dieses Textes?",
         "options": [
+          "Man sollte immer online einkaufen.",
+          "Die Vorund Nachteile des Online-Shoppings erklären.",
+          "Menschen sollen online nicht einkaufen."
+        ],
+        "answer": 1,
+        "q_th": "บทอ่านนี้มีจุดประสงค์อะไร?",
+        "options_th": [
           "ก) บอกว่าควรซื้อของออนไลน์เสมอ",
           "ข) อธิบายข้อดีและข้อเสียของการช้อปปิ้งออนไลน์",
           "ค) ห้ามผู้คนซื้อของออนไลน์"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p039"
@@ -2072,49 +3242,79 @@
     "passage": "Heutzutage lesen viele Menschen Nachrichten nicht mehr in der Zeitung, sondern online. Soziale Medien wie Facebook und Twitter sind wichtige Informationsquellen geworden. Das Internet bietet Vorteile: Nachrichten sind aktuell und kostenlos verfügbar. Allerdings gibt es auch Probleme. Falschmeldungen verbreiten sich schnell, und nicht alle Informationen sind zuverlässig. Deshalb ist es wichtig, kritisch zu denken und Quellen zu überprüfen. Junge Menschen nutzen hauptsächlich Smartphones, um Nachrichten zu lesen. Experten empfehlen, mehrere Nachrichtenquellen zu vergleichen und nur seriöse Medienportale zu besuchen. So können wir besser verstehen, was in der Welt passiert.",
     "questions": [
       {
-        "q": "ตามข้อความ ผู้คนส่วนใหญ่อ่านข่าวจากที่ไหนในปัจจุบัน",
+        "q": "Laut dem Text, woher bekommen die meisten Menschen heutzutage ihre Nachrichten?",
         "options": [
+          "Aus der Zeitung",
+          "Aus dem Internet und sozialen Medien",
+          "Aus dem Fernsehen"
+        ],
+        "answer": 1,
+        "q_th": "ตามข้อความ ผู้คนส่วนใหญ่อ่านข่าวจากที่ไหนในปัจจุบัน",
+        "options_th": [
           "ก) หนังสือพิมพ์",
           "ข) อินเทอร์เน็ตและสื่อสังคม",
           "ค) โทรทัศน์"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ข้อดีของการอ่านข่าวออนไลน์คืออะไร",
+        "q": "Was ist ein Vorteil beim Online-Nachrichten lesen?",
         "options": [
+          "A) Die Informationen sind immer korrekt",
+          "B) Die Nachrichten sind aktuell und kostenlos",
+          "C) Es gibt keine falschen Informationen"
+        ],
+        "answer": 1,
+        "q_th": "ข้อดีของการอ่านข่าวออนไลน์คืออะไร",
+        "options_th": [
           "ก) ข้อมูลมีความถูกต้องเสมอ",
           "ข) ข่าวสารมีความทันสมัยและฟรี",
           "ค) ไม่มีข้อมูลเท็จ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ปัญหาหลักของข่าวออนไลน์คืออะไร",
+        "q": "Was ist das Hauptproblem von Online-Nachrichten?",
         "options": [
+          "A) Die Nachrichten kommen zu spät an.",
+          "B) Die Nachrichten sind zu teuer.",
+          "C) Falsche Informationen verbreiten sich schnell."
+        ],
+        "answer": 2,
+        "q_th": "ปัญหาหลักของข่าวออนไลน์คืออะไร",
+        "options_th": [
           "ก) ข่าวมาช้า",
           "ข) ข่าวมีค่าใช้จ่ายแพง",
           "ค) ข้อมูลเท็จแพร่กระจายอย่างรวดเร็ว"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ผู้เชี่ยวชาญแนะนำให้เราทำอะไรเพื่อรับข้อมูลที่ดี",
+        "q": "Was empfehlen Experten uns zu tun, um gute Informationen zu erhalten?",
         "options": [
+          "Nachrichten nur aus einer einzigen Quelle lesen",
+          "Verschiedene Nachrichtenquellen vergleichen und vertrauenswürdige Medien nutzen",
+          "Alle Nachrichten lesen, die wir finden"
+        ],
+        "answer": 1,
+        "q_th": "ผู้เชี่ยวชาญแนะนำให้เราทำอะไรเพื่อรับข้อมูลที่ดี",
+        "options_th": [
           "ก) อ่านข่าวจากแหล่งเดียวเท่านั้น",
           "ข) เปรียบเทียบแหล่งข้าวหลายแหล่งและใช้สื่อที่เชื่อถือได้",
           "ค) อ่านข่าวทุกข้อที่พบเห็น"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เยาวชนอ่านข่าวโดยใช้อุปกรณ์อะไรเป็นหลัก",
+        "q": "Welche Geräte nutzen Jugendliche hauptsächlich, um Nachrichten zu lesen?",
         "options": [
+          "Computer",
+          "Tablet",
+          "Mobiltelefon"
+        ],
+        "answer": 2,
+        "q_th": "เยาวชนอ่านข่าวโดยใช้อุปกรณ์อะไรเป็นหลัก",
+        "options_th": [
           "ก) คอมพิวเตอร์",
           "ข) แท็บเล็ต",
           "ค) โทรศัพท์มือถือ"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p040"
@@ -2125,49 +3325,79 @@
     "passage": "Hamburg ist die zweitgrößte Stadt Deutschlands und liegt an der Elbe. Der Hafen von Hamburg ist einer der wichtigsten Häfen Europas. Jedes Jahr kommen Millionen von Containerschiffen und Frachtschiffen an. Die Stadt hat eine lange Handelsgeschichte, die über 800 Jahre alt ist. Der Hafen beschäftigt mehr als 160.000 Menschen. Hamburg ist nicht nur ein wichtiges Wirtschaftszentrum, sondern auch eine wunderbare Touristenstadt. Die Speicherstadt mit ihren alten Lagerhäusern ist ein UNESCO-Welterbe. Besucher können die Stadt vom Wasser aus erkunden und traditionelle Fischrestaurants genießen. Hamburg ist wirklich faszinierend für alle, die Geschichte und Moderne lieben.",
     "questions": [
       {
-        "q": "ฮัมบูร์กตั้งอยู่ที่ไหน?",
+        "q": "Wo liegt Hamburg?",
         "options": [
+          "A) Am Rhein",
+          "B) An der Elbe",
+          "C) An der Donau"
+        ],
+        "answer": 1,
+        "q_th": "ฮัมบูร์กตั้งอยู่ที่ไหน?",
+        "options_th": [
           "ก) บนแม่น้ำไรน์",
           "ข) บนแม่น้ำเอลเบ",
           "ค) บนแม่น้ำไดนูบ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ท่าเรือฮัมบูร์กจ้างงานคนงานประมาณกี่คน?",
+        "q": "Wie viele Arbeitnehmer beschäftigt der Hafen Hamburg ungefähr?",
         "options": [
+          "etwa 80.000 Personen",
+          "etwa 160.000 Personen",
+          "etwa 240.000 Personen"
+        ],
+        "answer": 1,
+        "q_th": "ท่าเรือฮัมบูร์กจ้างงานคนงานประมาณกี่คน?",
+        "options_th": [
           "ก) ประมาณ 80,000 คน",
           "ข) ประมาณ 160,000 คน",
           "ค) ประมาณ 240,000 คน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ประวัติการค้าของฮัมบูร์กมีอายุประมาณเท่าไหร่?",
+        "q": "Wie alt ist die Handelsgeschichte Hamburgs ungefähr?",
         "options": [
+          "A) Ungefähr 500 Jahre",
+          "B) Ungefähr 800 Jahre",
+          "C) Ungefähr 1.000 Jahre"
+        ],
+        "answer": 1,
+        "q_th": "ประวัติการค้าของฮัมบูร์กมีอายุประมาณเท่าไหร่?",
+        "options_th": [
           "ก) ประมาณ 500 ปี",
           "ข) ประมาณ 800 ปี",
           "ค) ประมาณ 1,000 ปี"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "Speicherstadt คืออะไร?",
+        "q": "Was ist die Speicherstadt?",
         "options": [
+          "A) Ein traditioneller Fischmarkt",
+          "B) Ein altes Viertel, das zum UNESCO-Welterbe gehört",
+          "C) Ein moderner Hafen"
+        ],
+        "answer": 1,
+        "q_th": "Speicherstadt คืออะไร?",
+        "options_th": [
           "ก) ตลาดปลาดั้งเดิม",
           "ข) พื้นที่เก่าที่เป็นมรดกโลกของยูเนสโก",
           "ค) ท่าเรือสมัยใหม่"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ฮัมบูร์กเป็นเมืองที่สำคัญด้านใด?",
+        "q": "Wobei ist Hamburg eine wichtige Stadt?",
         "options": [
+          "A) Nur als Handelszentrum",
+          "B) Als Handelszentrum und Tourismusort",
+          "C) Nur als Touristenziel"
+        ],
+        "answer": 1,
+        "q_th": "ฮัมบูร์กเป็นเมืองที่สำคัญด้านใด?",
+        "options_th": [
           "ก) เพียงแค่ศูนย์กลางการค้า",
           "ข) ศูนย์กลางการค้าและท่องเที่ยว",
           "ค) เพียงแค่จุดหมายปลายทางท่องเที่ยว"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p041"
@@ -2178,49 +3408,79 @@
     "passage": "Dresden ist eine der schönsten Städte Deutschlands. Die Stadt liegt an der Elbe in Sachsen und hat eine faszinierende Geschichte. Im Zweiten Weltkrieg wurde Dresden stark zerstört, aber die Bürger haben ihre berühmten Gebäude wie die Frauenkirche wieder aufgebaut. Die Altstadt ist heute ein UNESCO-Weltkulturerbe. Viele Touristen besuchen jedes Jahr die wunderbare Architektur und die Kunstgalerien. Die Dresdner Gemäldegalerie zeigt Meisterwerke von berühmten Künstlern. Heute ist Dresden ein wichtiges Kulturzentrum und ein Symbol für den Mut und die Hoffnung des deutschen Volkes.",
     "questions": [
       {
-        "q": "ดรสเดนตั้งอยู่ในจังหวัดไหนของเยอรมัน",
+        "q": "In welchem Bundesland liegt Dresden?",
         "options": [
+          "Sachsen",
+          "Berlin",
+          "Bayern"
+        ],
+        "answer": 1,
+        "q_th": "ดรสเดนตั้งอยู่ในจังหวัดไหนของเยอรมัน",
+        "options_th": [
           "ก) เบอร์ลิน",
           "ข) ซัคเซน",
           "ค) บาวาเรีย"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "อาคารสำคัญของดรสเดนที่ถูกสร้างใหม่หลังสงครามโลกครั้งที่สองคืออะไร",
+        "q": "Welches wichtige Gebäude in Dresden wurde nach dem Zweiten Weltkrieg wiederaufgebaut?",
         "options": [
+          "Schloss Sanssouci",
+          "Frauenkirche",
+          "Brandenburger Tor"
+        ],
+        "answer": 1,
+        "q_th": "อาคารสำคัญของดรสเดนที่ถูกสร้างใหม่หลังสงครามโลกครั้งที่สองคืออะไร",
+        "options_th": [
           "ก) Schloss Sanssouci",
           "ข) Frauenkirche",
           "ค) Brandenburger Tor"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ดรสเดนได้รับการยอมรับจาก UNESCO เป็นอะไร",
+        "q": "Wofür wurde Dresden von der UNESCO anerkannt?",
         "options": [
+          "Weltkulturerbestätte",
+          "Kulturelles Fest",
+          "Zentrum moderner Architektur"
+        ],
+        "answer": 0,
+        "q_th": "ดรสเดนได้รับการยอมรับจาก UNESCO เป็นอะไร",
+        "options_th": [
           "ก) World Heritage Site",
           "ข) Cultural Festival",
           "ค) Modern Architecture Hub"
-        ],
-        "answer": 0
+        ]
       },
       {
-        "q": "แกลเลอรี่ที่มีชื่อเสียงในดรสเดนคืออะไร",
+        "q": "Welche berühmte Galerie befindet sich in Dresden?",
         "options": [
+          "Dresdner Gemäldegalerie",
+          "Berliner Nationalgalerie",
+          "Pinakothek der Moderne"
+        ],
+        "answer": 0,
+        "q_th": "แกลเลอรี่ที่มีชื่อเสียงในดรสเดนคืออะไร",
+        "options_th": [
           "ก) Dresdner Gemäldegalerie",
           "ข) Berliner Nationalgalerie",
           "ค) Pinakothek der Moderne"
-        ],
-        "answer": 0
+        ]
       },
       {
-        "q": "ดรสเดนตั้งอยู่ติดแม่น้ำอะไร",
+        "q": "An welchem Fluss liegt Dresden?",
         "options": [
+          "Rhein",
+          "Donau",
+          "Elbe"
+        ],
+        "answer": 2,
+        "q_th": "ดรสเดนตั้งอยู่ติดแม่น้ำอะไร",
+        "options_th": [
           "ก) Rhine",
           "ข) Danube",
           "ค) Elbe"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p042"
@@ -2231,49 +3491,79 @@
     "passage": "Frankfurt am Main ist eine der wichtigsten Wirtschaftsstädte Deutschlands. Die Stadt liegt am Fluss Main und hat eine lange Geschichte als Handelszentrum. Heute ist Frankfurt bekannt für seine Banken und Finanzinstitutionen. Die Europäische Zentralbank hat ihren Sitz dort. Jedes Jahr besuchen Millionen von Touristen die Stadt. Sie interessieren sich für die modernen Wolkenkratzer und die historische Altstadt. Das Bankenviertel ist besonders beeindruckend mit seinen hohen Gebäuden. Viele internationale Unternehmen haben Büros in Frankfurt. Die Infrastruktur ist ausgezeichnet. Der internationale Flughafen verbindet Frankfurt mit der ganzen Welt. Die Messe Frankfurt ist auch weltberühmt für ihre Buchmesse und andere Ausstellungen.",
     "questions": [
       {
-        "q": "เมืองแฟรงก์เฟิร์ตตั้งอยู่บนแม่น้ำไหน?",
+        "q": "An welchem Fluss liegt die Stadt Frankfurt?",
         "options": [
+          "A) Am Rhein",
+          "B) Am Main",
+          "C) An der Elbe"
+        ],
+        "answer": 1,
+        "q_th": "เมืองแฟรงก์เฟิร์ตตั้งอยู่บนแม่น้ำไหน?",
+        "options_th": [
           "ก) แม่น้ำไรน์",
           "ข) แม่น้ำเมน",
           "ค) แม่น้ำเอลบะ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "สถาบันใดมีที่ตั้งในแฟรงก์เฟิร์ต?",
+        "q": "Welche Institution hat ihren Sitz in Frankfurt?",
         "options": [
+          "Bundesbank",
+          "Europäische Zentralbank",
+          "Reichsbank"
+        ],
+        "answer": 1,
+        "q_th": "สถาบันใดมีที่ตั้งในแฟรงก์เฟิร์ต?",
+        "options_th": [
           "ก) เบอร์นเดสแบงค์",
           "ข) ธนาคารกลางยุโรป",
           "ค) ธนาคารแห่งชาติเยอรมัน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "แฟรงก์เฟิร์ตมีชื่อเสียงด้านอะไรเป็นหลัก?",
+        "q": "Wofür ist Frankfurt hauptsächlich berühmt?",
         "options": [
+          "A) Tourismus",
+          "B) Automobilherstellung",
+          "C) Finanzwesen und Banken"
+        ],
+        "answer": 2,
+        "q_th": "แฟรงก์เฟิร์ตมีชื่อเสียงด้านอะไรเป็นหลัก?",
+        "options_th": [
           "ก) การท่องเที่ยว",
           "ข) การผลิตรถยนต์",
           "ค) ธุรกิจการเงินและธนาคาร"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "สิ่งใดทำให้แฟรงก์เฟิร์ตเป็นเมืองสำคัญในประวัติศาสตร์?",
+        "q": "Was machte Frankfurt zu einer wichtigen Stadt in der Geschichte?",
         "options": [
+          "Schiffe wurden dort gebaut",
+          "Textilien wurden verkauft",
+          "Es war ein Handelszentrum"
+        ],
+        "answer": 2,
+        "q_th": "สิ่งใดทำให้แฟรงก์เฟิร์ตเป็นเมืองสำคัญในประวัติศาสตร์?",
+        "options_th": [
           "ก) การสร้างประมาณเรือ",
           "ข) จำหน่ายเครื่องสิ่งทอ",
           "ค) บทบาทเป็นศูนย์กลางการค้า"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "Messe Frankfurt มีชื่อเสียงสำหรับอะไร?",
+        "q": "Wofür ist die Messe Frankfurt berühmt?",
         "options": [
+          "A) Automobilausstellungen",
+          "B) Elektronik-Messen",
+          "C) Buchund andere Handelsmessen"
+        ],
+        "answer": 2,
+        "q_th": "Messe Frankfurt มีชื่อเสียงสำหรับอะไร?",
+        "options_th": [
           "ก) นิทรรศการรถยนต์",
           "ข) แสดงสินค้าอิเล็กทรอนิกส์",
           "ค) งานหนังสือและการแสดงสินค้าอื่นๆ"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p043"
@@ -2286,47 +3576,77 @@
       {
         "q": "Laut dem Text, welche Vorteile hat Homeoffice?",
         "options": [
+          "A) Man spart Zeit und Geld und kann seine Arbeitszeit flexibel gestalten",
+          "B) Man muss nicht mit Kollegen kommunizieren",
+          "C) Man kann länger arbeiten"
+        ],
+        "answer": 0,
+        "q_th": "Laut dem Text, welche Vorteile hat Homeoffice?",
+        "options_th": [
           "ก) ประหยัดเวลาและเงิน และสามารถจัดการเวลาทำงานได้อย่างยืดหยุ่น",
           "ข) ไม่ต้องสื่อสารกับเพื่อนร่วมงาน",
           "ค) ทำงานได้นานขึ้น"
-        ],
-        "answer": 0
+        ]
       },
       {
-        "q": "อะไรคือปัญหาหลักที่คนหลายคนต้องเผชิญเมื่อทำงานจากที่บ้าน?",
+        "q": "Was ist das Hauptproblem, dem sich viele Menschen beim Homeoffice gegenübersehen?",
         "options": [
+          "A) Die Miete ist zu hoch",
+          "B) Einsamkeit und schwierige Kommunikation mit Kollegen",
+          "C) Der Computer arbeitet zu langsam"
+        ],
+        "answer": 1,
+        "q_th": "อะไรคือปัญหาหลักที่คนหลายคนต้องเผชิญเมื่อทำงานจากที่บ้าน?",
+        "options_th": [
           "ก) ค่าเช่าบ้านสูงเกินไป",
           "ข) ความเหงาและการสื่อสารกับเพื่อนร่วมงานที่ยาก",
           "ค) คอมพิวเตอร์ทำงานช้า"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "คำว่า 'Grenze' ในข้อความหมายถึงอะไร?",
+        "q": "Was bedeutet das Wort 'Grenze' im Text?",
         "options": [
+          "Landesgrenze/Staatsgrenze",
+          "Grenzlinie/Abgrenzung",
+          "Mauer/Wand"
+        ],
+        "answer": 1,
+        "q_th": "คำว่า 'Grenze' ในข้อความหมายถึงอะไร?",
+        "options_th": [
           "ก) ชายแดน",
           "ข) ขอบเขต/เส้นแบ่ง",
           "ค) กำแพง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "วลี 'Balance finden' หมายความว่าอะไร?",
+        "q": "Was bedeutet der Ausdruck „Balance finden\"?",
         "options": [
+          "Geld an verschiedene Stellen überweisen",
+          "Etwas wiegen oder abwiegen",
+          "Gleichgewicht oder Ausgewogenheit erreichen"
+        ],
+        "answer": 2,
+        "q_th": "วลี 'Balance finden' หมายความว่าอะไร?",
+        "options_th": [
           "ก) การโอนเงินให้ทั่วหน่วย",
           "ข) การชั่งน้ำหนัก",
           "ค) การหาความสมดุล/ความสมดุล"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "สิ่งใดถูกแนะนำเพื่อแก้ปัญหาของ Homeoffice?",
+        "q": "Was wird empfohlen, um die Probleme des Homeoffice zu lösen?",
         "options": [
+          "Mit niemandem kommunizieren",
+          "Regelmäßig mit dem Team kommunizieren und eine gute Work-Life-Balance finden",
+          "Die ganze Zeit arbeiten, ohne Pausen zu machen"
+        ],
+        "answer": 1,
+        "q_th": "สิ่งใดถูกแนะนำเพื่อแก้ปัญหาของ Homeoffice?",
+        "options_th": [
           "ก) ไม่ต้องสื่อสารกับใครเลย",
           "ข) สื่อสารกับทีมงานอย่างสม่ำเสมอและหาความสมดุลที่ดี",
           "ค) ทำงานตลอดเวลาโดยไม่หยุดพัก"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p044"
@@ -2337,49 +3657,79 @@
     "passage": "Die Pflege älterer Menschen ist eine wichtige Aufgabe in unserer Gesellschaft. Viele Senioren möchten so lange wie möglich zu Hause leben. Deshalb bieten Pflegedienste professionelle Hilfe an. Diese Dienste unterstützen bei alltäglichen Aktivitäten wie Waschen, Anziehen und Kochen. Auch psychologische Unterstützung ist sehr wichtig. Sozialarbeiter helfen älteren Menschen, nicht isoliert zu leben. Regelmäßige Aktivitäten in Seniorenzentren fördern die Gesundheit und das Wohlbefinden. Familie und Freunde spielen auch eine entscheidende Rolle. Ein gutes Netzwerk von Unterstützung hilft älteren Menschen, ein würdevolles Leben zu führen. Die Gesellschaft muss mehr Ressourcen für die Seniorenpflege investieren.",
     "questions": [
       {
-        "q": "ผู้สูงอายุส่วนใหญ่ต้องการอะไรตามข้อความ",
+        "q": "Was möchten die meisten älteren Menschen laut dem Text?",
         "options": [
+          "A) Dauerhaft in einem Pflegeheim leben",
+          "B) So lange wie möglich zu Hause bleiben",
+          "C) Zu ihren Kindern und Enkeln umziehen"
+        ],
+        "answer": 1,
+        "q_th": "ผู้สูงอายุส่วนใหญ่ต้องการอะไรตามข้อความ",
+        "options_th": [
           "ก) อยู่ในสถานสงเคราะห์อย่างถาวร",
           "ข) อยู่ที่บ้านให้นานที่สุด",
           "ค) ย้ายไปอยู่กับลูกหลาน"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "บริการดูแลช่วยเหลือผู้สูงอายุเรื่องใดบ้าง",
+        "q": "Welche Dienstleistungen bietet der Pflegedienst für ältere Menschen an?",
         "options": [
+          "A) Nur Sprachunterricht",
+          "B) Waschen, Anziehen und Kochen",
+          "C) Reisen ins Ausland"
+        ],
+        "answer": 1,
+        "q_th": "บริการดูแลช่วยเหลือผู้สูงอายุเรื่องใดบ้าง",
+        "options_th": [
           "ก) การสอนภาษาเท่านั้น",
           "ข) การอาบน้ำ แต่งตัว และทำอาหาร",
           "ค) การเดินทางไปต่างประเทศ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "บทบาทของสถานสงเคราะห์ผู้สูงอายุคืออะไร",
+        "q": "Was ist die Rolle eines Altenheims?",
         "options": [
+          "Nur die Versorgung mit Essen",
+          "Die Unterstützung von alltäglichen Aktivitäten und psychischer Gesundheit",
+          "Die Isolierung von älteren Menschen von der Gesellschaft"
+        ],
+        "answer": 1,
+        "q_th": "บทบาทของสถานสงเคราะห์ผู้สูงอายุคืออะไร",
+        "options_th": [
           "ก) มีเพียงการให้อาหารเท่านั้น",
           "ข) สนับสนุนกิจกรรมปกติและสุขภาพจิต",
           "ค) แยกผู้สูงอายุจากสังคม"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ใครที่มีบทบาทสำคัญในการดูแลผู้สูงอายุ",
+        "q": "Wer spielt eine wichtige Rolle bei der Betreuung von älteren Menschen?",
         "options": [
+          "Nur Krankenpfleger",
+          "Familie, Freunde und Sozialdienstleistungen",
+          "Universitätsprofessoren"
+        ],
+        "answer": 1,
+        "q_th": "ใครที่มีบทบาทสำคัญในการดูแลผู้สูงอายุ",
+        "options_th": [
           "ก) เฉพาะพยาบาลเท่านั้น",
           "ข) ครอบครัว เพื่อน และบริการสังคม",
           "ค) ศาสตราจารย์มหาวิทยาลัย"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "สังคมควรทำอะไรตามข้อความสุดท้าย",
+        "q": "Was sollte die Gesellschaft laut dem letzten Abschnitt tun?",
         "options": [
+          "Gesundheitsausgaben reduzieren",
+          "Die Anzahl der älteren Menschen verringern",
+          "Zusätzliche Investitionen in die Betreuung älterer Menschen tätigen"
+        ],
+        "answer": 2,
+        "q_th": "สังคมควรทำอะไรตามข้อความสุดท้าย",
+        "options_th": [
           "ก) ลดค่าใช้จ่ายด้านสุขภาพ",
           "ข) ลดจำนวนผู้สูงอายุ",
           "ค) ลงทุนเพิ่มเติมในการดูแลผู้สูงอายุ"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p045"
@@ -2390,49 +3740,79 @@
     "passage": "Der Winter ist eine wunderbare Jahreszeit für Sportaktivitäten. Viele Menschen denken, dass man nur im Sommer trainieren kann, aber das ist nicht wahr. Wintersport wie Skifahren, Eislaufen und Snowboarden sind ausgezeichnete Möglichkeiten, um fit zu bleiben. Diese Aktivitäten trainieren nicht nur die Beine und den Rücken, sondern verbessern auch die Ausdauer und das Gleichgewicht. Regelmäßiges Training im Winter stärkt das Immunsystem und hilft, Erkältungen zu vermeiden. Experten empfehlen, mindestens dreimal pro Woche Sport zu treiben. Man sollte aber warme Kleidung tragen und sich vor dem Training aufwärmen. Mit der richtigen Vorbereitung kann der Winter die beste Trainingszeit des Jahres sein.",
     "questions": [
       {
-        "q": "ฤดูหนาวมีประโยชน์ต่อการออกกำลังกายอย่างไร",
+        "q": "Welche Vorteile hat der Winter für das Training und die körperliche Aktivität?",
         "options": [
+          "A) Es ist die beste Zeit für verschiedene Sportaktivitäten.",
+          "B) Die kalte Luft sorgt dafür, dass man weniger schnell ermüdet.",
+          "C) Der Winter hat keine Auswirkungen auf das Training."
+        ],
+        "answer": 0,
+        "q_th": "ฤดูหนาวมีประโยชน์ต่อการออกกำลังกายอย่างไร",
+        "options_th": [
           "ก) เป็นเวลาที่เหมาะสำหรับทำกิจกรรมกีฬาต่างๆ",
           "ข) อากาศหนาวช่วยให้เหนื่อยน้อย",
           "ค) ไม่มีผลต่อการออกกำลังกาย"
-        ],
-        "answer": 0
+        ]
       },
       {
-        "q": "กีฬาฤดูหนาวช่วยฝึกส่วนไหนของร่างกายมากที่สุด",
+        "q": "Welche Körperteile werden durch Wintersportarten am meisten trainiert?",
         "options": [
+          "A) Arme und Brust",
+          "B) Beine und Rücken",
+          "C) Nacken und Schultern"
+        ],
+        "answer": 1,
+        "q_th": "กีฬาฤดูหนาวช่วยฝึกส่วนไหนของร่างกายมากที่สุด",
+        "options_th": [
           "ก) แขนและหน้าอก",
           "ข) ขาและหลัง",
           "ค) คอและไหล่"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ผู้เชี่ยวชาญแนะนำให้ออกกำลังกายกี่ครั้งต่อสัปดาห์",
+        "q": "Wie oft pro Woche empfehlen Experten, Sport zu treiben?",
         "options": [
+          "zweimal",
+          "dreimal",
+          "fünfmal"
+        ],
+        "answer": 1,
+        "q_th": "ผู้เชี่ยวชาญแนะนำให้ออกกำลังกายกี่ครั้งต่อสัปดาห์",
+        "options_th": [
           "ก) สองครั้ง",
           "ข) สามครั้ง",
           "ค) ห้าครั้ง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ข้อใดคือสิ่งที่ควรทำก่อนออกกำลังกายในฤดูหนาว",
+        "q": "Was sollte man vor dem Sport im Winter tun?",
         "options": [
+          "Viel essen",
+          "Sich aufwärmen und warme Kleidung anziehen",
+          "Ausreichend ausruhen"
+        ],
+        "answer": 1,
+        "q_th": "ข้อใดคือสิ่งที่ควรทำก่อนออกกำลังกายในฤดูหนาว",
+        "options_th": [
           "ก) กินอาหารมากมาย",
           "ข) อุ่นเครื่องและสวมเสื้อผ้าอุ่น",
           "ค) นอนพักผ่อนเพียงพอ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ประโยชน์ของการออกกำลังกายในฤดูหนาวคือข้อใด",
+        "q": "Was ist ein Vorteil von Sport im Winter?",
         "options": [
+          "A) Es reduziert Erkältungen und verbessert die mentale Leistung",
+          "B) Es reduziert Übergewicht und erhöht die Körpergröße",
+          "C) Es verstärkt das Kältegefühl und reduziert die Müdigkeit"
+        ],
+        "answer": 0,
+        "q_th": "ประโยชน์ของการออกกำลังกายในฤดูหนาวคือข้อใด",
+        "options_th": [
           "ก) ลดการป่วยด้วยหวัดและเพิ่มความอึดอัจฉริยะ",
           "ข) ลดความอ้วนและเพิ่มความสูง",
           "ค) ทำให้หนาวเพิ่มเติมและลดความเหนื่อย"
-        ],
-        "answer": 0
+        ]
       }
     ],
     "id": "p046"
@@ -2443,49 +3823,79 @@
     "passage": "Das Wohnzimmer ist der wichtigste Raum in jedem Haus. Um es gemütlich zu machen, sollte man die richtige Farbe wählen. Warme Farben wie Beige und Orange schaffen eine entspannende Atmosphäre. Die Möbel sollten praktisch und komfortabel sein. Ein großes Sofa mit einigen Kissen ist ideal für Familien. Die Beleuchtung spielt auch eine wichtige Rolle. Moderne LED-Lampen sind energieeffizient und sparen Strom. Man sollte auch Pflanzen und Bilder an die Wände hängen. Sie machen den Raum lebendiger und interessanter. Ein schöner Teppich auf dem Boden wärmt den Raum und verhindert Kälte. Mit diesen Tipps wird jedes Wohnzimmer zu einem angenehmen Ort zum Entspannen und Zusammensein mit Familie und Freunden.",
     "questions": [
       {
-        "q": "ตามข้อความ สีใดที่สร้างบรรยากาศผ่อนคลาย",
+        "q": "Welche Farbe schafft laut dem Text eine entspannende Atmosphäre?",
         "options": [
+          "Blau und Gelb",
+          "Warme Farben wie Beige und Orange",
+          "Schwarz und Weiß"
+        ],
+        "answer": 1,
+        "q_th": "ตามข้อความ สีใดที่สร้างบรรยากาศผ่อนคลาย",
+        "options_th": [
           "ก) สีน้ำเงินและสีเหลือง",
           "ข) สีอบอุ่นเช่นเบจและส้ม",
           "ค) สีดำและสีขาว"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ประโยชน์ของหลอดไฟ LED คืออะไร",
+        "q": "Was ist ein Vorteil von LED-Lampen?",
         "options": [
+          "A) Sie geben mehr Helligkeit ab",
+          "B) Sie sparen Energie und verbrauchen weniger Strom",
+          "C) Sie haben eine kurze Lebensdauer"
+        ],
+        "answer": 1,
+        "q_th": "ประโยชน์ของหลอดไฟ LED คืออะไร",
+        "options_th": [
           "ก) ให้ความสว่างมากขึ้น",
           "ข) ประหยัดพลังงานและใช้ไฟน้อย",
           "ค) มีอายุการใช้งานสั้น"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "สิ่งใดที่ช่วยทำให้ห้องมีชีวิตชีวาและน่าสนใจมากขึ้น",
+        "q": "Was hilft dabei, ein Zimmer lebendiger und interessanter zu gestalten?",
         "options": [
+          "A) Viele Möbel",
+          "B) Pflanzen und Bilder an der Wand",
+          "C) Nur der Boden"
+        ],
+        "answer": 1,
+        "q_th": "สิ่งใดที่ช่วยทำให้ห้องมีชีวิตชีวาและน่าสนใจมากขึ้น",
+        "options_th": [
           "ก) เฟอร์นิเจอร์จำนวนมาก",
           "ข) พืชและภาพวาดบนผนัง",
           "ค) เพียงแต่พื้นเท่านั้น"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "พรมมีประโยชน์อย่างไรตามข้อความ",
+        "q": "Welchen Nutzen hat ein Teppich nach dem Text?",
         "options": [
+          "Explosionen verhindern",
+          "Den Raum warm halten und vor Kälte schützen",
+          "Das Reinigen erleichtern"
+        ],
+        "answer": 1,
+        "q_th": "พรมมีประโยชน์อย่างไรตามข้อความ",
+        "options_th": [
           "ก) ป้องกันการกระเบิด",
           "ข) ทำให้ห้องอบอุ่นและป้องกันความเย็น",
           "ค) สะดวกในการทำความสะอาด"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "โซฟาขนาดใหญ่เหมาะสำหรับคนกลุ่มใด",
+        "q": "Für welche Personengruppe ist ein großes Sofa geeignet?",
         "options": [
+          "A) Für Flüchtlinge oder einzelne Personen",
+          "B) Nur für Kinder",
+          "C) Für Familien"
+        ],
+        "answer": 2,
+        "q_th": "โซฟาขนาดใหญ่เหมาะสำหรับคนกลุ่มใด",
+        "options_th": [
           "ก) คนอพยพหรือคนโสด",
           "ข) เพียงแต่สำหรับเด็ก",
           "ค) ครอบครัว"
-        ],
-        "answer": 2
+        ]
       }
     ],
     "id": "p047"
@@ -2496,49 +3906,79 @@
     "passage": "Heutzutage ist das Erlernen der deutschen Sprache immer beliebter geworden. Viele Menschen möchten Deutsch sprechen, weil Deutschland ein wichtiges Land in Europa ist. Es gibt verschiedene Möglichkeiten, Deutsch zu lernen. Man kann einen Sprachkurs an einer Schule besuchen oder online lernen. Das Internet bietet viele kostenlose Ressourcen wie Videos, Podcasts und Apps. Allerdings braucht man Geduld und regelmäßiges Üben. Die meisten Experten empfehlen, mindestens 30 Minuten pro Tag zu lernen. Sprachtausch mit Muttersprachlern ist auch sehr hilfreich. Wenn man motiviert bleibt und konsequent arbeitet, kann man die Sprache in etwa einem Jahr sprechen.",
     "questions": [
       {
-        "q": "ตามข้อความ เหตุใดผู้คนจึงต้องการเรียนภาษาเยอรมัน",
+        "q": "Laut dem Text, warum möchten Menschen Deutsch lernen?",
         "options": [
+          "Weil Deutsch die leichteste Sprache ist.",
+          "Weil Deutschland ein wichtiges Land in Europa ist.",
+          "Weil man ein höheres Gehalt bekommt."
+        ],
+        "answer": 1,
+        "q_th": "ตามข้อความ เหตุใดผู้คนจึงต้องการเรียนภาษาเยอรมัน",
+        "options_th": [
           "ก) เพราะมันเป็นภาษาที่ง่ายที่สุด",
           "ข) เพราะเยอรมนีเป็นประเทศสำคัญในยุโรป",
           "ค) เพราะได้รับค่าจ้างสูง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "วิธีใดที่ไม่ได้กล่าวถึงในการเรียนภาษาเยอรมัน",
+        "q": "Welche Methode wird NICHT erwähnt, um Deutsch zu lernen?",
         "options": [
+          "Unterricht in der Schule besuchen",
+          "Online lernen",
+          "Deutsche Fernsehsender anschauen"
+        ],
+        "answer": 2,
+        "q_th": "วิธีใดที่ไม่ได้กล่าวถึงในการเรียนภาษาเยอรมัน",
+        "options_th": [
           "ก) เข้าเรียนที่โรงเรียน",
           "ข) เรียนออนไลน์",
           "ค) ดูโทรทัศน์เฉพาะช่องเยอรมัน"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ผู้เชี่ยวชาญแนะนำให้เรียนภาษาเยอรมันเป็นเวลาเท่าใดต่อวัน",
+        "q": "Wie lange empfehlen Experten, täglich Deutsch zu lernen?",
         "options": [
+          "Mindestens 15 Minuten",
+          "Mindestens 30 Minuten",
+          "Mindestens 1 Stunde"
+        ],
+        "answer": 1,
+        "q_th": "ผู้เชี่ยวชาญแนะนำให้เรียนภาษาเยอรมันเป็นเวลาเท่าใดต่อวัน",
+        "options_th": [
           "ก) อย่างน้อย 15 นาที",
           "ข) อย่างน้อย 30 นาที",
           "ค) อย่างน้อย 1 ชั่วโมง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "คำว่า 'Geduld' ในข้อความหมายถึงอะไร",
+        "q": "Was bedeutet das Wort \"Geduld\" im Text?",
         "options": [
+          "Schnelligkeit",
+          "Geduld und Ausdauer",
+          "Intelligenz"
+        ],
+        "answer": 1,
+        "q_th": "คำว่า 'Geduld' ในข้อความหมายถึงอะไร",
+        "options_th": [
           "ก) ความเร็ว",
           "ข) ความอดทน",
           "ค) ความฉลาด"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ตามข้อความ อีกวิธีหนึ่งที่มีประโยชน์ในการเรียนภาษาคืออะไร",
+        "q": "Laut dem Text, was ist eine weitere nützliche Methode zum Sprachenlernen?",
         "options": [
+          "sich Deutschen vorstellen",
+          "sich mit Muttersprachlern unterhalten und austauschen",
+          "ganze deutsche Bücher lesen"
+        ],
+        "answer": 1,
+        "q_th": "ตามข้อความ อีกวิธีหนึ่งที่มีประโยชน์ในการเรียนภาษาคืออะไร",
+        "options_th": [
           "ก) การแนะนำตัวต่อชาวเยอรมัน",
           "ข) การสนทนาแลกเปลี่ยนกับผู้พูดเจ้าของภาษา",
           "ค) การอ่านหนังสือภาษาเยอรมันทั้งเล่ม"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p048"
@@ -2549,49 +3989,79 @@
     "passage": "Das Fahrrad ist eines der umweltfreundlichsten Verkehrsmittel unserer Zeit. Immer mehr Menschen wählen das Rad statt des Autos, um zur Arbeit oder Schule zu fahren. Dies hilft nicht nur der Umwelt, sondern ist auch gut für die Gesundheit. Das Fahrradfahren reduziert den CO2-Ausstoß und trägt zum Klimaschutz bei. In vielen Städten gibt es jetzt spezielle Fahrradwege und Leihfahrradsysteme. Diese Infrastruktur macht das Radfahren sicherer und attraktiver. Besonders in skandinavischen Ländern wie Dänemark und Schweden ist das Fahrrad sehr beliebt. Experten sagen, dass die Kombination von Fahrrädern und erneuerbaren Energien die Zukunft des Verkehrs ist.",
     "questions": [
       {
-        "q": "ข้อใดคือประโยชน์หลักของการปั่นจักรยาน?",
+        "q": "Was ist der Hauptvorteil des Fahrradfahrens?",
         "options": [
+          "Es hilft, Benzin zu sparen",
+          "Es ist gut für die Umwelt und die Gesundheit",
+          "Es macht Autos billiger"
+        ],
+        "answer": 1,
+        "q_th": "ข้อใดคือประโยชน์หลักของการปั่นจักรยาน?",
+        "options_th": [
           "ก) ช่วยประหยัดน้ำมัน",
           "ข) ดีต่อสิ่งแวดล้อมและสุขภาพ",
           "ค) ทำให้รถยนต์มีราคาถูกลง"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "สิ่งอะไรที่จักรยานช่วยลดลง?",
+        "q": "Was hilft das Fahrrad zu reduzieren?",
         "options": [
+          "A) Die Luftmenge",
+          "B) Die Kohlendioxidemissionen",
+          "C) Die Anzahl der Autofahrer"
+        ],
+        "answer": 1,
+        "q_th": "สิ่งอะไรที่จักรยานช่วยลดลง?",
+        "options_th": [
           "ก) ปริมาณอากาศ",
           "ข) การปล่อยก๊าซคาร์บอนไดออกไซด์",
           "ค) จำนวนคนที่ขับรถ"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "โครงสร้างพื้นฐานใดที่ช่วยให้การปั่นจักรยานน่าสนใจมากขึ้น?",
+        "q": "Welche Infrastruktur macht das Fahrradfahren attraktiver?",
         "options": [
+          "A) Restaurants und Bars im Freien",
+          "B) Straßen und Fahrradverleihsysteme",
+          "C) Große Sportanlagen"
+        ],
+        "answer": 1,
+        "q_th": "โครงสร้างพื้นฐานใดที่ช่วยให้การปั่นจักรยานน่าสนใจมากขึ้น?",
+        "options_th": [
           "ก) ร้านอาหารเหล้านอก",
           "ข) ถนนและระบบจักรยานเช่า",
           "ค) สนามกีฬาขนาดใหญ่"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "ประเทศใดที่มีการใช้จักรยานมากที่สุดตามข้อความ?",
+        "q": "Welche Länder nutzen Fahrräder am meisten nach dem Text?",
         "options": [
+          "Frankreich und Deutschland",
+          "Spanien und Italien",
+          "Dänemark und Schweden"
+        ],
+        "answer": 2,
+        "q_th": "ประเทศใดที่มีการใช้จักรยานมากที่สุดตามข้อความ?",
+        "options_th": [
           "ก) ฝรั่งเศส และ เยอรมนี",
           "ข) สเปน และ อิตาลี",
           "ค) เดนมาร์ก และ สวีเดน"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ผู้เชี่ยวชาญคิดว่าอนาคตของการขนส่งจะเป็นอย่างไร?",
+        "q": "Was denken die Experten über die Zukunft des Verkehrs?",
         "options": [
+          "Es wird mehr Autos geben",
+          "Man wird Fahrräder mit erneuerbaren Energien kombinieren",
+          "Man wird nur noch das Flugzeug nutzen"
+        ],
+        "answer": 1,
+        "q_th": "ผู้เชี่ยวชาญคิดว่าอนาคตของการขนส่งจะเป็นอย่างไร?",
+        "options_th": [
           "ก) มีรถยนต์มากขึ้น",
           "ข) รวมจักรยานกับพลังงานหมุนเวียน",
           "ค) ใช้การบินเท่านั้น"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p049"
@@ -2602,49 +4072,79 @@
     "passage": "Der Weihnachtsmarkt ist eine beliebte Tradition in Deutschland. Jeden Dezember öffnen sich die Märkte in vielen Städten. Besucher können dort Weihnachtsdekorationen, Spielzeug und Geschenke kaufen. Die Atmosphäre ist sehr festlich und gemütlich. Es gibt auch viele Stände, wo man traditionelle deutsche Spezialitäten essen kann. Glühwein ist das beliebteste Getränk auf dem Markt. Viele Familien gehen zusammen zum Weihnachtsmarkt und verbringen dort schöne Zeit. Die Musik und die Lichter machen den Markt sehr magisch. Der Weihnachtsmarkt ist für Kinder und Erwachsene gleich interessant. Es ist eine perfekte Gelegenheit, Weihnachtsgeschenke zu finden und die Vorweihnachtszeit zu genießen.",
     "questions": [
       {
-        "q": "ตลาดคริสต์มาสเปิดอยู่ในช่วงไหน",
+        "q": "In welchem Monat ist der Weihnachtsmarkt geöffnet?",
         "options": [
+          "März",
+          "Dezember",
+          "Januar"
+        ],
+        "answer": 1,
+        "q_th": "ตลาดคริสต์มาสเปิดอยู่ในช่วงไหน",
+        "options_th": [
           "ก) มีนาคม",
           "ข) ธันวาคม",
           "ค) มกราคม"
-        ],
-        "answer": 1
+        ]
       },
       {
-        "q": "เครื่องดื่มที่ได้รับความนิยมมากที่สุดในตลาดคริสต์มาสคืออะไร",
+        "q": "Welches Getränk ist auf dem Weihnachtsmarkt das beliebteste?",
         "options": [
+          "Eistee",
+          "Kaffee",
+          "Glühwein"
+        ],
+        "answer": 2,
+        "q_th": "เครื่องดื่มที่ได้รับความนิยมมากที่สุดในตลาดคริสต์มาสคืออะไร",
+        "options_th": [
           "ก) น้ำแข็งใจ (Eistee)",
           "ข) กาแฟ (Kaffee)",
           "ค) ไวน์ร้อน (Glühwein)"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ใครสามารถเพลิดเพลินไปกับตลาดคริสต์มาสได้",
+        "q": "Wer kann den Weihnachtsmarkt genießen?",
         "options": [
+          "Nur Kinder",
+          "Nur Erwachsene",
+          "Sowohl Kinder als auch Erwachsene"
+        ],
+        "answer": 2,
+        "q_th": "ใครสามารถเพลิดเพลินไปกับตลาดคริสต์มาสได้",
+        "options_th": [
           "ก) เฉพาะเด็กเท่านั้น",
           "ข) เฉพาะผู้ใหญ่เท่านั้น",
           "ค) ทั้งเด็กและผู้ใหญ่"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "บรรยากาศของตลาดคริสต์มาสเป็นอย่างไร",
+        "q": "Wie ist die Atmosphäre des Weihnachtsmarktes?",
         "options": [
+          "Ruhig und einsam",
+          "Chaotisch und anstrengend",
+          "Voller Freude und Wärme"
+        ],
+        "answer": 2,
+        "q_th": "บรรยากาศของตลาดคริสต์มาสเป็นอย่างไร",
+        "options_th": [
           "ก) เงียบสงบและเหงา",
           "ข) วุ่นวายและเหนื่อยเหล้า",
           "ค) เต็มไปด้วยความสุขและความอบอุ่น"
-        ],
-        "answer": 2
+        ]
       },
       {
-        "q": "ตลาดคริสต์มาสมีประโยชน์เพื่ออะไร",
+        "q": "Wozu ist der Weihnachtsmarkt nützlich?",
         "options": [
+          "Zum Kaufen von Kleidung und Schuhen",
+          "Zum Kaufen von Weihnachtsgeschenken und zum Erleben der Festtagsatmosphäre",
+          "Zum Verbringen von Zeit allein"
+        ],
+        "answer": 1,
+        "q_th": "ตลาดคริสต์มาสมีประโยชน์เพื่ออะไร",
+        "options_th": [
           "ก) เพื่อซื้อเสื้อผ้าและรองเท้า",
           "ข) เพื่อซื้อของขวัญคริสต์มาสและสัมผัสบรรยากาศวันหยุด",
           "ค) เพื่อใช้เวลาเพียงลำพัง"
-        ],
-        "answer": 1
+        ]
       }
     ],
     "id": "p050"
