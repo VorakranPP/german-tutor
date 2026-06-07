@@ -10,6 +10,7 @@ export default function LesenPage() {
   const [submitted, setSubmitted] = useState(false)
   const [popup, setPopup] = useState(null) // { word, match, x, y }
   const [generating, setGenerating] = useState(false)
+  const [showThai, setShowThai] = useState({}) // { [qi]: bool }
   const { words: vocabWords, penalizeWords } = useVocabStore()
   const { seenIds, addSeenId, clearSeen } = useLesenStore()
   const passageRef = useRef()
@@ -24,7 +25,7 @@ export default function LesenPage() {
   function pickRandom() {
     if (!passages.length) { generateNew(); return }
     const unseen = passages.filter(p => !seenIds.includes(p.id))
-    const pool = unseen.length > 0 ? unseen : passages // ถ้าอ่านหมดแล้วสุ่มใหม่
+    const pool = unseen.length > 0 ? unseen : passages
     if (unseen.length === 0) clearSeen()
     const pick = pool[Math.floor(Math.random() * pool.length)]
     addSeenId(pick.id)
@@ -32,6 +33,7 @@ export default function LesenPage() {
     setAnswers({})
     setSubmitted(false)
     setPopup(null)
+    setShowThai({})
   }
 
   async function generateNew() {
@@ -208,7 +210,21 @@ export default function LesenPage() {
         <p className="text-sm font-semibold text-gray-700">คำถาม</p>
         {current.questions.map((q, qi) => (
           <div key={qi} className="bg-white/80 border border-gray-200 rounded-xl p-3 flex flex-col gap-2">
-            <p className="text-sm text-gray-800">{qi + 1}. {q.q}</p>
+            <div className="flex items-start justify-between">
+              <p className="text-sm text-gray-800 flex-1">{qi + 1}. {q.q}</p>
+              {q.q_th && (
+                <button
+                  onClick={() => setShowThai(prev => ({ ...prev, [qi]: !prev[qi] }))}
+                  className="ml-2 px-2 py-1 text-xs bg-gray-100 text-gray-600 hover:bg-gray-200 rounded transition-colors"
+                  title={showThai[qi] ? 'Hide Thai' : 'Show Thai'}
+                >
+                  {showThai[qi] ? '🙈 ซ่อน' : '👁 ดู'}
+                </button>
+              )}
+            </div>
+            {showThai[qi] && q.q_th && (
+              <p className="text-xs text-gray-500 pl-4 border-l-2 border-gray-300">{q.q_th}</p>
+            )}
             {q.options.map((opt, oi) => {
               let cls = 'w-full text-left py-2 px-3 rounded-lg text-sm border transition-colors '
               if (!submitted) {
@@ -221,9 +237,14 @@ export default function LesenPage() {
                 else cls += 'bg-gray-50 text-gray-400 border-gray-100'
               }
               return (
-                <button key={oi} className={cls} onClick={() => handleAnswer(qi, oi)}>
-                  {opt}
-                </button>
+                <div key={oi} className="flex flex-col gap-1">
+                  <button className={cls} onClick={() => handleAnswer(qi, oi)}>
+                    {opt}
+                  </button>
+                  {showThai[qi] && q.options_th?.[oi] && (
+                    <p className="text-xs text-gray-400 pl-3">{q.options_th[oi]}</p>
+                  )}
+                </div>
               )
             })}
           </div>
