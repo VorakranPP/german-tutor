@@ -36,7 +36,7 @@ Apply to Movolt Solutions GmbH (Frankfurt)
 EU Blue Card → Relocate with family to Germany (2027)
 ```
 
-## Current Status (v0.8.1)
+## Current Status (v0.8.2)
 
 **Features Complete:**
 - ✅ **Vokabeln Tab** — 2,833 flashcards + spaced repetition + search + filter (CEFR/หมวด/type) + pronunciation + example sentences

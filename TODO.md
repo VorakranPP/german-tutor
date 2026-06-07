@@ -2,8 +2,8 @@
 
 ## 🔄 In Progress
 
-- [ ] เพิ่ม pronunciation แสดงบนการ์ด
-- [ ] Category filter ใน UI (เพิ่มแล้ว รอ test)
+- [ ] เพิ่มปุ่มบันทึก/mark as memorized ใน Vokabeln page (list view)
+- [ ] เพิ่มหน้า Vocabulary ที่แสดง words ที่จำได้แล้ว
 
 ## 📦 Data Pipeline
 

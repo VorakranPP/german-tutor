@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## [0.8.2] — 2026-06-07
+
+### Added
+- **npm Setup** — Created package.json with all dependencies (Vite, React, Zustand, Express, Anthropic SDK)
+  - Ready for Node.js 20.x environment
+  - Dev server can now run with `npm run dev`
+
+### Fixed
+- **SchreibenPage JSON parsing** — Improved robustness by extracting JSON object using regex instead of simple string replace
+  - Claude responses with trailing content now parse correctly
+  - Better error handling for malformed JSON responses
+
+---
+
 ## [0.8.1] — 2026-06-05
 
 ### Changed

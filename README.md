@@ -30,15 +30,16 @@
 git clone <repo-url>
 cd german-tutor
 
-# 2. Set API key
-cp .env.example .env
-# แก้ ANTHROPIC_API_KEY ใน .env
-
-# 3. Start frontend
-cd src
+# 2. Install dependencies
 npm install
+
+# 3. Set API key
+# ANTHROPIC_API_KEY ต้องอยู่ใน .env (ดูตัวอย่าง .env.example)
+
+# 4. Start dev server
 npm run dev
-# เปิด http://localhost:5174 (or port shown in terminal)
+# Frontend: http://localhost:5176 (Vite)
+# API proxy (optional): node dev-server.js (port 3001)
 ```
 
 ## Data Pipeline
