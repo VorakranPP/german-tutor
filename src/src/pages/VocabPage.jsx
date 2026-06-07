@@ -2,6 +2,28 @@ import { useEffect, useState } from 'react'
 import { useVocabStore } from '../stores/vocabStore'
 import Flashcard from '../components/Flashcard'
 
+// Auto-save session when component unmounts or page unloads
+function useAutoSaveSession(saveSession, sessionCorrect, sessionWrong) {
+  useEffect(() => {
+    const handleBeforeUnload = () => {
+      if (sessionCorrect > 0 || sessionWrong > 0) {
+        saveSession()
+      }
+    }
+
+    window.addEventListener('beforeunload', handleBeforeUnload)
+    return () => window.removeEventListener('beforeunload', handleBeforeUnload)
+  }, [sessionCorrect, sessionWrong, saveSession])
+
+  useEffect(() => {
+    return () => {
+      if (sessionCorrect > 0 || sessionWrong > 0) {
+        saveSession()
+      }
+    }
+  }, [])
+}
+
 const CATEGORY_FILTERS = [
   { value: 'all',           label: '🗂 Alle' },
   { value: 'Alltag',        label: '☀️ Alltag' },
@@ -47,6 +69,7 @@ export default function VocabPage() {
   const [categoryFilter, setCategoryFilter] = useState('all')
   const [search, setSearch] = useState('')
 
+  useAutoSaveSession(saveSession, sessionCorrect, sessionWrong)
   useEffect(() => { loadWords() }, [loadWords])
 
   if (!isLoaded) {
@@ -126,15 +149,6 @@ export default function VocabPage() {
         <span>{done}/{total} คำ</span>
         <span className="text-green-600">จำได้แล้ว {learned} คำ</span>
       </div>
-
-      {(sessionCorrect > 0 || sessionWrong > 0) && (
-        <button
-          onClick={saveSession}
-          className="w-full py-2.5 bg-blue-600 text-white rounded-xl font-semibold text-sm hover:bg-blue-700 transition-colors"
-        >
-          💾 บันทึกวันนี้ ({sessionCorrect + sessionWrong} คำ)
-        </button>
-      )}
 
       <div className="w-full bg-gray-100 rounded-full h-1.5">
         <div className="bg-blue-500 h-1.5 rounded-full transition-all duration-300" style={{ width: `${donePct}%` }} />
