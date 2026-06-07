@@ -37,8 +37,8 @@ const LEVEL_FILTERS = [
 export default function VocabPage() {
   const {
     queue, currentIndex, isLoaded, loadWords,
-    markCorrect, markWrong, restart,
-    levels, sessionCorrect, sessionWrong,
+    markCorrect, markWrong, restart, saveSession,
+    levels, sessionCorrect, sessionWrong, sessionHistory,
   } = useVocabStore()
 
   const [typeFilter, setTypeFilter] = useState('all')
@@ -126,6 +126,15 @@ export default function VocabPage() {
         <span className="text-green-600">จำได้แล้ว {learned} คำ</span>
       </div>
 
+      {(sessionCorrect > 0 || sessionWrong > 0) && (
+        <button
+          onClick={saveSession}
+          className="w-full py-2.5 bg-blue-600 text-white rounded-xl font-semibold text-sm hover:bg-blue-700 transition-colors"
+        >
+          💾 บันทึกวันนี้ ({sessionCorrect + sessionWrong} คำ)
+        </button>
+      )}
+
       <div className="w-full bg-gray-100 rounded-full h-1.5">
         <div className="bg-blue-500 h-1.5 rounded-full transition-all duration-300" style={{ width: `${donePct}%` }} />
       </div>
@@ -157,6 +166,25 @@ export default function VocabPage() {
           </div>
         </div>
       </div>
+
+      {/* History */}
+      {sessionHistory.length > 0 && (
+        <div className="bg-white/70 border border-gray-200 rounded-xl p-3">
+          <p className="text-xs font-semibold text-gray-600 mb-2">📊 ประวัติการเรียน</p>
+          <div className="flex flex-col gap-1.5 max-h-32 overflow-y-auto">
+            {sessionHistory.slice(0, 10).map((entry, i) => (
+              <div key={i} className="flex items-center justify-between text-xs bg-gray-50 p-1.5 rounded-lg">
+                <span className="text-gray-500">{new Date(entry.date).toLocaleDateString('th-TH')}</span>
+                <div className="flex gap-2">
+                  <span className="text-green-600 font-semibold">✅ {entry.correct}</span>
+                  <span className="text-red-500 font-semibold">❌ {entry.wrong}</span>
+                  <span className="text-gray-400 font-semibold">{entry.correct + entry.wrong}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   )
 }

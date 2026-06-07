@@ -30,6 +30,7 @@ export const useVocabStore = create(
       levels: {},           // { [id]: 1-5 } — persist
       sessionCorrect: 0,    // นับรอบนี้
       sessionWrong: 0,
+      sessionHistory: [],   // [{ date, correct, wrong }] — persist
       isLoaded: false,
 
       loadWords: async () => {
@@ -81,6 +82,26 @@ export const useVocabStore = create(
         return penalized
       },
 
+      saveSession: () => {
+        const { sessionCorrect, sessionWrong, sessionHistory } = get()
+        if (sessionCorrect === 0 && sessionWrong === 0) return
+        const today = new Date().toISOString().split('T')[0]
+        const existing = sessionHistory.find(s => s.date === today)
+        let newHistory
+        if (existing) {
+          newHistory = sessionHistory.map(s =>
+            s.date === today ? { date: today, correct: sessionCorrect, wrong: sessionWrong } : s
+          )
+        } else {
+          newHistory = [...sessionHistory, { date: today, correct: sessionCorrect, wrong: sessionWrong }]
+        }
+        set({
+          sessionHistory: newHistory.sort((a, b) => new Date(b.date) - new Date(a.date)),
+          sessionCorrect: 0,
+          sessionWrong: 0,
+        })
+      },
+
       restart: () => {
         const { words, levels } = get()
         set({
@@ -93,7 +114,7 @@ export const useVocabStore = create(
     }),
     {
       name: 'deutsch-vocab',
-      partialize: (state) => ({ levels: state.levels }),
+      partialize: (state) => ({ levels: state.levels, sessionHistory: state.sessionHistory }),
     }
   )
 )
