@@ -31,6 +31,8 @@ export const useVocabStore = create(
       sessionCorrect: 0,    // นับรอบนี้
       sessionWrong: 0,
       sessionHistory: [],   // [{ date, correct, wrong }] — persist
+      lifetimeCorrect: 0,   // รวมสะสมตั้งแต่เริ่ม
+      lifetimeWrong: 0,
       isLoaded: false,
 
       loadWords: async () => {
@@ -43,23 +45,25 @@ export const useVocabStore = create(
 
       // รับ word ที่แสดงอยู่จริง แล้วหา index ที่แม่นยำ
       markCorrect: (word) => {
-        const { queue, levels, sessionCorrect } = get()
+        const { queue, levels, sessionCorrect, lifetimeCorrect } = get()
         const wordIdx = queue.findIndex(w => w.id === word.id)
         const newLevel = Math.min((levels[word.id] ?? 1) + 1, 5)
         set({
           levels: { ...levels, [word.id]: newLevel },
           currentIndex: wordIdx + 1,
           sessionCorrect: sessionCorrect + 1,
+          lifetimeCorrect: lifetimeCorrect + 1,
         })
       },
 
       markWrong: (word) => {
-        const { queue, levels, sessionWrong } = get()
+        const { queue, levels, sessionWrong, lifetimeWrong } = get()
         const wordIdx = queue.findIndex(w => w.id === word.id)
         set({
           levels: { ...levels, [word.id]: 1 },
           currentIndex: wordIdx + 1,
           sessionWrong: sessionWrong + 1,
+          lifetimeWrong: lifetimeWrong + 1,
         })
       },
 
@@ -114,7 +118,12 @@ export const useVocabStore = create(
     }),
     {
       name: 'deutsch-vocab',
-      partialize: (state) => ({ levels: state.levels, sessionHistory: state.sessionHistory }),
+      partialize: (state) => ({
+        levels: state.levels,
+        sessionHistory: state.sessionHistory,
+        lifetimeCorrect: state.lifetimeCorrect,
+        lifetimeWrong: state.lifetimeWrong,
+      }),
     }
   )
 )
