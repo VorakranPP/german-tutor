@@ -33332,5 +33332,17 @@
     "pronunciation": "ซู-เบไร-เทท",
     "category": "Alltag",
     "source": "diary"
+  },
+  {
+    "de": "das Blatt",
+    "plural": "-er die Blätter",
+    "type": "noun",
+    "th": "ใบ (ของต้นไม้)",
+    "example": "Die grünen Blätter der Bäume sind sehr schön.",
+    "id": "2846",
+    "example_th": "ใบไม้สีเขียวของต้นไม้นั้นสวยมาก",
+    "cerf": "B1",
+    "pronunciation": "ดาส บลาท",
+    "category": "Natur"
   }
 ]
