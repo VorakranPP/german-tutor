@@ -70,9 +70,10 @@ ${essay}
 }`,
         }],
       })
-      const parsed = JSON.parse(
-        msg.content[0].text.trim().replace(/```json|```/g, '').trim()
-      )
+      const text = msg.content[0].text.trim()
+      const jsonMatch = text.match(/\{[\s\S]*\}/)
+      if (!jsonMatch) throw new Error('ไม่พบ JSON ในการตอบ')
+      const parsed = JSON.parse(jsonMatch[0])
       setResult(parsed)
     } catch (e) {
       setResult({ error: e.message })
