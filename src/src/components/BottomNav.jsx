@@ -4,7 +4,7 @@ const tabs = [
   { to: '/',        icon: '📚', label: 'Vokabeln' },
   { to: '/grammar', icon: '✏️', label: 'Grammatik' },
   { to: '/reading', icon: '📖', label: 'Lesen' },
-  { to: '/speaking',icon: '🎤', label: 'Sprechen' },
+  { to: '/schreiben',icon: '🎤', label: 'Schreiben' },
   { to: '/diary',   icon: '📝', label: 'Tagebuch' },
 ]
 

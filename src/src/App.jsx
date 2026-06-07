@@ -5,6 +5,12 @@ import GrammarPage from './pages/GrammarPage'
 import LesenPage from './pages/LesenPage'
 import SpeakingPage from './pages/SpeakingPage'
 import DiaryPage from './pages/DiaryPage'
+import React from 'react';
+//import Dashboard from './components/Dashboard';
+import APIUsageTracker from '../APIUsageTracker';
+
+// ↑ ส่วนนี้
+
 
 export default function App() {
   return (
@@ -20,13 +26,14 @@ export default function App() {
           <h1 className="text-lg font-bold text-gray-800">🇩🇪 DeutschMeister</h1>
           <p className="text-xs text-gray-400">เตรียมสอบ Goethe B1</p>
         </header>
-
+        {/* ← ใส่ APIUsageTracker ตรงนี้ 
+        <APIUsageTracker />*/} 
         <main className="relative z-10">
           <Routes>
             <Route path="/"         element={<VocabPage />} />
             <Route path="/grammar"  element={<GrammarPage />} />
             <Route path="/reading"  element={<LesenPage />} />
-            <Route path="/speaking" element={<SpeakingPage />} />
+            <Route path="/schreiben" element={<SpeakingPage />} />
             <Route path="/diary"    element={<DiaryPage />} />
           </Routes>
         </main>
