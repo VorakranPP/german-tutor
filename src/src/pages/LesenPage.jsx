@@ -11,6 +11,7 @@ export default function LesenPage() {
   const [popup, setPopup] = useState(null) // { word, match, x, y }
   const [generating, setGenerating] = useState(false)
   const [showThai, setShowThai] = useState({}) // { [qi]: bool }
+  const [wordCache, setWordCache] = useState({})
   const { words: vocabWords, penalizeWords } = useVocabStore()
   const { seenIds, addSeenId, clearSeen } = useLesenStore()
   const passageRef = useRef()
@@ -20,6 +21,11 @@ export default function LesenPage() {
       .then(r => r.ok ? r.json() : [])
       .then(data => setPassages(data))
       .catch(() => setPassages([]))
+
+    fetch('/word_cache.json')
+      .then(r => r.ok ? r.json() : {})
+      .then(data => setWordCache(data))
+      .catch(() => setWordCache({}))
   }, [])
 
   function pickRandom() {
@@ -73,6 +79,12 @@ export default function LesenPage() {
 
     if (match) {
       setPopup({ word: word.replace(/[.,!?;:"()]/g, ''), match, x, y })
+      return
+    }
+
+    // Check cache first (free lookup)
+    if (wordCache[clean]) {
+      setPopup({ word: word.replace(/[.,!?;:"()]/g, ''), match: null, x, y, translated: wordCache[clean] })
       return
     }
 
