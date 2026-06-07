@@ -2,8 +2,10 @@
 
 ## 🔄 In Progress
 
-- [ ] เพิ่มปุ่มบันทึก/mark as memorized ใน Vokabeln page (list view)
-- [ ] เพิ่มหน้า Vocabulary ที่แสดง words ที่จำได้แล้ว
+- [ ] Export learning history as CSV/PDF
+- [ ] Add goal setting (e.g., "learn 20 words/day")
+- [ ] Streak notifications (push/toast alerts)
+- [ ] Spaced repetition algorithm tuning (optimize level thresholds)
 
 ## 📦 Data Pipeline
 

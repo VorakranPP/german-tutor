@@ -1,5 +1,29 @@
 # CHANGELOG
 
+## [0.8.3] — 2026-06-07
+
+### Added
+- **Mark as Memorized** — Direct button on flashcard to save word as known (level 4)
+  - 💾 **บันทึก** — Quick save without going through card reviews
+  - 🔄 **รีเซ็ท** — Undo memorization to re-learn word
+  - ✅ **Visual badge** — Shows "จำได้แล้ว" when word is memorized
+
+- **Session History & Auto-Save** — Track daily learning progress
+  - Auto-save on page unload/refresh (no manual save needed)
+  - Display history for last 10 days with daily stats
+  - Persist history in localStorage
+
+- **Lifetime Statistics** — Total words learned since app started
+  - 🏆 **สถิติรวม** section showing cumulative ✅ ❌ counts
+  - Progress tracking across all sessions
+  - Never reset unless user manually clears
+
+### Changed
+- Removed manual "บันทึกวันนี้" button → auto-save only
+- Session counters auto-reset after page unload
+
+---
+
 ## [0.8.2] — 2026-06-07
 
 ### Added

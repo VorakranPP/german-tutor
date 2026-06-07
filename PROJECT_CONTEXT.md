@@ -36,10 +36,13 @@ Apply to Movolt Solutions GmbH (Frankfurt)
 EU Blue Card → Relocate with family to Germany (2027)
 ```
 
-## Current Status (v0.8.2)
+## Current Status (v0.8.3)
 
 **Features Complete:**
 - ✅ **Vokabeln Tab** — 2,833 flashcards + spaced repetition + search + filter (CEFR/หมวด/type) + pronunciation + example sentences
+  - Quick "mark as memorized" button (💾 บันทึก)
+  - Session history with auto-save on page unload
+  - Lifetime statistics (cumulative learning progress)
 - ✅ **Grammatik Tab** — 10 B1 grammar topics + fill-in-the-blank exercises + Claude auto-checking + Thai explanations
 - ✅ **Sprechen Tab** — Writing practice B1/B2 + Claude scoring + 4-aspect feedback (content, vocab, structure, fluency)
 - ✅ **Tagebuch Tab** — German diary writing + Claude auto-correction + Thai explanations + correction history + streak counter 🔥

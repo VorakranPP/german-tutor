@@ -9,6 +9,10 @@
 ## Features
 
 - **Vokabeln** — Flashcard + Spaced repetition (2,833 คำ) + search bar + filter CEFR/หมวด/ประเภท + คำอ่าน + ตัวอย่างประโยค B1
+  - 💾 Mark as memorized / 🔄 Reset buttons
+  - 📊 Learning history (daily tracking)
+  - 🏆 Lifetime statistics (cumulative progress)
+  - Auto-save on page unload
 - **Grammatik** — 11 หัวข้อ B1 (รวม Idiome 13 สำนวน) + fill-in-the-blank + ตรวจคำตอบ ด้วย Claude Haiku
 - **Sprechen** — Writing Practice B1/B2 สุ่มหัวข้อ Claude ให้คะแนน 4 ด้าน + feedback ภาษาไทย
 - **Tagebuch** — เขียน diary ภาษาเยอรมัน Claude แก้ทุกจุด + streak counter 🔥 + history
